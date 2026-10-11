@@ -3,18 +3,16 @@
 **Read this first every session.** Then read `plan/instructions.md` (the brief) and `plan/style.md`. Do the task under "Next task". After each task: update this file, commit, push, report in three lines.
 
 - **Current phase:** 1 - Map the ground
-- **Last updated:** 2026-10-11 (session 4)
+- **Last updated:** 2026-10-11 (session 5)
 - **Book status:** In progress
 
 ## Next task
-**Phase 1a, batch 4 of 5: bibliography, Parts IV-V sources (2008-2026, Chapters 15-18, prologue, epilogue).** Register ~30 sources from S0122, primary first: Satyam (Raju's 7 January 2009 letter; SEBI order 2014; CBI court judgment April 2015); Aadhaar (UIDAI documents; Nilekani, Imagining India 2008; Nilekani and Shah, Rebooting India 2015; Puttaswamy 2017/2018 judgments); UPI/NPCI launch 2016 and volume data; India Stack; Jio launch September 2016 and TRAI data-price series; startup funding (Tracxn/Inc42/Venture Intelligence reports, labelled); GCC reports (Nasscom-Zinnov); pandemic hiring and attrition (TCS/Infosys/Wipro quarterly results 2021-23; moonlighting, Wipro firing 300, Sept 2022); IT unions (KITU registration; NITES; Labour Department proceedings); AI era, all LIVE-CHECKED and marked: TCS 2025 layoffs (~12,000, July 2025), fresher onboarding delays reporting, outcome-based pricing statements on earnings calls, US H-1B $100,000 fee proclamation (Sept 2025) and follow-ups, AICTE AI curriculum moves, Nasscom 2025-26 strategic review, GitHub/Copilot and agent adoption data in India; Indian IT Q1-Q2 FY2027 results (2026). Retry S0019, S0063, S0064 texts.
-
-Then batch 5: datasets (AICTE intake/enrolment series, AISHE, PLFS, NSSO, RBI exports, USCIS/IIE Open Doors, company annual reports for headcount), comparative sidebars (Ireland, Israel, China, Philippines, Eastern Europe, Japan/Korea/Taiwan, USSR, UK), US records; gap-fill to >=150 and raise primary share (currently 57/120 = 48%).
+**Phase 1a, batch 5 of 5 (final): datasets, comparative sidebars, US records, primary-source upgrades.** Register ~25 sources from S0151, primary first, so the register clears 150 with room to spare and the primary share rises above half: AICTE dashboard (approved intake/enrolment/placement by branch and state); AISHE reports; PLFS/NSSO graduate unemployment; India Skills Report / Aspiring Minds (Aspiring Minds 2011/2019 employability studies, for M07); RBI Handbook of Statistics (INR/USD annual averages; CPI-IW) for house rule D3/D4; US CPI-U; IIE Open Doors (Indian students); USCIS H-1B employer data hub; DOL OFLC LCA disclosure data; company annual reports/20-F for headcount and revenue series (TCS, Infosys, Wipro, HCLTech, Tech Mahindra/Cognizant); comparative: Ireland (IDA/O'Riain), Israel (Breznitz; Senor and Singer), China (domestic platforms; graduate glut data), Philippines (IBPAP), Eastern Europe (nearshore), Japan/Korea/Taiwan (Amsden; Wade), Soviet computing (Gerovitch / Peters), UK (Hicks, Programmed Inequality). Also try to upgrade key 'located' items to 'seen' where free text exists (S0019, S0063, S0064, S0091, S0128, S0136, S0140). Then mark Phase 1a done and move to Phase 1b (chronology to >=300).
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
-- [ ] Phase 1a - Bibliography >=150 (120/150; batches 1-3 of 5 done)
-- [ ] Phase 1b - Chronology >=300 (101/300, accumulating during 1a)
+- [ ] Phase 1a - Bibliography >=150 (149/150; batches 1-4 of 5 done)
+- [ ] Phase 1b - Chronology >=300 (130/300, accumulating during 1a)
 - [ ] Phase 1c - People index; myths list researched; dataset plan (`research/dataset_plan.md`)
 - [ ] Phase 1d - Outline revision (record reasons in `plan/outline.md` revision log); propose titles
 - [ ] Phase 2 - Dossiers (0/20 incl. prologue and epilogue)
@@ -27,6 +25,7 @@ Then batch 5: datasets (AICTE intake/enrolment series, AISHE, PLFS, NSSO, RBI ex
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-11 | Phase 1a batch 4: 29 sources for 2008-2026 (S0122-S0150), 2025-26 items live-checked and marked; chronology to 130; myths M19, M20 given early evidence | `research/sources.md`, `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 3: 35 Part III sources (S0088-S0121), incl. 1991 budget speech and Infosys 1999 F-1 read in full; chronology to 101; myths M02, M11, M12, M22 given early evidence | `research/sources.md`, `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 2: 32 Part II sources (S0055-S0086; S0087 withdrawn, an ID created in error); S0013 upgraded to seen; chronology to 75 and sorted; myths M01, M03, M05 given early evidence | `research/sources.md`, `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 1: 54 Part I sources registered (S0001-S0054; 27 primary; 7 seen in full, 32 located, 15 unverified); 41 chronology events; M13 evidence noted | `research/sources.md`, `research/chronology.md` |
@@ -47,7 +46,9 @@ Then batch 5: datasets (AICTE intake/enrolment series, AISHE, PLFS, NSSO, RBI ex
 5. **Chronology lines lacking a solid source:** ECIL founding 11 April 1967; HCL microcomputer 1978; Infosys registration 2 July 1981; IMPRESS go-live 15 Oct 1985; C-DAC 1988 and PARAM 8000 1991. Each needs a primary or reliable source before Phase 2 (ECIL: S0014 or ECIL site; Infosys: F-1/20-F filings in batch 3; C-DAC: its own history pages).
 7. **Name of TIFRAC:** Narasimhan (S0013, p. 447) expands it as 'TIFR Automatic Computer'; most others say 'Calculator'. Resolve in Ch. 1 dossier.
 8. **Access problems:** eparlib.sansad.in/eparlib.nic.in reset or 503 on direct download; main.sci.gov.in returned proxy 502. Retry later or use mirrors. Lok Sabha statement on IBM's exit (1977-78) not yet found.
-10. **Primary share below half (57/120).** Batch 5 should favour primary data and documents; several 'primary' items are company or lobby self-descriptions, labelled as such.
+12. **Live material is moving.** H-1B fee litigation (blocked as of 5 Oct 2026; First Circuit appeal pending), TCS/Infosys FY27 hiring, HCLTech Q2 FY27 results due 12 Oct 2026. Re-check every LIVE-CHECKED item when drafting Ch. 18 and the prologue; record the check date in endnotes.
+13. **Prologue scene:** must be a documented case. Candidates: NITES-documented delayed-onboarding cases (party source), press profiles of named freshers waiting (to find). Do not composite.
+10. **Primary share below half (74/149 now).** Batch 5 should favour primary data and documents; several 'primary' items are company or lobby self-descriptions, labelled as such.
 11. **Batch 3 disputes:** GECIS founding (Oct 1996 vs 1997; Raman Roy vs Pramod Bhasin as founder); Wadhwa 15.5% vs 13.4%; Y2K export share figures inconsistent; first Indian CMM Level 5 unclear.
 9. **Gaps flagged in batch 2:** no 1980s contemporaneous reporting on body shopping found online yet (India Today/Dataquest archives); no primary C-DAC history; no HCL primary history beyond interviews.
 6. **Working copies of downloaded sources** (Bassett 2009, Rajaraman 2012, Fay 1966, Murthy CHM 2020) live only in the session scratchpad, which is lost between sessions; the URLs in the register are enough to re-download. Copyrighted full texts are deliberately not committed to the repo.

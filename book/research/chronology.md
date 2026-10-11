@@ -2,7 +2,7 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Count:** 101 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 130 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1945-11 | AICTE set up as an advisory body | S0076 | 7
@@ -103,5 +103,34 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
 2008 | Nasscom: c. 2 million direct IT-BPO employees (FY2008) | S0107 | 12, 14
 2009 | Infosys GEC II opens; Mysore training capacity 14,000 | S0115 | 12
+2009-01-07 | Ramalinga Raju's letter to the Satyam board admits falsified accounts | S0122 | 15
+2010-09-29 | First Aadhaar numbers issued, Tembhli, Nandurbar district, Maharashtra | S0128 | 15
 2011-03-31 | STPI section 10A income-tax holiday expires after extensions in 2009 and 2010 | S0114 (secondary; confirm with Finance Act) | 16
+2014-07-15 | SEBI order bars Satyam promoters for 14 years, orders disgorgement of about Rs 1,850 crore | S0123 | 15
+2015-04-09 | Special CBI court in Hyderabad convicts Raju and nine others; seven years' imprisonment | S0124 | 15
+2015-11 | Nilekani and Shah publish Rebooting India | S0126 | 15
+2016 | UPI launched by NPCI [disputed: April vs August 2016] | S0129, S0148 | 16
+2016-09-05 | Jio Welcome Offer takes effect: free data and voice to 31 December 2016 | S0130 | 16
+2017-08-24 | Supreme Court (nine judges) holds privacy a fundamental right | S0127 | 15
+2017-11-07 | KITU certified as a trade union for IT/ITeS workers by the Karnataka Labour Commissioner | S0132 | 17
+2018-09-26 | Supreme Court upholds Aadhaar Act with some provisions struck down | S0127 | 15
+2019-10 | UPI passes 1 billion transactions in a month | S0129 | 16
+2021 | Indian startup funding peaks at about $42 billion (Inc42; other vendors differ) | S0147 | 16, 17
+2022-09-21 | Rishad Premji says Wipro fired 300 employees for moonlighting for a competitor | S0131 | 17
+2022-10 | Reports of delayed fresher onboarding at Infosys, Wipro, HCLTech, Accenture | S0134 | 17
 2023 | 72% of approved H-1B petitions for India-born workers (FY2023) | S0105 | 18
+2023-08 | UPI passes 10 billion transactions in a month | S0129 | 16
+2024 | Nasscom-Zinnov: over 1,700 GCCs in India employing over 1.9 million (FY24) | S0141 | 16, 18
+2024-06 | NITES says over 10,000 freshers still awaiting joining dates at five IT firms | S0133 | 17
+2025-07 | TCS announces cuts of about 12,000 (2% of workforce) by March 2026; CEO cites skill mismatch, not AI | S0135 | 18
+2025-08 | UPI processes 20.01 billion transactions in a month | S0129 | 16
+2025-09-21 | US $100,000 payment for new H-1B petitions takes effect (proclamation signed 19 September) | S0136 | 18
+2025-10-29 | GitHub Octoverse 2025: India now the largest open-source contributor base | S0146 | 18
+2026-01-19 | LTIMindtree Q3 FY26 call discusses AI pricing | S0144 | 18
+2026-02 | Nasscom Strategic Review: FY26 tech revenue about $315 billion, workforce about 5.95 million (+135,000) [LIVE-CHECKED] | S0140 | 18, prologue
+2026-04 | FY26: TCS net headcount down 23,460; HCLTech speaks of 'AI deflation' on its results call [LIVE-CHECKED; primary transcript needed] | S0139, S0142 | 18
+2026-06-08 | US District Court (Massachusetts) vacates the H-1B fee proclamation [LIVE-CHECKED] | S0137 | 18
+2026-07-24 | First Circuit denies government's stay; fee stays blocked [LIVE-CHECKED] | S0137 | 18
+2026-09 | H-1B fee proclamation extended to September 2027, but court orders block collection [LIVE-CHECKED] | S0137 | 18
+2026-09-30 | N.D. California (Global Nurse Force v. Trump) bars enforcement of fee policies pending rulemaking [LIVE-CHECKED] | S0137 | 18
+2026-10 | TCS reports Q2 FY27: 10,000 freshers onboarded, headcount 598,056; FY27 fresher target reportedly 25,000 [LIVE-CHECKED] | S0138 | 18, prologue
