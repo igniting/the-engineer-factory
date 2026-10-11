@@ -7,13 +7,13 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 1c, task 3 of 3: dataset plan.** Write `research/dataset_plan.md`: for each planned CSV (software/services exports nominal and real; industry workforce with changing definitions; headcount and revenue per employee for the five largest firms; fresher hiring and fresher pay nominal and real; engineering seats/enrolment/vacancies by branch and state with CS share; graduate employability and unemployment; H-1B approvals by country and employer, F-1 students and OPT; GCC count and staff; startup funding; women's share; attrition; plus exchange rates and deflators), give definition, unit, years covered, source IDs (registered) and gaps, known series breaks, and the reconciliation method (no silent splicing). Then Phase 1d: outline revision and title proposals.
+**Phase 1d: outline revision and title proposals.** Re-read `plan/outline.md` (v0) against what Phase 1 found: chronology spread, myths, the 5b (startups) and 5c (foreign centres) material, the people index skew. Decide: (a) whether any chapters should merge, split or move (candidates: Ch. 3 and 5 overlap on DoE/ECIL/IBM; Ch. 6 body shopping vs Ch. 13 H-1B; Ch. 14 vs 16 on GCCs/captives; whether foreign centres and GCCs need their own chapter; where the training-college story sits); (b) word targets per chapter; (c) placement of each comparative sidebar; (d) which chapter answers which central question. Record each change and its evidence-based reason in the revision log. Propose 3-5 titles with a recommendation. Then mark Phase 1 complete and start Phase 2 (dossier for Chapter 1).
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
 - [x] **Phase 1a - Bibliography** (2026-10-11, incl. author-requested batches 5b and 5c): 207 sources (98 primary, 9 datasets, 100 secondary); 11 seen in full, 173 located, 23 unverified. Before 5c: 189 sources (89 primary, 9 datasets, 91 secondary); 11 seen in full, 156 located, 22 unverified
 - [x] **Phase 1b - Chronology** (2026-10-11): 311 events, every line with a source ID; 2000s and 2010s thin, to be filled in dossiers
-- [ ] Phase 1c - People index (done: 133 entries); myths list (done: 30 myths with provisional verdicts); dataset plan (`research/dataset_plan.md`) pending
+- [x] **Phase 1c** (2026-10-11): people index (133), myths (30, provisional verdicts), dataset plan (27 planned files in 8 groups; 7 source gaps listed)
 - [ ] Phase 1d - Outline revision (record reasons in `plan/outline.md` revision log); propose titles
 - [ ] Phase 2 - Dossiers (0/20 incl. prologue and epilogue)
 - [ ] Phase 3 - Data CSVs
@@ -25,6 +25,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-11 | Phase 1c task 3: dataset plan, 27 planned CSVs in 8 groups (reference, industry size, firms, education, labour market, migration, beyond services, early computing), each with definition, unit, years, source IDs, breaks and reconciliation method; 7 source gaps listed (fresher pay has no source yet) | `research/dataset_plan.md` |
 | 2026-10-11 | Phase 1c task 2: myths list rewritten: M01-M22 given provisional verdicts with evidence and 'what would change it'; 8 new candidates (M23-M30: IBM exit, 1991, GCCs as new, Motorola CMM 5, Satyam, state vs private, services mindset, AI and fresher slump); 5 new sources (S0210-S0213, S0215) incl. NCAER caste/gender in IT and Duke 2005 engineer counts; S0214 withdrawn (placeholder created in error, again) | `research/myths.md`, `research/sources.md` |
 | 2026-10-11 | Phase 1c task 1: people index, 133 documented people with roles, first-hand material and source IDs; caution added that dates are unverified and that workers/women are under-represented | `research/people.md` |
 | 2026-10-11 | Phase 1b: chronology 173 -> 311, mainly mined from full texts read (Rajaraman S0001, Bassett S0003, Infosys F-1 S0089, Murthy CHM S0034); two unsourced lines fixed/removed; myths M04, M06, M17 given evidence | `research/chronology.md`, `research/myths.md` |
