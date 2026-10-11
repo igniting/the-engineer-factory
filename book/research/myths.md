@@ -5,7 +5,7 @@ Each claim: where it is commonly stated, what the evidence shows, verdict, sourc
 | ID | Claim | Verdict | Summary of evidence | Source IDs | Chapter |
 |---|---|---|---|---|---|
 | M01 | Texas Instruments' 1985 Bangalore centre was India's first offshore development centre. | UNRESOLVED (leaning MIXED) | TI's own claim is narrower: first *multinational* software design centre and first satellite dish for software export (S0061). Earlier offshore work existed: TCS's Burroughs conversion (1973-74, S0039, S0038) and Patni's Data Conversion data entry from 1972 (S0044). ICMR case study dates Bangalore's earth station to 1992, possibly a different facility. | S0061, S0039, S0044 | 8 |
-| M02 | Y2K made the Indian IT industry. | UNRESOLVED | | | 11 |
+| M02 | Y2K made the Indian IT industry. | UNRESOLVED | Early numbers: Nasscom estimates put Y2K at roughly a fifth to a quarter of software exports around FY1998-99 (S0109; figures inconsistent). Test against export growth before and after 1998-2000 and the Infosys F-1 (S0089) revenue mix. | S0109, S0089 | 11 |
 | M03 | IBM was thrown out of India in 1978. | UNRESOLVED (leaning MOSTLY FALSE as worded) | IBM chose to close (June 1978) rather than dilute equity in its core marketing and maintenance business under the 1973 FERA rules; dispute dated from 1967; it offered partial dilution. Fernandes closed the door to renegotiation. Need Grieco (S0026) and Lok Sabha record. | S0055, S0056, S0026 | 5 |
 | M04 | Rajiv Gandhi started India's IT revolution. | UNRESOLVED | | | 8 |
 | M05 | Cray refused India a supercomputer, so India built PARAM. | UNRESOLVED (leaning MIXED) | US blocked the X-MP/24 in 1987 (S0079, S0080), but a Cray X-MP/14 was imported in October 1988 for NCMRWF (S0078). C-DAC set up 1988. The popular story traces largely to one 2017 feature (S0080). Need C-DAC primary records and US export-licence reporting. | S0078, S0079, S0080 | 8 |
@@ -14,8 +14,8 @@ Each claim: where it is commonly stated, what the evidence shows, verdict, sourc
 | M08 | India produces 1.5 million engineers a year (check what is counted). | UNRESOLVED | | | 12 |
 | M09 | Indian IT created India's middle class. | UNRESOLVED | | | 12, 16 |
 | M10 | Indian IT is mostly low-value maintenance work. | UNRESOLVED | | | 11, 14, 16 |
-| M11 | H-1B visas mostly go to Indian outsourcing firms (check over time). | UNRESOLVED | | | 13, 18 |
-| M12 | A specific share of Silicon Valley startups were founded by Indians (check the original studies). | UNRESOLVED | | | 13 |
+| M11 | H-1B visas mostly go to Indian outsourcing firms (check over time). | UNRESOLVED | Note the claim conflates nationality and employer. India-born share of approvals: 48.5% (Oct 1999-Feb 2000, S0104); 72% (FY2023, S0105). Employer shares need USCIS employer data by year. | S0104, S0105 | 13, 18 |
+| M12 | A specific share of Silicon Valley startups were founded by Indians (check the original studies). | UNRESOLVED | Saxenian 1999: 7% of Silicon Valley tech firms founded 1980-98 run by Indian CEOs (S0097). Wadhwa et al. 2007: 15.5% of startups 1995-2005 had an Indian founder (S0098), with 13.4% also cited. Different measures (CEO vs any founder; period; universe). | S0097, S0098 | 13 |
 
 Agent-added candidates (to be researched in Phase 1c; drop any that prove trivial):
 
@@ -30,4 +30,4 @@ Agent-added candidates (to be researched in Phase 1c; drop any that prove trivia
 | M19 | Indian IT workers cannot unionise. | UNRESOLVED | | | 17 |
 | M20 | AI caused the 2025 TCS layoffs. | UNRESOLVED | | | 18 |
 | M21 | The 1984 Computer Policy cut import duties and "opened" computing. | UNRESOLVED | | | 8 |
-| M22 | The Software Technology Parks scheme began in 1991 as part of liberalisation. | UNRESOLVED | (STPI history may predate July 1991) | | 9 |
+| M22 | The Software Technology Parks scheme began in 1991 as part of liberalisation. | UNRESOLVED (leaning MIXED) | STPI was registered 5 June 1991, before the 24 July budget and under the outgoing/caretaker period (S0091); parks at Bangalore, Pune and Bhubaneswar reportedly date from 1989 (secondary). The 1991 budget did extend s. 80HHC to software (S0088). | S0091, S0088 | 9 |

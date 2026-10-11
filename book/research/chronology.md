@@ -2,7 +2,7 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Count:** 75 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 101 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1945-11 | AICTE set up as an advisory body | S0076 | 7
@@ -58,6 +58,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1979-09 | Review Committee on Electronics report | S0023 | 5
 1981 | Wipro Series-86 minicomputer launched [disputed: 1981 vs 1982] | S0069 | 5
 1981 | NIIT founded by Rajendra Pawar and Vijay Thadani | S0065 | 7
+1981-07 | Infosys organised in India by seven founders (per its 1999 SEC filing) | S0089 | 6
 1981-07-02 | Infosys Consultants Pvt Ltd registered in Pune (date from secondary sources; confirm in Infosys filings) | S0034 (to confirm) | 6
 1982-12 | Dataquest magazine launched | S0077 | 5
 1984-08 | Computer Maintenance Corporation renamed CMC Ltd | S0066 | 8
@@ -75,7 +76,32 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1988-10 | Cray X-MP/14 imported by DST for NCMRWF; operational end March 1989 | S0078 | 8
 1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
 1991 | PARAM 8000 unveiled by C-DAC (date to confirm against C-DAC sources) | S0080 | 8
+1991-06-05 | STPI registered as an autonomous society under the Department of Electronics | S0091 | 9
+1991-07-24 | Manmohan Singh's budget extends the section 80HHC export tax concession to software exports | S0088 | 9
 1992-02 | IBM returns to India as Tata Information Systems Ltd | S0055 | 9
 1992-07-30 | Supreme Court, Mohini Jain: capitation fees impermissible | S0064 | 7
+1992-12 | TiE founded in Silicon Valley by A.J. Patel and eight co-founders [formalisation dated 1994 by others] | S0116 | 13
 1993-02-04 | Supreme Court, Unni Krishnan: free-seat/payment-seat scheme for private professional colleges | S0063 | 7
+1994 | Infosys launches its Employees Stock Offer Plan | S0089 | 11
+1994-03 | First TiE conference (later TiECon) | S0116 | 13
+1996-10 | GE Capital International Services set up in Gurgaon [disputed: 1997 in other accounts] | S0110 | 14
+1998 | Infosys reaches SEI CMM Level 4 (fiscal 1998; secondary source) | S0121 | 12
+1998-11-22 | HITEC City, Hyderabad, formally inaugurated by PM Vajpayee | S0119 | 10
+1998-1999 | Nasscom estimates Indian Y2K earnings at $2.3bn, rising to $3bn by end-1999 | S0109 | 11
+1999-02 | Infosys files Form F-1 with the US SEC for 1,800,000 ADSs | S0089, S0090 | 11
+1999-03 | Infosys ADSs priced at $34 and listed on Nasdaq as INFY; first India-based company on a US exchange | S0090 | 11
+1999-10 to 2000-02 | India-born workers are 48.5% of H-1B approvals with known birth country (INS) | S0104 | 13
 1999-2000 | Software export revenue 57% onsite, 35% offshore, 8% products (Nasscom data) | S0086 | 6, 11
+2000-01 | Y2K rollover; Nasscom puts India's own Y2K cost at Rs 1,800 crore | S0108 | 11
+2004-01-23 | Thomas-Voinovich provision limiting offshoring of federal competitive-sourcing work signed into law (FY2004 omnibus) | S0111 | 14
+2004-03 | US Senate passes Dodd amendment on offshoring by federal contractors, 70-26 | S0111 | 14
+2004-08 | Lou Dobbs publishes Exporting America | S0112 | 14
+2005-02 | PM Manmohan Singh inaugurates Infosys Global Education Centre, Mysore (4,500 trainees at a time) | S0115 | 12
+2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
+2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
+2007-01 | Wadhwa, Saxenian et al. report Indian founders in 15.5% of Silicon Valley startups 1995-2005 [figure disputed] | S0098 | 13
+2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
+2008 | Nasscom: c. 2 million direct IT-BPO employees (FY2008) | S0107 | 12, 14
+2009 | Infosys GEC II opens; Mysore training capacity 14,000 | S0115 | 12
+2011-03-31 | STPI section 10A income-tax holiday expires after extensions in 2009 and 2010 | S0114 (secondary; confirm with Finance Act) | 16
+2023 | 72% of approved H-1B petitions for India-born workers (FY2023) | S0105 | 18
