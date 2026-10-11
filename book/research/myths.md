@@ -21,7 +21,7 @@ Agent-added candidates (to be researched in Phase 1c; drop any that prove trivia
 
 | ID | Claim | Verdict | Summary of evidence | Source IDs | Chapter |
 |---|---|---|---|---|---|
-| M13 | TIFRAC was India's first computer. | UNRESOLVED | (ISI's earlier machines; definition of "computer") | | 1 |
+| M13 | TIFRAC was India's first computer. | UNRESOLVED (leaning MIXED) | Early evidence: first electronic digital computer *in* India was the imported HEC-2M at ISI (arrived July 1955 per S0001; early 1956 per S0007); ISI built an analogue machine c. 1953. TIFRAC (completed 1959, commissioned 1960, named 1962) was the first digital computer *designed and built* in India. Verdict depends on wording. | S0001, S0007, S0010 | 1 |
 | M14 | The IITs were modelled on MIT. | UNRESOLVED | | | 2 |
 | M15 | Infosys was founded with Rs 10,000 borrowed from Sudha Murty. | UNRESOLVED | | | 6 |
 | M16 | Indian IT grew because of low wages alone. | UNRESOLVED | | | 9, 11 |
