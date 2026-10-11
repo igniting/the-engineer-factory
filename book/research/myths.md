@@ -10,7 +10,7 @@ Each claim: where it is commonly stated, what the evidence shows, verdict, sourc
 | M04 | Rajiv Gandhi started India's IT revolution. | UNRESOLVED | | | 8 |
 | M05 | Cray refused India a supercomputer, so India built PARAM. | UNRESOLVED (leaning MIXED) | US blocked the X-MP/24 in 1987 (S0079, S0080), but a Cray X-MP/14 was imported in October 1988 for NCMRWF (S0078). C-DAC set up 1988. The popular story traces largely to one 2017 feature (S0080). Need C-DAC primary records and US export-licence reporting. | S0078, S0079, S0080 | 8 |
 | M06 | TCS was India's first software company. | UNRESOLVED | | | 4 |
-| M07 | Only 5% (or 25%) of Indian engineers are employable. | UNRESOLVED | | | 12, 18 |
+| M07 | Only 5% (or 25%) of Indian engineers are employable. | UNRESOLVED | Figures trace to Aspiring Minds (an assessment vendor) test-based reports: c. 18% 'employable' for software services, 3-4% for software products, c. 40% for BPO-type roles (2014/2016 editions, S0153); '<5% for startups' and '<8% core engineering' headlines are slices. Definition = passing the vendor's test thresholds for a role, not labour-market outcome. | S0153 | 12, 18 |
 | M08 | India produces 1.5 million engineers a year (check what is counted). | UNRESOLVED | | | 12 |
 | M09 | Indian IT created India's middle class. | UNRESOLVED | | | 12, 16 |
 | M10 | Indian IT is mostly low-value maintenance work. | UNRESOLVED | | | 11, 14, 16 |
@@ -26,7 +26,7 @@ Agent-added candidates (to be researched in Phase 1c; drop any that prove trivia
 | M15 | Infosys was founded with Rs 10,000 borrowed from Sudha Murty. | UNRESOLVED | | | 6 |
 | M16 | Indian IT grew because of low wages alone. | UNRESOLVED | | | 9, 11 |
 | M17 | Bangalore was chosen for its climate. | UNRESOLVED | | | 10 |
-| M18 | Women make up about a third of the Indian IT workforce (check definition and seniority). | UNRESOLVED | | | 12 |
+| M18 | Women make up about a third of the Indian IT workforce (check definition and seniority). | UNRESOLVED (leaning MOSTLY TRUE for large firms) | TCS 35.2% (Q4 FY25), Infosys 39% (Q2 FY25) (S0160, S0161); Nasscom c. 37% in FY09 and 45% of fresher intake (S0107). Seniority breakdown still needed. | S0160, S0161, S0107 | 12 |
 | M19 | Indian IT workers cannot unionise. | UNRESOLVED (leaning FALSE) | KITU certified under the Trade Unions Act 1926 on 7 Nov 2017 (S0132); NITES active since; but IT firms long exempt from the Industrial Employment (Standing Orders) Act in Karnataka, which limits union leverage. | S0132, S0133 | 17 |
 | M20 | AI caused the 2025 TCS layoffs. | UNRESOLVED | TCS CEO denied AI productivity was the cause, citing skill mismatch and failed redeployment (S0135); critics see AI-driven restructuring. Company statement is a party's claim; need independent evidence (deal pricing, utilisation, headcount mix). | S0135, S0142 | 18 |
 | M21 | The 1984 Computer Policy cut import duties and "opened" computing. | UNRESOLVED | | | 8 |

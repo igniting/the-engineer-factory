@@ -3,15 +3,15 @@
 **Read this first every session.** Then read `plan/instructions.md` (the brief) and `plan/style.md`. Do the task under "Next task". After each task: update this file, commit, push, report in three lines.
 
 - **Current phase:** 1 - Map the ground
-- **Last updated:** 2026-10-11 (session 5)
+- **Last updated:** 2026-10-11 (session 6)
 - **Book status:** In progress
 
 ## Next task
-**Phase 1a, batch 5 of 5 (final): datasets, comparative sidebars, US records, primary-source upgrades.** Register ~25 sources from S0151, primary first, so the register clears 150 with room to spare and the primary share rises above half: AICTE dashboard (approved intake/enrolment/placement by branch and state); AISHE reports; PLFS/NSSO graduate unemployment; India Skills Report / Aspiring Minds (Aspiring Minds 2011/2019 employability studies, for M07); RBI Handbook of Statistics (INR/USD annual averages; CPI-IW) for house rule D3/D4; US CPI-U; IIE Open Doors (Indian students); USCIS H-1B employer data hub; DOL OFLC LCA disclosure data; company annual reports/20-F for headcount and revenue series (TCS, Infosys, Wipro, HCLTech, Tech Mahindra/Cognizant); comparative: Ireland (IDA/O'Riain), Israel (Breznitz; Senor and Singer), China (domestic platforms; graduate glut data), Philippines (IBPAP), Eastern Europe (nearshore), Japan/Korea/Taiwan (Amsden; Wade), Soviet computing (Gerovitch / Peters), UK (Hicks, Programmed Inequality). Also try to upgrade key 'located' items to 'seen' where free text exists (S0019, S0063, S0064, S0091, S0128, S0136, S0140). Then mark Phase 1a done and move to Phase 1b (chronology to >=300).
+**Phase 1a, batch 5b (final, added at author's request 2026-10-11): Indian startups and product companies.** Register ~20-25 sources from S0173, chosen as cases that test central question 1 (services vs products), including counter-evidence: early products (Tally, Ramco, i-flex/Flexcube, Infosys Finacle); first internet wave (Rediff Nasdaq 2000, Info Edge/Naukri 2006 IPO, MakeMyTrip); SaaS from India (Zoho/AdventNet, Freshworks S-1 2021, Chargebee, Postman, BrowserStack); consumer platforms and funding boom (Flipkart/Walmart 2018, Paytm DRHP 2021 and RBI action 2024, Byju's collapse, Zomato/Swiggy prospectuses); DPI as startup platform; AI-era startups (Sarvam, Krutrim; IndiaAI Mission; sovereign-model debate). Prefer prospectuses, founder oral histories, court/regulator records. Then mark Phase 1a done and start Phase 1b (chronology to >=300).
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
-- [ ] Phase 1a - Bibliography >=150 (149/150; batches 1-4 of 5 done)
+- [ ] Phase 1a - Bibliography >=150 (171/150 target met; batch 5b remaining)
 - [ ] Phase 1b - Chronology >=300 (130/300, accumulating during 1a)
 - [ ] Phase 1c - People index; myths list researched; dataset plan (`research/dataset_plan.md`)
 - [ ] Phase 1d - Outline revision (record reasons in `plan/outline.md` revision log); propose titles
@@ -25,6 +25,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-11 | Phase 1a batch 5: 22 sources (S0151-S0172): datasets (AICTE, AISHE, PLFS, RBI exchange rates, CPI-IW with linking factors, CPI-U, Open Doors, USCIS/DOL H-1B, TCS/Infosys disclosures, Aspiring Minds) and comparative sidebars (Ireland, Israel/Taiwan, UK, USSR, Korea, Philippines, China, Eastern Europe/EPAM); new type code D; myths M07, M18 given evidence | `research/sources.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 4: 29 sources for 2008-2026 (S0122-S0150), 2025-26 items live-checked and marked; chronology to 130; myths M19, M20 given early evidence | `research/sources.md`, `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 3: 35 Part III sources (S0088-S0121), incl. 1991 budget speech and Infosys 1999 F-1 read in full; chronology to 101; myths M02, M11, M12, M22 given early evidence | `research/sources.md`, `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 2: 32 Part II sources (S0055-S0086; S0087 withdrawn, an ID created in error); S0013 upgraded to seen; chronology to 75 and sorted; myths M01, M03, M05 given early evidence | `research/sources.md`, `research/chronology.md`, `research/myths.md` |
@@ -48,7 +49,7 @@
 7. **Name of TIFRAC:** Narasimhan (S0013, p. 447) expands it as 'TIFR Automatic Computer'; most others say 'Calculator'. Resolve in Ch. 1 dossier.
 8. **Access problems:** eparlib.sansad.in/eparlib.nic.in reset or 503 on direct download; main.sci.gov.in returned proxy 502. Retry later or use mirrors. Lok Sabha statement on IBM's exit (1977-78) not yet found.
 9. **Gaps flagged in batch 2:** no 1980s contemporaneous reporting on body shopping found online yet (India Today/Dataquest archives); no primary C-DAC history; no HCL primary history beyond interviews.
-10. **Primary share below half (74/149 now).** Batch 5 should favour primary data and documents; several 'primary' items are company or lobby self-descriptions, labelled as such.
+10. **Primary share now 87/171 (51%) counting datasets.** Still, only 11 sources are 'seen'; Phase 2 must open each source before citing it. Batch 5 should favour primary data and documents; several 'primary' items are company or lobby self-descriptions, labelled as such.
 11. **Batch 3 disputes:** GECIS founding (Oct 1996 vs 1997; Raman Roy vs Pramod Bhasin as founder); Wadhwa 15.5% vs 13.4%; Y2K export share figures inconsistent; first Indian CMM Level 5 unclear.
 12. **Live material is moving.** H-1B fee litigation (blocked as of 5 Oct 2026; First Circuit appeal pending), TCS/Infosys FY27 hiring, HCLTech Q2 FY27 results due 12 Oct 2026. Re-check every LIVE-CHECKED item when drafting Ch. 18 and the prologue; record the check date in endnotes.
 13. **Prologue scene:** must be a documented case. Candidates: NITES-documented delayed-onboarding cases (party source), press profiles of named freshers waiting (to find). Do not composite.
