@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 1b: chronology to >=300 events (now 173).** Work by decade, filling gaps from sources already registered (S0001-S0190) before adding new ones; every line needs a source ID. Priorities: 1930s-50s (ISI, TIFR founding 1945, IIT Kharagpur 1951), 1960s-70s (each IIT founding; DoE 1970; Electronics Commission 1971; ECIL; NCSDCT; computer import cases), 1980s (Infosys, NIIT, policies, C-DAC, Nasscom), 1990s (STPI, Wipro/HCL software turns, Y2K, H-1B cap changes 1990/1998/2000), 2000s (Satyam, BPO, SEZ, financial crisis), 2010s (Aadhaar, UPI, demonetisation, Jio, GCCs, H-1B policy), 2020s (pandemic, unions, AI). Also: resolve chronology lines lacking solid sources (open problem 5). When done, move to Phase 1c (people index, myths verdicts, dataset plan).
+**Phase 1b: chronology to >=300 events (now 173).** Work by decade, filling gaps from sources already registered (S0001-S0209) before adding new ones; every line needs a source ID. Priorities: 1930s-50s (ISI, TIFR founding 1945, IIT Kharagpur 1951), 1960s-70s (each IIT founding; DoE 1970; Electronics Commission 1971; ECIL; NCSDCT; computer import cases), 1980s (Infosys, NIIT, policies, C-DAC, Nasscom), 1990s (STPI, Wipro/HCL software turns, Y2K, H-1B cap changes 1990/1998/2000), 2000s (Satyam, BPO, SEZ, financial crisis), 2010s (Aadhaar, UPI, demonetisation, Jio, GCCs, H-1B policy), 2020s (pandemic, unions, AI). Also: resolve chronology lines lacking solid sources (open problem 5). When done, move to Phase 1c (people index, myths verdicts, dataset plan).
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -53,9 +53,9 @@
 9. **Gaps flagged in batch 2:** no 1980s contemporaneous reporting on body shopping found online yet (India Today/Dataquest archives); no primary C-DAC history; no HCL primary history beyond interviews.
 10. **Primary share now 87/171 (51%) counting datasets.** Still, only 11 sources are 'seen'; Phase 2 must open each source before citing it. Batch 5 should favour primary data and documents; several 'primary' items are company or lobby self-descriptions, labelled as such.
 11. **Batch 5c gaps:** no current India headcount disclosure for Accenture or IBM; Google India press release not found; Telangana GCC policy unconfirmed; national GCC framework not confirmed final; HSBC and Dell captives not covered. Authors of S0197 and S0208 to confirm.
-11b. **Batch 3 disputes:** GECIS founding (Oct 1996 vs 1997; Raman Roy vs Pramod Bhasin as founder); Wadhwa 15.5% vs 13.4%; Y2K export share figures inconsistent; first Indian CMM Level 5 unclear.
-12. **Live material is moving.** H-1B fee litigation (blocked as of 5 Oct 2026; First Circuit appeal pending), TCS/Infosys FY27 hiring, HCLTech Q2 FY27 results due 12 Oct 2026. Re-check every LIVE-CHECKED item when drafting Ch. 18 and the prologue; record the check date in endnotes.
-13. **Prologue scene:** must be a documented case. Candidates: NITES-documented delayed-onboarding cases (party source), press profiles of named freshers waiting (to find). Do not composite.
+12. **Batch 3 disputes:** GECIS founding (Oct 1996 vs 1997; Raman Roy vs Pramod Bhasin as founder); Wadhwa 15.5% vs 13.4%; Y2K export share figures inconsistent; first Indian CMM Level 5 unclear.
+13. **Live material is moving.** H-1B fee litigation (blocked as of 5 Oct 2026; First Circuit appeal pending), TCS/Infosys FY27 hiring, HCLTech Q2 FY27 results due 12 Oct 2026. Re-check every LIVE-CHECKED item when drafting Ch. 18 and the prologue; record the check date in endnotes.
+14. **Prologue scene:** must be a documented case. Candidates: NITES-documented delayed-onboarding cases (party source), press profiles of named freshers waiting (to find). Do not composite.
 
 ## Working rules learned
 - Never create placeholder source IDs. Register a source only when a specific, citable item exists (two IDs, S0087 and S0191, were withdrawn for this reason).
