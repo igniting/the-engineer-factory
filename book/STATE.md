@@ -7,13 +7,13 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 1c, task 2 of 3: myths list.** Give each of M01-M22 a provisional verdict with sources (several already have evidence), and add new candidate myths met in Phase 1 (e.g. 'Indian IT is a product of liberalisation alone'; 'IBM's exit created the Indian software industry'; 'Infosys was founded with Rs 10,000'; 'Satyam was the first big governance failure'; 'GCCs are new'; 'AI caused the 2025-26 hiring slump'; 'India produces more engineers than the US and China combined'). Then task 3: `research/dataset_plan.md`.
+**Phase 1c, task 3 of 3: dataset plan.** Write `research/dataset_plan.md`: for each planned CSV (software/services exports nominal and real; industry workforce with changing definitions; headcount and revenue per employee for the five largest firms; fresher hiring and fresher pay nominal and real; engineering seats/enrolment/vacancies by branch and state with CS share; graduate employability and unemployment; H-1B approvals by country and employer, F-1 students and OPT; GCC count and staff; startup funding; women's share; attrition; plus exchange rates and deflators), give definition, unit, years covered, source IDs (registered) and gaps, known series breaks, and the reconciliation method (no silent splicing). Then Phase 1d: outline revision and title proposals.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
 - [x] **Phase 1a - Bibliography** (2026-10-11, incl. author-requested batches 5b and 5c): 207 sources (98 primary, 9 datasets, 100 secondary); 11 seen in full, 173 located, 23 unverified. Before 5c: 189 sources (89 primary, 9 datasets, 91 secondary); 11 seen in full, 156 located, 22 unverified
 - [x] **Phase 1b - Chronology** (2026-10-11): 311 events, every line with a source ID; 2000s and 2010s thin, to be filled in dossiers
-- [ ] Phase 1c - People index (done 2026-10-11: 133 entries; dates unverified; elite skew noted); myths list; dataset plan (`research/dataset_plan.md`)
+- [ ] Phase 1c - People index (done: 133 entries); myths list (done: 30 myths with provisional verdicts); dataset plan (`research/dataset_plan.md`) pending
 - [ ] Phase 1d - Outline revision (record reasons in `plan/outline.md` revision log); propose titles
 - [ ] Phase 2 - Dossiers (0/20 incl. prologue and epilogue)
 - [ ] Phase 3 - Data CSVs
@@ -25,6 +25,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-11 | Phase 1c task 2: myths list rewritten: M01-M22 given provisional verdicts with evidence and 'what would change it'; 8 new candidates (M23-M30: IBM exit, 1991, GCCs as new, Motorola CMM 5, Satyam, state vs private, services mindset, AI and fresher slump); 5 new sources (S0210-S0213, S0215) incl. NCAER caste/gender in IT and Duke 2005 engineer counts; S0214 withdrawn (placeholder created in error, again) | `research/myths.md`, `research/sources.md` |
 | 2026-10-11 | Phase 1c task 1: people index, 133 documented people with roles, first-hand material and source IDs; caution added that dates are unverified and that workers/women are under-represented | `research/people.md` |
 | 2026-10-11 | Phase 1b: chronology 173 -> 311, mainly mined from full texts read (Rajaraman S0001, Bassett S0003, Infosys F-1 S0089, Murthy CHM S0034); two unsourced lines fixed/removed; myths M04, M06, M17 given evidence | `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 5c (author request): 18 sources on foreign companies' Indian centres (S0192-S0209): Cognizant 10-K (72% of staff in India), Accenture, IBM India, Microsoft IDC 1998 press releases, Oracle IDC 1994, SAP Labs 1998, Intel 1999, Motorola CMM 5 claim, Google 2004, Amazon Hyderabad 2019, Goldman/JPMorgan/Walmart, Amex/Raman Roy, Zinnov MNC R&D counts, Karnataka GCC policy 2024, Budget 2025 GCC framework; chronology to 173. Phase 1a closed. | `research/sources.md`, `research/chronology.md` |
@@ -60,7 +61,8 @@
 14. **Prologue scene:** must be a documented case. Candidates: NITES-documented delayed-onboarding cases (party source), press profiles of named freshers waiting (to find). Do not composite.
 
 ## Working rules learned
-- Never create placeholder source IDs. Register a source only when a specific, citable item exists (two IDs, S0087 and S0191, were withdrawn for this reason).
+- Never create placeholder source IDs. (Broken three times: S0087, S0191, S0214. Before appending rows, list exactly the sources to be registered and check each is a specific item.)
+- Previously noted: Register a source only when a specific, citable item exists (two IDs, S0087 and S0191, were withdrawn for this reason).
 
 ## Environment notes
 - Web search and fetch work in this environment (tested 2026-10-11).
