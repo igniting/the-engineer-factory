@@ -7,13 +7,13 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 1c, task 1 of 3: people index.** Build `research/people.md` from the registered sources and chronology: every documented person likely to appear in the book (founders, officials, scientists, teachers, union leaders, workers named in published reporting), with dates, roles, what is documented, first-hand material available (memoir, oral history, interview, filing) and source IDs. Target 120-180 entries. Only real people named in registered sources; no composites. Then task 2: myths list, give each of M01-M22 a provisional verdict with sources and add new candidate myths met in Phase 1; task 3: `research/dataset_plan.md` (each planned CSV: definition, unit, years, sources, known breaks, reconciliation method).
+**Phase 1c, task 2 of 3: myths list.** Give each of M01-M22 a provisional verdict with sources (several already have evidence), and add new candidate myths met in Phase 1 (e.g. 'Indian IT is a product of liberalisation alone'; 'IBM's exit created the Indian software industry'; 'Infosys was founded with Rs 10,000'; 'Satyam was the first big governance failure'; 'GCCs are new'; 'AI caused the 2025-26 hiring slump'; 'India produces more engineers than the US and China combined'). Then task 3: `research/dataset_plan.md`.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
 - [x] **Phase 1a - Bibliography** (2026-10-11, incl. author-requested batches 5b and 5c): 207 sources (98 primary, 9 datasets, 100 secondary); 11 seen in full, 173 located, 23 unverified. Before 5c: 189 sources (89 primary, 9 datasets, 91 secondary); 11 seen in full, 156 located, 22 unverified
 - [x] **Phase 1b - Chronology** (2026-10-11): 311 events, every line with a source ID; 2000s and 2010s thin, to be filled in dossiers
-- [ ] Phase 1c - People index; myths list researched; dataset plan (`research/dataset_plan.md`)
+- [ ] Phase 1c - People index (done 2026-10-11: 133 entries; dates unverified; elite skew noted); myths list; dataset plan (`research/dataset_plan.md`)
 - [ ] Phase 1d - Outline revision (record reasons in `plan/outline.md` revision log); propose titles
 - [ ] Phase 2 - Dossiers (0/20 incl. prologue and epilogue)
 - [ ] Phase 3 - Data CSVs
@@ -25,6 +25,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-11 | Phase 1c task 1: people index, 133 documented people with roles, first-hand material and source IDs; caution added that dates are unverified and that workers/women are under-represented | `research/people.md` |
 | 2026-10-11 | Phase 1b: chronology 173 -> 311, mainly mined from full texts read (Rajaraman S0001, Bassett S0003, Infosys F-1 S0089, Murthy CHM S0034); two unsourced lines fixed/removed; myths M04, M06, M17 given evidence | `research/chronology.md`, `research/myths.md` |
 | 2026-10-11 | Phase 1a batch 5c (author request): 18 sources on foreign companies' Indian centres (S0192-S0209): Cognizant 10-K (72% of staff in India), Accenture, IBM India, Microsoft IDC 1998 press releases, Oracle IDC 1994, SAP Labs 1998, Intel 1999, Motorola CMM 5 claim, Google 2004, Amazon Hyderabad 2019, Goldman/JPMorgan/Walmart, Amex/Raman Roy, Zinnov MNC R&D counts, Karnataka GCC policy 2024, Budget 2025 GCC framework; chronology to 173. Phase 1a closed. | `research/sources.md`, `research/chronology.md` |
 | 2026-10-11 | Phase 1a batch 5b (author request): 18 startup/product-company sources (S0173-S0190): Freshworks S-1, Zoho, i-flex/Flexcube, Finacle, Tally, Rediff, Info Edge, Flipkart/Walmart, Paytm (RBI 2024, DRHP), Zomato DRHP, Byju's insolvency, iSPIRT 2013, SaaS estimates, IndiaAI/Sarvam; chronology to 155. Phase 1a closed. | `research/sources.md`, `research/chronology.md` |
