@@ -2,17 +2,20 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Count:** 41 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 75 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
+1945-11 | AICTE set up as an advisory body | S0076 | 7
 1946 | Sarker Committee interim report recommends higher technical institutes (the IIT blueprint) | S0049 (unverified), S0003 | 2
 1947 | Mahalanobis sees an electronic computer at Harvard | S0007 | 1
 1950 | ISI opens an electronics/computing laboratory under S.K. Mitra; National Sample Survey set up | S0007, S0010 | 1
 1950-1954 | Mahalanobis seeks a UNIVAC through informal talks in Washington; fails, partly because a 1953 US Embassy dispatch calls him a Soviet sympathiser | S0007 | 1
+1951 | IBM begins operations in India | S0055 | 5
 1953 | ISI completes an analogue computer built from war-surplus parts; solves linear equations of up to ten variables | S0007, S0010 (S0051 says 1954) | 1
-1954-02 | At a lunch hosted by Nehru, Mahalanobis presses Soviet ambassador Menshikov for computer help | S0007 | 1
 1954 | British Tabulating Machine Co. agrees to sell ISI a computer without technical support | S0001 | 1
+1954-02 | At a lunch hosted by Nehru, Mahalanobis presses Soviet ambassador Menshikov for computer help | S0007 | 1
 1954-12 | ISI sends Mohi Mukherjee and Amresh Roy to London to watch HEC-2M being built (A.D. Booth design) | S0001 (citing S0015) | 1
+1954-1990 | R. Narasimhan at TIFR | S0013 | 1
 1955-07 | HEC-2M arrives in Calcutta without manuals; working by August 1955 [disputed: S0007 says arrival early 1956; S0010 says mid-1955] | S0001, S0010, S0007 | 1
 1956 | TIFR pilot computer (vacuum-tube logic test) completed | S0001 | 1
 1957 | TIFR group under R. Narasimhan begins designing the full-scale machine, using ILLIAC design details | S0001 | 1
@@ -28,10 +31,11 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1963-07 | IBM 1620 flown to Kanpur on a chartered DC-7; Huskey and two Princeton experts start an informal course for 25 first-year students | S0003, S0001 (S0001 says installed August 1963) | 2
 1964-end | India has 15 digital computers | S0007 | 1
 1965 | IIT Kanpur starts M.Tech with a computer science option, first CS degree teaching in India | S0001, S0043 | 2
-1965-05 | First IIT Kanpur class graduates (66 of the original 100) | S0031 | 2
 1965 | Planning Commission opens a computer centre in Delhi with a Ford Foundation grant of Rs 23 lakh (autumn) | S0007 | 1
+1965-05 | First IIT Kanpur class graduates (66 of the original 100) | S0031 | 2
 1965-1966 | ISIJU-I commissioned; input-output problems | S0010 | 1
 1966-01 | Bhabha dies in an air crash; Bhagavantam completes the Electronics Committee report | S0052 | 3
+1967 | IBM's difficulties with the Indian government begin | S0055 | 5
 1967-03-23 | Lok Sabha: question on LIC computers and union fears of retrenchment; Morarji Desai says no retrenchment | S0019 | 3
 1967-04-11 | Electronics Corporation of India Ltd (ECIL) set up under the Department of Atomic Energy | (search result citing ECIL history; source to register) | 3
 1968-04-01 | Tata Computer Systems (later TCS) set up by Tata Sons | S0039, S0038 | 4
@@ -41,7 +45,37 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1972 | KIAP ends | S0031, S0030 | 2
 1972-10 | Narendra Patni founds Data Conversion Inc. in Cambridge, Mass.; data entry done in India | S0044 (date to confirm) | 4
 1973 | TCS partners with Burroughs [disputed: 1973 per TCS, 1974 per S0038] | S0039, S0038 | 4
+1973 | FERA amendment caps foreign equity at 40% for most firms; IBM must dilute or seek approval | S0056, S0026 | 5
 1974 | F.C. Kohli becomes TCS director-in-charge | S0038 | 4
+1975-12-26 | Computer Maintenance Corporation (later CMC Ltd) incorporated as a fully state-owned company, Secunderabad | S0066 | 5
 1976-04 | Public Accounts Committee 221st report on computerisation in government | S0022 | 3
+1976-08-11 | Hindustan Computers Ltd (HCL) founded by Shiv Nadar and former DCM calculator-division engineers | S0081 | 5
+1977-03 | Janata government takes office; George Fernandes later moved to Industry ministry | S0056 | 5
 1978 | IBM closes its Indian operations (break point 2 in Rajaraman's scheme); TCS-Burroughs partnership ends; Patni Computer Systems founded | S0001, S0039, S0044 | 5
+1978 | HCL develops an indigenous microcomputer | (to source: HCL history; Wikipedia only) | 5
+1978-06 | IBM shuts its Indian operations; CMC takes over maintenance of IBM installations | S0055, S0066 | 5
+1979 | Wipro-IISc collaboration on computers begins (Premji, Dhawan) | S0069 | 5
 1979-09 | Review Committee on Electronics report | S0023 | 5
+1981 | Wipro Series-86 minicomputer launched [disputed: 1981 vs 1982] | S0069 | 5
+1981 | NIIT founded by Rajendra Pawar and Vijay Thadani | S0065 | 7
+1981-07-02 | Infosys Consultants Pvt Ltd registered in Pune (date from secondary sources; confirm in Infosys filings) | S0034 (to confirm) | 6
+1982-12 | Dataquest magazine launched | S0077 | 5
+1984-08 | Computer Maintenance Corporation renamed CMC Ltd | S0066 | 8
+1984-11 | Computer Policy announced (month to confirm) | S0062 | 8
+1985 | Texas Instruments opens software design centre in Bangalore; claims first satellite dish used to export software | S0061 | 8
+1985-10-15 | CMC's IMPRESS computerised passenger reservation goes live in New Delhi (date from Wikipedia; confirm with S0067) | S0067 | 8
+1986 | Software export, development and training policy | S0062 | 8
+1986 | Aptech founded by Atul Nishar in Mumbai [disputed: 1985 per Ashoka profile] | S0083 | 7
+1986 | National Policy on Education calls for statutory AICTE | S0076 | 7
+1987 | India seeks a Cray X-MP/24; US blocks sale | S0079, S0080 (myth M05) | 8
+1987 | AICTE Act (Act 52 of 1987) gives AICTE statutory powers | S0076 | 7
+1988 | Maharashtra anti-capitation-fee Act (Act 6 of 1988) comes into force | S0075 | 7
+1988 | C-DAC set up in Pune under Vijay Bhatkar | S0080 (weak; confirm) | 8
+1988 | Nasscom formally established | S0060 | 8
+1988-10 | Cray X-MP/14 imported by DST for NCMRWF; operational end March 1989 | S0078 | 8
+1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
+1991 | PARAM 8000 unveiled by C-DAC (date to confirm against C-DAC sources) | S0080 | 8
+1992-02 | IBM returns to India as Tata Information Systems Ltd | S0055 | 9
+1992-07-30 | Supreme Court, Mohini Jain: capitation fees impermissible | S0064 | 7
+1993-02-04 | Supreme Court, Unni Krishnan: free-seat/payment-seat scheme for private professional colleges | S0063 | 7
+1999-2000 | Software export revenue 57% onsite, 35% offshore, 8% products (Nasscom data) | S0086 | 6, 11

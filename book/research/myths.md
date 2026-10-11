@@ -4,11 +4,11 @@ Each claim: where it is commonly stated, what the evidence shows, verdict, sourc
 
 | ID | Claim | Verdict | Summary of evidence | Source IDs | Chapter |
 |---|---|---|---|---|---|
-| M01 | Texas Instruments' 1985 Bangalore centre was India's first offshore development centre. | UNRESOLVED | | | 8 |
+| M01 | Texas Instruments' 1985 Bangalore centre was India's first offshore development centre. | UNRESOLVED (leaning MIXED) | TI's own claim is narrower: first *multinational* software design centre and first satellite dish for software export (S0061). Earlier offshore work existed: TCS's Burroughs conversion (1973-74, S0039, S0038) and Patni's Data Conversion data entry from 1972 (S0044). ICMR case study dates Bangalore's earth station to 1992, possibly a different facility. | S0061, S0039, S0044 | 8 |
 | M02 | Y2K made the Indian IT industry. | UNRESOLVED | | | 11 |
-| M03 | IBM was thrown out of India in 1978. | UNRESOLVED | | | 5 |
+| M03 | IBM was thrown out of India in 1978. | UNRESOLVED (leaning MOSTLY FALSE as worded) | IBM chose to close (June 1978) rather than dilute equity in its core marketing and maintenance business under the 1973 FERA rules; dispute dated from 1967; it offered partial dilution. Fernandes closed the door to renegotiation. Need Grieco (S0026) and Lok Sabha record. | S0055, S0056, S0026 | 5 |
 | M04 | Rajiv Gandhi started India's IT revolution. | UNRESOLVED | | | 8 |
-| M05 | Cray refused India a supercomputer, so India built PARAM. | UNRESOLVED | | | 8 |
+| M05 | Cray refused India a supercomputer, so India built PARAM. | UNRESOLVED (leaning MIXED) | US blocked the X-MP/24 in 1987 (S0079, S0080), but a Cray X-MP/14 was imported in October 1988 for NCMRWF (S0078). C-DAC set up 1988. The popular story traces largely to one 2017 feature (S0080). Need C-DAC primary records and US export-licence reporting. | S0078, S0079, S0080 | 8 |
 | M06 | TCS was India's first software company. | UNRESOLVED | | | 4 |
 | M07 | Only 5% (or 25%) of Indian engineers are employable. | UNRESOLVED | | | 12, 18 |
 | M08 | India produces 1.5 million engineers a year (check what is counted). | UNRESOLVED | | | 12 |
