@@ -30,4 +30,4 @@ Agent-added candidates (to be researched in Phase 1c; drop any that prove trivia
 | M19 | Indian IT workers cannot unionise. | UNRESOLVED | | | 17 |
 | M20 | AI caused the 2025 TCS layoffs. | UNRESOLVED | | | 18 |
 | M21 | The 1984 Computer Policy cut import duties and "opened" computing. | UNRESOLVED | | | 8 |
-| M22 | The Software Technology Parks scheme began in 1991 as part of liberalisation. | UNRESOLVED (leaning MIXED) | STPI was registered 5 June 1991, before the 24 July budget and under the outgoing/caretaker period (S0091); parks at Bangalore, Pune and Bhubaneswar reportedly date from 1989 (secondary). The 1991 budget did extend s. 80HHC to software (S0088). | S0091, S0088 | 9 |
+| M22 | The Software Technology Parks scheme began in 1991 as part of liberalisation. | UNRESOLVED (leaning MIXED) | STPI was registered 5 June 1991, before the 24 July budget (S0091); whether this fell before the new government took office on 21 June 1991 needs a source; parks at Bangalore, Pune and Bhubaneswar reportedly date from 1989 (secondary). The 1991 budget did extend s. 80HHC to software (S0088). | S0091, S0088 | 9 |
