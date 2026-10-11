@@ -11,8 +11,6 @@
 
 Then batches: (3) Part III 1991-2008; (4) Parts IV-V 2008-2026 incl. live-checked 2025-26 sources; (5) datasets, US records, comparative sidebars, gap-fill to >=150.
 
-Planned batches for Phase 1a (adjust as needed): (1) Part I; (2) Part II, 1977-1991; (3) Part III, 1991-2008; (4) Part IV-V, 2008-2026, incl. AI and 2025-26 live-checked sources; (5) datasets, US records, comparative sidebars, gap-fill to >=150 with primary share checked.
-
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
 - [ ] Phase 1a - Bibliography >=150 (54/150; batch 1 of 5 done)
