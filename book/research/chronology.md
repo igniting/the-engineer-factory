@@ -2,7 +2,7 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Count:** 155 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 173 events (2026-10-11). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1945-11 | AICTE set up as an advisory body | S0076 | 7
@@ -74,6 +74,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1988 | Maharashtra anti-capitation-fee Act (Act 6 of 1988) comes into force | S0075 | 7
 1988 | C-DAC set up in Pune under Vijay Bhatkar | S0080 (weak; confirm) | 8
 1988 | Nasscom formally established | S0060 | 8
+1988 | Intel opens a sales office in India | S0198 | 16
 1988-10 | Cray X-MP/14 imported by DST for NCMRWF; operational end March 1989 | S0078 | 8
 1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
 1991 | PARAM 8000 unveiled by C-DAC (date to confirm against C-DAC sources) | S0080 | 8
@@ -81,19 +82,25 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1991-07-24 | Manmohan Singh's budget extends the section 80HHC export tax concession to software exports | S0088 | 9
 1991-11-08 | Tally's company incorporated (renamed Tally Solutions 1999) | S0178 | 16
 1992 | Citicorp spins out its software unit (later i-flex) with $400,000 under Rajesh Hukku | S0176 | 16
+1992 | American Express captive finance centre set up by Raman Roy's team [disputed: 1992 per Roy's firm; 1994 per other sources], near Gurgaon | S0206 | 14
 1992-02 | IBM returns to India as Tata Information Systems Ltd | S0055 | 9
 1992-07-30 | Supreme Court, Mohini Jain: capitation fees impermissible | S0064 | 7
 1992-12 | TiE founded in Silicon Valley by A.J. Patel and eight co-founders [formalisation dated 1994 by others] | S0116 | 13
+1993 | Motorola's Bangalore software centre rated CMM Level 5, by its own account the world's first commercial organisation at that level [Business Today: first in India, 1994] | S0199 | 12
 1993-02-04 | Supreme Court, Unni Krishnan: free-seat/payment-seat scheme for private professional colleges | S0063 | 7
 1994 | Infosys launches its Employees Stock Offer Plan | S0089 | 11
+1994 | Oracle opens India Development Center in Bangalore (Hyderabad 1999) | S0196 | 10, 16
 1994-03 | First TiE conference (later TiECon) | S0116 | 13
 1995-1996 | AdventNet (later Zoho) founded in Chennai by the Vembu brothers and Tony Thomas | S0175 | 16
 1996-10 | GE Capital International Services set up in Gurgaon [disputed: 1997 in other accounts] | S0110 | 14
 1997 | i-flex's FLEXCUBE core-banking product launched, built in Bangalore | S0176 | 16
 1998 | Infosys reaches SEI CMM Level 4 (fiscal 1998; secondary source) | S0121 | 12
+1998 | SAP Labs India launched in Bangalore | S0197 | 16
+1998-03-24 | Microsoft announces a software development centre in Hyderabad; opens August 1998, moves to HITEC City February 1999 with 36 staff | S0195 | 10, 16
 1998-11-22 | HITEC City, Hyderabad, formally inaugurated by PM Vajpayee | S0119 | 10
 1998-1999 | Nasscom estimates Indian Y2K earnings at $2.3bn, rising to $3bn by end-1999 | S0109 | 11
 1999 | Infosys launches Finacle core-banking product | S0177 | 16
+1999 | Intel India Development Center set up in Bangalore | S0198 | 16
 1999-02 | Infosys files Form F-1 with the US SEC for 1,800,000 ADSs | S0089, S0090 | 11
 1999-03 | Infosys ADSs priced at $34 and listed on Nasdaq as INFY; first India-based company on a US exchange | S0090 | 11
 1999-10 | Satyam Infoway lists on Nasdaq | S0179 | 11, 16
@@ -101,16 +108,22 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1999-2000 | Software export revenue 57% onsite, 35% offshore, 8% products (Nasscom data) | S0086 | 6, 11
 2000-01 | Y2K rollover; Nasscom puts India's own Y2K cost at Rs 1,800 crore | S0108 | 11
 2000-06-14 | Rediff.com lists on Nasdaq; shares rise c. 61% on debut | S0179 | 11, 16
+2004 | Google opens Bangalore R&D centre under Krishna Bharat | S0200 | 13, 16
+2004 | Goldman Sachs opens Bengaluru centre with about 300 support staff | S0202 | 16
+2004 | Zinnov counts 93 new multinational R&D centres opened in India that year (24 in 2007) | S0207 | 16
 2004-01-23 | Thomas-Voinovich provision limiting offshoring of federal competitive-sourcing work signed into law (FY2004 omnibus) | S0111 | 14
 2004-03 | US Senate passes Dodd amendment on offshoring by federal contractors, 70-26 | S0111 | 14
 2004-08 | Lou Dobbs publishes Exporting America | S0112 | 14
 2005-02 | PM Manmohan Singh inaugurates Infosys Global Education Centre, Mysore (4,500 trainees at a time) | S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
 2005-08 | Oracle buys Citigroup's 41% stake in i-flex for $593 million | S0176 | 16
+2006 | IBM India headcount reaches 53,000 | S0194 | 14, 16
 2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
 2007-01 | Wadhwa, Saxenian et al. report Indian founders in 15.5% of Silicon Valley startups 1995-2005 [figure disputed] | S0098 | 13
 2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
+2007-08 | Accenture's India headcount set to pass its US headcount (35,000) | S0193 | 14, 16
 2008 | Nasscom: c. 2 million direct IT-BPO employees (FY2008) | S0107 | 12, 14
+2008 | Zinnov: c. 594 multinational R&D centres in India employ 146,760 | S0207 | 16
 2009 | Infosys GEC II opens; Mysore training capacity 14,000 | S0115 | 12
 2009 | AdventNet renamed Zoho | S0175 | 16
 2009-01-07 | Ramalinga Raju's letter to the Satyam board admits falsified accounts | S0122 | 15
@@ -122,12 +135,14 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 2015-04-09 | Special CBI court in Hyderabad convicts Raju and nine others; seven years' imprisonment | S0124 | 15
 2015-11 | Nilekani and Shah publish Rebooting India | S0126 | 15
 2016 | UPI launched by NPCI [disputed: April vs August 2016] | S0129, S0148 | 16
+2016-03-30 | Amazon lays foundation stone for its Hyderabad campus | S0201 | 16
 2016-09-05 | Jio Welcome Offer takes effect: free data and voice to 31 December 2016 | S0130 | 16
 2017-08-24 | Supreme Court (nine judges) holds privacy a fundamental right | S0127 | 15
 2017-11-07 | KITU certified as a trade union for IT/ITeS workers by the Karnataka Labour Commissioner | S0132 | 17
 2018-05-09 | Walmart agrees to buy c. 77% of Flipkart for c. $16 billion | S0181 | 16
 2018-09-26 | Supreme Court upholds Aadhaar Act with some provisions struck down | S0127 | 15
 2019 | Sridhar Vembu moves to a village in Tenkasi district; Zoho expands rural offices | S0175 | 16
+2019-08 | Amazon opens Hyderabad campus, its largest building worldwide (15,000 work points) | S0201 | 16
 2019-10 | UPI passes 1 billion transactions in a month | S0129 | 16
 2021 | Indian startup funding peaks at about $42 billion (Inc42; other vendors differ) | S0147 | 16, 17
 2021-07-23 | Zomato lists on Indian exchanges, the first Indian unicorn to do so | S0184 | 16, 17
@@ -138,13 +153,16 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 2023-06 | China's youth (16-24) unemployment hits 21.3%; publication suspended in August | S0169 | sidebar
 2023-08 | UPI passes 10 billion transactions in a month | S0129 | 16
 2024 | Nasscom-Zinnov: over 1,700 GCCs in India employing over 1.9 million (FY24) | S0141 | 16, 18
+2024 | Karnataka adopts India's first dedicated GCC policy (500 new GCCs by 2029) | S0204 | 18
 2024-01-31 | RBI bars Paytm Payments Bank from taking deposits after 29 February 2024 | S0182 | 16
 2024-03 | Cabinet approves IndiaAI Mission (Rs 10,371.92 crore over five years) | S0186 | 18
 2024-06 | NITES says over 10,000 freshers still awaiting joining dates at five IT firms | S0133 | 17
 2024-07-16 | NCLT admits BCCI insolvency petition against Byju's | S0185 | 16, 17
 2024-10-23 | Supreme Court sets aside NCLAT order in Byju's case | S0185 | 16
 2024-12-31 | EPAM: India now its largest delivery location (10,072) ahead of Ukraine (8,764) | S0170 | 18, sidebar
+2024-12-31 | Cognizant has c. 241,500 of its c. 336,800 employees in India | S0192 | 18
 2025 | Philippine IT-BPM revenue passes $40 billion, 1.9 million workers (IBPAP) [LIVE-CHECKED] | S0168 | sidebar
+2025-02-01 | Union Budget announces a national framework to guide states on GCCs in tier-2 cities | S0205 | 18
 2025-04 | MeitY selects Sarvam AI to build a sovereign foundation model under IndiaAI | S0186 | 18
 2025-07 | TCS announces cuts of about 12,000 (2% of workforce) by March 2026; CEO cites skill mismatch, not AI | S0135 | 18
 2025-08 | UPI processes 20.01 billion transactions in a month | S0129 | 16
