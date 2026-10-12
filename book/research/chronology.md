@@ -33,7 +33,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1958-12 | Soviet URAL computer unveiled at ISI, assembled by eight Soviet engineers, funded via UN technical assistance | S0007, S0010, S0001 | 1
 1959 | TIFR full-scale computer completed | S0001, S0025 | 1
 1959 | IIT Madras opens with West German support | S0003 | 2
-1959-02 | Hungarian refugee engineer [Nadler] arrives at ISI on a two-year contract; ISI then holds India's only two electronic computers | S0007 | 1
+1959-02 | Morton Nadler, an American engineer who had worked at Czechoslovakia's Institute of Mathematical Machines, arrives at ISI on a two-year contract; ISI then holds India's only two electronic computers | S0007 | 1
 1960 | TIFR computer commissioned (2,700 tubes, 2,048 40-bit words of core memory) | S0001, S0052 | 1
 1960 | IIT Kanpur starts without American aid; US assistance follows | S0003 | 2
 1960-07 | IIT Kanpur admits its first 100 undergraduates | S0031 | 2
