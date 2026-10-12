@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 4, step 1: draft Chapter 1, 'The statistician's machines' (1931-1966).** Write `drafts/ch01.md` from `research/dossiers/ch01.md` (and ch01-notes.md) ONLY, following `plan/style.md` and the brief: plain British English, no em dashes, no lists in narrative, banned words, quotations exact and under 50 words with page refs, company/lobby self-descriptions labelled, no invented people/scenes/quotes. Target length per outline (check `plan/outline.md` table). Every factual sentence traceable: numbered endnotes at the end of the file in the form 'N. S00xx, p. y' (or the dossier's location form). Include the planned sidebar (*Why did the Soviet Union, with more engineers, fail to network its computers?*, S0165, 400-900 words, titled by its question) only if the dossier supports it; otherwise note why it is omitted. Apply relevant framing corrections from `research/dossiers/phase2-review.md` section 6. Rank-and-file voices are NOT met for Ch. 1: do not invent; state the limitation in a short drafting note at the end of the file for Phase 5/6 (author decision 2(iv) pending). If a needed fact is missing from the dossier, stop and return to Phase 2 for it. Then gate: word count, em-dash count 0, banned words 0, every paragraph has at least one endnote.
+**Phase 4, step 2: draft Chapter 2, 'Kanpur, 1963' (1946-1978).** Same rules as step 1 (see Ch. 1 drafting notes for the method): write `drafts/ch02.md` from `research/dossiers/ch02.md` and ch02-notes.md only; re-open full-text sources in the scratchpad (S0001 `src/rajaraman.txt`, printed page = PDF page - 6; S0003 `src/bassett2009.txt`; `src/caltech_kanpur.txt`) to confirm exact wording and pages of every quotation; paraphrase summariser-read sources (marked †); open on a documented scene (S0003's July 1963 DC-7 delivery of the IBM 1620); cover education (KIAP, Huskey's classes, 1965 M.Tech option, 1978 B.Tech) and profession (where graduates went; Sukhatme's brain-drain figures); rank-and-file requirement is met for Ch. 2 per STATE: use only named people as documented; numbered endnotes in reading order ('[n] S0xxx, p. y'); gates: 0 em dashes, 0 banned words, word count vs outline target (6,500), notes complete; drafting notes at the end for Phase 5.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -18,7 +18,7 @@
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
-- [ ] Phase 4 - Drafts (0/21)
+- [ ] Phase 4 - Drafts (1/21: Ch. 1 draft v1 done 2026-10-12)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
 - [ ] Phase 7 - Assembly
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 4 step 1: drafted `drafts/ch01.md` (4,680 words body, 106 endnotes in reading order, 0 em dashes, 0 banned words). Opens on TIFR's assembled-but-idle computer (Feb 1959, S0012); ISI's HEC-2M and URAL, Nadler, TIFRAC, first brain drain, CDC 3600, ISIJU, 1958 resolution, Narasimhan vs Banerjee (flagged unread), education and profession, turn to Kanpur. Quotes only from full-text sources (S0001, S0012, S0013, S0217 notes) except two flagged for Phase 5. Re-reading S0001 corrected three dossier page refs (SPR quote p. 15; CDC/ISIJU p. 17; 1961-64 count p. 18 confirmed). Removed several unsourced background sentences during self-check. Below 6,500 target because of evidence gaps (memoirs unobtained): noted, no padding. Sidebar omitted (S0165 unread). | drafts/ch01.md |
 | 2026-10-12 | Phase 3 step 11 and close-out: built `gcc.csv`, `foreign_firm_india_headcount.csv`, `startup_funding.csv`, `upi.csv` (RBI Handbook FY2016-17 to FY2023-24 from 2021/2025/2026 editions), `computers_installed.csv` (1964-2010 incl. <1,000 in 1978 and 80,000 in 1990, S0001 p. 29); dropped unverified 'IBM 2010 c. 85,000'. Close-out: all 27 CSVs cite only registered source IDs; full rebuild via new `scripts/build_all.sh` reproduces every file byte for byte; `data/README.md` index generated. `mobile_data_price.csv` not built. Phase 3 marked done. | data/*.csv, data/README.md |
 | 2026-10-12 | Phase 3 step 10: built migration files: `h1b_country.csv` (USCIS FY2023 via govinfo S0336 and FY2024 via verified mirror S0335: India 72.3%/71.0% of approvals; 57-58% of initial vs 79% of continuing), `h1b_employer.csv` (NFAP FY2022-25: Amazon/Meta/Microsoft/Google lead FY2025; TCS 846, Cognizant 743, Infosys 263), `h1b_policy.csv` (cap 1992-2026; events 1990-2026), `indian_students_us.csv` (Open Doors 2017/18-2024/25; 363,019; OPT 143,740), `iit_emigration.csv` (1970s IIT Bombay; NBER JEE 2010 36%/62%). uscis.gov blocked. New S0335-S0338; S0158, S0172 now seen. Register 335. | data/h1b_*.csv, data/indian_students_us.csv, data/iit_emigration.csv |
 | 2026-10-12 | Phase 3 step 9: built `data/graduate_unemployment.csv` (PLFS graduates 15+: 17.2/15.5/14.9% 2019-22 from PIB S0326, 13.4% 2022-23 S0327, 11.2% 2023-24 S0328 low; MoSPI all-persons 3.2% S0329; US CS points), `data/employability_tests.csv` (Aspiring Minds 2014 and 2016 eds., McKinsey via Duke) and `data/fresher_pay.csv` (points 2007-2026; median Rs 2.45 lakh 2012 to Rs 3.55 lakh 2022 = real fall c. 18%). Corrected S0154 register note (17.2% is 2019-20, not 2017-18). Dispute (ooo) logged. New S0326-S0334. Register 331. | data/graduate_unemployment.csv, data/employability_tests.csv, data/fresher_pay.csv |
@@ -78,7 +79,7 @@
 | Item | Target | Dossier | Draft | Verified | Final |
 |---|---|---|---|---|---|
 | Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 0 | 0 | 0 |
-| Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 0 | 0 | 0 |
+| Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 0 | 0 |
 | Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 0 | 0 | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 0 | 0 | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 0 | 0 | 0 |
