@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 40; 2020s 49. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 59. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 412 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 424 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -348,6 +348,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2013-10-30 | Infosys files settlement with US government: pays $34m; agrees I-9 records were inaccurate in 2010-11; denies US allegations of B-1 visa misuse | S0268 | 13
 2014 | Aspiring Minds report: 18.43% of 2013 engineering graduates "employable" (trainable in 3-6 months) for IT services; entry-level growth "diminishing" (vendor test) | S0153 | 12, 18
 2014 | About 70% of H-1B visas go to Indians (USCIS) | S0254 | 13
+2014-01-25 | Karnataka exempts IT companies from the Industrial Employment (Standing Orders) Act for five years | S0132 | 17
 2014-07-15 | SEBI order bars Satyam promoters for 14 years, orders disgorgement of about Rs 1,850 crore | S0123 | 16
 2014-15 | Approved undergraduate engineering intake peaks at 17.05 lakh (12.53 lakh by 2021-22) | S0267 | 12
 2015-01-31 | Disney IT staff in Orlando leave after training replacements from a contractor's foreign workforce (per one employee's testimony) | S0269 | 13, 14
@@ -360,6 +361,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2016-09-05 | Jio Welcome Offer takes effect: free data and voice to 31 December 2016 | S0130 | 16
 2016-12-31 | Jio's free Welcome Offer ends | S0130 | 16
 2017-05-12 | Securities Appellate Tribunal upholds SEBI's findings on Satyam but remands sanctions | S0123 | 16
+2017-08-20 | KITU foundation conference in Bengaluru draws about 200 IT employees | S0294 | 17
 2017-08-24 | Supreme Court (nine judges) holds privacy a fundamental right | S0127 | 15
 2017-08-24 | Nine-judge bench of the Supreme Court holds privacy a fundamental right (Puttaswamy) | S0127 | 16
 2017-11-07 | KITU certified as a trade union for IT/ITeS workers by the Karnataka Labour Commissioner | S0132 | 17
@@ -372,17 +374,24 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2019-10 | UPI passes 1 billion transactions in a month | S0129 | 16
 2019-20 | AICTE: B.Tech approved intake 23.69 lakh, enrolment 13.84 lakh (9.84 lakh seats vacant) | S0151 | 12, 18
 2020-03-17 | Zoho sues Freshworks in US federal court in California alleging trade-secret violations (allegation) | S0173 | 16
+2020-03-20 | Infosys has enabled 93% of its employees to work remotely | S0287 | 17
 2020-21 | AISHE: B.Tech enrolment 23.20 lakh, 28.7% women | S0152 | 12
 2021 | Indian startup funding peaks (c. $42bn Inc42; $43.5bn other vendor; c. $37bn implied by Tracxn; dispute (xx)) | S0147 | 16, 17
+2021 | Cognizant attrition reaches 30.8% (34.6% annualised in Q4); it hires over 100,000 | S0293 | 17
+2021-04 to 2022-03 | Infosys extends 222,500 job offers (48,029 the year before) | S0289, S0288 | 17
 2021-07-23 | Zomato lists on Indian exchanges, the first Indian unicorn to do so | S0184 | 16, 17
 2021-09-22 | Freshworks lists on Nasdaq (FRSH) at $36 | S0174 | 16
 2021-12-31 | EPAM's largest delivery centres are in Ukraine (12,389), Belarus (9,416) and Russia (8,933); India 4,349 | S0170 | 15
 2022 | Indian startup funding falls 31% to $25.7bn (Tracxn) | S0147 | 16, 17
+2022 | Cognizant attrition 31.7%; begins to fall in the second half | S0293 | 17
 2022-03-11 | RBI bars Paytm Payments Bank from onboarding new customers | S0182 | 16
+2022-08 | Rishad Premji calls moonlighting "cheating - plain and simple" | S0131 | 17
 2022-09-21 | Rishad Premji says Wipro fired 300 employees for moonlighting for a competitor | S0131 | 17
 2022-10 | Reports of delayed fresher onboarding at Infosys, Wipro, HCLTech, Accenture | S0134 | 17
 2023 | 72% of approved H-1B petitions for India-born workers (FY2023) | S0105 | 18
 2023 | Indian startup funding falls c. 58% to $10.8bn (Tracxn) | S0147 | 16, 17
+2023 | Cognizant launches NextGen restructuring ($229m costs); voluntary attrition falls to 13.8% | S0293 | 17
+2023-04 to 2024-03 | Infosys job offers fall to 26,975; headcount falls to 317,240; clients demand AI-driven productivity commitments | S0291 | 17, 18
 2023-06 | China's youth (16-24) unemployment hits 21.3%; publication suspended in August | S0169 | sidebar
 2023-08 | UPI passes 10 billion transactions in a month | S0129 | 16
 2023-24 | PLFS: graduate unemployment 13.0%; youth (15-29) 10.2% | S0154 | 18
@@ -394,6 +403,8 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-03 | Cabinet approves IndiaAI Mission (Rs 10,371.92 crore over five years) | S0186 | 18
 2024-06 | NITES says over 10,000 freshers still awaiting joining dates at five IT firms | S0133 | 17
 2024-07-16 | NCLT admits BCCI insolvency petition against Byju's | S0185 | 16, 17
+2024-08-20 | NITES complains to the Union Labour Ministry about Infosys's delayed 2022-23 campus recruits | S0295 | 17
+2024-09-03 | Union Labour Ministry directs Karnataka to act on Infosys onboarding complaint | S0295 | 17
 2024-10-23 | Supreme Court sets aside NCLAT order in Byju's case | S0185 | 16
 2024-11-05 | Freshworks announces a 13% reduction in force | S0285 | 16, 18
 2024-12 | UPI processes c. 16.73 billion transactions in the month (c. Rs 23.25 lakh crore) | S0286 | 16
@@ -402,6 +413,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-12-31 | Freshworks has c. 3,700 employees in India, c. 83% of its workforce; sells generative AI agents (Freddy) | S0285 | 16, 18
 2024-25 | Open Doors: 363,019 Indian students in the US; OPT participation 143,740 | S0158 | 18
 2025 | Philippine IT-BPM revenue passes $40 billion, 1.9 million workers (IBPAP) [LIVE-CHECKED] | S0168 | sidebar
+2025-02 | Infosys dismisses trainees at Mysuru after assessments (over 300 per company; 700 per NITES) | S0133 | 17, 18
 2025-02-01 | Union Budget announces a national framework to guide states on GCCs in tier-2 cities | S0205 | 18
 2025-03 | TCS Q4 FY25: 607,979 employees, 35.2% women, 13.3% attrition (LTM, IT services) | S0160 | 18
 2025-04 | MeitY selects Sarvam AI to build a sovereign foundation model under IndiaAI | S0186 | 18
