@@ -56,7 +56,7 @@
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 0 | 0 | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 0 | 0 | 0 |
 | Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 0 | 0 | 0 |
-| Ch. 6 | 6,500 | - | 0 | 0 | 0 |
+| Ch. 6 | 6,500 | v1 (5,670 words; evidence notes 3,290) | 0 | 0 | 0 |
 | Ch. 7 | 6,000 | - | 0 | 0 | 0 |
 | Ch. 8 | 6,500 | - | 0 | 0 | 0 |
 | Ch. 9 | 6,000 | - | 0 | 0 | 0 |
