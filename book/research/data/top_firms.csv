@@ -1,0 +1,65 @@
+# title: Revenue, headcount and revenue per employee, selected Indian-heritage IT firms
+# definition: one row per firm-year; Infosys, Wipro and TCS fiscal years end 31 March (year = calendar year in which it ends); Cognizant calendar years
+# unit: revenue US$ million (nominal and 2025 dollars); Wipro also INR million; employees persons at year end; revenue per employee US$ thousand
+# coverage: Infosys FY1999-FY2026 (gaps FY2002-03, FY2007, FY2011, FY2013-15); Wipro FY2016-FY2026; Cognizant 2001-2025 (headcount gaps 2003-06, 2008-10, 2013-19); TCS headcount points
+# source_ids: Infosys 20-F/F-1 S0322, S0264-S0266, S0270-S0272, S0287-S0291, S0296, S0297; Wipro 20-F S0292, S0298; Cognizant 10-K S0192, S0275-S0277, S0293, S0299;
+#   SEC XBRL company facts (data.sec.gov, CIK 1067491, 1123799, 1058290, accessed 2026-10-12); TCS S0160, S0139, S0310; FX S0155; CPI S0157
+# method: revenue_per_employee = revenue / mean of opening and closing headcount (blank if either missing). Real values: fiscal years deflated by 0.75*CPI(y-1)+0.25*CPI(y); calendar years by CPI(y).
+# breaks: Infosys revenue US GAAP to FY2008, IFRS from FY2009. Wipro headcount stated as 'more than' N and revised between filings (FY2024: 234,000 then 232,000). Cognizant 2001-02 counts are technical professionals only.
+firm,year_type,year,revenue_usd_m,revenue_real_2025usd_m,revenue_inr_m,employees,employees_qualifier,employees_india,revenue_per_employee_usd_k,source_id,confidence,note
+Infosys,FY Apr-Mar,1999,121.0,237.7,,3800,approximately,,,S0270 (20-F FY2004); S0270,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2000,,,,5390,approximately,,,S0322 (20-F FY2001),high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2001,414.0,768.5,,9830,approximately,,54.4,S0264 (20-F FY2005); S0322,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2004,1063.0,1847.6,,23800,approximately,,,S0265 (20-F FY2008); S0270,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2005,1592.0,2690.5,,36800,approximately,,52.5,S0264; S0264,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2006,,,,52700,approximately,,,S0272,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2008,4176.0,6422.5,,91200,approximately,,,S0265; S0265,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2009,4663.0,6978.8,,104900,approximately,,47.6,S0271 (20-F FY2009); S0271,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2010,4804.0,7179.6,,113800,approximately,,43.9,S0272 (20-F FY2010); S0272,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2012,6994.0,9958.6,,150000,approximately,,,S0266 (20-F FY2012); S0266,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2016,9501.0,12864.7,,194044,exact,,,XBRL; S0287; S0287,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2017,10208.0,13620.4,,200364,exact,,51.8,XBRL; S0288; S0288,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2018,10939.0,14280.2,,204107,exact,,54.1,XBRL; S0289; S0289,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2019,11799.0,15059.2,,228123,exact,,54.6,XBRL; S0290; S0290,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2020,12780.0,16044.1,,242371,exact,,54.3,XBRL; S0287; S0287,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2021,13561.0,16673.1,,259619,exact,,54.0,XBRL; S0288; S0288,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2022,16311.0,18999.2,,314015,exact,,56.9,XBRL; S0289; S0289,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2023,18212.0,19830.5,,343234,exact,,55.4,XBRL; S0290; S0290,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2024,18562.0,19468.7,,317240,exact,,56.2,XBRL; S0291; S0291,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2025,19277.0,19654.9,,323578,exact,,60.2,XBRL; S0296; S0296,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Infosys,FY Apr-Mar,2026,20158.0,,,328594,exact,,61.8,S0297 (20-F FY2026); S0297,high,US$ revenue as reported (IFRS from FY2009; earlier US GAAP)
+Wipro,FY Apr-Mar,2016,7827.3,10598.5,512440,,,,,XBRL; S0155 FX,high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2017,8206.1,10949.3,550402,,,,,XBRL; S0155 FX,high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2018,8453.5,11035.6,544871,,,,,XBRL; S0155 FX,high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2019,8378.4,10693.5,585845,170000,more than,,,XBRL; S0155 FX; S0292 (20-F FY2021),high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2020,8607.3,10805.7,610232,175000,more than,,49.9,XBRL; S0155 FX; S0292,high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2021,8345.3,10260.5,619430,200000,more than,,44.5,XBRL; S0155 FX; S0292,high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2022,10616.0,12365.6,790934,240000,more than,,48.3,XBRL; S0155 FX; S0292 (20-F FY2024),high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2023,11259.8,12260.5,904876,250000,more than,,46.0,XBRL; S0155 FX; S0298 (20-F FY2025),high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2024,10842.0,11371.6,897603,232000,more than,,45.0,"XBRL; S0298; S0155 FX; S0298 (20-F FY2025; 234,000 in 20-F FY2024)",high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2025,10533.6,10740.1,890884,230000,more than,,45.6,XBRL; S0298; S0155 FX; S0298,high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Wipro,FY Apr-Mar,2026,10488.9,,926240,240000,more than,,44.6,S0298 (20-F FY2026); S0155 FX; S0298 (20-F FY2026),high,"US$ = INR revenue / RBI FY average rate (book's conversion, not Wipro's convenience translation)"
+Cognizant,CY,2001,,,,3470,approximately,,,S0275 (10-K FY2002; technical professionals),high,US company; most staff in India
+Cognizant,CY,2002,,,,6100,approximately,,,"S0275 ('over 6,100' technical professionals)",high,US company; most staff in India
+Cognizant,CY,2007,2135.6,3316.0,,55400,approximately,,,XBRL (10-K); S0276 (10-K FY2007),high,US company; most staff in India
+Cognizant,CY,2008,2816.3,4211.2,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2009,3278.7,4920.2,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2010,4592.4,6780.3,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2011,6121.2,8760.9,,137700,approximately,,,"XBRL (10-K); S0277 (derived: 156,700 less 'approximately 19,000')",high,US company; most staff in India
+Cognizant,CY,2012,7346.5,10301.5,,156700,approximately,,49.9,XBRL (10-K); S0277 (10-K FY2012),high,US company; most staff in India
+Cognizant,CY,2013,8843.2,12221.2,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2014,10263.0,13956.9,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2015,12416.0,16864.8,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2016,13487.0,18091.3,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2017,14810.0,19451.6,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2018,16125.0,20673.8,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2019,16783.0,21134.4,,,,,,XBRL (10-K),high,US company; most staff in India
+Cognizant,CY,2020,16652.0,20713.9,,289500,approximately,,,XBRL (10-K); S0293 (10-K FY2021),high,US company; most staff in India
+Cognizant,CY,2021,18507.0,21988.4,,330600,approximately,,59.7,XBRL (10-K); S0293,high,US company; most staff in India
+Cognizant,CY,2022,19428.0,21372.3,,355300,approximately,258500,56.6,XBRL (10-K); S0293,high,US company; most staff in India
+Cognizant,CY,2023,19353.0,20448.1,,347700,approximately,254000,55.1,XBRL (10-K); S0293,high,US company; most staff in India
+Cognizant,CY,2024,19736.0,20255.3,,336800,approximately,241500,57.7,XBRL (10-K); S0192 (10-K FY2024),high,US company; most staff in India
+Cognizant,CY,2025,21108.0,21108.0,,351600,approximately,256900,61.3,XBRL (10-K); S0299 (10-K FY2025),high,US company; most staff in India
+TCS,FY Apr-Mar,2025,,,,607979,as reported,,,S0160 (Q4 FY2024-25 fact sheet),medium,revenue not compiled (TCS site blocked)
+TCS,FY Apr-Mar,2026,,,,584519,derived,,,"derived: S0160 less 23,460 (S0139)",medium,revenue not compiled (TCS site blocked)
+TCS,quarter end 30 Sep 2026,2027,,,,598056,as reported,,,S0310; S0138,medium,Q2 FY27 point (POST-CUTOFF)
