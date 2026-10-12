@@ -1,0 +1,14 @@
+# title: Venture funding raised by Indian startups, by data vendor
+# definition: total funding raised in the calendar year as reported by each vendor; vendors define 'startup' and 'tech' differently
+# unit: US$ billion
+# coverage: 2021-2024
+# source_ids: S0147 (Tracxn via The Week, read via summariser; Inc42)
+# method: transcribed; never splice vendors (dispute xx)
+# breaks: Tracxn 2021 value is implied from its stated 31% decline in 2022
+year,vendor,funding_usd_bn,source_id,confidence,note
+2021,Tracxn (implied),c. 37,S0147,low,implied by 2022 figure and -31%
+2021,Inc42,c. 42,S0147,low,
+2021,other vendor (as reported),43.5,S0147,low,vendor not identified in register
+2022,Tracxn,25.7,S0147,medium,
+2023,Tracxn,10.8,S0147,medium,-58%
+2024,Tracxn,11.1,S0147,medium,+2.11%; six unicorns

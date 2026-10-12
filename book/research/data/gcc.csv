@@ -1,0 +1,22 @@
+# title: Global capability centres (GCCs) and MNC R&D centres in India
+# definition: counts, employees and revenue as defined by each source; 'MNC R&D centre' (2008) is narrower than 'GCC' (2024-26, includes back-office captives)
+# unit: centres; persons; US$ billion
+# coverage: 2004 (new centres), 2007-08, FY2024, FY2026; 2030 projection kept separate
+# source_ids: S0207 (Zinnov via EE Times 2008), S0141, S0317 (Nasscom-Zinnov 2024 via Reuters), S0318 (Zinnov-Nasscom FY26 via Business Today), S0140
+# method: transcribed; projection rows flagged
+# breaks: definitions and restatements (Nasscom restated GCC revenue in Sept 2024, S0140); all figures are from an industry body and a consultancy that sells to GCCs
+period,measure,value,unit,source_id,confidence,note
+2004,new MNC R&D centres opened,93,centres,S0207,low,read via summariser
+2007,new MNC R&D centres opened,24,centres,S0207,low,
+2008,MNC R&D centres,594,centres,S0207,low,"Bangalore 312, Pune 96"
+2008,MNC R&D centre employees,146760,persons,S0207,low,
+FY2024,GCCs (companies),"about 1,700",centres,S0317; S0141,medium,"2,975 units (S0141); '1750+' in Nasscom release (S0140)"
+FY2024,GCC employees,1900000,persons,S0317,medium,
+FY2024,GCC revenue,64.6,US$ bn,S0317; S0141,medium,
+FY2026,GCCs,2117,centres,S0318,medium,
+FY2026,GCC employees,2360000,persons,S0318,medium,
+FY2026,GCC revenue,98.4,US$ bn,S0318,medium,
+"2030 (projection, 2024)",GCCs,"2,100-2,200",centres,S0317,medium,PROJECTION
+"2030 (projection, 2024)",GCC employees,2.5-2.8 million,persons,S0317,medium,PROJECTION
+"2030 (projection, 2024)",GCC revenue,99-105,US$ bn,S0317,medium,PROJECTION
+2029 (target),new GCCs targeted by Karnataka policy,500,centres,S0204,low,TARGET; via summaries

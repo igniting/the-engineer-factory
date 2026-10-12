@@ -1,0 +1,17 @@
+# title: Unified Payments Interface (UPI) transactions, India
+# definition: annual (April-March) volume and value of UPI transactions, RBI payment system indicators
+# unit: volume in lakh and in billion transactions; value in Rs crore and in Rs lakh crore
+# coverage: FY2016-17 to FY2023-24 annual; one monthly point (Aug 2025)
+# source_ids: S0155 (RBI Handbook of Statistics on Indian Economy: 2021 ed. Table 63 id=20468; 2025 ed. Table 61 id=23235; 2026 ed. Table 58 id=23883; HTML views, accessed 2026-10-12); S0129
+# method: latest edition per year; editions agree where they overlap (FY2017-18 9,152 lakh in 2018 and 2021 editions; FY2016-17 value revised from Rs 6,900 crore to Rs 6,961 crore)
+# breaks: UPI introduced in FY2016-17 (RBI note). FY2024-25 not in the editions read. NPCI site unreachable from this container.
+period,volume_lakh,volume_billion,value_rs_crore,value_rs_lakh_crore,source_id,confidence,note
+FY2016-17,180,0.02,6961,0.07,"S0155 (RBI Handbook HTML id 20468 (2021 ed., Table 63))",high,
+FY2017-18,9152,0.92,109832,1.1,S0155 (RBI Handbook HTML id 20468),high,
+FY2018-19,53915,5.39,876971,8.77,S0155 (RBI Handbook HTML id 20468),high,
+FY2019-20,125186,12.52,2131730,21.32,S0155 (RBI Handbook HTML id 20468),high,
+FY2020-21,223307,22.33,4103658,41.04,"S0155 (RBI Handbook HTML id 23235 (2025 ed., Table 61))",high,
+FY2021-22,459561,45.96,8415900,84.16,"S0155 (RBI Handbook HTML id 23883 (2026 ed., Table 58))",high,
+FY2022-23,837144,83.71,13914932,139.15,S0155 (RBI Handbook HTML id 23883),high,
+FY2023-24,1311295,131.13,19995086,199.95,S0155 (RBI Handbook HTML id 23883),high,
+Aug 2025 (month),,20.01,,,S0129 (NPCI via press),medium,"first month above 20 billion transactions; monthly, not annual"

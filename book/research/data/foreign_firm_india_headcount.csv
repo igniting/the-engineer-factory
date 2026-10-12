@@ -1,0 +1,18 @@
+# title: India headcount of foreign (non-Indian-headquartered) IT firms
+# definition: employees in India as reported by the firm or press
+# unit: persons
+# coverage: sparse points 2005-2025
+# source_ids: S0193, S0194, S0170, S0293, S0192, S0299
+# method: transcribed
+# breaks: most firms do not disclose India headcount; IBM and Accenture points are press reports of company statements
+year,firm,india_employees,total_employees,source_id,confidence,note
+early 2005,IBM,23000,,S0194,medium,'two years earlier' than Feb 2007
+early 2006,IBM,39000,,S0194,medium,
+Feb 2007,IBM,53000,"c. 300,000",S0194,medium,">70,000 expected in 2007 (company)"
+Aug 2007 (planned),Accenture,35000,160000,S0193,medium,"plan; more than US (just over 30,000)"
+2021,EPAM,4349,"52,617 delivery",S0170,high,10-K FY2021
+2024,EPAM,10072,"c. 55,100 delivery",S0170,high,'India became our largest delivery location'
+2022,Cognizant,258500,355300,S0293,high,US-headquartered
+2023,Cognizant,254000,347700,S0293,high,
+2024,Cognizant,241500,336800,S0192,high,
+2025,Cognizant,256900,351600,S0299,high,

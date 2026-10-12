@@ -1,0 +1,21 @@
+# title: Computers installed in India, early counts
+# definition: machines counted by each source; scope differs (all digital computers, IBM installations, ECIL sales, PCs in use)
+# unit: machines
+# coverage: 1964-2010 points
+# source_ids: S0007, S0001, S0020, S0003, S0237
+# method: transcribed; table, not a series
+# breaks: different definitions; dispute (s) on IBM installations (over 150 vs 800 maintained)
+date,measure,value,source_id,confidence,note
+end 1964,digital computers in India,15,S0007,medium,read via summariser
+1961-64,"computers installed (12 R&D, 2 educational)",14,S0001 p. 18 [check],medium,
+1965,computers in India,30,S0020 p. 4,high,Committee on Automation
+1968,computers in India,88,S0020 p. 4,high,
+1967-71,computers introduced (5 referred for labour screening),94,S0020 p. 4,high,
+1970,IBM 1401 installations,about 80,S0001 p. 19,high,
+Aug 1971,"computers in India (govt 10, PSU 39, private 55, R&D 36)",140,S0020 p. 25,high,
+1971-78,ECIL computers sold (4 to private sector),98,S0001 pp. 25-26,high,plus 75 ruggedised TDC-316s for defence
+1974,IBM share of installations,65% of 217,S0003 p. 800,high,
+1977-78,IBM installations,over 150,S0001 p. 29,high,dispute (s): Dataquest says CMC maintained 800 (S0237)
+1978,computers in India,"less than 1,000",S0001 p. 29,high,
+1990,computers in India,80000,S0001 p. 29,high,growth after the 1984 policy (Ch. 8); scope not defined
+2010,personal computers in use,over 60 million,S0001 p. 7,medium,

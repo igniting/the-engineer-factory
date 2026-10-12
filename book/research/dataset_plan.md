@@ -71,18 +71,17 @@ Status codes: **ready** = registered sources cover most years; **partial** = cov
 
 | File | Definition and unit | Years | Sources | Breaks and method | Status |
 |---|---|---|---|---|---|
-| `gcc.csv` | Number of GCCs/MNC R&D centres and employees in India | 2004-2026 | S0207 (Zinnov: 594 centres, 146,760 staff, 2008; 93 new in 2004), S0141 (Nasscom-Zinnov FY24: 1,700+ GCCs, 1.9m staff, $64.6bn), S0204 (Karnataka 875); Phase 2 adds Nasscom-Zinnov 2030 projection (S0317) and FY26 2,117 GCCs, 2.36m, $98.4bn (S0318) | 'MNC R&D centre' vs 'GCC' (includes back-office captives); consultant counts revised. Separate columns per source. | partial |
-| `foreign_firm_india_headcount.csv` | India headcount of foreign IT firms | 1995-2026 | S0192 (Cognizant), S0193 (Accenture 2007), S0194 (IBM 2006), S0001 (IBM 2010: c. 85,000), S0170 (EPAM); Phase 2 adds Cognizant 2025: 256,900 of 351,600 in India (S0299) | Most firms do not disclose; sparse table. | partial |
-| `startup_funding.csv` | Venture/startup funding, US$ bn, deals | 2010-2026 | S0147 (Tracxn/Inc42 via press), S0190 (SaaS estimates) | Vendors differ ('tech startups' vs all). One column per vendor. | partial |
-| `upi.csv` | UPI monthly transactions, volume and value | 2016-2026 | S0129 (NPCI) | None (official). | ready |
-| `mobile_data_price.csv` | Effective mobile data price, Rs per GB | 2014-2026 | S0130 (Jio launch claims); TRAI reports (to register) | Company claims vs regulator data. | needs sources |
+| `gcc.csv` | Number of GCCs/MNC R&D centres and employees in India | 2004-2026 | S0207 (Zinnov: 594 centres, 146,760 staff, 2008; 93 new in 2004), S0141 (Nasscom-Zinnov FY24: 1,700+ GCCs, 1.9m staff, $64.6bn), S0204 (Karnataka 875); Phase 2 adds Nasscom-Zinnov 2030 projection (S0317) and FY26 2,117 GCCs, 2.36m, $98.4bn (S0318) | 'MNC R&D centre' vs 'GCC' (includes back-office captives); consultant counts revised. Separate columns per source. | **built 2026-10-12 (2004-08 Zinnov; FY24, FY26; projections flagged)** |
+| `foreign_firm_india_headcount.csv` | India headcount of foreign IT firms | 1995-2026 | S0192 (Cognizant), S0193 (Accenture 2007), S0194 (IBM 2006), S0001 (IBM 2010: c. 85,000), S0170 (EPAM); Phase 2 adds Cognizant 2025: 256,900 of 351,600 in India (S0299) | Most firms do not disclose; sparse table. | **built 2026-10-12, points (IBM, Accenture, EPAM, Cognizant)** |
+| `startup_funding.csv` | Venture/startup funding, US$ bn, deals | 2010-2026 | S0147 (Tracxn/Inc42 via press), S0190 (SaaS estimates) | Vendors differ ('tech startups' vs all). One column per vendor. | **built 2026-10-12, partial (Tracxn 2021-24; vendors apart)** |
+| `upi.csv` | UPI monthly transactions, volume and value | 2016-2026 | S0129 (NPCI) | None (official). | **built 2026-10-12 (RBI Handbook FY2016-17 to FY2023-24)** |
+| `mobile_data_price.csv` | Effective mobile data price, Rs per GB | 2014-2026 | S0130 (Jio launch claims); TRAI reports (to register) | Company claims vs regulator data. | **NOT BUILT: no regulator source reachable (TRAI); only Jio company claim (S0130)** |
 
 ## H. Early computing (small tables, not time series)
 
 | File | Content | Sources | Status |
 |---|---|---|---|
-| `computers_installed.csv` | Computers in India: 15 digital computers end-1964 (S0007); 12 R&D + 2 educational installations 1961-64 (S0001); c. 80 IBM 1401s by 1970 (S0001); ECIL 98 sold 1971-78 (S0001); <1,000 in 1978, 80,000 in 1990 (S0001) | S0001, S0007, S0041 | partial |
-
+| `computers_installed.csv` | Computers in India: 15 digital computers end-1964 (S0007); 12 R&D + 2 educational installations 1961-64 (S0001); c. 80 IBM 1401s by 1970 (S0001); ECIL 98 sold 1971-78 (S0001); <1,000 in 1978, 80,000 in 1990 (S0001) | S0001, S0007, S0041 | **built 2026-10-12 (table 1964-2010)** |
 ---
 
 ## Gaps to fill in Phase 3 (sources not yet registered)
