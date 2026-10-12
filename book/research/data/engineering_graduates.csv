@@ -1,0 +1,13 @@
+# title: Engineering graduates (out-turn) in India, point estimates
+# definition: measure column states what is counted; degree vs diploma kept apart
+# unit: persons per year
+# coverage: 2004 and c. 2013 only (AISHE out-turn tables not obtained)
+# source_ids: S0213 (Duke 2005), S0153 (Aspiring Minds 2014), S0001
+# method: transcribed as published
+# breaks: no consistent series. The Rajaraman 1.3 million row is kept only to document dispute (ii) and myth M08.
+period,measure,value,source_id,confidence,note
+2004,engineering_cs_it_bachelors,112000,"S0213 pp. 5, 8",medium,NASSCOM projection reported by Duke study; four-year degrees
+2004,engineering_cs_it_diplomas,103000,"S0213 pp. 5, 8",medium,three-year diplomas
+2004,engineering_cs_it_total,215000,S0213 p. 5,medium,bachelor's plus diploma
+c. 2013,engineering_graduates_claimed,600000,S0153 p. 7,low,Aspiring Minds: 'the six hundred thousand engineers that graduate annually'; no source given
+c. 2010,rajaraman_1_3_million,1300000,"S0001 pp. 12, 56",low,Rajaraman calls this both 'students' (p. 56) and graduates 'per year' (p. 12); probably intake (dispute ii); do not use as graduates

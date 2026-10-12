@@ -1,0 +1,34 @@
+# title: Engineering education capacity in India: institutions, approved intake, enrolment and vacancy
+# definition: separate columns per source and definition. 'approved intake' = AICTE maximum admissions excl. supernumerary seats (AICTE institutions only; IITs outside AICTE).
+#   enrolment_all_levels_first_year = students admitted against AICTE intake, all engineering levels (degree, diploma, PG), as given to Lok Sabha;
+#   aishe_be_btech_enrolment_all_years = students enrolled in all years of BE/BTech study (AISHE), a stock, not an intake.
+# unit: institutions; persons; percent
+# coverage: institutions 1950-51 to 2005-06; intake and enrolment 2012-13 to 2021-22; IIT seats 1978
+# source_ids: S0248 (MoSPI table 1.17); S0323 (Lok Sabha reply Dec 2021 via Careers360); S0267 (Avanti Fellows analysis of AICTE panel and AISHE); S0324 (Careers360 Apr 2023, AICTE and AISHE data); S0001 p. 34
+# method: lakh converted at 100,000. Reconciliation: Avanti's UG+diploma+PG intake equals the Lok Sabha all-level intake in both overlap years (2012-13: 26.95 lakh; 2021-22: 23.67 lakh).
+# breaks: AICTE 2022-23 data is an incomplete load (per S0267) and is not used; AICTE 'placed' data is unusable (per S0267). The Careers360 2023 'BTech' intake (23.7-25.4 lakh) does not match the UG-only or all-level series; definition unclear; low confidence.
+academic_year,eng_tech_colleges,aicte_intake_all_levels,aicte_intake_ug_degree,aicte_intake_diploma,aicte_intake_pg,enrolment_all_levels_first_year,vacancy_ug_pct,vacancy_diploma_pct,c360_btech_intake_2023table,c360_btech_enrolment_2023table,aishe_be_btech_enrolment_all_years,iit_seats,source_id,confidence,note
+1950-51,31,,,,,,,,,,,,S0248,high,
+1960-61,76,,,,,,,,,,,,S0248,high,
+1970-71,107,,,,,,,,,,,,S0248,high,
+1978-79,,,,,,,,,,,,1500,S0001 p. 34,low,"1,500 IIT seats for over 100,000 candidates"
+1980-81,149,,,,,,,,,,,,S0248,high,
+1985-86,242,,,,,,,,,,,,S0248,high,
+1989-90,285,,,,,,,,,,,,S0248,high,
+1990-91,289,,,,,,,,,,,,S0248,high,
+1994-95,337,,,,,,,,,,,,S0248,high,
+1995-96,355,,,,,,,,,,,,S0248,high,
+1997-98,486,,,,,,,,,,,,S0248,high,
+2000-01,678,,,,,,,,,,,,S0248,high,
+2001-02,1077,,,,,,,,,,,,S0248,high,
+2005-06,1562,,,,,,,,,,,,S0248,high,
+2012-13,,2695333,1549000,1008000,138000,1751538,37.6,32.2,,,,,S0323; S0267,high,
+2013-14,,,,,,1784127,,,,,,,S0323,high,
+2014-15,,,1705000,1262000,216000,1739357,,,,,,,S0323; S0267,high,"peak approved intake at UG, diploma and PG levels (S0267)"
+2015-16,,,,,,1677754,,,,,,,S0323,high,
+2016-17,,,,,,1559229,49.5,43.3,,,4085321,,S0323; S0267; S0324,high,
+2017-18,,,,,,1486462,,,,,,,S0323,high,
+2018-19,,,,,,1416319,,,,,,,S0323,high,
+2019-20,,,,,,1410683,44.3,41.8,2368590,1384326,,,S0323; S0267; S0324,high,
+2020-21,,,,,,1275880,44.1,49.1,2442918,1295347,3663685,,S0323; S0267; S0324,high,
+2021-22,,2366728,1253000,977000,137000,,34.1,49.4,2539502,1411001,,,S0323; S0267; S0324,high,

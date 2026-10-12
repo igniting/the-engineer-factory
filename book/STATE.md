@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 3, step 7: Part D education series.** Build `engineering_intake.csv` (AICTE approved intake and number of engineering institutions by year; sources in dataset_plan.md row D, e.g. S0267 approved intake 15.49 lakh 2012-13, S0153, S0001, MoSPI/AISHE series; try AICTE dashboard facilities.aicte-india.org/dashboard and AISHE reports) and `engineering_graduates.csv` (bachelor's graduates, AISHE out-turn; S0213 for 2004; S0153 for c. 2013). Keep intake vs enrolment vs graduates apart (dispute ii, myth M08). Script `build_education.py`; notes `data/notes/education.md`. Then `women_engineering_enrolment.csv` and `cs_degrees_early.csv`.
+**Phase 3, step 8: `women_engineering_enrolment.csv` and `cs_degrees_early.csv`.** (a) Women's share of B.Tech/BE enrolment: S0152 (AISHE 2020-21: 28.7%), plus any AISHE year found via PIB/press (AISHE site aishe.gov.in; try once), NCAER IT-workforce shares (S0211, located: open it) and Fuller-Narasimhan Chennai figures (S0117) as a separate column. (b) cs_degrees_early: a small table, not a series, from S0001 (IIT Kanpur M.Tech CS option 1965, first B.Tech CS 1978, MCA from 1980, any counts with pages), S0003, Ch. 2 and Ch. 7 dossiers. Then Part E labour market per plan (`graduate_unemployment.csv` from S0154 PLFS; `employability_tests.csv` from S0153; `fresher_pay.csv`).
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -17,7 +17,7 @@
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
-- [ ] Phase 3 - Data CSVs (10/30 built: us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports, industry_workforce (points), top_firms, fresher_hiring, firm_women_attrition (last three partial))
+- [ ] Phase 3 - Data CSVs (12/30 built: engineering_intake, engineering_graduates (partial), us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports, industry_workforce (points), top_firms, fresher_hiring, firm_women_attrition (last three partial))
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 3 step 7: built `data/engineering_intake.csv` (MoSPI colleges 1950-51 to 2005-06; AICTE all-level intake 2012-13 and 2021-22 from Lok Sabha reply via Careers360 S0323, reconciled exactly with Avanti's by-level figures S0267; all-level enrolment 2012-13 to 2020-21; vacancy; Careers360 2023 'BTech' table kept apart as unclear) and `data/engineering_graduates.csv` (2004 Duke; c. 2013 Aspiring Minds; Rajaraman 1.3m kept only to document dispute ii). AICTE dashboard, eparlib and Avanti's GitHub unreachable. New S0323, S0324; S0267 now seen. Register 321. | data/engineering_intake.csv, data/engineering_graduates.csv |
 | 2026-10-12 | Phase 3 step 6: built `data/fresher_hiring.csv` (Infosys recruitment funnel for 16 fiscal years FY1998-FY2026 from 20-F Item 6.D and the 1999 prospectus; offers include laterals from FY2004; TCS/HCLTech/Infosys fresher press points in a separate measure column) and `data/firm_women_attrition.csv` (Infosys attrition FY2006-12; Cognizant total attrition 2020-22 and voluntary tech-services attrition 2022-25, women 36-39%; TCS FY25 and Q2 FY27). Worker restarted mid-step; files verified and rebuilt. Script `build_hiring.py`; notes `hiring_attrition.md`. | data/fresher_hiring.csv, data/firm_women_attrition.csv |
 | 2026-10-12 | Phase 3 step 5: built `data/top_firms.csv` (partial): Infosys revenue and headcount FY1999-FY2026 from 20-F five-year comparison sentences and SEC XBRL (gaps FY2002-03, 2007, 2011, 2013-15); Wipro INR revenue FY2016-26 (XBRL + 20-F FY2026) with book's own FX conversion and 'more than' headcounts FY2019-26; Cognizant revenue 2007-25 (XBRL) and headcount points incl. India 2022-25; TCS headcount points (FY26 derived, flagged). Revenue per employee on mean headcount: Infosys flat at $44-57k nominal FY2001-24, then $60-62k FY2025-26. Registered S0322 (Infosys 20-F FY2001). Register 319. | data/top_firms.csv |
 | 2026-10-12 | Phase 3 step 4: built `data/industry_workforce.csv` (8 sourced points FY1989-90 to FY2025-26: NASSCOM 56,000 and 200,000 via Infosys 424B4 S0259 p. 41; 160,000 1996; c. 2m FY2008; 2.4m 2010 S0001; 5.67m/5.8m/59.5 lakh S0140, S0306; NITI all-sector range separate). Closed most of the software_exports gap: older RBI Handbook editions found as HTML views (2008, 2014, 2017, 2018 eds.), giving BoP 'Software services' receipts 2000-01 to 2025-26 complete; only FY1998-2000 missing. Scripts `build_workforce.py`, `build_exports.py`; notes updated. | data/industry_workforce.csv, data/software_exports.csv |
