@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 62; 1990s 68; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 64; 1990s 69; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 342 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 345 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -131,10 +131,10 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1981 | Electronics Commission committee (Rajaraman) on allowing computer imports for software export | S0001 | 6
 1981-07 | Infosys organised in India by seven founders (per its 1999 SEC filing) | S0089 | 6
 1981-07-02 | Infosys Consultants Pvt Ltd registered in Pune (date from secondary sources; confirm in Infosys filings) | S0034 (to confirm) | 6
-1982 | Asian Games in Delhi; Rajiv Gandhi in charge of organisation | S0001 | 8
 1982 | Electronic voting machines first used in a by-election in Kerala | S0001 | 8
 1982 | Manufacturers' Association for Information Technology (MAIT) formed | S0001 | 8
 1982 | Waiting time for a landline telephone exceeds two years | S0001 | 8
+1982 | Asian Games results system built by NIC in six months on DCM terminals and an HP server; Rajiv Gandhi in charge | S0001 | 8
 1982-12 | Dataquest magazine launched | S0077 | 5
 c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws and Bangalore's engineering talent [year from secondary sources; Murthy gives reasons, not year] | S0034 (p. 10) | 6, 10
 1983-07-11 | Karnataka anti-capitation-fee ordinance in force (Act of 1984) | S0064 | 7
@@ -145,16 +145,16 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1984 | C-DOT telecom research group formed under Sam Pitroda | S0001 | 8
 1984-08 | Computer Maintenance Corporation renamed CMC Ltd | S0066 | 8
 1984-10 | Indira Gandhi assassinated; Rajiv Gandhi becomes Prime Minister | S0001 | 8
-1984-11 | Computer Policy announced (month to confirm) | S0062 | 8
+1984-11-19 | New Computer Policy announced; expects software exports of $258m by 1990 | S0237, S0241 | 8
 1985 | Texas Instruments opens software design centre in Bangalore; claims first satellite dish used to export software | S0061 | 8
 1985 | DoE negotiates with the Department of Telecommunications to let TI set up a dedicated satellite link to Dallas | S0001 | 8
 1985 | Sampath committee recommends training computer-science teachers for new colleges | S0001 | 7
 1985 | DoE-UNDP Knowledge Based Computer Systems programme ($5.2 million) | S0001 | 8
 1985 | ECIL collaborates with Norsk Data (and with CDC in 1988) | S0001 | 8
-1985-10-15 | CMC's IMPRESS computerised passenger reservation goes live in New Delhi (date from Wikipedia; confirm with S0067) | S0067 | 8
+1985 | Bullock cart delivers TI's satellite equipment to Sona Towers, Miller Road, Bangalore (eyewitness recollection) | S0249, S0250 | 8
 1985-10-28 | Citicorp Overseas Software Ltd (COSL) inaugurated at SEEPZ, Bombay | S0240 | 6, 15
+c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 Oct or 15 Nov 1985 in secondary sources; dispute (g)] | S0067 (located) | 8
 1985-86 | 242 engineering and technology colleges (+62% in five years) | S0248 | 7
-1986 | Software export, development and training policy | S0062 | 8
 1986 | Aptech founded by Atul Nishar in Mumbai [disputed: 1985 per Ashoka profile] | S0083 | 7
 1986 | National Policy on Education calls for statutory AICTE | S0076 | 7
 1986 | Tally (as Peutronics) founded by Shyam Sunder and Bharat Goenka; Tally 3.0 released 1988 | S0178 | 8, 16
@@ -162,8 +162,10 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1986 | VSNL established for overseas communications | S0001 | 8
 1986 | ERNET academic network project funded ($6 million UNDP) | S0001 | 8
 1986 | Science Advisory Committee (C.N.R. Rao) sets up committee on high-performance computers, chaired by Rajaraman | S0001 | 8
-1986 | Computerised railway reservation goes live at New Delhi booking office [disputed: S0001 says 1986; Wikipedia 15 Oct 1985] | S0001, S0067 | 8
+1986 | Computerised railway reservation live at New Delhi booking office, 50 counters; clerks increased, not cut [dispute (g): pilot 1985] | S0001 | 8
 1986 | Tata Burroughs renamed Tata Unisys; with TCS supplies nearly 70% of body-shopping exports | S0240 | 6
+1986-12 | Policy on Computer Software Export, Software Development and Training: duty-free imports against 250% export obligation in 4 years; satellite exports allowed | S0241, S0001 | 8
+1986-12-29 | Christian Science Monitor reports planned US supercomputer sale to India (letter in reply 8 Jan 1987) | S0079 | 8
 1987 | India seeks a Cray X-MP/24; US blocks sale | S0079, S0080 (myth M05) | 8
 1987 | AICTE Act (Act 52 of 1987) gives AICTE statutory powers | S0076 | 7
 1987 | Sterling Computers sells the Shiva PC, an IBM clone, for Rs 29,000 | S0001 | 8
@@ -185,19 +187,20 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1989 | DoE comes under an IAS officer after a dispute between technocrats | S0001 | 8
 1989-06-05 | Karnataka notification sets private medical fees at Rs 2,000 / 25,000 / 60,000 by category | S0064 | 7
 1990 | N. Vittal (IAS) takes over the DoE | S0001 | 9
-1990 | First Software Technology Park established in Bangalore | S0001 | 9
 1990 | About 80,000 computers in India; software exports c. $128-131 million | S0001 | 8, 9
 1990 | GE begins working with Infosys | S0034 | 6, 11
 1990 | HCL programmer (pseudonym in source) sent to Palo Alto on B1/B2 visa; Sun billed $50 an hour, about half kept by HCL | S0242 | 6
 1990/91 | Indian software exports $131.2 million | S0085 | 6, 9
+1990-08 | First Software Technology Park opens at Pune; Bangalore follows October 1990, Bhubaneswar December 1990 | S0241, S0091 | 8, 10
 1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
+1990-10 | Bangalore Software Technology Park opens (S0001 calls it the first; Pune opened August 1990 per S0241) [dispute (j) resolved] | S0001, S0241 | 9
 1990-91 | 289 engineering and technology colleges | S0248 | 7
 1991 | PARAM 8000 unveiled by C-DAC (date to confirm against C-DAC sources) | S0080 | 8
 1991 | Nasscom hires Dewang Mehta as president | S0001 | 9
 1991 | C-DAC completes its first parallel computer (PARAM) | S0001 | 8
 1991 | Bansal Classes founded in Kota (coaching begun early 1980s) | S0246 | 7
 1991-05 | Rajiv Gandhi assassinated; Infosys postpones its IPO | S0034 | 9
-1991-06-05 | STPI registered as an autonomous society under the Department of Electronics | S0091 | 9
+1991-06-05 | STPI registered as an autonomous society under the Department of Electronics | S0091 | 8, 9
 1991-07-24 | Manmohan Singh's budget extends the section 80HHC export tax concession to software exports | S0088 | 9
 1991-11-08 | Tally's company incorporated (renamed Tally Solutions 1999) | S0178 | 16
 1992 | Citicorp spins out its software unit (later i-flex) with $400,000 under Rajesh Hukku | S0176 | 16

@@ -226,4 +226,4 @@ Page = the printed 'Page n of 25' at the foot of each page.
 
 - (v) Who and what was the 'first' Silicon Valley body shopping: 1987 (S0242) against TCS and Patni onsite work in the 1970s (S0240; Ch. 4).
   - Probably different scopes (Silicon Valley against the US generally).
-- (w) TI Bangalore start: 1985 (S0001, p. 35) against 1986 (S0085, p. 13). Carry to Ch. 10.
+- (w) TI Bangalore start: 1985 (S0001, p. 36) against 1986 (S0085, p. 13). Carry to Ch. 10.
