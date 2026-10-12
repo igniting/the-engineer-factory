@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 46; 1980s 65; 1990s 77; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 79; 2000s 36; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 355 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 362 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -222,24 +222,25 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1993 | Shift from B-1 to H-1 visas for Indian onsite workers raises their cost (prevailing wage) | S0254, S0085 | 9, 13
 1993-02-04 | Supreme Court, Unni Krishnan: free-seat/payment-seat scheme for private professional colleges | S0063 | 7
 1993-02-24 | Infosys IPO opens (listed June 1993); raises about $4.4 million | S0034, S0089 | 11
-1994 | Infosys launches its Employees Stock Offer Plan | S0089 | 11
 1994 | Oracle opens India Development Center in Bangalore (Hyderabad 1999) | S0196 | 10, 16
 1994 | National Telecom Policy allows private firms into telecom | S0001 | 9
 1994 | Infosys raises $7.7 million from foreign institutional investors | S0089 | 11
 1994 | American Express sets up back-office centre in Mumbai [disputed: Gurgaon per other sources; 1992 per Roy's firm] | S0001, S0206 | 14
 1994 | World Bank study: body shopping 70-80% of export revenue, 'hourly or monthly rate'; warns automation tools may erode demand | S0241 | 6, 19
 1994-03 | First TiE conference (later TiECon) | S0116 | 13
+1994-09 | Infosys adopts its ESOP through an employee welfare trust ("one of the first employee stock option plans in India", company claim); exercise price Rs 100, five-year vesting | S0089 (p. 28, note 17) | 11
 1994-95 | 337 engineering and technology colleges | S0248 | 7, 12
 1995 | DoE starts accrediting private computer training institutes (DOEACC) | S0001 | 7
 1995 | Infosys adopts US GAAP reporting voluntarily | S0089, S0034 | 11
 1995 | Onsite work 66% of Indian software revenue (from 90% in 1988; 56% in 2000) | S0254 | 9, 11
+1995 | European Union announces the euro as common currency from 1 January 1999; legacy-system conversion work follows | S0001 (p. 47) | 11
 1995-05 | GE, then Infosys's largest client, seeks price cuts; Infosys declines and loses much of the business | S0034, S0089 | 11
 1995-1996 | AdventNet (later Zoho) founded in Chennai by the Vembu brothers and Tony Thomas | S0175 | 16
 1996 | F.C. Kohli succeeded by S. Ramadorai as TCS chief | S0001 | 11
 1996-10 | GE Capital International Services set up in Gurgaon [disputed: 1997 in other accounts] | S0110 | 14
 1997 | i-flex's FLEXCUBE core-banking product launched, built in Bangalore | S0176 | 16
-1997 | Y2K work estimated at 23% of Infosys revenue [disputed (dd): 7.5% of fiscal 1997 revenue per S0089] | S0001 (citing S0005, p. 349), S0089 | 11
 1997 | TI announces 'Ankur' DSP chip designed entirely in India | S0001 | 16
+1997-04 to 1998-03 | Y2K conversion is 23.3% of Infosys revenue in fiscal 1998 (7.5% in fiscal 1997; 21.4% in Apr-Dec 1998); S0001's "23% in 1997" is fiscal 1998 [dispute (dd) resolved] | S0089 (p. 15), S0001 (p. 46) | 11
 1997-1998 | Software services exports reach $1.76 billion (from $128 million in 1990-91) | S0001 | 9, 11
 1998 | Infosys reaches SEI CMM Level 4 (fiscal 1998; secondary source) | S0121 | 12
 1998 | SAP Labs India launched in Bangalore | S0197 | 16
@@ -261,16 +262,22 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1999 | New Telecom Policy liberalises telecom further | S0001 | 11
 1999 | Indians receive 47% of US H-1B visas (55,047) | S0255 | 10, 13
 1999-02 | Infosys files Form F-1 with the US SEC for 1,800,000 ADSs | S0089, S0090 | 11
-1999-03 | Infosys ADSs priced at $34 and listed on Nasdaq as INFY; first India-based company on a US exchange | S0090 | 11
-1999-10 | Satyam Infoway lists on Nasdaq | S0179 | 11, 16
+1999-03-11 | Infosys prices 1.8m ADSs at $34 ($61.2m gross) and lists on Nasdaq as INFY ["first India-based company on a US exchange" per unread press release S0090; verify] | S0259, S0090 | 11
+1999-06 | NASSCOM: software exports $2.65bn in 1998/99 (+51.4%), of which Y2K $560m (21.1%); 203 of the Fortune 1000 use Indian firms (lobby figures) | S0109 | 11
 1999-10 to 2000-02 | India-born workers are 48.5% of H-1B approvals with known birth country (INS) | S0104 | 13
+1999-10-19 | Satyam Infoway (Sify) ADSs begin trading on the Nasdaq National Market | S0261, S0179 | 11, 16
 1999-2000 | Software export revenue 57% onsite, 35% offshore, 8% products (Nasscom data) | S0086 | 6, 11
 2000 | Information Technology Act passed | S0001 | 11
 2000 | US President Clinton visits India | S0001 | 13
 2000 | Simputer handheld designed by IISc and Encore Software | S0001 | 16
 2000-01 | Y2K rollover; Nasscom puts India's own Y2K cost at Rs 1,800 crore | S0108 | 11
-2000-06-14 | Rediff.com lists on Nasdaq; shares rise c. 61% on debut | S0179 | 11, 16
+2000-06-14 | Rediff.com lists on Nasdaq; shares rise c. 61% on debut | S0179, S0261 | 11, 16
+2000-09-30 | Infosys stock options held by 7,853 of 7,925 employees; 1,773 "rupee millionaires" and 213 "dollar millionaires" | S0262 | 11
+2000-12-15 | Infosys share price Rs 7,160 (Rs 63.75 in April 1996) | S0262 | 11
+2001-11-05 | Securities class action filed in New York against Sify, its officers and IPO underwriters over IPO allocations | S0261 | 11
 2002 | Private universities permitted by state acts | S0001 | 12
+2002-01 | Anna University campus placements fall to c. 320 from 1,200; TCS, Infosys and Cognizant cut intake; some firms defer joining by a year and cut promised pay 50-60% | S0263 | 11, 12
+2002-03-31 | Infosys has 9,400 IT professionals (2,200 in 1998), 193,640 applications in FY2002, and reports a rising fixed-price share | S0260 | 11, 12
 2002-2007 | Nandan Nilekani is Infosys CEO (Kris Gopalakrishnan 2007-11, S.D. Shibulal 2011-14) | S0034 | 11, 15
 2004 | Google opens Bangalore R&D centre under Krishna Bharat | S0200 | 13, 16
 2004 | Goldman Sachs opens Bengaluru centre with about 300 support staff | S0202 | 16
