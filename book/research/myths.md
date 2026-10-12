@@ -1,5 +1,7 @@
 # Myths and contested claims
 
+**Chapter numbers in this file refer to outline v0** (until re-tagged in Phase 2). Mapping to outline v1 (2026-10-12): v0 1-14 = v1 1-14; v0 15 (Satyam and Aadhaar) = v1 16; v0 16 (product question) = v1 17; v0 17 (pandemic) = v1 18; v0 18 (AI) = v1 19; new v1 15 (foreign centres/GCCs) draws on sources tagged 14 and 16.
+
 Each claim: where it is commonly stated, what the evidence shows so far, a **provisional** verdict, and source IDs. Verdicts: TRUE / MOSTLY TRUE / MIXED / MOSTLY FALSE / FALSE / UNRESOLVED. All verdicts below are provisional (Phase 1c, 2026-10-11) and must be re-tested in the relevant chapter dossier against the sources themselves (most are still at 'located', not 'seen'). A myth may only be called FALSE in the book when two independent sources support that verdict.
 
 Each entry also notes **what would change the verdict** so the dossier work is targeted.

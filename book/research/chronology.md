@@ -1,5 +1,7 @@
 # Chronology
 
+**Chapter numbers in this file refer to outline v0** (until re-tagged in Phase 2). Mapping to outline v1 (2026-10-12): v0 1-14 = v1 1-14; v0 15 (Satyam and Aadhaar) = v1 16; v0 16 (product question) = v1 17; v0 17 (pandemic) = v1 18; v0 18 (AI) = v1 19; new v1 15 (foreign centres/GCCs) draws on sources tagged 14 and 16.
+
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
 **Decade spread:** 1930s-40s 5; 1950s 21; 1960s 41; 1970s 36; 1980s 50; 1990s 61; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.

@@ -1,5 +1,7 @@
 # Source register
 
+**Chapter numbers in this file refer to outline v0** (until re-tagged in Phase 2). Mapping to outline v1 (2026-10-12): v0 1-14 = v1 1-14; v0 15 (Satyam and Aadhaar) = v1 16; v0 16 (product question) = v1 17; v0 17 (pandemic) = v1 18; v0 18 (AI) = v1 19; new v1 15 (foreign centres/GCCs) draws on sources tagged 14 and 16.
+
 Every source used anywhere in the book gets one entry here, with a permanent ID. IDs are never reused or renumbered; a withdrawn source is marked WITHDRAWN with a reason.
 
 **Type codes:** P = primary; S = secondary; D = dataset (official or vendor data series).
