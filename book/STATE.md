@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 3, step 1: reference series.** Build `research/data/us_cpi_u.csv` (BLS CPI-U annual averages 1950-2025, S0157; try the BLS public API series CUUR0000SA0 or the published annual-average table; 2026 partial-year marked LIVE-CHECKED or omitted) and `research/data/inr_usd.csv` (RBI Handbook annual-average rupee per US dollar, calendar and fiscal year, 1950-2026, S0155; old-style rbi.org.in Scripts URLs work via WebFetch; cross-check 1951 Rs 4.5 and 1966/1991 devaluations against S0001). Each CSV opens with '#' header lines per `dataset_plan.md` (title, definition, unit, coverage, source IDs, method, breaks), and every row carries source_id and confidence. Write companion notes in `research/data/notes/`. Then `cpi_iw.csv` (S0156; register the pre-1982 linking factor or record the gap). Before building, add the Phase 2 inputs listed in `dossiers/phase2-review.md` section 7 to the relevant CSV rows of `dataset_plan.md`.
+**Phase 3, step 2: `cpi_iw.csv`.** CPI for Industrial Workers, all-India general index, 1960-2026, each base as published (1960=100, 1982=100, 2001=100, 2016=100) plus a linked series rebased to 2016=100 using published linking factors only (S0156: 4.63 for 1982 to 2001; 2.88 for 2016 to 2001; find and register the 1960 to 1982 factor, else record the gap). Try RBI Handbook HTML views (PublicationsView.aspx; the CPI-IW table is in the 'Prices' section of the Handbook page used for Tables 132-133) and Labour Bureau pages. Same header and row rules; add to `scripts/build_reference.py` or a new script; notes in `data/notes/reference_series.md`. Then step 3: `software_exports.csv` per plan.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -17,7 +17,7 @@
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
-- [ ] Phase 3 - Data CSVs
+- [ ] Phase 3 - Data CSVs (3/29 built: us_cpi_u, inr_usd, inr_usd_fy)
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 3 step 1: built `data/us_cpi_u.csv` (BLS CPI-U 1950-2025, to-2025-dollar factor; Oct 2025 missing), `data/inr_usd.csv` (calendar year 1950-2025: RBI Table 132 from 1987, Fed G.5A 1973-86, PWT 11.0 1950-72, separate columns plus preferred column with stated rule; overlaps within 0.3%) and `data/inr_usd_fy.csv` (RBI Table 133, FY1986-87 to FY2025-26); script `data/scripts/build_reference.py`; notes `data/notes/reference_series.md`. rbidocs XLSX blocked, HTML views used. New S0319 (PWT), S0320 (Fed G.5A); S0155, S0157 now seen. dataset_plan updated with Phase 2 inputs. Register 317. | data/*.csv |
 | 2026-10-12 | Phase 2 close-out: `phase2-review.md` written. All 21 dossiers pass gates (113,815 words); rank-and-file met in 9 (real names in 5), weak in 3, NOT met in 9 (Ch. 1, 3, 4, 8, 9, 10, 14, 15, 17), mostly fixable only by author acquisitions; disputes (a)-(nnn) sorted into resolved (8 + 5 compatible), Phase 5 verification, and open-in-text; gaps ranked (author-supplied vs fetchable); myth verdicts tabulated (6 unresolved); 10 framing corrections owed at drafting. Phase 2 marked done. | phase2-review.md |
 | 2026-10-12 | Phase 2 Epilogue: NITI Aayog/Nasscom/BCG roadmap (S0316: 2031 tech workforce 6m downside vs 10m upside from a 7.5-8m all-sector base; price per FTE +5-8%; illustrative personas flagged as not real); Nasscom-Zinnov GCC 2030 projection (S0317) vs FY26 actuals already near it (S0318). Four scenarios (thinning pyramid, diamond, client moves in, builder state), each tied to dossier evidence with signposts and counter-evidence. No 2035 forecast exists; scenarios marked as the book's. Disputes (lll)-(nnn). Register 315; chronology 444. | epilogue-notes.md, epilogue.md |
 | 2026-10-12 | Phase 2 Prologue: no fresher named by real name found in 2022-26 reporting; best documented case is 'Gayatri (name changed)', a 2022 Infosys recruit onboarded at Mysuru in Oct 2024 after nearly two years and made to sign a separation agreement on 7 Feb 2025 (S0311, Newslaundry/TNM). Supporting: Outlook Business (S0312), Republic (S0313), BT (S0314), DH (S0315, S0133), HR Katha (S0133); TCS FY27 offers 25,000 'so far' and 24,000 joined by Sept 2026 (S0309, S0310, S0138), which weakens the 'fresher target cut' framing. Disputes (ggg)-(kkk). M30 updated. Register 312; chronology 441. Author decision needed on using a reporter's pseudonym. | prologue-notes.md, prologue.md |

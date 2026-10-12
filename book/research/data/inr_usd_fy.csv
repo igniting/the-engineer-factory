@@ -1,0 +1,48 @@
+# title: Indian rupees per US dollar, financial year (April-March) annual average and end-year rate
+# definition: RBI Handbook Table 133, US dollar columns
+# unit: rupees per US dollar
+# coverage: FY1986-87 to FY2025-26; year_end is the calendar year in which the financial year ends
+# source_ids: S0155 (https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23958, accessed 2026-10-12)
+# method: values copied as published. Use the average for fiscal-year flow series (rule D3); use end-year for stocks at 31 March.
+# breaks: official rates to 1991-92; FEDAI indicative from 1992-93; RBI reference rates from May 2012; FBIL from July 2018. Earlier fiscal years: no RBI series obtained; derive from monthly data in Phase 3 if needed, documented.
+fiscal_year,year_end,inr_per_usd_avg,inr_per_usd_end_year,source_id,confidence,basis
+FY1986-87,1987,12.7782,12.8882,S0155,high,official rates
+FY1987-88,1988,12.9658,13.0318,S0155,high,official rates
+FY1988-89,1989,14.4817,15.6630,S0155,high,official rates
+FY1989-90,1990,16.6492,17.3248,S0155,high,official rates
+FY1990-91,1991,17.9428,19.6429,S0155,high,official rates
+FY1991-92,1992,24.4737,31.2256,S0155,high,official rates
+FY1992-93,1993,30.6488,31.2354,S0155,high,FEDAI indicative
+FY1993-94,1994,31.3655,31.3725,S0155,high,FEDAI indicative
+FY1994-95,1995,31.3986,31.4950,S0155,high,FEDAI indicative
+FY1995-96,1996,33.4498,34.3500,S0155,high,FEDAI indicative
+FY1996-97,1997,35.4999,35.9150,S0155,high,FEDAI indicative
+FY1997-98,1998,37.1648,39.4950,S0155,high,FEDAI indicative
+FY1998-99,1999,42.0706,42.4350,S0155,high,FEDAI indicative
+FY1999-00,2000,43.3327,43.6050,S0155,high,FEDAI indicative
+FY2000-01,2001,45.6844,46.6400,S0155,high,FEDAI indicative
+FY2001-02,2002,47.6919,48.8000,S0155,high,FEDAI indicative
+FY2002-03,2003,48.3953,47.5050,S0155,high,FEDAI indicative
+FY2003-04,2004,45.9516,43.4450,S0155,high,FEDAI indicative
+FY2004-05,2005,44.9315,43.7550,S0155,high,FEDAI indicative
+FY2005-06,2006,44.2735,44.6050,S0155,high,FEDAI indicative
+FY2006-07,2007,45.2495,43.5950,S0155,high,FEDAI indicative
+FY2007-08,2008,40.2607,39.9850,S0155,high,FEDAI indicative
+FY2008-09,2009,45.9933,50.9450,S0155,high,FEDAI indicative
+FY2009-10,2010,47.4433,45.1350,S0155,high,FEDAI indicative
+FY2010-11,2011,45.5626,44.6450,S0155,high,FEDAI indicative
+FY2011-12,2012,47.9229,51.1600,S0155,high,FEDAI indicative
+FY2012-13,2013,54.4099,54.3893,S0155,high,"FEDAI to April 2012, then RBI reference"
+FY2013-14,2014,60.5019,60.0998,S0155,high,RBI/FBIL reference
+FY2014-15,2015,61.1436,62.5908,S0155,high,RBI/FBIL reference
+FY2015-16,2016,65.4685,66.3329,S0155,high,RBI/FBIL reference
+FY2016-17,2017,67.0720,64.8386,S0155,high,RBI/FBIL reference
+FY2017-18,2018,64.4549,65.0441,S0155,high,RBI/FBIL reference
+FY2018-19,2019,69.9229,69.1713,S0155,high,RBI/FBIL reference
+FY2019-20,2020,70.8970,75.3859,S0155,high,RBI/FBIL reference
+FY2020-21,2021,74.2250,73.5047,S0155,high,RBI/FBIL reference
+FY2021-22,2022,74.5039,75.8071,S0155,high,RBI/FBIL reference
+FY2022-23,2023,80.3635,82.2169,S0155,high,RBI/FBIL reference
+FY2023-24,2024,82.7897,83.3739,S0155,high,RBI/FBIL reference
+FY2024-25,2025,84.5756,85.5814,S0155,high,RBI/FBIL reference
+FY2025-26,2026,88.3071,94.6543,S0155,high,RBI/FBIL reference
