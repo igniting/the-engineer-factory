@@ -12,3 +12,10 @@
 2. **S0001's '1951: Rs 4.5'** does not match the official parity of about Rs 4.76. Recorded as approximate.
 3. **The 2026 values** (CPI January-August; FY2025-26 exchange rate) are live data and should be refreshed at final assembly.
 4. **RBI Handbook XLSX and PDF files on rbidocs** are blocked by a CAPTCHA. The HTML table views on rbi.org.in work and were used.
+
+## CPI (added 2026-10-12)
+- **`cpi_iw.csv`.** RBI Handbook Table 34, fiscal years FY1993-94 to FY2025-26. It is linked to 2016=100 with the factors the table itself publishes (4.63; 2.88). `to_fy2025_26_inr` gives FY2025-26 rupees. Values on the old bases are whole numbers, so linked values carry about 0.2% rounding error.
+- **`cpi_india_cy.csv`.** OECD MEI India CPI, calendar years 1957-2024 (2015=100), used for calendar-year rupee series and for anything before FY1993-94.
+  - **How it was tested.** Over 1994-2024 its five-year changes match RBI's CPI-IW within about 1%. Its 2019 inflation (7.7%) matches CPI-IW, not CPI Combined (3.7%, World Bank FPCPITOTLZGIND). The OECD's own source note was not read, so confidence is medium.
+- **Gap.** The planned 1960=100 CPI-IW series, and its linking factor to 1982=100, were not obtained. The OECD series makes it unnecessary for deflation, but the book should not quote CPI-IW index numbers before 1993-94.
+- **Rule for drafting.** Fiscal-year rupee values: deflate with `cpi_iw.csv`. Calendar-year rupee values, or any year before FY1993-94: deflate with `cpi_india_cy.csv`. State which one in each table note.

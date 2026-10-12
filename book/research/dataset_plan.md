@@ -19,7 +19,8 @@ Status codes: **ready** = registered sources cover most years; **partial** = cov
 |---|---|---|---|---|---|
 | `inr_usd.csv` | Rupees per US dollar, annual average; calendar and fiscal year | 1950-2026 | S0155 (RBI Handbook); S0001 gives 1951 (Rs 4.5) and 1960s-80s spot values to cross-check | Official rate to 1992; FEDAI indicative 1993-April 2012; RBI reference rate from May 2012 (S0155). Note 1966 and 1991 devaluations. Mark 2025-26 values LIVE-CHECKED. | **built 2026-10-12** (calendar year 1950-2025; RBI/Fed G.5A/PWT columns, S0155, S0320, S0319) |
 | `inr_usd_fy.csv` | Rupees per US dollar, financial-year average and end-year | FY1986-87 to FY2025-26 | S0155 (RBI Table 133) | Pre-1986-87 not obtained; derive from monthly G.5A if needed. | **built 2026-10-12** |
-| `cpi_iw.csv` | CPI for Industrial Workers, all-India general index, each base as published, plus a linked series rebased to a stated year | 1960-2026 | S0156; RBI Handbook | Bases 1960, 1982, 2001, 2016. Use published linking factors only; record each factor in the header. | partial (pre-1982 linking factor to register) |
+| `cpi_iw.csv` | CPI for Industrial Workers, all-India general index, each base as published, plus a linked series rebased to a stated year | 1960-2026 | S0156; RBI Handbook | Bases 1960, 1982, 2001, 2016. Use published linking factors only; record each factor in the header. | **built 2026-10-12** (FY1993-94 to FY2025-26, linked to 2016=100; 1960-base series not obtained) |
+| `cpi_india_cy.csv` | India CPI (OECD MEI, tracks CPI-IW), calendar-year average, 2015=100 | 1957-2024 | S0321 | Used for calendar-year rupee series and pre-1993-94 deflation. | **built 2026-10-12** |
 | `us_cpi_u.csv` | US CPI-U, annual average, 1982-84=100 | 1950-2026 | S0157 | None. | **built 2026-10-12** (1950-2025; 2025 on 11 months) |
 
 ## B. Industry size

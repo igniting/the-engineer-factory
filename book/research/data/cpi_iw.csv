@@ -1,0 +1,41 @@
+# title: Consumer Price Index for Industrial Workers (CPI-IW), all-India general index, financial-year average (April-March)
+# definition: Labour Bureau CPI-IW as reproduced in RBI Handbook Table 34; value_as_published on the base in force that year; linked_2016_100 rebased with the published linking factors
+# unit: index; linked_2016_100 has 2016=100; to_fy2025_26_inr multiplies a nominal rupee value of that year to express it in FY2025-26 rupees
+# coverage: FY1993-94 to FY2025-26 (earlier fiscal years not in this table; use cpi_india_cy.csv for 1957-1992 calendar years)
+# source_ids: S0156 (Labour Bureau) via S0155 (RBI Handbook Table 34, https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23859, accessed 2026-10-12)
+# method: linking factors as published in the table's notes: 4.63 (1982 to 2001 base, general index) and 2.88 (2001 to 2016 base). Base 1982 values divided by 4.63*2.88; base 2001 values divided by 2.88.
+# breaks: base changes at FY2005-06 (2001=100) and FY2020-21 (2016=100). Values on 1982 and 2001 bases are published as whole numbers, so linked values carry rounding error of up to about 0.2%.
+fiscal_year,year_end,base,value_as_published,linked_2016_100,to_fy2025_26_inr,source_id,confidence,note
+FY1993-94,1994,1982,258,19.35,7.5969,S0156; S0155,high,
+FY1994-95,1995,1982,284,21.30,6.9014,S0156; S0155,high,
+FY1995-96,1996,1982,313,23.47,6.2633,S0156; S0155,high,
+FY1996-97,1997,1982,342,25.65,5.7310,S0156; S0155,high,
+FY1997-98,1998,1982,366,27.45,5.3552,S0156; S0155,high,
+FY1998-99,1999,1982,414,31.05,4.7343,S0156; S0155,high,
+FY1999-00,2000,1982,428,32.10,4.5794,S0156; S0155,high,
+FY2000-01,2001,1982,444,33.30,4.4144,S0156; S0155,high,
+FY2001-02,2002,1982,463,34.72,4.2339,S0156; S0155,high,
+FY2002-03,2003,1982,482,36.15,4.0664,S0156; S0155,high,
+FY2003-04,2004,1982,500,37.50,3.9200,S0156; S0155,high,
+FY2004-05,2005,1982,520,39.00,3.7692,S0156; S0155,high,
+FY2005-06,2006,2001,117,40.62,3.6189,S0156; S0155,high,
+FY2006-07,2007,2001,125,43.40,3.3871,S0156; S0155,high,
+FY2007-08,2008,2001,133,46.18,3.1832,S0156; S0155,high,
+FY2008-09,2009,2001,145,50.35,2.9196,S0156; S0155,high,
+FY2009-10,2010,2001,163,56.60,2.5972,S0156; S0155,high,
+FY2010-11,2011,2001,180,62.50,2.3520,S0156; S0155,high,
+FY2011-12,2012,2001,195,67.71,2.1710,S0156; S0155,high,
+FY2012-13,2013,2001,215,74.65,1.9692,S0156; S0155,high,
+FY2013-14,2014,2001,236,81.94,1.7940,S0156; S0155,high,
+FY2014-15,2015,2001,251,87.15,1.6867,S0156; S0155,high,
+FY2015-16,2016,2001,265,92.01,1.5977,S0156; S0155,high,
+FY2016-17,2017,2001,276,95.83,1.5340,S0156; S0155,high,
+FY2017-18,2018,2001,284,98.61,1.4907,S0156; S0155,high,
+FY2018-19,2019,2001,300,104.17,1.4112,S0156; S0155,high,
+FY2019-20,2020,2001,323,112.15,1.3107,S0156; S0155,high,
+FY2020-21,2021,2016,118,118.00,1.2458,S0156; S0155,high,
+FY2021-22,2022,2016,124,124.00,1.1855,S0156; S0155,high,
+FY2022-23,2023,2016,131,131.00,1.1221,S0156; S0155,high,
+FY2023-24,2024,2016,138,138.00,1.0652,S0156; S0155,high,
+FY2024-25,2025,2016,143,143.00,1.0280,S0156; S0155,high,
+FY2025-26,2026,2016,147,147.00,1.0000,S0156; S0155,high,2025-26 published to one decimal

@@ -128,3 +128,43 @@ write(os.path.join(OUT, "inr_usd_fy.csv"), [
     "breaks: official rates to 1991-92; FEDAI indicative from 1992-93; RBI reference rates from May 2012; FBIL from July 2018. Earlier fiscal years: no RBI series obtained; derive from monthly data in Phase 3 if needed, documented.",
 ], ["fiscal_year", "year_end", "inr_per_usd_avg", "inr_per_usd_end_year", "source_id", "confidence", "basis"], rows)
 print("ok", len(rows))
+
+# ---------- CPI-IW, financial year (RBI Table 34) ----------
+# Additional raw files: pv23859.html (RBI Handbook Table 34), INDCPIALLAINMEI.csv (FRED, OECD MEI)
+t = page_text("pv23859.html", "Table 34")
+base, rows = "1982", []
+for m in re.finditer(r"\(Base : (\d{4}) = 100 for CPI - IW\)|\b(\d{4})-(\d{2}) ([\d.]+) ([\d.]+)", t):
+    if m.group(1):
+        base = m.group(1)
+        continue
+    y0, val = int(m.group(2)), float(m.group(4))
+    factor = {"1982": 4.63 * 2.88, "2001": 2.88, "2016": 1.0}[base]
+    rows.append([f"FY{y0}-{m.group(3)}", y0 + 1, base, f"{val:g}", f"{val / factor:.2f}", "S0156; S0155", "high",
+                 "2025-26 published to one decimal" if y0 == 2025 else ""])
+cur = float(rows[-1][4])
+for r in rows:
+    r.insert(5, f"{cur / float(r[4]):.4f}")
+write(os.path.join(OUT, "cpi_iw.csv"), [
+    "title: Consumer Price Index for Industrial Workers (CPI-IW), all-India general index, financial-year average (April-March)",
+    "definition: Labour Bureau CPI-IW as reproduced in RBI Handbook Table 34; value_as_published on the base in force that year; linked_2016_100 rebased with the published linking factors",
+    "unit: index; linked_2016_100 has 2016=100; to_fy2025_26_inr multiplies a nominal rupee value of that year to express it in FY2025-26 rupees",
+    "coverage: FY1993-94 to FY2025-26 (earlier fiscal years not in this table; use cpi_india_cy.csv for 1957-1992 calendar years)",
+    "source_ids: S0156 (Labour Bureau) via S0155 (RBI Handbook Table 34, https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23859, accessed " + ACCESSED + ")",
+    "method: linking factors as published in the table's notes: 4.63 (1982 to 2001 base, general index) and 2.88 (2001 to 2016 base). Base 1982 values divided by 4.63*2.88; base 2001 values divided by 2.88.",
+    "breaks: base changes at FY2005-06 (2001=100) and FY2020-21 (2016=100). Values on 1982 and 2001 bases are published as whole numbers, so linked values carry rounding error of up to about 0.2%.",
+], ["fiscal_year", "year_end", "base", "value_as_published", "linked_2016_100", "to_fy2025_26_inr", "source_id", "confidence", "note"], rows)
+
+# ---------- India CPI, calendar year (OECD MEI) ----------
+o = fred("INDCPIALLAINMEI.csv")
+last = max(o)
+rows = [[y, f"{o[y]:.4f}", f"{o[last] / o[y]:.4f}", "S0321", "medium", ""] for y in sorted(o)]
+write(os.path.join(OUT, "cpi_india_cy.csv"), [
+    "title: Consumer price index for India, calendar-year average (OECD Main Economic Indicators)",
+    "definition: OECD MEI series for India, total, index 2015=100 (FRED INDCPIALLAINMEI). Tracks CPI-IW: five-year changes match RBI CPI-IW within about 1% for 1994-2024, and 2019 inflation (7.7%) matches CPI-IW rather than CPI Combined (3.7%). Treat as CPI-IW-based; OECD documentation not read.",
+    "unit: index 2015=100; to_" + str(last) + "_inr multiplies a nominal rupee value of that year to express it in " + str(last) + " rupees",
+    "coverage: 1957-" + str(last),
+    "source_ids: S0321 (OECD MEI via FRED, https://fred.stlouisfed.org/series/INDCPIALLAINMEI, accessed " + ACCESSED + ")",
+    "method: values as published by FRED. Use for calendar-year rupee series and for years before FY1993-94.",
+    "breaks: underlying national base changes (1960, 1982, 2001, 2016) are linked by OECD; method not documented here. Confidence medium for that reason.",
+], ["year", "cpi_index_2015_100", "to_" + str(last) + "_inr", "source_id", "confidence", "note"], rows)
+print("cpi ok")
