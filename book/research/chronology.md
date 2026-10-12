@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 64; 1990s 69; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 64; 1990s 74; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 345 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 350 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -201,8 +201,11 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1991 | Bansal Classes founded in Kota (coaching begun early 1980s) | S0246 | 7
 1991-05 | Rajiv Gandhi assassinated; Infosys postpones its IPO | S0034 | 9
 1991-06-05 | STPI registered as an autonomous society under the Department of Electronics | S0091 | 8, 9
+1991-07-01 | Rupee devalued in two steps (1 and 3 July), from about Rs 17.5 to about Rs 26 per US dollar over 1991 | S0088, S0001 | 9
 1991-07-24 | Manmohan Singh's budget extends the section 80HHC export tax concession to software exports | S0088 | 9
+1991-07-24 | Budget speech: forex reserves 'would suffice to finance imports for a mere fortnight'; 51% foreign equity in priority industries | S0088 | 9
 1991-11-08 | Tally's company incorporated (renamed Tally Solutions 1999) | S0178 | 16
+1991-11-26 | Infosys Times of India ad: trainee pay 'Rs.45,000 plus', 'A computer software background is not essential' | S0252 | 9, 12
 1992 | Citicorp spins out its software unit (later i-flex) with $400,000 under Rajesh Hukku | S0176 | 16
 1992 | American Express captive finance centre set up by Raman Roy's team [disputed: 1992 per Roy's firm; 1994 per other sources], near Gurgaon | S0206 | 14
 1992 | IBM re-enters India as Tata-IBM, a 50:50 venture | S0001, S0055 | 9
@@ -214,6 +217,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1993 | Motorola's Bangalore software centre rated CMM Level 5, by its own account the world's first commercial organisation at that level [Business Today: first in India, 1994] | S0199 | 12
 1993 | Infosys sets up its first offshore development centre dedicated to a client (Nortel) in Bangalore | S0089 | 11
 1993 | Infosys begins work for Apple's internal IT restructuring | S0089 | 11
+1993 | Shift from B-1 to H-1 visas for Indian onsite workers raises their cost (prevailing wage) | S0254, S0085 | 9, 13
 1993-02-04 | Supreme Court, Unni Krishnan: free-seat/payment-seat scheme for private professional colleges | S0063 | 7
 1993-02-24 | Infosys IPO opens (listed June 1993); raises about $4.4 million | S0034, S0089 | 11
 1994 | Infosys launches its Employees Stock Offer Plan | S0089 | 11
@@ -226,12 +230,13 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1994-95 | 337 engineering and technology colleges | S0248 | 7, 12
 1995 | DoE starts accrediting private computer training institutes (DOEACC) | S0001 | 7
 1995 | Infosys adopts US GAAP reporting voluntarily | S0089, S0034 | 11
+1995 | Onsite work 66% of Indian software revenue (from 90% in 1988; 56% in 2000) | S0254 | 9, 11
 1995-05 | GE, then Infosys's largest client, seeks price cuts; Infosys declines and loses much of the business | S0034, S0089 | 11
 1995-1996 | AdventNet (later Zoho) founded in Chennai by the Vembu brothers and Tony Thomas | S0175 | 16
 1996 | F.C. Kohli succeeded by S. Ramadorai as TCS chief | S0001 | 11
 1996-10 | GE Capital International Services set up in Gurgaon [disputed: 1997 in other accounts] | S0110 | 14
 1997 | i-flex's FLEXCUBE core-banking product launched, built in Bangalore | S0176 | 16
-1997 | Y2K work estimated at 23% of Infosys revenue | S0001 (citing S0005, p. 349) | 11
+1997 | Y2K work estimated at 23% of Infosys revenue [disputed (dd): 7.5% of fiscal 1997 revenue per S0089] | S0001 (citing S0005, p. 349), S0089 | 11
 1997 | TI announces 'Ankur' DSP chip designed entirely in India | S0001 | 16
 1997-1998 | Software services exports reach $1.76 billion (from $128 million in 1990-91) | S0001 | 9, 11
 1998 | Infosys reaches SEI CMM Level 4 (fiscal 1998; secondary source) | S0121 | 12
