@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 76. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 79. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 441 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 444 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -408,6 +408,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-08-20 | NITES complains to the Union Labour Ministry about 2,000+ unonboarded Infosys 2022 recruits | S0295, S0311 | 18, prologue
 2024-09-03 | Union Labour Ministry directs Karnataka to act on Infosys onboarding complaint | S0295 | 17
 2024-09-03 | Union Labour Ministry directs Karnataka to examine the Infosys onboarding complaint | S0295 | 18, prologue
+2024-09-11 | Nasscom-Zinnov project GCC revenue of $99-105bn and 2.5-2.8m employees by 2030 (industry projection) | S0317 | 15, epilogue
 2024-10-07 | Infosys 2022 recruits join the Mysuru campus as apprentices (also reported as 21 October) | S0311, S0313 | prologue
 2024-10-23 | Supreme Court sets aside NCLAT order in Byju's case | S0185 | 16
 2024-11-05 | Freshworks announces a 13% reduction in force | S0285 | 16, 18
@@ -432,6 +433,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2025-08 | UPI processes 20.01 billion transactions in a month | S0129 | 16
 2025-08-06 | KITU-TCS conciliation meeting at Bengaluru Labour Office; adjourned to 8 September | S0303 | 18, prologue
 2025-09-21 | US $100,000 payment for new H-1B petitions takes effect (proclamation signed 19 September) | S0136 | 18
+2025-10-10 | NITI Aayog roadmap (with Nasscom, BCG): tech workforce could fall to 6m or rise to 10m by 2031 | S0316 | 18, epilogue
 2025-10-29 | GitHub Octoverse 2025 projects India's developer count (>=57.5m) to pass the US's by 2030 (company projection) | S0146 | 18
 2025-12-01 | Girish Mathrubootham steps down as Freshworks chairman [LIVE-CHECKED] | S0174 | 16
 2025-12-09 | Rest of World: IIITDM Jabalpur student says fewer than 25% of 400 classmates have offers | S0305 | 18
@@ -442,6 +444,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2026-02-24 | Nasscom Strategic Review: FY26 tech revenue about $315 billion, 59.5 lakh employees (+1.35 lakh), AI revenue $10-12bn (industry body) [LIVE-CHECKED] | S0306 | 18, prologue
 2026-04 | FY26: TCS net headcount down 23,460; HCLTech speaks of 'AI deflation' on its results call [LIVE-CHECKED; primary transcript needed] | S0139, S0142 | 18
 2026-04-13 | TCS says it has made 25,000 fresher offers for FY27, more depending on demand | S0309 | 18, prologue
+2026-05-07 | Zinnov-Nasscom FY26: 2,117 GCCs, 2.36m employees, $98.4bn revenue (industry figures) | S0318 | 15, epilogue
 2026-05-11 | Forbes India reports 'AI deflation'; HCLTech CEO says a $100m deal is 'maybe $80 million' today [LIVE-CHECKED] | S0142 | 18
 2026-06-08 | US District Court (Massachusetts, Sorokin J.) rules the $100,000 H-1B fee unlawful; summaries differ on whether the proclamation or the agency policies were vacated [LIVE-CHECKED] | S0137 | 18
 2026-06-15 | Infosys 20-F FY2026: clients 'selectively insourcing' as AI raises productivity; tools include Claude Code | S0297 | 18
