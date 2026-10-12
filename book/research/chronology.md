@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 80; 2000s 40; 2010s 30; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 83; 2000s 43; 2010s 35; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 371 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 382 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -193,6 +193,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1990 | GE begins working with Infosys | S0034 | 6, 11
 1990 | HCL programmer (pseudonym in source) sent to Palo Alto on B1/B2 visa; Sun billed $50 an hour, about half kept by HCL | S0242 | 6
 1990/91 | Indian software exports $131.2 million | S0085 | 6, 9
+1990 | Immigration Act of 1990 (P.L. 101-649) creates the H-1B specialty-occupation visa with an annual cap of 65,000 | S0105, S0254 | 9, 13
 1990-08 | First Software Technology Park opens at Pune; Bangalore follows October 1990, Bhubaneswar December 1990 | S0241, S0091 | 8, 10
 1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
 1990-10 | Bangalore Software Technology Park opens (S0001 calls it the first; Pune opened August 1990 per S0241) [dispute (j) resolved] | S0001, S0241 | 9
@@ -215,7 +216,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1992-02 | IBM returns to India as Tata Information Systems Ltd | S0055 | 9
 1992-04-15 | Andhra Pradesh Section 3-A; private engineering colleges admit 50% at own choice | S0063 | 7
 1992-07-30 | Supreme Court, Mohini Jain: capitation fees impermissible | S0064 | 7
-1992-12 | TiE founded in Silicon Valley by A.J. Patel and eight co-founders [formalisation dated 1994 by others] | S0116 | 13
+1992-12 | TiE founded in Silicon Valley by A.J. Patel and co-founders incl. Suhas Patil, Prabhu Goel, Kanwal Rekhi; Saxenian: began 1992 after a delayed visit by India's electronics secretary [formalisation dated 1994 by others; dispute (kk) compatible] | S0116, S0097 (pp. 44-45) | 13
 1993 | Motorola's Bangalore software centre rated CMM Level 5, by its own account the world's first commercial organisation at that level [Business Today: first in India, 1994] | S0199 | 12
 1993 | Infosys sets up its first offshore development centre dedicated to a client (Nortel) in Bangalore | S0089 | 11
 1993 | Infosys begins work for Apple's internal IT restructuring | S0089 | 11
@@ -227,7 +228,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1994 | Infosys raises $7.7 million from foreign institutional investors | S0089 | 11
 1994 | American Express sets up back-office centre in Mumbai [disputed: Gurgaon per other sources; 1992 per Roy's firm] | S0001, S0206 | 14
 1994 | World Bank study: body shopping 70-80% of export revenue, 'hourly or monthly rate'; warns automation tools may erode demand | S0241 | 6, 19
-1994-03 | First TiE conference (later TiECon) | S0116 | 13
+1994-03 | First TiE conference (later TiECon), over 500 people | S0116, S0097 (p. 46) | 13
 1994-09 | Infosys adopts its ESOP through an employee welfare trust ("one of the first employee stock option plans in India", company claim); exercise price Rs 100, five-year vesting | S0089 (p. 28, note 17) | 11
 1994-95 | 337 engineering and technology colleges | S0248 | 7, 12
 1995 | DoE starts accrediting private computer training institutes (DOEACC) | S0001 | 7
@@ -241,6 +242,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1997 | i-flex's FLEXCUBE core-banking product launched, built in Bangalore | S0176 | 16
 1997 | TI announces 'Ankur' DSP chip designed entirely in India | S0001 | 16
 1997-04 to 1998-03 | Y2K conversion is 23.3% of Infosys revenue in fiscal 1998 (7.5% in fiscal 1997; 21.4% in Apr-Dec 1998); S0001's "23% in 1997" is fiscal 1998 [dispute (dd) resolved] | S0089 (p. 15), S0001 (p. 46) | 11
+1997-09 | H-1B cap of 65,000 reached for the first time | S0105 | 13
 1997-1998 | Software services exports reach $1.76 billion (from $128 million in 1990-91) | S0001 | 9, 11
 1997-98 to 2005-06 | Engineering and technology colleges rise from 486 to 1,562 (1,077 in 2001-02), after 289 in 1990-91 | S0248 | 7, 12
 1998 | Infosys reaches SEI CMM Level 4 (fiscal 1998; secondary source) | S0121 | 12
@@ -251,6 +253,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1998 | Infosys assessed at CMM Level 4 | S0089 | 12
 1998 | About 135,000 engineering students and 7,000 MCA graduates (Rajaraman's figures) | S0001 | 12
 1998 | Bangalore headquarters 152 of 558 Indian software firms (Mumbai 122, Chennai 93) | S0085 | 10
+1998 | American Competitiveness and Workforce Improvement Act raises H-1B cap to 115,000 for FY1999-2000 | S0105 | 13
 1998-03-24 | Microsoft announces a software development centre in Hyderabad; opens August 1998, moves to HITEC City February 1999 with 36 staff | S0195 | 10, 16
 1998-11 | Chandrababu Naidu opens CyberTowers, Hyderabad: 'the triplet cities of Hyderabad-Secunderabad-Cyberabad' | S0119 | 10
 1998-11-22 | HITEC City, Hyderabad, formally inaugurated by PM Vajpayee | S0119 | 10
@@ -271,6 +274,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2000 | Information Technology Act passed | S0001 | 11
 2000 | US President Clinton visits India | S0001 | 13
 2000 | Simputer handheld designed by IISc and Encore Software | S0001 | 16
+2000 | AC21 raises H-1B cap to 195,000 for FY2001-03 | S0105 | 13
 2000-01 | Y2K rollover; Nasscom puts India's own Y2K cost at Rs 1,800 crore | S0108 | 11
 2000-06-14 | Rediff.com lists on Nasdaq; shares rise c. 61% on debut | S0179, S0261 | 11, 16
 2000-09-30 | Infosys stock options held by 7,853 of 7,925 employees; 1,773 "rupee millionaires" and 213 "dollar millionaires" | S0262 | 11
@@ -288,6 +292,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2004-01-23 | Thomas-Voinovich provision limiting offshoring of federal competitive-sourcing work signed into law (FY2004 omnibus) | S0111 | 14
 2004-03 | US Senate passes Dodd amendment on offshoring by federal contractors, 70-26 | S0111 | 14
 2004-08 | Lou Dobbs publishes Exporting America | S0112 | 14
+2004-10 | H-1B cap reverts to 65,000 for FY2005 and is reached on the first day; India 49.0% of new H-1B arrivals in FY2005 | S0105 | 13
 2005-02 | PM Manmohan Singh inaugurates Infosys Global Education Centre, Mysore (4,500 trainees at a time) | S0115 | 12
 2005-02 | Infosys training facility at Mysore can house 4,500 trainees (c. 12,000 a year) on a 14-week course; opened by PM Manmohan Singh per company releases (to confirm) | S0264, S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
@@ -300,6 +305,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2007 | 257 software and services firms set up in SEZs | S0001 | 14
 2007-01 | Wadhwa, Saxenian et al. report Indian founders in 15.5% of Silicon Valley startups 1995-2005 [figure disputed] | S0098 | 13
 2007-04 to 2008-03 | Infosys makes c. 46,300 job offers (1,790 in fiscal 1998); 91,200 employees at March 2008 | S0265, S0089 | 12
+2007-04-02 | FY2008 H-1B cap reached within two days (c. 119,193 petitions) | S0105 | 13
 2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
 2007-08 | Accenture's India headcount set to pass its US headcount (35,000) | S0193 | 14, 16
 2008 | Nasscom: c. 2 million direct IT-BPO employees (FY2008) | S0107 | 12, 14
@@ -319,12 +325,17 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2012 | 166 of the world's c. 250 CMM Level 5 organisations are in India (estimate) | S0001 | 12
 2012-13 | Approved undergraduate engineering intake 15.49 lakh, 37.6% of seats empty (AICTE/AISHE via secondary analysis) | S0267 | 12
 2013 | About 30 product companies form iSPIRT, saying Nasscom favoured services | S0188 | 16
+2013 | Infosys (6,298), TCS (6,258) and Cognizant (5,186) lead H-1B approvals; 10 of top 11 sponsors have India as primary employment base | S0254 | 13
+2013-10-30 | Infosys files settlement with US government: pays $34m; agrees I-9 records were inaccurate in 2010-11; denies US allegations of B-1 visa misuse | S0268 | 13
 2014 | Aspiring Minds report: 18.43% of 2013 engineering graduates "employable" (trainable in 3-6 months) for IT services; entry-level growth "diminishing" (vendor test) | S0153 | 12, 18
+2014 | About 70% of H-1B visas go to Indians (USCIS) | S0254 | 13
 2014-07-15 | SEBI order bars Satyam promoters for 14 years, orders disgorgement of about Rs 1,850 crore | S0123 | 15
 2014-15 | Approved undergraduate engineering intake peaks at 17.05 lakh (12.53 lakh by 2021-22) | S0267 | 12
+2015-01-31 | Disney IT staff in Orlando leave after training replacements from a contractor's foreign workforce (per one employee's testimony) | S0269 | 13, 14
 2015-04-09 | Special CBI court in Hyderabad convicts Raju and nine others; seven years' imprisonment | S0124 | 15
 2015-11 | Nilekani and Shah publish Rebooting India | S0126 | 15
 2016 | UPI launched by NPCI [disputed: April vs August 2016] | S0129, S0148 | 16
+2016-02-25 | Displaced Disney IT worker Leo Perrero testifies to the US Senate Judiciary Committee | S0269 | 13
 2016-03-30 | Amazon lays foundation stone for its Hyderabad campus | S0201 | 16
 2016-09-05 | Jio Welcome Offer takes effect: free data and voice to 31 December 2016 | S0130 | 16
 2016-12-31 | Jio's free Welcome Offer ends | S0130 | 16
