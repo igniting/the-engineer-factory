@@ -110,3 +110,26 @@ Candidates so far: Morton Nadler (memoir, S0218: to obtain); Mohi Mukherjee (mem
 
 ## Sources still to open for Ch. 1
 S0014 (P.V.S. Rao essay, OUP 2011), S0015/S0016 (Mukherjee in Banerjee 1996), S0008 (Menon book ch. 3), S0217 body text, S0052 (Founding Fuel), S0017 (PTI 2010), S0029 (Rudra biography), S0218 (Nadler memoir), Samvadadhvam 1958, R.C. Bose reminiscences (SAADA) for ISI life, Rajaraman S0001 section 3 (already in scratchpad).
+
+## Step 2 notes (2026-10-12)
+
+### S0052 Founding Fuel excerpt of *Against All Odds*, 18 Nov 2022 (via WebFetch)
+- Quotes P.V.S. Rao: the team 'actually strung the memory matrix together, designed the special Plexiglass frames' and threaded 'hair-thin enamelled wires through sub-millimetre magnetic ring cores' [quote via summariser; verify; original is probably S0219 or S0014].
+- Bhabha Committee formed 1963; after Bhabha's death a 1966 committee under Vikram Sarabhai to implement it; National Conference on Electronics 1970 [Ch. 3].
+- TIFR became National Computation Centre; CDC 3600 uptime 'over 98 per cent' 1965-70. CDC's J. Schemy made a 1965 core-memory proposal for India. F.C. Kohli recalled the CDC 3600 from his Tata Electric days. A.S. Rao led the AEE electronics group and sat on the Bhabha Committee.
+
+### S0219 P.V.S. Rao, Resonance 2008 (located; full text not obtained)
+- Rao (b. 1936) joined in 1955, i.e. aged about 19: the junior engineer's view of TIFRAC. Obtain PDF (try IAS Resonance archive by browser, Google Scholar cache, or S0014 which reprints a version).
+
+### HEC-2M arrival (dispute b): status
+- July 1955 arrival, working August 1955: S0001, from Mohi Mukherjee's own memoir essay (S0015; participant).
+- 'Mid-1955': S0010 (Rajaraman interview via itihaasa).
+- 'Early 1956', two crates: S0007 (Menon, archival historian).
+- Not resolved. Two accounts trace to participants (Mukherjee; Rajaraman was not at ISI); Menon used ISI archives. Book text should say the machine reached Calcutta in 1955 according to the engineer who installed it, while a historian working from ISI's archives dates its arrival to early 1956; or cite S0217/S0008 body when obtained.
+
+### Other leads not obtainable this session
+- Deccan Herald/PTI 2010 (S0017): 403 on fetch.
+- R.C. Bose reminiscences (SAADA): 403 on fetch.
+- Nadler memoir (S0218): no online record found.
+- Mukherjee essay (S0015) and Banerjee volume (S0016): no online copy found.
+- Menon body text (S0008, S0217): paywalled.
