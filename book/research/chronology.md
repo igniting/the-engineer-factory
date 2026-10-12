@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 83; 2000s 43; 2010s 35; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 84; 2000s 47; 2010s 36; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 382 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 388 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -238,6 +238,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1995-05 | GE, then Infosys's largest client, seeks price cuts; Infosys declines and loses much of the business | S0034, S0089 | 11
 1995-1996 | AdventNet (later Zoho) founded in Chennai by the Vembu brothers and Tony Thomas | S0175 | 16
 1996 | F.C. Kohli succeeded by S. Ramadorai as TCS chief | S0001 | 11
+1996 | Raman Roy joins GE to build its India operation (later GE Capital's Indian call centres) | S0206 | 14
 1996-10 | GE Capital International Services set up in Gurgaon [disputed: 1997 in other accounts] | S0110 | 14
 1997 | i-flex's FLEXCUBE core-banking product launched, built in Bangalore | S0176 | 16
 1997 | TI announces 'Ankur' DSP chip designed entirely in India | S0001 | 16
@@ -281,6 +282,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2000-12-15 | Infosys share price Rs 7,160 (Rs 63.75 in April 1996) | S0262 | 11
 2001-11-05 | Securities class action filed in New York against Sify, its officers and IPO underwriters over IPO allocations | S0261 | 11
 2002 | Private universities permitted by state acts | S0001 | 12
+2002 | Wipro acquires Spectramind, Raman Roy's BPO firm | S0206 | 14
 2002-01 | Anna University campus placements fall to c. 320 from 1,200; TCS, Infosys and Cognizant cut intake; some firms defer joining by a year and cut promised pay 50-60% | S0263 | 11, 12
 2002-03-31 | Infosys has 9,400 IT professionals (2,200 in 1998), 193,640 applications in FY2002, and reports a rising fixed-price share | S0260 | 11, 12
 2002-2007 | Nandan Nilekani is Infosys CEO (Kris Gopalakrishnan 2007-11, S.D. Shibulal 2011-14) | S0034 | 11, 15
@@ -290,12 +292,14 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2004 | National broadband policy | S0001 | 14
 2004 | India produces c. 215,000 engineering, CS and IT graduates: 112,000 bachelor's and 103,000 diplomas (NASSCOM projection); press figure of 350,000 not comparable | S0213 | 12
 2004-01-23 | Thomas-Voinovich provision limiting offshoring of federal competitive-sourcing work signed into law (FY2004 omnibus) | S0111 | 14
+2004-02 | Mankiw calls offshoring "the latest manifestation of the gains from trade" and is denounced across parties; 29 anti-offshoring bills pending in 19 US state legislatures | S0113, S0111 | 14
 2004-03 | US Senate passes Dodd amendment on offshoring by federal contractors, 70-26 | S0111 | 14
 2004-08 | Lou Dobbs publishes Exporting America | S0112 | 14
 2004-10 | H-1B cap reverts to 65,000 for FY2005 and is reached on the first day; India 49.0% of new H-1B arrivals in FY2005 | S0105 | 13
 2005-02 | PM Manmohan Singh inaugurates Infosys Global Education Centre, Mysore (4,500 trainees at a time) | S0115 | 12
 2005-02 | Infosys training facility at Mysore can house 4,500 trainees (c. 12,000 a year) on a 14-week course; opened by PM Manmohan Singh per company releases (to confirm) | S0264, S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
+2005-06-23 | Special Economic Zones Act 2005 receives assent (s. 10AA tax regime) | S0114 | 14
 2005-08 | Oracle buys Citigroup's 41% stake in i-flex for $593 million | S0176 | 16
 2005-12 | Duke study challenges US press counts of Indian and Chinese engineers; notes latest official Indian graduation data are from 1993 | S0213 | 12, 14
 2006 | IBM India headcount reaches 53,000 | S0194 | 14, 16
@@ -308,11 +312,12 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2007-04-02 | FY2008 H-1B cap reached within two days (c. 119,193 petitions) | S0105 | 13
 2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
 2007-08 | Accenture's India headcount set to pass its US headcount (35,000) | S0193 | 14, 16
-2008 | Nasscom: c. 2 million direct IT-BPO employees (FY2008) | S0107 | 12, 14
+2008 | Nasscom: c. 2 million direct IT-BPO employees and $64bn revenue (FY2008 estimates); exports grew 35% a year FY2004-07 (lobby figures) | S0107 | 12, 14
 2008 | Zinnov: c. 594 multinational R&D centres in India employ 146,760 | S0207 | 16
 2008 | IT Act amended; VoIP legalised by TRAI | S0001 | 15
 2009 | Infosys GEC II opens; Mysore training capacity 14,000 | S0115 | 12
 2009 | AdventNet renamed Zoho | S0175 | 16
+2009 | Infosys freezes salary increases; job offers fall to c. 16,900 (46,300 in fiscal 2008); utilisation including trainees 66.9% in Jan-Mar 2009 | S0271 | 14
 2009-01-07 | Ramalinga Raju's letter to the Satyam board admits falsified accounts | S0122 | 15
 2010 | Freshworks (as Freshdesk) founded in Chennai by Girish Mathrubootham and Shan Krishnasamy | S0173, S0174 | 16
 2010 | IBM India has about 85,000 employees, second only to its US workforce | S0001 | 15, 16
@@ -320,6 +325,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2010 | About 1.3 million engineering students and 120,000 MCA graduates | S0001 | 12
 2010 | TI India has about 1,500 employees and 309 patents (by 2008) | S0001 | 16
 2010-09-29 | First Aadhaar numbers issued, Tembhli, Nandurbar district, Maharashtra | S0128 | 15
+2011 | RBI survey: software and IT services exports US$47.6bn in 2010-11; 79.3% offsite; ITES/BPO 26.3% | S0106 | 14
 2011-03-31 | STPI section 10A income-tax holiday expires after extensions in 2009 and 2010 | S0114 (secondary; confirm with Finance Act) | 16
 2011-04 to 2012-03 | Infosys utilisation 69.0% including trainees (75.9% excluding); c. 150,000 employees; Mysore trains 14,000 at a time | S0266 | 12, 14
 2012 | 166 of the world's c. 250 CMM Level 5 organisations are in India (estimate) | S0001 | 12
