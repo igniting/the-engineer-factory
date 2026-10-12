@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 59. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 69. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 424 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 434 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -408,6 +408,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-10-23 | Supreme Court sets aside NCLAT order in Byju's case | S0185 | 16
 2024-11-05 | Freshworks announces a 13% reduction in force | S0285 | 16, 18
 2024-12 | UPI processes c. 16.73 billion transactions in the month (c. Rs 23.25 lakh crore) | S0286 | 16
+2024-12-23 | AICTE declares 2025 the 'Year of Artificial Intelligence' for over 14,000 colleges | S0145 | 18
 2024-12-31 | EPAM: India now its largest delivery location (10,072) ahead of Ukraine (8,764) | S0170 | 18, sidebar
 2024-12-31 | Cognizant has c. 241,500 of its c. 336,800 employees in India | S0192 | 18
 2024-12-31 | Freshworks has c. 3,700 employees in India, c. 83% of its workforce; sells generative AI agents (Freddy) | S0285 | 16, 18
@@ -416,19 +417,28 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2025-02 | Infosys dismisses trainees at Mysuru after assessments (over 300 per company; 700 per NITES) | S0133 | 17, 18
 2025-02-01 | Union Budget announces a national framework to guide states on GCCs in tier-2 cities | S0205 | 18
 2025-03 | TCS Q4 FY25: 607,979 employees, 35.2% women, 13.3% attrition (LTM, IT services) | S0160 | 18
-2025-04 | MeitY selects Sarvam AI to build a sovereign foundation model under IndiaAI | S0186 | 18
-2025-07 | TCS announces cuts of about 12,000 (2% of workforce) by March 2026; CEO cites skill mismatch, not AI | S0135 | 18
+2025-04-26 | IndiaAI selects Sarvam AI to build a sovereign LLM (120B parameters planned) [LIVE-CHECKED] | S0308, S0307, S0186 | 18
+2025-06-06 | AICTE chairman says an expert committee is revising model curricula to put AI in all branches | S0145 | 18
+2025-06-12 | TCS bench policy takes effect: 35 bench days a year, 225 billable days | S0302 | 18
+2025-07-01 | Infosys 20-F FY2025: clients 'have started demanding' AI-linked productivity commitments | S0296 | 18
+2025-07-27 | TCS announces cuts of about 12,200 (2% of workforce) by March 2026; CEO cites skill mismatch, not AI [LIVE-CHECKED] | S0135, S0301 | 18
+2025-07-29 | KITU files industrial dispute against TCS before Karnataka's Additional Labour Commissioner | S0303 | 18
 2025-08 | UPI processes 20.01 billion transactions in a month | S0129 | 16
+2025-08-06 | KITU-TCS conciliation meeting at Bengaluru Labour Office; adjourned to 8 September | S0303 | 18, prologue
 2025-09-21 | US $100,000 payment for new H-1B petitions takes effect (proclamation signed 19 September) | S0136 | 18
-2025-10-29 | GitHub Octoverse 2025: India now the largest open-source contributor base | S0146 | 18
+2025-10-29 | GitHub Octoverse 2025 projects India's developer count (>=57.5m) to pass the US's by 2030 (company projection) | S0146 | 18
 2025-12-01 | Girish Mathrubootham steps down as Freshworks chairman [LIVE-CHECKED] | S0174 | 16
+2025-12-09 | Rest of World: IIITDM Jabalpur student says fewer than 25% of 400 classmates have offers | S0305 | 18
+2025-12-29 | DHS final rule introduces weighted H-1B selection favouring higher wages | S0300 | 18
 2026-01-19 | LTIMindtree Q3 FY26 call discusses AI pricing | S0144 | 18
-2026-02 | Nasscom Strategic Review: FY26 tech revenue about $315 billion, workforce about 5.95 million (+135,000) [LIVE-CHECKED] | S0140 | 18, prologue
+2026-02 | Sarvam-30B and Sarvam-105B unveiled at the India AI Impact Summit [LIVE-CHECKED] | S0187 | 18
 2026-02-07 | NCLAT directs NCLT to decide BCCI's withdrawal plea in the Byju's case within a week [LIVE-CHECKED] | S0185 | 16
-2026-03-06 | Sarvam open-sources Sarvam 30B and 105B models (secondary source) [LIVE-CHECKED] | S0186 | 18
+2026-02-24 | Nasscom Strategic Review: FY26 tech revenue about $315 billion, 59.5 lakh employees (+1.35 lakh), AI revenue $10-12bn (industry body) [LIVE-CHECKED] | S0306 | 18, prologue
 2026-04 | FY26: TCS net headcount down 23,460; HCLTech speaks of 'AI deflation' on its results call [LIVE-CHECKED; primary transcript needed] | S0139, S0142 | 18
-2026-06-08 | US District Court (Massachusetts) vacates the H-1B fee proclamation [LIVE-CHECKED] | S0137 | 18
+2026-05-11 | Forbes India reports 'AI deflation'; HCLTech CEO says a $100m deal is 'maybe $80 million' today [LIVE-CHECKED] | S0142 | 18
+2026-06-08 | US District Court (Massachusetts, Sorokin J.) rules the $100,000 H-1B fee unlawful; summaries differ on whether the proclamation or the agency policies were vacated [LIVE-CHECKED] | S0137 | 18
+2026-06-15 | Infosys 20-F FY2026: clients 'selectively insourcing' as AI raises productivity; tools include Claude Code | S0297 | 18
 2026-07-24 | First Circuit denies government's stay; fee stays blocked [LIVE-CHECKED] | S0137 | 18
-2026-09 | H-1B fee proclamation extended to September 2027, but court orders block collection [LIVE-CHECKED] | S0137 | 18
+2026-09-18 | Proclamation 11069 extends the H-1B fee to 21 September 2027; claims outsourcing firms' registrations fell 92% [POST-CUTOFF; LIVE-CHECKED] | S0300 | 18
 2026-09-30 | N.D. California (Global Nurse Force v. Trump) bars enforcement of fee policies pending rulemaking [LIVE-CHECKED] | S0137 | 18
 2026-10 | TCS reports Q2 FY27: 10,000 freshers onboarded, headcount 598,056; FY27 fresher target reportedly 25,000 [LIVE-CHECKED] | S0138 | 18, prologue
