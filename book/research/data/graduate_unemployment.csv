@@ -1,0 +1,17 @@
+# title: Graduate unemployment rates, India (PLFS) with US comparison points
+# definition: unemployment rate = unemployed as % of labour force; PLFS usual status (principal + subsidiary) for persons aged 15+ with graduate education unless stated
+# unit: percent
+# coverage: India graduates 2019-20 to 2023-24 (PLFS years July-June); one all-persons and one under-25 point; US 2025 points
+# source_ids: S0326 (PIB 20 Mar 2023), S0327, S0328, S0329 (MoSPI), S0136
+# method: transcribed as published. PLFS 2017-18 and 2018-19 graduate rates not obtained (S0154 register note giving 17.2% for 2017-18 is wrong: 17.2% is 2019-20).
+# breaks: PLFS from 2017-18 only; earlier NSSO rounds not obtained. Never splice with NSSO or with SWI age-group figures.
+year,country,population,unemployment_rate_pct,source_id,confidence,note
+2019-20,India,"graduates, age 15+, usual status (PLFS)",17.2,"S0326 (PIB, Lok Sabha reply, 20 Mar 2023)",high,
+2020-21,India,"graduates, age 15+, usual status (PLFS)",15.5,S0326,high,
+2021-22,India,"graduates, age 15+, usual status (PLFS)",14.9,S0326,high,
+2022-23,India,"graduates, age 15+, usual status (PLFS)",13.4,"S0327 (PTI via Careers360, 17 Dec 2023)",medium,"lowest Chandigarh 5.6%, highest Andaman & Nicobar 33%"
+2023-24,India,"graduates, age 15+, usual status (PLFS)",11.2,"S0328 (ETV Bharat, 6 Aug 2026)",low,conflicts with 13.0% in the S0154 register note (dispute ooo); verify against PLFS 2023-24 report
+2023-24,India,"all persons, age 15+, usual status (ps+ss) (PLFS)",3.2,"S0329 (MoSPI press note, PLFS annual report 2023-24, p. 2)",high,for contrast
+2023,India,"graduates under 25 (Azim Premji University, State of Working India 2026)",39.3,S0328 (reporting SWI 2026),low,different age group and method; report itself not read; 35% in 1983 per the same report
+2025,United States,"recent graduates aged 22-27, computer science major (NY Fed)",6.1,"S0136 (Proclamation 10973, p. 46027)",medium,as cited by the US government
+2025,United States,"recent graduates aged 22-27, computer engineering major (NY Fed)",7.5,S0136,medium,as cited by the US government

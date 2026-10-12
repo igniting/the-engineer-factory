@@ -1,0 +1,19 @@
+# title: Starting (fresher) annual pay in Indian IT services, point estimates
+# definition: annual cost-to-company or package as reported; medians, single-firm packages and quoted ranges are different measures (measure column)
+# unit: Rs lakh per year, nominal; real_2024_inr_lakh = midpoint deflated by India CPI (cpi_india_cy.csv, OECD MEI) to 2024 rupees
+# coverage: 2007-2026 points; no consistent series
+# source_ids: S0330, S0331, S0332, S0333, S0334, S0153
+# method: transcribed; ranges kept as low/high; real value uses the midpoint of a range; years after 2024 not deflated
+# breaks: offer vs CTC vs in-hand; mass-recruiter vs premium tracks (e.g. TCS 'Digital', HCLTech 'Elite') excluded
+year,measure,pay_rs_lakh_low,pay_rs_lakh_high,real_2024_inr_lakh,source_id,confidence,note
+2007,"TCS Assistant Systems Engineer trainee, annual package",3.16,,9.86,"S0330 (Business Today, 9 Feb 2026, citing a Reddit post)",low,single anecdotal source
+2012,"median fresher pay, large IT firms (Moneycontrol study)",2.45,,4.77,"S0331 (HR Katha, 1 Jun 2022, reporting Moneycontrol)",medium,study method not read
+2014,STEM graduate starting salaries (TeamLease Digital CEO's estimate),2.0,2.5,3.72,"S0332 (ThePrint, 11 Sep 2025)",low,range as quoted
+2015,median salary for the same skill (Aspiring Minds),2.82,,4.40,"S0153 (2016 ed., p. 5)",low,vendor estimate; 'last year' in 2016 report; aspiration 3.10
+2016,median salary for the same skill (Aspiring Minds),3.13,,4.65,"S0153 (2016 ed., p. 5)",low,vendor estimate; median aspiration 3.40
+2022,"median fresher pay, large IT firms (Moneycontrol study)",3.55,,3.89,S0331,medium,+45% on 2012 per the study
+2022,"Infosys fresher pay (per Infosys annual report, as reported)",3.6,,3.94,S0331,medium,annual report not read
+2022,"freshers at large IT firms (T.V. Mohandas Pai, former Infosys CFO)",3.5,4.0,4.11,"S0333 (Business Today, 27 Dec 2022)",low,'the same ... that the companies were paying 10-12 years ago'
+2025,"STEM graduate starting salaries (TeamLease Digital CEO's estimate, 'today')",3.0,3.5,,S0332,low,
+2025,"Wipro entry-level salaries FY2025-26 (CHRO, post-results press conference)",3.0,4.0,,"S0334 (People Matters, 16 Apr 2025, citing News18)",medium,'unchanged ... flat for over a decade'
+2026,"TCS Assistant Systems Engineer, annual package",3.36,,,S0330 (citing Careers360),low-medium,

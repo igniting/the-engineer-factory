@@ -1,0 +1,17 @@
+# title: Vendor and consultant 'employability' estimates for Indian engineering graduates
+# definition: share of tested students meeting the vendor's own benchmark for a role; NOT a labour-market outcome (myth M07)
+# unit: percent of tested sample
+# coverage: Aspiring Minds/SHL 2014 and 2016 reports; McKinsey c. 2005 as reported by Duke
+# source_ids: S0153 (Aspiring Minds National Employability Report: Engineers, 2014 and 2016 eds.; 2016 ed. printed page = PDF page - 2), S0213
+# method: transcribed as published. Aspiring Minds sells the AMCAT test it uses; benchmarks are its own.
+# breaks: samples and benchmarks differ by edition; press often conflates editions. Every use must name the vendor and the role definition.
+test_cohort,role_or_measure,pct_meeting_benchmark,sample,source_id
+2013 graduates (2014 report),"Software engineer, IT services ('trainable within 3 to 6 months')",18.43,">120,000 students, 520+ colleges","S0153 (2014 ed., pp. 7, 12)"
+2013 graduates (2014 report),"Software engineer, IT products",3.21,">120,000 students, 520+ colleges","S0153 (2014 ed., p. 7)"
+2013 graduates (2014 report),Non-functional role such as BPO,39.84,">120,000 students, 520+ colleges","S0153 (2016 ed., p. 5, restating 2014)"
+2016 report,"Software engineer, IT services",17.91,">150,000 students, 650+ colleges","S0153 (2016 ed., pp. 5, 11)"
+2016 report,"Software engineer, IT products",3.67,">150,000 students, 650+ colleges","S0153 (2016 ed., p. 5)"
+2016 report,Business process outsourcing,40.57,">150,000 students, 650+ colleges","S0153 (2016 ed., p. 5)"
+2016 report,Startup software engineering,3.84,">150,000 students, 650+ colleges","S0153 (2016 ed., p. 5)"
+2016 report,'software-industry ready' (programming skills),4.51,">150,000 students, 650+ colleges","S0153 (2016 ed., p. 11)"
+c. 2005,"Indian engineers able to 'compete in the global outsourcing arena' (McKinsey, via Duke)",25,not stated,S0213 (p. 9)
