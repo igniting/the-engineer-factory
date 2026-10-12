@@ -6,9 +6,9 @@ Chapter: v1 Ch. 6, 'Body shopping' (1978-1991). Same number in v0.
 
 ## S0241 Hanna, *Exploiting Information Technology for Development: A Case Study of India* (World Bank Discussion Paper 246, 1994). Full text read (OCR).
 
-Printed page numbers follow the '-nn-' markers. These are judged to sit at the foot of each page. Sharma (S0240, n. 62) cites the body-shopping passage as p. 32, which confirms the reading.
+Printed page numbers follow the '-nn-' markers, which sit at the **top** of each page (verified 2026-10-12 by rendering PDF p. 55 = printed p. 31; PDF page = printed page + 24). Sharma (S0240, n. 62) cites the body-shopping passage as p. 32; the World Bank PDF shows it on p. 31. Corrected throughout on 2026-10-12.
 
-### Body shopping, p. 32
+### Body shopping, p. 31
 
 The passage is the closest thing yet to a documentary statement of the pricing model.
 
@@ -20,30 +20,30 @@ The passage is the closest thing yet to a documentary statement of the pricing m
   - 'once the personnel are abroad, the temptations to remain abroad are strong'.
   - Training costs are added 'to low profit margins, though exact figures on these costs are not available'.
 
-### p. 34 (continuation)
+### p. 33 (continuation)
 
 - Returnees have gained 'little or no experience of larger scale project management'.
 - 'There is a low perception of Indian software skills in OECD markets'.
 - **'Demand for these skills is likely to be eroded by tools that automate many of these tasks.'** China and Eastern Europe are 'undercutting Indian prices'.
   - A 1994 forecast of automation risk. Key for Ch. 19 and the epilogue.
 - 'Globally, a long-term decline in demand for routine or low-level programmers has been forecasted.'
-- A survey of 150 US and European firms (InfoTech 1992, for DoE) ranks Indian services as having 'the lowest labor cost after China' (pp. 34-35).
+- A survey of 150 US and European firms (InfoTech 1992, for DoE) ranks Indian services as having 'the lowest labor cost after China' (p. 33).
 
 ### Other passages
 
-- Growth: the industry grew at 21% a year 1987-1991, exports at 35% (p. 29).
-- Firm structure, p. 32:
+- Growth: the industry grew at 21% a year 1987-1991, exports at 35% (p. 28).
+- Firm structure, p. 31:
   - 'Over three-fourths of the companies have fewer than 25 professionals'.
   - Some firms, 'renting out programmers abroad', 'operate with a one-room office, telephone and fax'.
   - About 95% of firms had software revenue under $100,000.
   - Firms above $1 million in sales: 15 in 1990, 44 in 1992; 27 exported over $1 million in 1992.
-- Top exporters, Table 7, p. 33 (Rs million; NASSCOM): TCS 1,754.8; Tata Unisys 560.0; Digital Equipment (India) 317.8; Citicorp Overseas Software 209.4; Wipro Systems 172.0; Siemens Information Systems 160.0; PSI Data Systems 156.5; Patni Computer Systems 156.2; ... Texas Instruments 128.4; Infosys 120.6. The year is probably 1991-92; check the table heading.
+- Top exporters, Table 7, p. 32 (Rs million; NASSCOM): TCS 1,754.8; Tata Unisys 560.0; Digital Equipment (India) 317.8; Citicorp Overseas Software 209.4; Wipro Systems 172.0; Siemens Information Systems 160.0; PSI Data Systems 156.5; Patni Computer Systems 156.2; ... Texas Instruments 128.4; Infosys 120.6. The year is probably 1991-92; check the table heading.
 - Telecoms: better data links would 'open major opportunities for off-shore software services activities in India, thereby reducing dependence on body-shopping (on-site delivery of services) and the consequent brain-drain' (p. 28).
 - Brain drain:
-  - 'Migration of graduates from premier institutions like the IITs is estimated to be as high as 50 percent' (p. 75).
-  - Annex 2: 'Nearly 60% of IIT Bombay and Madras graduates in computer science leave the country for continuing studies or jobs overseas' (p. 99).
-  - Annex 2: 'The orientation of the sector toward renting out programmers for the export market has led to the ubiquitous problem of "brain drain"' (p. 99).
-- Annex 2 also reports HP's view that China and Central Europe are 'now cheaper sources' (p. 99).
+  - 'Migration of graduates from premier institutions like the IITs is estimated to be as high as 50 percent' (p. 74).
+  - Annex 2: 'Nearly 60% of IIT Bombay and Madras graduates in computer science leave the country for continuing studies or jobs overseas' (p. 98).
+  - Annex 2: 'The orientation of the sector toward renting out programmers for the export market has led to the ubiquitous problem of "brain drain"' (p. 98).
+- Annex 2 also reports HP's view that China and Central Europe are 'now cheaper sources' (p. 98).
 
 ### Assessment
 

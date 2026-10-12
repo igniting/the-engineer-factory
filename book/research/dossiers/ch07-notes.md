@@ -206,8 +206,8 @@ Short computer courses by private companies (NIIT, Aptech) probably fell outside
 
 ## S0241 Hanna (World Bank 1994), education passages
 
-- p. 74: suggests 'recycling graduates in other disciplines into software engineering', bringing in multinationals and NRI groups, and centres of excellence 'on the lines of IITs'.
-- p. 99: software exports could 'cannibalize' other sectors 'by taking almost one-half of all new computing course graduates from government-initiated courses'.
+- p. 73: suggests 'recycling graduates in other disciplines into software engineering', bringing in multinationals and NRI groups, and centres of excellence 'on the lines of IITs'.
+- p. 98: software exports could 'cannibalize' other sectors 'by taking almost one-half of all new computing course graduates from government-initiated courses'.
 
 ## S0242 Chatterjee (1995)
 
