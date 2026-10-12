@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 79; 2000s 36; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 80; 2000s 40; 2010s 30; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 362 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 371 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -242,6 +242,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1997 | TI announces 'Ankur' DSP chip designed entirely in India | S0001 | 16
 1997-04 to 1998-03 | Y2K conversion is 23.3% of Infosys revenue in fiscal 1998 (7.5% in fiscal 1997; 21.4% in Apr-Dec 1998); S0001's "23% in 1997" is fiscal 1998 [dispute (dd) resolved] | S0089 (p. 15), S0001 (p. 46) | 11
 1997-1998 | Software services exports reach $1.76 billion (from $128 million in 1990-91) | S0001 | 9, 11
+1997-98 to 2005-06 | Engineering and technology colleges rise from 486 to 1,562 (1,077 in 2001-02), after 289 in 1990-91 | S0248 | 7, 12
 1998 | Infosys reaches SEI CMM Level 4 (fiscal 1998; secondary source) | S0121 | 12
 1998 | SAP Labs India launched in Bangalore | S0197 | 16
 1998 | Vajpayee declares 'IT is India's tomorrow' at Bangalore IT.com; IT Task Force formed (108 recommendations, August 1998) | S0001 | 11
@@ -283,18 +284,22 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2004 | Goldman Sachs opens Bengaluru centre with about 300 support staff | S0202 | 16
 2004 | Zinnov counts 93 new multinational R&D centres opened in India that year (24 in 2007) | S0207 | 16
 2004 | National broadband policy | S0001 | 14
+2004 | India produces c. 215,000 engineering, CS and IT graduates: 112,000 bachelor's and 103,000 diplomas (NASSCOM projection); press figure of 350,000 not comparable | S0213 | 12
 2004-01-23 | Thomas-Voinovich provision limiting offshoring of federal competitive-sourcing work signed into law (FY2004 omnibus) | S0111 | 14
 2004-03 | US Senate passes Dodd amendment on offshoring by federal contractors, 70-26 | S0111 | 14
 2004-08 | Lou Dobbs publishes Exporting America | S0112 | 14
 2005-02 | PM Manmohan Singh inaugurates Infosys Global Education Centre, Mysore (4,500 trainees at a time) | S0115 | 12
+2005-02 | Infosys training facility at Mysore can house 4,500 trainees (c. 12,000 a year) on a 14-week course; opened by PM Manmohan Singh per company releases (to confirm) | S0264, S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
 2005-08 | Oracle buys Citigroup's 41% stake in i-flex for $593 million | S0176 | 16
+2005-12 | Duke study challenges US press counts of Indian and Chinese engineers; notes latest official Indian graduation data are from 1993 | S0213 | 12, 14
 2006 | IBM India headcount reaches 53,000 | S0194 | 14, 16
 2006 | Railway reservation becomes web-based | S0001 | 15
 2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
 2007 | Tata's EKA supercomputer ranked fourth fastest in the world | S0001 | 16
 2007 | 257 software and services firms set up in SEZs | S0001 | 14
 2007-01 | Wadhwa, Saxenian et al. report Indian founders in 15.5% of Silicon Valley startups 1995-2005 [figure disputed] | S0098 | 13
+2007-04 to 2008-03 | Infosys makes c. 46,300 job offers (1,790 in fiscal 1998); 91,200 employees at March 2008 | S0265, S0089 | 12
 2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
 2007-08 | Accenture's India headcount set to pass its US headcount (35,000) | S0193 | 14, 16
 2008 | Nasscom: c. 2 million direct IT-BPO employees (FY2008) | S0107 | 12, 14
@@ -310,9 +315,13 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2010 | TI India has about 1,500 employees and 309 patents (by 2008) | S0001 | 16
 2010-09-29 | First Aadhaar numbers issued, Tembhli, Nandurbar district, Maharashtra | S0128 | 15
 2011-03-31 | STPI section 10A income-tax holiday expires after extensions in 2009 and 2010 | S0114 (secondary; confirm with Finance Act) | 16
+2011-04 to 2012-03 | Infosys utilisation 69.0% including trainees (75.9% excluding); c. 150,000 employees; Mysore trains 14,000 at a time | S0266 | 12, 14
 2012 | 166 of the world's c. 250 CMM Level 5 organisations are in India (estimate) | S0001 | 12
+2012-13 | Approved undergraduate engineering intake 15.49 lakh, 37.6% of seats empty (AICTE/AISHE via secondary analysis) | S0267 | 12
 2013 | About 30 product companies form iSPIRT, saying Nasscom favoured services | S0188 | 16
+2014 | Aspiring Minds report: 18.43% of 2013 engineering graduates "employable" (trainable in 3-6 months) for IT services; entry-level growth "diminishing" (vendor test) | S0153 | 12, 18
 2014-07-15 | SEBI order bars Satyam promoters for 14 years, orders disgorgement of about Rs 1,850 crore | S0123 | 15
+2014-15 | Approved undergraduate engineering intake peaks at 17.05 lakh (12.53 lakh by 2021-22) | S0267 | 12
 2015-04-09 | Special CBI court in Hyderabad convicts Raju and nine others; seven years' imprisonment | S0124 | 15
 2015-11 | Nilekani and Shah publish Rebooting India | S0126 | 15
 2016 | UPI launched by NPCI [disputed: April vs August 2016] | S0129, S0148 | 16
