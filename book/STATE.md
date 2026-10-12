@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 3, step 3: `software_exports.csv`.** Software and services export revenue, US$ million, 1978-2026, per `research/dataset_plan.md` row B. Keep three definitional families in separate columns: (1) early 'software exports' from S0001 (Bhatnagar-based table, 1990-91 to 1997-98, and earlier point values), Heeks (S0070) and S0085 ($131.2m 1990-91); (2) Nasscom 'IT-BPM'/'technology industry' exports (S0107 for c. 1998-2008; S0140, S0306 for FY24-26; revisions noted, e.g. FY25 $282.6bn to $297bn total revenue); (3) RBI balance-of-payments 'software services' receipts from 2002-03 (S0106; try RBI Handbook HTML view of 'Invisibles by Category of Transactions - US Dollar', Table 130, via PublicationsView.aspx). Add a real column in 2025 dollars using `us_cpi_u.csv`. First read the exact page references for each pre-1998 value in the Ch. 4-11 dossiers (grep 'export' in dossiers) so every row carries a page. Notes in `data/notes/software_exports.md`.
+**Phase 3, step 4: `industry_workforce.csv`.** Direct employment, persons, 1985-2026, per `dataset_plan.md` row B: separate columns for Nasscom direct employees (S0107 c. 2m FY2008; S0140 FY24 restated 5.67m, FY25E 5.8m; S0306 FY26 59.5 lakh; any earlier Nasscom/DoE points in the Ch. 9-14 dossiers, grep 'employ' and 'professionals'), S0001 (2.4m in 2010, give page), PLFS-based estimates (S0211, S0154) and NITI's all-sector tech workforce (S0316, 7.5-8m 2023, separate column, not comparable). Same header/row rules; script `data/scripts/build_workforce.py`; notes `data/notes/industry_workforce.md`. Also try, once, to close the software_exports gap 1998-99 to 2017-18: check whether older RBI Handbook HTML views of 'India's Overall Balance of Payments - US Dollar' exist (search the web for 'PublicationsView.aspx' with that title and years 2010-2017).
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -17,7 +17,7 @@
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
-- [ ] Phase 3 - Data CSVs (5/30 built: us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy)
+- [ ] Phase 3 - Data CSVs (6/30 built: us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports (partial))
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 3 step 3: built `data/software_exports.csv` (partial): Heeks 1980-1997/98 (S0085 p. 2), Bhatnagar via Rajaraman FY1990-91 to 1997-98 (S0001 p. 48), four Nasscom points with definitions, RBI survey 2009-11 (S0106), RBI BoP 'Software services' receipts 2018-19 to 2025-26 (Handbook Table 124 HTML views); real 2025-dollar columns. Gap 1998-99 to 2017-18 (rbidocs PDFs blocked). Script `build_exports.py`; notes `software_exports.md`. | data/software_exports.csv |
 | 2026-10-12 | Phase 3 step 2: built `data/cpi_iw.csv` (RBI Table 34, FY1993-94 to FY2025-26, linked to 2016=100 with published factors 4.63 and 2.88) and `data/cpi_india_cy.csv` (OECD MEI via FRED, 1957-2024; tested as tracking CPI-IW within c. 1% over five-year spans). 1960-base CPI-IW not obtained; OECD series covers pre-1993 deflation. New S0321; S0156 seen. Register 318. | data/cpi_iw.csv, data/cpi_india_cy.csv |
 | 2026-10-12 | Phase 3 step 1: built `data/us_cpi_u.csv` (BLS CPI-U 1950-2025, to-2025-dollar factor; Oct 2025 missing), `data/inr_usd.csv` (calendar year 1950-2025: RBI Table 132 from 1987, Fed G.5A 1973-86, PWT 11.0 1950-72, separate columns plus preferred column with stated rule; overlaps within 0.3%) and `data/inr_usd_fy.csv` (RBI Table 133, FY1986-87 to FY2025-26); script `data/scripts/build_reference.py`; notes `data/notes/reference_series.md`. rbidocs XLSX blocked, HTML views used. New S0319 (PWT), S0320 (Fed G.5A); S0155, S0157 now seen. dataset_plan updated with Phase 2 inputs. Register 317. | data/*.csv |
 | 2026-10-12 | Phase 2 close-out: `phase2-review.md` written. All 21 dossiers pass gates (113,815 words); rank-and-file met in 9 (real names in 5), weak in 3, NOT met in 9 (Ch. 1, 3, 4, 8, 9, 10, 14, 15, 17), mostly fixable only by author acquisitions; disputes (a)-(nnn) sorted into resolved (8 + 5 compatible), Phase 5 verification, and open-in-text; gaps ranked (author-supplied vs fetchable); myth verdicts tabulated (6 unresolved); 10 framing corrections owed at drafting. Phase 2 marked done. | phase2-review.md |
