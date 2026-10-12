@@ -168,7 +168,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1986 | TI's Bangalore earth station required 'removing or breaking 25 different government rules' | S0255 | 8, 10
 1986-12 | Policy on Computer Software Export, Software Development and Training: duty-free imports against 250% export obligation in 4 years; satellite exports allowed | S0241, S0001 | 8
 1986-12-29 | Christian Science Monitor reports planned US supercomputer sale to India (letter in reply 8 Jan 1987) | S0079 | 8
-1987 | India seeks a Cray X-MP/24; US blocks sale | S0079, S0080 (myth M05) | 8
+1987-01 | Proposed US supercomputer sale to India publicly debated ('tentative sale'; outcome and model not stated in S0079; 'X-MP/24 blocked' claim unsupported, corrected 2026-10-12) | S0079, S0080 (myth M05) | 8
 1987 | AICTE Act (Act 52 of 1987) gives AICTE statutory powers | S0076 | 7
 1987 | Sterling Computers sells the Shiva PC, an IBM clone, for Rs 29,000 | S0001 | 8
 1987 | NIIT begins franchising courses to smaller towns | S0001, S0065 | 7
