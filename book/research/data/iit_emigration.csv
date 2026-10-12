@@ -1,0 +1,13 @@
+# title: Emigration of IIT graduates and top JEE scorers
+# definition: share of a cohort living or working abroad; cohorts and methods differ by study
+# unit: percent or ratio as stated
+# coverage: 1970s cohorts; JEE 2010 cohort
+# source_ids: S0003, S0046, S0172 (Choudhury, Ganguli and Gaule, NBER Working Paper 31308, June 2023)
+# method: transcribed; a table, not a series
+# breaks: different institutions, cohorts and definitions; do not compare as a trend
+cohort,measure,value,source_id,confidence,note
+1973-1977 graduates,IIT Bombay electrical engineering graduates living abroad,slightly over 40%,S0003 p. 803; S0046,medium,Sukhatme survey as reported by Bassett
+since 1970,IIT Bombay graduates settled abroad,about 3 in 10,"S0046 (as reported in Nature, 1993)",low,secondary report of the survey
+"JEE 2010 top 1,000",migrated abroad (by c. 2020),36%,"S0172 (NBER w31308, abstract)",high,
+JEE 2010 top 100,migrated abroad,62%,S0172 (abstract),high,
+JEE 2010 cohort,extra migration for graduate school at original 'Top 5' IITs vs equally talented peers,+5 percentage points,S0172 (abstract),high,

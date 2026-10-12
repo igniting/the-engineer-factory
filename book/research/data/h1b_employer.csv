@@ -1,0 +1,53 @@
+# title: H-1B petitions approved for initial employment, selected employers
+# definition: approved petitions for initial (new and concurrent) employment by employer, as compiled by NFAP from the USCIS H-1B Employer Data Hub; NFAP groups related entities
+# unit: petitions
+# coverage: FY2022-FY2025 (selected employers); one administration claim on registrations
+# source_ids: S0337, S0338 (National Foundation for American Policy, a pro-immigration policy group), S0300; underlying data S0159 (USCIS hub, blocked from this container)
+# method: transcribed from NFAP tables
+# breaks: NFAP revises earlier years between briefs (Cognizant FY2024 2,837 vs 2,873). 'Indian-based' is NFAP's classification (Cognizant is US-headquartered).
+fiscal_year,employer,approvals_initial_employment,source_id,confidence,note
+FY2025,Amazon,4644,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Amazon,3871,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Amazon,4052,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Meta Platforms,1555,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Meta Platforms,920,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Meta Platforms,735,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Microsoft,1394,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Microsoft,1264,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Microsoft,987,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Google,1050,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Google,1058,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Google,1267,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,TCS,846,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,TCS,1452,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,TCS,1174,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Apple,823,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Apple,864,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Apple,707,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Cognizant,743,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Cognizant,2873,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Cognizant,2597,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,IBM,501,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,IBM,1348,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,IBM,979,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Deloitte,432,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Deloitte,891,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Deloitte,591,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Capgemini,401,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,Capgemini,1041,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,Capgemini,1110,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,LTIMindtree,401,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,LTIMindtree,798,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,LTIMindtree,914,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,HCL America,379,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2024,HCL America,1248,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2023,HCL America,715,"S0338 (NFAP Nov 2025, Table 1, p. 6)",medium,
+FY2025,Tech Mahindra,295,S0338 (Appendix Table 2),medium,not in top 25
+FY2025,Wipro,267,S0338 (Appendix Table 2),medium,not in top 25
+FY2025,Infosys,263,S0338 (Appendix Table 2),medium,not in top 25
+FY2025,Accenture,254,S0338 (Appendix Table 2),medium,not in top 25
+FY2024,Infosys,2504,"S0337 (NFAP Dec 2024, p. 2)",medium,
+FY2024,Cognizant,2837,S0337 (p. 2),medium,"NFAP Nov 2025 gives 2,873 for FY2024: revision or typo"
+FY2022,Amazon,6396,S0337; S0338,medium,
+FY2025,top seven Indian-based companies (NFAP grouping),4573,S0338 (p. 6),medium,'a drop of 70% from FY 2015 and 37% fewer than in FY 2024' (NFAP)
+FY2025 vs FY2027 cap seasons,"largest IT staffing and outsourcing firms, combined registrations (unnamed)","24,946 to 2,055",S0300,low,"US administration's claim; registrations, not approvals"

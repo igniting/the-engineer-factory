@@ -61,11 +61,11 @@ Status codes: **ready** = registered sources cover most years; **partial** = cov
 
 | File | Definition and unit | Years | Sources | Breaks and method | Status |
 |---|---|---|---|---|---|
-| `h1b_country.csv` | H-1B approvals by country of birth, count and % | 1999-2026 | S0104 (INS 1999-2000: India 48.5%), S0105 (CRS; FY2023 India 72%), USCIS annual 'Characteristics' reports (to register individually) | Initial vs continuing petitions; approvals vs visas issued (State Department data). | partial |
-| `h1b_employer.csv` | Approvals by employer, top 20, by year | 2009-2026 | S0159 (USCIS employer hub), S0104 ('Top 100 users' 2000); Phase 2 adds Proclamation 11069's claim that the largest IT outsourcers' registrations fell 24,946 to 2,055 (S0300; administration's figure, firms unnamed) | Employer name changes and subsidiaries; tests M11. | partial |
-| `h1b_policy.csv` | Cap, fees, rule changes (event table rather than series) | 1990-2026 | S0105, S0136, S0137 (2025-26 fee and litigation, LIVE-CHECKED) | Event list. | partial |
-| `indian_students_us.csv` | Indian students in the US and OPT participants | 1949-2026 | S0158 (Open Doors; 2024-25: 363,019; OPT 143,740), S0003 (1949 data) | OPT count whether India-only to confirm. | partial |
-| `iit_emigration.csv` | Share of IIT graduates abroad, by cohort | 1970s-2010 | S0046 (IIT Bombay), S0047, S0172 (JEE 2010 top 1,000: 36% abroad) | Different cohorts and definitions; table, not series. | partial |
+| `h1b_country.csv` | H-1B approvals by country of birth, count and % | 1999-2026 | S0104 (INS 1999-2000: India 48.5%), S0105 (CRS; FY2023 India 72%), USCIS annual 'Characteristics' reports (to register individually) | Initial vs continuing petitions; approvals vs visas issued (State Department data). | **built 2026-10-12, points (1999-2000, FY2005, FY2023, FY2024)** |
+| `h1b_employer.csv` | Approvals by employer, top 20, by year | 2009-2026 | S0159 (USCIS employer hub), S0104 ('Top 100 users' 2000); Phase 2 adds Proclamation 11069's claim that the largest IT outsourcers' registrations fell 24,946 to 2,055 (S0300; administration's figure, firms unnamed) | Employer name changes and subsidiaries; tests M11. | **built 2026-10-12, partial (NFAP FY2022-25)** |
+| `h1b_policy.csv` | Cap, fees, rule changes (event table rather than series) | 1990-2026 | S0105, S0136, S0137 (2025-26 fee and litigation, LIVE-CHECKED) | Event list. | **built 2026-10-12 (cap 1992-2026 and events)** |
+| `indian_students_us.csv` | Indian students in the US and OPT participants | 1949-2026 | S0158 (Open Doors; 2024-25: 363,019; OPT 143,740), S0003 (1949 data) | OPT count whether India-only to confirm. | **built 2026-10-12, partial (2017/18-2024/25)** |
+| `iit_emigration.csv` | Share of IIT graduates abroad, by cohort | 1970s-2010 | S0046 (IIT Bombay), S0047, S0172 (JEE 2010 top 1,000: 36% abroad) | Different cohorts and definitions; table, not series. | **built 2026-10-12 (table)** |
 
 ## G. Beyond services
 

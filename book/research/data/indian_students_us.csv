@@ -1,0 +1,16 @@
+# title: Students from India in US higher education (Open Doors)
+# definition: international students from India enrolled in or on OPT at US institutions, academic year; level split for the latest two years
+# unit: persons
+# coverage: 2017/18 to 2024/25 (earlier years in Open Doors not obtained)
+# source_ids: S0158 (Institute of International Education, Open Doors, India fact sheet 2025; IIE is a non-profit with State Department support)
+# method: transcribed from the fact sheet
+# breaks: totals include OPT (Optional Practical Training: post-study work), which rose from 97,556 to 143,740; graduate students fell 9.5% in 2024/25
+academic_year,total,undergraduate,graduate,non_degree,opt,source_id,confidence,note
+2017/18,196271,,,,,S0158 (Open Doors India fact sheet 2025),high,
+2018/19,202014,,,,,S0158 (Open Doors India fact sheet 2025),high,
+2019/20,193124,,,,,S0158 (Open Doors India fact sheet 2025),high,
+2020/21,167582,,,,,S0158 (Open Doors India fact sheet 2025),high,
+2021/22,199182,,,,,S0158 (Open Doors India fact sheet 2025),high,
+2022/23,268923,,,,,S0158 (Open Doors India fact sheet 2025),high,
+2023/24,331602,36053,196567,1426,97556,S0158 (Open Doors India fact sheet 2025),high,
+2024/25,363019,40135,177892,1252,143740,S0158 (Open Doors India fact sheet 2025),high,

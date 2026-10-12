@@ -1,0 +1,18 @@
+# title: H-1B petitions approved by beneficiary's country of birth
+# definition: count and share of approved H-1B petitions (initial, continuing or all) by country of birth; one petition can relate to the same person more than once
+# unit: petitions; percent
+# coverage: Oct 1999-Feb 2000; FY2005 (arrivals); FY2023; FY2024. FY2000-22 USCIS reports exist but uscis.gov blocks this container.
+# source_ids: S0104, S0105, S0335 (FY2024 report; copy via poder360.com.br mirror, verified: its FY2020-23 rows in Table 1b match S0336 exactly), S0336 (FY2023 report via govinfo CMR-HS8-00193273)
+# method: transcribed; shares as published
+# breaks: 'initial' vs 'continuing' split published from FY2020; approvals are petitions not people; FY2005 figure is new arrivals.
+period,measure,country,count,total,share_pct,source_id,confidence,note
+Oct 1999-Feb 2000,approved petitions (INS),India,124697,257077,48.5,S0104 (via visalaw.com table),medium,INS original not read
+FY2005,new arrivals,India,,,49.0,S0105 (RL30498),medium,different measure
+FY2023,all approved petitions,India,279386,386318,72.3,"S0336 (USCIS FY2023 report, Table 4a, p. 27)",high,
+FY2023,all approved petitions,China,45344,386318,11.7,"S0336 (Table 4a, p. 27)",high,
+FY2023,"approved, initial employment",India,68825,118948,57.9,"S0336 (Table 4b, p. 33)",high,
+FY2023,"approved, continuing employment",India,210561,267370,78.8,"S0336 (Table 4c, p. 39)",high,
+FY2024,all approved petitions,India,283397,399395,71.0,"S0335 (USCIS FY2024 report, Figure 5, p. 6)",high,"Table 4a gives 283,755 (71%) of 399,378 with known sex: internal inconsistency"
+FY2024,all approved petitions,China,46680,399395,11.7,"S0335 (Figure 5, p. 6)",high,
+FY2024,"approved, initial employment",India,80449,141192,57.0,"S0335 (Table 4b, p. 31)",high,total is beneficiaries with known sex
+FY2024,"approved, continuing employment",India,203306,258186,78.7,"S0335 (Table 4c, p. 36)",high,

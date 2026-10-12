@@ -1,0 +1,36 @@
+# title: H-1B cap, petitions issued against the cap, and policy events
+# definition: rows with cap/issued numbers are NFAP's table of new petitions issued against the cap by fiscal year; other rows are dated policy events
+# unit: petitions (where numeric)
+# coverage: 1990-2026
+# source_ids: S0105 (CRS IF12912, RL30498), S0338 (NFAP), S0335, S0136, S0137, S0300
+# method: transcribed
+# breaks: event table, not a series
+date,event_or_measure,cap,issued,source_id,confidence,note
+1992,cap and petitions issued against cap,65000,48600,S0338 (Appendix Table 1),medium,fiscal year
+1993,cap and petitions issued against cap,65000,61600,S0338 (Appendix Table 1),medium,fiscal year
+1994,cap and petitions issued against cap,65000,60300,S0338 (Appendix Table 1),medium,fiscal year
+1995,cap and petitions issued against cap,65000,54200,S0338 (Appendix Table 1),medium,fiscal year
+1996,cap and petitions issued against cap,65000,55100,S0338 (Appendix Table 1),medium,fiscal year
+1997,cap and petitions issued against cap,65000,65000,S0338 (Appendix Table 1),medium,fiscal year
+1998,cap and petitions issued against cap,65000,65000,S0338 (Appendix Table 1),medium,fiscal year
+1999,cap and petitions issued against cap,115000,115000,S0338 (Appendix Table 1),medium,fiscal year
+2000,cap and petitions issued against cap,115000,115000,S0338 (Appendix Table 1),medium,fiscal year
+2001,cap and petitions issued against cap,195000,163600,S0338 (Appendix Table 1),medium,fiscal year
+2002,cap and petitions issued against cap,195000,79100,S0338 (Appendix Table 1),medium,fiscal year
+2003,cap and petitions issued against cap,195000,78000,S0338 (Appendix Table 1),medium,fiscal year
+2004-2026,cap and petitions issued against cap,65000,65000,S0338 (Appendix Table 1),medium,cap reached every year
+1990,"Immigration Act of 1990 (P.L. 101-649) creates the H-1B classification with an annual cap of 65,000",,,S0105,high,
+1997-09,Cap first reached,,,S0105 (RL30498),high,
+FY1999-2000,"Cap raised temporarily to 115,000",,,S0105; S0338,high,
+FY2001-03,"Cap raised to 195,000",,,S0105; S0338,high,
+FY2004,"Cap returns to 65,000",,,S0338,medium,
+FY2005,Cap reached on the first day of filing,,,S0105 (RL30498),high,
+by FY2025,"20,000 additional petitions for holders of US master's or higher degrees (start date not in sources read)",,,S0338,medium,
+2007-04,"FY2008 cap reached in two days (c. 119,193 petitions)",,,S0105 (RL30498),high,
+FY2018-20,"Denial rates for initial employment 24% (FY2018), 21% (FY2019), 13% (FY2020)",,,S0338 (Table 2),medium,
+FY2021,First lottery based on electronic registration,,,S0335 (p. 21),medium,
+2025-09-19,"Proclamation 10973: $100,000 payment for new petitions, effective 21 Sep 2025",,,S0136,high,
+2025-12-29,DHS final rule: weighted selection favouring higher wage levels,,,S0300,high,
+2026-06-08,"D. Mass. rules the fee unlawful (what was vacated disputed, aaa)",,,S0137,medium,POST-CUTOFF
+2026-09-18,Proclamation 11069 extends the fee to 21 Sep 2027,,,S0300,high,POST-CUTOFF
+2026-09-30,N.D. Cal. vacates agency policies implementing the fee (Global Nurse Force v. Trump),,,S0137,medium,POST-CUTOFF
