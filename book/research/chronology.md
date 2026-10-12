@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 84; 2000s 47; 2010s 36; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 87; 2000s 48; 2010s 36; 2020s 43. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 388 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 394 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -228,6 +228,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1994 | Infosys raises $7.7 million from foreign institutional investors | S0089 | 11
 1994 | American Express sets up back-office centre in Mumbai [disputed: Gurgaon per other sources; 1992 per Roy's firm] | S0001, S0206 | 14
 1994 | World Bank study: body shopping 70-80% of export revenue, 'hourly or monthly rate'; warns automation tools may erode demand | S0241 | 6, 19
+1994 | Dun & Bradstreet sets up an in-house technology development centre in India (origin of Cognizant Technology Solutions) | S0274 | 15
 1994-03 | First TiE conference (later TiECon), over 500 people | S0116, S0097 (p. 46) | 13
 1994-09 | Infosys adopts its ESOP through an employee welfare trust ("one of the first employee stock option plans in India", company claim); exercise price Rs 100, five-year vesting | S0089 (p. 28, note 17) | 11
 1994-95 | 337 engineering and technology colleges | S0248 | 7, 12
@@ -240,6 +241,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1996 | F.C. Kohli succeeded by S. Ramadorai as TCS chief | S0001 | 11
 1996 | Raman Roy joins GE to build its India operation (later GE Capital's Indian call centres) | S0206 | 14
 1996-10 | GE Capital International Services set up in Gurgaon [disputed: 1997 in other accounts] | S0110 | 14
+1996-11 | Dun & Bradstreet spin-off forms Cognizant Corporation, parent of the Indian technology unit | S0274 | 15
 1997 | i-flex's FLEXCUBE core-banking product launched, built in Bangalore | S0176 | 16
 1997 | TI announces 'Ankur' DSP chip designed entirely in India | S0001 | 16
 1997-04 to 1998-03 | Y2K conversion is 23.3% of Infosys revenue in fiscal 1998 (7.5% in fiscal 1997; 21.4% in Apr-Dec 1998); S0001's "23% in 1997" is fiscal 1998 [dispute (dd) resolved] | S0089 (p. 15), S0001 (p. 46) | 11
@@ -256,6 +258,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1998 | Bangalore headquarters 152 of 558 Indian software firms (Mumbai 122, Chennai 93) | S0085 | 10
 1998 | American Competitiveness and Workforce Improvement Act raises H-1B cap to 115,000 for FY1999-2000 | S0105 | 13
 1998-03-24 | Microsoft announces a software development centre in Hyderabad; opens August 1998, moves to HITEC City February 1999 with 36 staff | S0195 | 10, 16
+1998-06-19 | Cognizant Technology Solutions IPO prospectus: c. 870 of its staff in India, 74% of technical professionals | S0274 | 15
 1998-11 | Chandrababu Naidu opens CyberTowers, Hyderabad: 'the triplet cities of Hyderabad-Secunderabad-Cyberabad' | S0119 | 10
 1998-11-22 | HITEC City, Hyderabad, formally inaugurated by PM Vajpayee | S0119 | 10
 1998-12-31 | Infosys employs about 3,000 IT professionals; c. 245 dedicated to Nortel | S0089 | 11, 12
@@ -296,22 +299,23 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2004-03 | US Senate passes Dodd amendment on offshoring by federal contractors, 70-26 | S0111 | 14
 2004-08 | Lou Dobbs publishes Exporting America | S0112 | 14
 2004-10 | H-1B cap reverts to 65,000 for FY2005 and is reached on the first day; India 49.0% of new H-1B arrivals in FY2005 | S0105 | 13
+2004-10-13 | Sergey Brin in Bangalore: Google will run "a mirror exactly" of US development there | S0200 | 15
 2005-02 | PM Manmohan Singh inaugurates Infosys Global Education Centre, Mysore (4,500 trainees at a time) | S0115 | 12
 2005-02 | Infosys training facility at Mysore can house 4,500 trainees (c. 12,000 a year) on a 14-week course; opened by PM Manmohan Singh per company releases (to confirm) | S0264, S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
 2005-06-23 | Special Economic Zones Act 2005 receives assent (s. 10AA tax regime) | S0114 | 14
 2005-08 | Oracle buys Citigroup's 41% stake in i-flex for $593 million | S0176 | 16
 2005-12 | Duke study challenges US press counts of Indian and Chinese engineers; notes latest official Indian graduation data are from 1993 | S0213 | 12, 14
-2006 | IBM India headcount reaches 53,000 | S0194 | 14, 16
 2006 | Railway reservation becomes web-based | S0001 | 15
 2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
+2006-12 | IBM India headcount reaches 53,000 (39,000 a year earlier; reported 1 February 2007) | S0194 | 14, 15
 2007 | Tata's EKA supercomputer ranked fourth fastest in the world | S0001 | 16
 2007 | 257 software and services firms set up in SEZs | S0001 | 14
 2007-01 | Wadhwa, Saxenian et al. report Indian founders in 15.5% of Silicon Valley startups 1995-2005 [figure disputed] | S0098 | 13
 2007-04 to 2008-03 | Infosys makes c. 46,300 job offers (1,790 in fiscal 1998); 91,200 employees at March 2008 | S0265, S0089 | 12
 2007-04-02 | FY2008 H-1B cap reached within two days (c. 119,193 petitions) | S0105 | 13
 2007-08 | RBI survey: 74.6% of software exports delivered offsite, 25.4% onsite (FY2007-08) | S0106 | 14
-2007-08 | Accenture's India headcount set to pass its US headcount (35,000) | S0193 | 14, 16
+2007-08 | Accenture's India headcount set to pass its US headcount (35,000) | S0193 | 14, 15
 2008 | Nasscom: c. 2 million direct IT-BPO employees and $64bn revenue (FY2008 estimates); exports grew 35% a year FY2004-07 (lobby figures) | S0107 | 12, 14
 2008 | Zinnov: c. 594 multinational R&D centres in India employ 146,760 | S0207 | 16
 2008 | IT Act amended; VoIP legalised by TRAI | S0001 | 15
@@ -359,6 +363,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2021 | Indian startup funding peaks at about $42 billion (Inc42; other vendors differ) | S0147 | 16, 17
 2021-07-23 | Zomato lists on Indian exchanges, the first Indian unicorn to do so | S0184 | 16, 17
 2021-09-22 | Freshworks lists on Nasdaq (FRSH) at $36 | S0174 | 16
+2021-12-31 | EPAM's largest delivery centres are in Ukraine (12,389), Belarus (9,416) and Russia (8,933); India 4,349 | S0170 | 15
 2022-03-11 | RBI bars Paytm Payments Bank from onboarding new customers | S0182 | 16
 2022-09-21 | Rishad Premji says Wipro fired 300 employees for moonlighting for a competitor | S0131 | 17
 2022-10 | Reports of delayed fresher onboarding at Infosys, Wipro, HCLTech, Accenture | S0134 | 17
@@ -368,6 +373,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2023-24 | PLFS: graduate unemployment 13.0%; youth (15-29) 10.2% | S0154 | 18
 2024 | Nasscom-Zinnov: over 1,700 GCCs in India employing over 1.9 million (FY24) | S0141 | 16, 18
 2024 | Karnataka adopts India's first dedicated GCC policy (500 new GCCs by 2029) | S0204 | 18
+2024 | India becomes EPAM's largest delivery location (10,072) after its exit from Russia | S0170 | 15
 2024-01 | China resumes youth unemployment data with a new method excluding students | S0169 | sidebar
 2024-01-31 | RBI bars Paytm Payments Bank from taking deposits after 29 February 2024 | S0182 | 16
 2024-03 | Cabinet approves IndiaAI Mission (Rs 10,371.92 crore over five years) | S0186 | 18
