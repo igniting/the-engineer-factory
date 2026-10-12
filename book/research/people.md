@@ -10,7 +10,7 @@ Only real, documented people. No composites.
 
 **Known skew:** the index is dominated by founders, officials and scholars. Workers, women engineers, trainees and union members are almost absent because the registered sources name few of them (ethnographies use pseudonyms, which cannot be treated as named people). Phase 2 must search for named, published first-hand accounts by ordinary engineers (memoirs, oral histories, press profiles, court and labour-department records) for every chapter.
 
-**Count:** 133 (2026-10-11). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
+**Count:** 136 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
 
 | Name | Dates | Roles | Documented | First-hand material | Source IDs | Chapters |
 |---|---|---|---|---|---|---|
@@ -47,8 +47,11 @@ Only real, documented people. No composites.
 | J.R.D. Tata | 1904-1993 | Chairman, Tata group | Asked Kohli to run Tata computer unit | none | S0038 (secondary) | 4 |
 | F.C. Kohli | 1924-2020 | GM then director-in-charge of TCS (1974-96) | Burroughs deal, export obligation; 'father of Indian software' | CHM oral history S0036; interview with Bassett; speeches | S0036, S0038, S0003, S0001 | 4,6 |
 | S. Ramadorai | b. 1944 | TCS CEO 1996-2009 | Wrote TCS history | Memoir S0037 | S0037, S0001 | 4,11,12 |
-| Narendra Patni | 1943-2014 | Founder, Data Conversion Inc. (1972), Patni Computer Systems (1978) | MIT-trained; early offshore data entry | Interview with Bassett; press profiles | S0044, S0045, S0003 | 4,6 |
-| Poonam Patni | n.d. | Co-founder, Data Conversion | Started Pune back office (20 people) | none | S0044 | 4 |
+| Narendra Patni | 1943-2014 | Founder, Data Conversion Inc. (1972), Patni Computer Systems (1978; 1976 per S0229) | MIT-trained; early offshore data entry | Interview with Bassett; press profiles | S0044, S0045, S0003 | 4,6 |
+| Poonam Patni | n.d. | Co-founder, Data Conversion | Tested offshore model in Cambridge apartment with Narendra; started Pune back office (20 people per S0044; two dozen per S0229) | none | S0044, S0229 | 4 |
+| Lalit S. Kanodia | n.d. | MIT management graduate; TCS founding team; preceded Kohli (1969); later founded Datamatics (to confirm) | Pre-Kohli TCS | none found | S0228 | 4 |
+| Yashpal Sahni | n.d. | ISI postgraduate; TCS founding member | Possible early-staff voice | none found | S0228 | 4 |
+| Nitin Patel; Ashok Malhotra | n.d. | MIT management graduates in TCS founding team | | none found | S0228 | 4 |
 | George Fernandes | 1930-2019 | Industry Minister, Janata government | Closed renegotiation with IBM; credited (disputedly) with its exit | Lok Sabha statements (to locate) | S0055, S0056 | 5 |
 | Biswajit Nag | n.d. | DoE secretary from 1978 | Succeeded Menon; resigned 1981 | none | S0001 | 5 |
 | P.P. Gupta | n.d. | DoE secretary from 1981 |  | none | S0001 | 5,8 |

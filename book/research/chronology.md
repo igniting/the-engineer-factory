@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 41; 1970s 36; 1980s 50; 1990s 61; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 43; 1970s 40; 1980s 51; 1990s 61; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 311 events (2026-10-11; Phase 1b complete). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 318 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -53,9 +53,9 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1963 | Ten-day IBM 1620 programming courses for outsiders begin at Kanpur, run three times a year until 1975 | S0001 | 2
 1963-07 | IBM 1620 flown to Kanpur on a chartered DC-7; Huskey and two Princeton experts start an informal course for 25 first-year students | S0003, S0001 (S0001 says installed August 1963) | 2
 1964 | IIT Kanpur makes programming and numerical methods compulsory for all engineering students | S0001, S0003 | 2
-1964-05 | H.K. Kesavan becomes first head of the IIT Kanpur computer centre | S0003 | 2
 1964-end | India has 15 digital computers | S0007 | 1
 1964-mid | CDC 3600 installed at TIFR, bought for $1.5 million with USAID funds | S0001 | 1, 3
+1964-05 | H.K. Kesavan becomes first head of the IIT Kanpur computer centre | S0003 | 2
 1965 | IIT Kanpur starts M.Tech with a computer science option, first CS degree teaching in India | S0001, S0043 | 2
 1965 | Planning Commission opens a computer centre in Delhi with a Ford Foundation grant of Rs 23 lakh (autumn) | S0007 | 1
 1965 | Minsk II computer delivered to IIT Bombay (operational January 1968) | S0003 | 2
@@ -68,12 +68,14 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1966 | ISIJU solid-state computer completed | S0001 | 1
 1966-01 | Bhabha dies in an air crash; Bhagavantam completes the Electronics Committee report | S0052 | 3
 1967 | IBM's difficulties with the Indian government begin | S0055 | 5
-1967-03-23 | Lok Sabha: question on LIC computers and union fears of retrenchment; Morarji Desai says no retrenchment | S0019 | 3
 1967 | ECIL set up at Hyderabad under the Department of Atomic Energy to commercialise BARC electronics [day 11 April from secondary sources; confirm] | S0001 | 3
-1968-04-01 | Tata Computer Systems (later TCS) set up by Tata Sons | S0039, S0038 | 4
+1967 | Tata Computer Centre set up to handle data processing for Tata group companies; founding team Kanodia, Patel, Malhotra, Sahni [disputed (k)] | S0228, S0003 | 4
+1967-03-23 | Lok Sabha: question on LIC computers and union fears of retrenchment; Morarji Desai says no retrenchment | S0019 | 3
+1968-04-01 | Tata Computer Systems (later TCS) set up by Tata Sons [disputed (k): 1967 as Tata Computer Centre per S0228, S0003; see dossiers/ch04.md] | S0039, S0235, S0231 | 4
 1969 | Major private banks nationalised | S0001 | 3
 1969 | Ministry of Labour sets up automation committee under R. Venkataraman [disputed: S0020 names V.M. Dandekar as chair of the 1972 report] | S0001, S0020 | 3
 1969 | Rajaraman publishes Principles of Computer Programming, a widely used textbook | S0003 | 2
+1969 | F.C. Kohli moves from Tata Electric to TCS as general manager, succeeding Lalit Kanodia | S0228, S0038, S0036 | 4
 1969-01-21 | TDC-12 real-time computer commissioned at BARC by Vikram Sarabhai | S0040 (date from secondary; confirm) | 3
 1970 | Department of Electronics established (Rajaraman's first 'break point'); computer import licensing moves to it | S0001 | 3
 1970 | About 80 IBM 1401s installed in India, the most popular computer in the country | S0001 | 3, 5
@@ -85,23 +87,27 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1972 | Committee on Automation (Dandekar) reports; says firms should justify computer installations to unions | S0020, S0021 | 3
 1972 | KIAP ends | S0031, S0030 | 2
 1972 | NCSDCT set up at TIFR with Rs 2.85 million from DoE and $2 million from UNDP (renamed NCST 1983) | S0001, S0013 | 3
-1972-10 | Narendra Patni founds Data Conversion Inc. in Cambridge, Mass.; data entry done in India | S0044 (date to confirm) | 4
-1973 | TCS partners with Burroughs [disputed: 1973 per TCS, 1974 per S0038] | S0039, S0038 | 4
+1972 | Software Export Scheme eases hardware imports for software exporters [disputed (n): first policy paper 1974 per S0001] | S0230 | 4
+1972-10 | Narendra Patni founds Data Conversion Inc. in Cambridge, Mass.; tested in his apartment; about two dozen data-entry operators in Pune (month to confirm) | S0229, S0044 | 4
+1973 | TCS partners with Burroughs; Detroit hospital-accounting conversion (company calls it first offshore delivery) [disputed (d), (p): 1974 per S0038] | S0039, S0038 | 4
 1973 | FERA amendment caps foreign equity at 40% for most firms; IBM must dilute or seek approval | S0056, S0026 | 5
 1973 | OPEC oil-price rise worsens India's foreign-exchange shortage | S0001 | 3, 4
-1974 | F.C. Kohli becomes TCS director-in-charge | S0038 | 4
+1974 | F.C. Kohli becomes TCS director-in-charge after the TCS director dies; Burroughs mainframe ($340,000) imported against export obligation of twice its value in five years | S0038 | 4
 1974 | First policy paper on importing computers for software export | S0001 | 4
 1974 | ECIL upgrades TDC-12 to transistorised TDC-312; TDC-316 follows in 1975 | S0001 | 3
+1974 | TCS-Burroughs work on the Detroit Police project split between Bombay and Detroit [disputed (p)] | S0037 | 4
 1975 | DoE sets up the National Informatics Centre | S0001 | 3
 1975 | Tata and Burroughs form a company to manufacture computers in Bombay | S0001 | 4
 1975 | Public Accounts Committee report cautious on computerisation | S0001, S0022 | 3
+1975-01 | Kohli's CSI presidential address at Ahmedabad: India missed the industrial revolution but could lead in IT | S0231 | 4
 1975-12-26 | Computer Maintenance Corporation (later CMC Ltd) incorporated as a fully state-owned company, Secunderabad | S0066 | 5
 1976-04 | Public Accounts Committee 221st report on computerisation in government | S0022 | 3
 1976-08-11 | Hindustan Computers Ltd (HCL) founded by Shiv Nadar and former DCM calculator-division engineers | S0081 | 5
 1977 | Regional Computer Centre at Jadavpur University opens with a Burroughs 6738 | S0001 | 3
 1977 | ICIM begins making ICL 2900-series computers | S0001 | 5
 1977-03 | Janata government takes office; George Fernandes later moved to Industry ministry | S0056 | 5
-1978 | IBM closes its Indian operations (break point 2 in Rajaraman's scheme); TCS-Burroughs partnership ends; Patni Computer Systems founded | S0001, S0039, S0044 | 5
+1977-08 | N.R. Narayana Murthy joins Patni as head of software | S0229, S0034 | 4, 6
+1978 | IBM closes its Indian operations (break point 2 in Rajaraman's scheme); TCS-Burroughs partnership ends; Patni Computer Systems founded [disputed (o): 1976 per S0229] | S0001, S0039, S0044, S0229 | 5
 1978 | Minicomputer policy announced, opening manufacture to private firms | S0001 | 5
 1978 | IIT Kanpur starts India's first undergraduate programme in computer science; over 100,000 take the IIT entrance exam for 1,500 seats | S0001 | 2, 7
 1978 | Fewer than 1,000 computers in India; software exports insignificant | S0001 | 5
@@ -111,6 +117,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1979 | Wipro-IISc collaboration on computers begins (Premji, Dhawan) | S0069 | 5
 1979-09 | Review Committee on Electronics report | S0023 | 5
 1980 | Electronics Commission sets up Panel on Computer Manpower Development under Rajaraman; MCA courses introduced | S0001 | 7
+1980 | 21 Indian firms export about $4 million of software a year, mostly onsite 'body shopping' | S0230 | 4, 6
 1981 | Wipro Series-86 minicomputer launched [disputed: 1981 vs 1982] | S0069 | 5
 1981 | NIIT founded by Rajendra Pawar and Vijay Thadani | S0065 | 7
 1981 | Electronics Commission committee (Rajaraman) on allowing computer imports for software export | S0001 | 6
