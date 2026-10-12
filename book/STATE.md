@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 3, step 4: `industry_workforce.csv`.** Direct employment, persons, 1985-2026, per `dataset_plan.md` row B: separate columns for Nasscom direct employees (S0107 c. 2m FY2008; S0140 FY24 restated 5.67m, FY25E 5.8m; S0306 FY26 59.5 lakh; any earlier Nasscom/DoE points in the Ch. 9-14 dossiers, grep 'employ' and 'professionals'), S0001 (2.4m in 2010, give page), PLFS-based estimates (S0211, S0154) and NITI's all-sector tech workforce (S0316, 7.5-8m 2023, separate column, not comparable). Same header/row rules; script `data/scripts/build_workforce.py`; notes `data/notes/industry_workforce.md`. Also try, once, to close the software_exports gap 1998-99 to 2017-18: check whether older RBI Handbook HTML views of 'India's Overall Balance of Payments - US Dollar' exist (search the web for 'PublicationsView.aspx' with that title and years 2010-2017).
+**Phase 3, step 5: `top_firms.csv`.** Headcount, revenue (US$ m) and revenue per employee (nominal and 2025 dollars) for Infosys, Wipro, Cognizant (and India headcount), plus TCS and HCLTech where press/fact-sheet figures exist, 1993-2026, per `dataset_plan.md` row C. Sources already read: Infosys 20-F/F-1 (S0089, S0259, S0264-S0266, S0270-S0272, S0287-S0291, S0296, S0297), Wipro 20-F (S0292, S0298), Cognizant 424B4/10-K (S0274-S0277, S0293, S0299, S0192); revenue figures are in the same filings (EDGAR financial statements; use XBRL company-facts API https://data.sec.gov/api/xbrl/companyfacts/CIK00xxxxxxx.json with user agent 'BookResearch admin@example.org' for 2009 onwards). Record fiscal-year conventions (Infosys/Wipro April-March; Cognizant calendar). Script `data/scripts/build_firms.py`; notes `data/notes/top_firms.md`.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -17,7 +17,7 @@
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
-- [ ] Phase 3 - Data CSVs (6/30 built: us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports (partial))
+- [ ] Phase 3 - Data CSVs (7/30 built: us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports, industry_workforce (points))
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 3 step 4: built `data/industry_workforce.csv` (8 sourced points FY1989-90 to FY2025-26: NASSCOM 56,000 and 200,000 via Infosys 424B4 S0259 p. 41; 160,000 1996; c. 2m FY2008; 2.4m 2010 S0001; 5.67m/5.8m/59.5 lakh S0140, S0306; NITI all-sector range separate). Closed most of the software_exports gap: older RBI Handbook editions found as HTML views (2008, 2014, 2017, 2018 eds.), giving BoP 'Software services' receipts 2000-01 to 2025-26 complete; only FY1998-2000 missing. Scripts `build_workforce.py`, `build_exports.py`; notes updated. | data/industry_workforce.csv, data/software_exports.csv |
 | 2026-10-12 | Phase 3 step 3: built `data/software_exports.csv` (partial): Heeks 1980-1997/98 (S0085 p. 2), Bhatnagar via Rajaraman FY1990-91 to 1997-98 (S0001 p. 48), four Nasscom points with definitions, RBI survey 2009-11 (S0106), RBI BoP 'Software services' receipts 2018-19 to 2025-26 (Handbook Table 124 HTML views); real 2025-dollar columns. Gap 1998-99 to 2017-18 (rbidocs PDFs blocked). Script `build_exports.py`; notes `software_exports.md`. | data/software_exports.csv |
 | 2026-10-12 | Phase 3 step 2: built `data/cpi_iw.csv` (RBI Table 34, FY1993-94 to FY2025-26, linked to 2016=100 with published factors 4.63 and 2.88) and `data/cpi_india_cy.csv` (OECD MEI via FRED, 1957-2024; tested as tracking CPI-IW within c. 1% over five-year spans). 1960-base CPI-IW not obtained; OECD series covers pre-1993 deflation. New S0321; S0156 seen. Register 318. | data/cpi_iw.csv, data/cpi_india_cy.csv |
 | 2026-10-12 | Phase 3 step 1: built `data/us_cpi_u.csv` (BLS CPI-U 1950-2025, to-2025-dollar factor; Oct 2025 missing), `data/inr_usd.csv` (calendar year 1950-2025: RBI Table 132 from 1987, Fed G.5A 1973-86, PWT 11.0 1950-72, separate columns plus preferred column with stated rule; overlaps within 0.3%) and `data/inr_usd_fy.csv` (RBI Table 133, FY1986-87 to FY2025-26); script `data/scripts/build_reference.py`; notes `data/notes/reference_series.md`. rbidocs XLSX blocked, HTML views used. New S0319 (PWT), S0320 (Fed G.5A); S0155, S0157 now seen. dataset_plan updated with Phase 2 inputs. Register 317. | data/*.csv |

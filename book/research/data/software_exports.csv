@@ -1,13 +1,13 @@
 # title: Indian software and services export revenue, US$ million, three definitional families kept apart
 # definition: (1) early 'software exports' (gross foreign-exchange earnings): Heeks (S0085, citing Heeks 1996 and Dataquest) and Bhatnagar via Rajaraman (S0001);
 #   (2) Nasscom industry exports, whose scope widens over time: 'software exports' (1998-99), 'IT-BPO exports' (2006-07), 'technology industry' exports incl. BPM, ER&D, products (2024-26);
-#   (3) RBI: survey of computer software and IT services exports (S0106, 2009-11) and balance-of-payments 'Software services' credit (S0155, 2018-19 onwards).
+#   (3) RBI: survey of computer software and IT services exports (S0106, 2009-11) and balance-of-payments 'Software services' credit (S0155, 2000-01 onwards).
 # unit: US$ million, nominal; *_real_2025usd columns in 2025 US dollars using us_cpi_u.csv
 # coverage: 1980-FY2025-26, with gaps (see notes/software_exports.md). Heeks rows 1980-1987 are calendar years; all others fiscal years April-March.
-# source_ids: S0085 (printed p. 2, Table 1); S0001 (printed p. 48, Table 2); S0109; S0107; S0140; S0306; S0106; S0155 (RBI Handbook Table 124 'India's Overall Balance of Payments - US Dollar', HTML views id=22604, 23301, 23949, accessed 2026-10-12)
+# source_ids: S0085 (printed p. 2, Table 1); S0001 (printed p. 48, Table 2); S0109; S0107; S0140; S0306; S0106; S0155 (RBI Handbook 'India's Overall Balance of Payments - US Dollar(s)': 2008 ed. Table 142 id=10663; 2014 ed. Table 140 id=15930; 2017 ed. Table 139 id=17914; 2018 ed. Table 133 id=18598; 2024 ed. id=22604; 2026 ed. Table 124 id=23949; HTML views at https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=..., accessed 2026-10-12)
 # method: values transcribed as published. Real values: calendar years deflated by CPI-U of that year; fiscal years by 0.75*CPI(y0)+0.25*CPI(y0+1). No reconciled column: the families measure different things.
 # breaks: Heeks figures are gross; net foreign-exchange earnings were estimated at around 40% of gross (S0085, p. 2). Nasscom and RBI definitions differ; RBI BoP includes all resident software exporters, Nasscom includes BPM and ER&D.
-#   RBI BoP values for 2019-20 to 2024-25 were identical across the 2024, 2025 and 2026 editions; 2025-26 preliminary.
+#   RBI BoP: each year taken from the latest edition read (edition id in source_id). Revisions between editions were small (2013-14: 69,439 in 2014 ed. vs 69,483 in 2018 ed.; 2016-17: 73,651 P vs 74,350 PR). 2025-26 preliminary. RBI BoP does not separate software before 2000-01 in the editions read.
 period,period_type,year_end,sw_exports_usd_m_heeks,sw_exports_heeks_real_2025usd,sw_exports_usd_m_bhatnagar,sw_exports_bhatnagar_real_2025usd,nasscom_exports_usd_m,nasscom_definition,rbi_survey_sw_it_exports_usd_m,rbi_bop_software_receipts_usd_m,rbi_bop_real_2025usd,source_id,confidence,note
 1980,CY,1980,4.0,15.6,,,,,,,,S0085 p.2,medium,
 1981,CY,1981,6.8,24.1,,,,,,,,S0085 p.2,medium,
@@ -28,9 +28,24 @@ FY1995-96,FY,1996,668.0,1400.8,734,1539.2,,,,,,S0085 p.2; S0001 p.48,medium,
 FY1996-97,FY,1997,997.0,2034.1,1100,2244.2,,,,,,S0085 p.2; S0001 p.48,medium,
 FY1997-98,FY,1998,1650.0,3296.9,1759,3514.6,,,,,,S0085 p.2; S0001 p.48,medium,
 FY1998-99,FY,1999,,,,,2650,"software exports, NASSCOM via Computergram June 1999",,,,S0109,medium,
-FY2006-07,FY,2007,,,,,31400,"IT-BPO exports, NASSCOM 2008 presentation",,,,S0107,medium,
-FY2009-10,FY,2010,,,,,,,38700,,,S0106,low,
-FY2010-11,FY,2011,,,,,,,47600,,,S0106,low,
+FY2000-01,FY,2001,,,,,,,,6341,11771.3,S0155 (HB id 10663),high,
+FY2001-02,FY,2002,,,,,,,,7556,13681.7,S0155 (HB id 10663),high,
+FY2002-03,FY,2003,,,,,,,,9600,17082.5,S0155 (HB id 10663),high,
+FY2003-04,FY,2004,,,,,,,,12800,22247.9,S0155 (HB id 10663),high,
+FY2004-05,FY,2005,,,,,,,,17700,29912.8,S0155 (HB id 10663),high,
+FY2005-06,FY,2006,,,,,,,,23600,38592.3,S0155 (HB id 10663),high,
+FY2006-07,FY,2007,,,,,31400,"IT-BPO exports, NASSCOM 2008 presentation",,31300,49630.8,S0107; S0155 (HB id 10663),high,
+FY2007-08,FY,2008,,,,,,,,40300,61979.5,S0155 (HB id 10663),high,
+FY2008-09,FY,2009,,,,,,,,46300,69294.1,S0155 (HB id 15930),high,
+FY2009-10,FY,2010,,,,,,,38700,49705,74284.7,S0106; S0155 (HB id 15930),high,
+FY2010-11,FY,2011,,,,,,,47600,53100,77784.3,S0106; S0155 (HB id 15930),high,
+FY2011-12,FY,2012,,,,,,,,62212,88582.4,S0155 (HB id 17914),high,
+FY2012-13,FY,2013,,,,,,,,65867,92023.5,S0155 (HB id 18598),high,
+FY2013-14,FY,2014,,,,,,,,69483,95636.6,S0155 (HB id 18598),high,
+FY2014-15,FY,2015,,,,,,,,73108,99391.8,S0155 (HB id 18598),high,
+FY2015-16,FY,2016,,,,,,,,74153,100406.2,S0155 (HB id 18598),high,
+FY2016-17,FY,2017,,,,,,,,74350,99204.0,S0155 (HB id 18598),high,
+FY2017-18,FY,2018,,,,,,,,77326,100944.3,S0155 (HB id 18598),high,
 FY2018-19,FY,2019,,,,,,,,83466,106528.8,S0155 (HB id 22604),high,
 FY2019-20,FY,2020,,,,,,,,93102,116880.7,S0155 (HB id 23949),high,
 FY2020-21,FY,2021,,,,,,,,99997,122945.4,S0155 (HB id 23949),high,
