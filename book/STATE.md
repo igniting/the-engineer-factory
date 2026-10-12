@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 2: dossier for Chapter 2, 'Kanpur, 1963' (1946-1978).** Step 1, source reading and notes in `research/dossiers/ch02-notes.md`: Bassett 2009 (S0003, full text in scratchpad or re-download), Fay 1966 (S0031, full text), KIAP final report scan (S0030), Rajaraman S0001 section on IIT Kanpur, IIT Kanpur obituary of Rajaraman (S0043), Sarker Committee report (S0049, try), Kelkar (S0050), Huskey CHM oral history (S0033), Sukhatme and Mahadevan 1988 (S0046), and IIT Kanpur archives/alumni histories; find rank-and-file voices (first-year students on the 1620, e.g. the 25 in the informal course; 1965 M.Tech students; Bassett names Ravi Sethi, Hari Sahasrabuddhe, Raj Kanodia, Mahabala). Step 2: write `research/dossiers/ch02.md`. Ch. 1 dossier is done (v1) with open gaps; revisit when S0219, S0221, S0015, S0218 become available.
+**Phase 2: dossier for Chapter 3, 'Self-reliance and its limits' (1962-1977).** Step 1 notes in `research/dossiers/ch03-notes.md`: Rajaraman S0001 section 4 (pp. 19-28, scratchpad or re-download), Narasimhan S0013 pp. 450-452 (NCSDCT, already in ch01-notes), S0019 Lok Sabha 1967 LIC debate (retry eparlib), S0020 Committee on Automation report (GIPE DSpace), S0022 PAC 221st report 1976, S0040 IAEA 1969 TDC-12 statement, S0041 Computers in India 1975, S0025 Subramanian (reviews), S0028 Parthasarathi (reviews), S0052, S0221/S0222 Banerjee (summaries), Bhabha Committee report (S0018) and 1970 conference proceedings (S0024) if findable; union resistance (bank and LIC unions; Bassett's 'job eaters'); ECIL histories; the 1966 Sarabhai committee; resolve dispute on automation committee chair (Venkataraman vs Dandekar). Find two rank-and-file voices (ECIL engineers, union members, NCSDCT course students). Step 2: write ch03.md.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -16,7 +16,7 @@
 - [x] **Phase 1c** (2026-10-11): people index (133), myths (30, provisional verdicts), dataset plan (27 planned files in 8 groups; 7 source gaps listed)
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
-- [ ] Phase 2 - Dossiers (1/21: Ch. 1 v1 done 2026-10-12, gaps open)
+- [ ] Phase 2 - Dossiers (2/21: Ch. 1 and Ch. 2 v1 done 2026-10-12)
 - [ ] Phase 3 - Data CSVs
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 2 Ch. 2: Bassett 2009 and Fay 1966 read in full; first-hand student accounts found and registered (S0223 Ravi Sethi 2021; S0224 Rajaraman and Joshi on Huskey 2021; S0225 Abhay Bhushan 2014); dossier ch02.md v1 (12 scenes, 11 voices, 6 disputes); rank-and-file requirement met (Bhushan, Sethi); myth M14 revised to MIXED | `research/dossiers/ch02-notes.md`, `research/dossiers/ch02.md`, `research/sources.md`, `research/myths.md` |
 | 2026-10-12 | Phase 2 Ch. 1 steps 2-3: further sources (Founding Fuel/P.V.S. Rao quote; Caravan detail on 1954 Soviet trip, UNIVAC, Nadler); new key source Banerjee 2026 *Computing in the Age of Decolonization* (S0221) and MIT News summary (S0222) registered, live-checked; S0219 (P.V.S. Rao 2008), S0220 (Scientific Policy Resolution 1958) registered; dossier ch01.md v1 written (10 sections, 10 scenes, 10 voices, 11 disputes, 11 gaps); rank-and-file voices requirement NOT met | `research/dossiers/ch01.md`, `research/sources.md` |
 | 2026-10-12 | Phase 2 Ch. 1 step 1: source reading and notes; S0012 and S0013 read in full as images (S0012 upgraded to seen); TIFRAC date, name and memory disputes resolved with contemporary 1960 paper; Morton Nadler corrected (American, not Hungarian) in chronology; S0216 (TIFR archive exhibit), S0217 (Menon 2018, MAS), S0218 (Nadler memoir) registered | `research/dossiers/ch01-notes.md`, `research/sources.md`, `research/chronology.md` |
 | 2026-10-12 | Phase 1d: outline v1 with revision log (13 changes with reasons), central-question mapping, sidebar placement, title proposals and recommendation; chapter-number mapping note added to research files | `plan/outline.md` |
@@ -47,7 +48,7 @@
 |---|---|---|---|---|---|
 | Prologue | 3,000 | - | 0 | 0 | 0 |
 | Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 0 | 0 | 0 |
-| Ch. 2 | 6,500 | - | 0 | 0 | 0 |
+| Ch. 2 | 6,500 | v1 (c. 7,900 words; evidence notes c. 4,100) | 0 | 0 | 0 |
 | Ch. 3 | 6,500 | - | 0 | 0 | 0 |
 | Ch. 4 | 6,000 | - | 0 | 0 | 0 |
 | Ch. 5 | 6,500 | - | 0 | 0 | 0 |
