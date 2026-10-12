@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 87; 2000s 48; 2010s 36; 2020s 43. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 87; 2000s 54; 2010s 40; 2020s 43. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 394 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 404 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -309,6 +309,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2006 | Railway reservation becomes web-based | S0001 | 15
 2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
 2006-12 | IBM India headcount reaches 53,000 (39,000 a year earlier; reported 1 February 2007) | S0194 | 14, 15
+2006-12-22 | Empowered Group of Ministers approves an 11-digit unique identity number and an authority under the Planning Commission | S0127 | 16
 2007 | Tata's EKA supercomputer ranked fourth fastest in the world | S0001 | 16
 2007 | 257 software and services firms set up in SEZs | S0001 | 14
 2007-01 | Wadhwa, Saxenian et al. report Indian founders in 15.5% of Silicon Valley startups 1995-2005 [figure disputed] | S0098 | 13
@@ -322,16 +323,22 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2009 | Infosys GEC II opens; Mysore training capacity 14,000 | S0115 | 12
 2009 | AdventNet renamed Zoho | S0175 | 16
 2009 | Infosys freezes salary increases; job offers fall to c. 16,900 (46,300 in fiscal 2008); utilisation including trainees 66.9% in Jan-Mar 2009 | S0271 | 14
-2009-01-07 | Ramalinga Raju's letter to the Satyam board admits falsified accounts | S0122 | 15
+2009-01-06 | DSP Merrill Lynch ends its advisory engagement with Satyam citing "material accounting irregularities" | S0279 | 16
+2009-01-07 | Ramalinga Raju's letter to the Satyam board admits falsified accounts | S0122 | 16
+2009-01-09 | Government suspends Satyam's board and nominates directors; Company Law Board order | S0279, S0280 | 16
+2009-01-28 | UIDAI established by Planning Commission notification | S0127 | 16
+2009-04-13 | Tech Mahindra's Venturbay selected as highest bidder for Satyam at Rs 58 a share | S0279 | 16
+2009-07-02 | Nandan Nilekani appointed UIDAI chairman with Cabinet rank (assumes charge 24 July) | S0127 | 16
 2010 | Freshworks (as Freshdesk) founded in Chennai by Girish Mathrubootham and Shan Krishnasamy | S0173, S0174 | 16
 2010 | IBM India has about 85,000 employees, second only to its US workforce | S0001 | 15, 16
 2010 | IT exports reach about $50 billion; IT 6.4% of GDP; 2.4 million employed (Nasscom figures via Rajaraman) | S0001 | 15
 2010 | About 1.3 million engineering students and 120,000 MCA graduates | S0001 | 12
 2010 | TI India has about 1,500 employees and 309 patents (by 2008) | S0001 | 16
-2010-09-29 | First Aadhaar numbers issued, Tembhli, Nandurbar district, Maharashtra | S0128 | 15
+2010-09-29 | First Aadhaar numbers issued, Tembhli, Nandurbar district, Maharashtra | S0128 | 16
 2011 | RBI survey: software and IT services exports US$47.6bn in 2010-11; 79.3% offsite; ITES/BPO 26.3% | S0106 | 14
 2011-03-31 | STPI section 10A income-tax holiday expires after extensions in 2009 and 2010 | S0114 (secondary; confirm with Finance Act) | 16
 2011-04 to 2012-03 | Infosys utilisation 69.0% including trainees (75.9% excluding); c. 150,000 employees; Mysore trains 14,000 at a time | S0266 | 12, 14
+2011-04-05 | SEC penalises Satyam ($10m) and five PwC India affiliates ($6m, largest ever for a foreign audit firm) | S0280 | 16
 2012 | 166 of the world's c. 250 CMM Level 5 organisations are in India (estimate) | S0001 | 12
 2012-13 | Approved undergraduate engineering intake 15.49 lakh, 37.6% of seats empty (AICTE/AISHE via secondary analysis) | S0267 | 12
 2013 | About 30 product companies form iSPIRT, saying Nasscom favoured services | S0188 | 16
@@ -339,22 +346,25 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2013-10-30 | Infosys files settlement with US government: pays $34m; agrees I-9 records were inaccurate in 2010-11; denies US allegations of B-1 visa misuse | S0268 | 13
 2014 | Aspiring Minds report: 18.43% of 2013 engineering graduates "employable" (trainable in 3-6 months) for IT services; entry-level growth "diminishing" (vendor test) | S0153 | 12, 18
 2014 | About 70% of H-1B visas go to Indians (USCIS) | S0254 | 13
-2014-07-15 | SEBI order bars Satyam promoters for 14 years, orders disgorgement of about Rs 1,850 crore | S0123 | 15
+2014-07-15 | SEBI order bars Satyam promoters for 14 years, orders disgorgement of about Rs 1,850 crore | S0123 | 16
 2014-15 | Approved undergraduate engineering intake peaks at 17.05 lakh (12.53 lakh by 2021-22) | S0267 | 12
 2015-01-31 | Disney IT staff in Orlando leave after training replacements from a contractor's foreign workforce (per one employee's testimony) | S0269 | 13, 14
 2015-04-09 | Special CBI court in Hyderabad convicts Raju and nine others; seven years' imprisonment | S0124 | 15
-2015-11 | Nilekani and Shah publish Rebooting India | S0126 | 15
+2015-04-09 | CBI Special Court, Hyderabad, convicts Ramalinga Raju and others in the Satyam case | S0123, S0124 | 16
+2015-11 | Nilekani and Shah publish Rebooting India | S0126 | 16
 2016 | UPI launched by NPCI [disputed: April vs August 2016] | S0129, S0148 | 16
 2016-02-25 | Displaced Disney IT worker Leo Perrero testifies to the US Senate Judiciary Committee | S0269 | 13
 2016-03-30 | Amazon lays foundation stone for its Hyderabad campus | S0201 | 16
 2016-09-05 | Jio Welcome Offer takes effect: free data and voice to 31 December 2016 | S0130 | 16
 2016-12-31 | Jio's free Welcome Offer ends | S0130 | 16
-2017-05 | Securities Appellate Tribunal upholds SEBI's findings on Satyam but remands sanctions | S0123 | 15
+2017-05-12 | Securities Appellate Tribunal upholds SEBI's findings on Satyam but remands sanctions | S0123 | 16
 2017-08-24 | Supreme Court (nine judges) holds privacy a fundamental right | S0127 | 15
+2017-08-24 | Nine-judge bench of the Supreme Court holds privacy a fundamental right (Puttaswamy) | S0127 | 16
 2017-11-07 | KITU certified as a trade union for IT/ITeS workers by the Karnataka Labour Commissioner | S0132 | 17
 2017-18 | PLFS: unemployment among graduates aged 15+ is 17.2% | S0154 | 17
 2018-05-09 | Walmart agrees to buy c. 77% of Flipkart for c. $16 billion | S0181 | 16
-2018-09-26 | Supreme Court upholds Aadhaar Act with some provisions struck down | S0127 | 15
+2018-09-26 | Supreme Court upholds Aadhaar Act but strikes down five-year data archiving, part of s. 57 (private use), mandatory bank and mobile linking, and s. 33(2) | S0127 | 16
+2018-10-16 | SEBI fresh order on three former Satyam officials after SAT remand | S0123 | 16
 2019 | Sridhar Vembu moves to a village in Tenkasi district; Zoho expands rural offices | S0175 | 16
 2019-08 | Amazon opens Hyderabad campus, its largest building worldwide (15,000 work points) | S0201 | 16
 2019-10 | UPI passes 1 billion transactions in a month | S0129 | 16
