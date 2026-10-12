@@ -28,3 +28,17 @@ Rajaraman's '1.3 million' is kept only to document dispute (ii). AISHE out-turn 
 ## Use in drafting (Ch. 12, Ch. 19)
 - The '1.5 million engineers a year' myth (M08) matches approved undergraduate intake at its 2014-15 peak (17 lakh), not graduates. A third to a half of seats were empty.
 - Capacity has fallen by about a quarter since the peak (S0267). That predates AI tools: the AICTE moratorium on new colleges ran from 2020 (S0323).
+
+## women_engineering_enrolment.csv and cs_degrees_early.csv (added 2026-10-12)
+- **Women's share.** Only points are available, each on its own base:
+  - AICTE first-year undergraduate engineering and technology enrolment: 33.7% (2012-13) and 30.2% (2020-21). Women's numbers fell from 303,229 to 200,865.
+  - AISHE B.Tech, all years of study: 28.7% (2020-21).
+  - AISHE computer engineering 2021-22: 34.2% of undergraduate enrolment and 38.5% of degrees awarded (83,696 women).
+
+  Most figures come via the Society of Women Engineers' research page (S0325), which cites AICTE dashboard and AISHE table numbers; the tables themselves were not opened (AISHE site unreachable). The widely reported '8% to 19.72%' figure seems to be about IITs and NITs, and is excluded.
+- **Use for M18.** Women are about 35-39% of the large firms' workforces (TCS 35.2%, Cognizant 38-39%, Infosys 'nearly 40%'). That is above their share of engineering enrolment (28-34%). This is consistent with firms also hiring non-engineering graduates (B.Sc, MCA, BCA). It is a point for Chapter 12, not a finding: no source states the cause.
+- **Early CS degrees.**
+  - IIT Kanpur M.Tech option in 1965 (1966 in Rajaraman's timeline).
+  - First IIT B.Tech in CS in 1978, with 20 seats and the last filled by JEE rank 44 or 40.
+  - MCA created on the 1980 Rajaraman panel's advice, with ten funded institutions.
+  - MCA graduates: about 7,000 in 1998 and 120,000 in 2010 (S0001, p. 56).

@@ -1,0 +1,16 @@
+# title: Early computer-science degrees in India: dated events and counts
+# definition: a table of events with counts where stated; not a time series
+# unit: persons or programmes as stated
+# coverage: 1965-2010
+# source_ids: S0001 (Rajaraman 2012, printed pages), S0003 (Bassett 2009), S0043
+# method: transcribed; disagreements kept in the note column
+# breaks: n/a
+date,event,count,source_id,confidence,note
+1965,IIT Kanpur M.Tech in electrical engineering with a computer-science option: first CS teaching as an academic discipline in India,,S0003 p. 793; S0043,high,S0001 p. 70 timeline dates the M.Tech 'in computers' to 1966
+1978,IIT Kanpur starts the first B.Tech in computer science at any IIT; 20 seats,20,S0003 p. 806; S0001 p. 34,high,"last seat filled by JEE rank 44 (S0003) or 40 (S0001); 1,500 IIT seats in all that year (S0001 p. 34)"
+1978-80,Other IITs start B.Tech programmes in CS after Kanpur's demand surprised them,,S0001 p. 34,medium,Rajaraman's account; dates not given per IIT
+1980,Rajaraman panel on computer manpower: expand undergraduate CS; create the Master of Computer Applications (MCA),,"S0001 pp. 34-35, 73",high,
+1980s,Government fully funds ten institutions to start the MCA,10,S0001 p. 35,high,start year not given on the page
+1998,"MCA graduates about 7,000",7000,S0001 p. 56,medium,citing reference [108]
+1998,"Engineering students about 135,000",135000,S0001 p. 56,low,"probably intake, not all students (dispute ii)"
+2010,"MCA graduates about 120,000",120000,S0001 p. 56,medium,citing reference [108]

@@ -85,3 +85,54 @@ with open(os.path.join(OUT, "engineering_graduates.csv"), "w", newline="") as f:
     w.writerow(["period", "measure", "value", "source_id", "confidence", "note"])
     w.writerows(GRAD)
 print("ok", len(years))
+
+# ---------- women_engineering_enrolment.csv ----------
+WOMEN = [
+    ("2012-13", "AICTE UG engineering & technology enrolment (first year, AICTE institutions)", 33.7, 303229, "S0325 citing AICTE Enrollment (Gender & Category Wise) dashboard", "medium", "SWE labels the year '2012'"),
+    ("2020-21", "AICTE UG engineering & technology enrolment (first year, AICTE institutions)", 30.2, 200865, "S0325 citing AICTE dashboard", "medium", "SWE: total under 665,000"),
+    ("2020-21", "AISHE B.Tech enrolment, all years of study", 28.7, "", "S0152 (AISHE 2020-21, via press)", "medium", "B.Tech enrolment 23.20 lakh; BE about 28.5% (press)"),
+    ("2021-22", "AISHE UG Computer Engineering enrolment", 34.2, "", "S0325 citing AISHE 2021-22 Table 12", "medium", ""),
+    ("2021-22", "AISHE UG Computer Engineering degrees awarded (out-turn)", 38.5, 83696, "S0325 citing AISHE 2021-22 Table 35", "medium", "83,696 women"),
+    ("2001-02", "software professionals (industry, not students)", 21, "", "S0117 p. 125 n. 8 (NASSCOM)", "low", "79% men; workforce, kept for contrast only"),
+]
+with open(os.path.join(OUT, "women_engineering_enrolment.csv"), "w", newline="") as f:
+    for h in [
+        "title: Women's share of engineering enrolment and degrees in India",
+        "definition: each row states its base (AICTE first-year UG enrolment; AISHE enrolment across all years; AISHE degrees awarded; one workforce row for contrast)",
+        "unit: percent; women_count persons where given",
+        "coverage: 2012-13, 2020-21, 2021-22 points; no consistent annual series obtained",
+        "source_ids: S0325 (Society of Women Engineers research page, citing AICTE dashboard and AISHE 2021-22 tables); S0152; S0117",
+        "method: transcribed as published; bases never combined",
+        "breaks: AICTE (first-year, AICTE institutions) and AISHE (all years, all institutions) differ in scope. A widely reported '8% (2016) to 19.72% (2021)' rise appears, from press coverage (Deccan Herald, 21 March 2022, which reports NIT B.Tech women 'nearly 23 per cent'), to concern IITs/NITs rather than all colleges; scope unverified, so it is not included.",
+    ]:
+        f.write("# " + h + "\n")
+    w = csv.writer(f)
+    w.writerow(["academic_year", "base", "women_pct", "women_count", "source_id", "confidence", "note"])
+    w.writerows(WOMEN)
+
+# ---------- cs_degrees_early.csv (table of events, not a series) ----------
+CS = [
+    ("1965", "IIT Kanpur M.Tech in electrical engineering with a computer-science option: first CS teaching as an academic discipline in India", "", "S0003 p. 793; S0043", "high", "S0001 p. 70 timeline dates the M.Tech 'in computers' to 1966"),
+    ("1978", "IIT Kanpur starts the first B.Tech in computer science at any IIT; 20 seats", 20, "S0003 p. 806; S0001 p. 34", "high", "last seat filled by JEE rank 44 (S0003) or 40 (S0001); 1,500 IIT seats in all that year (S0001 p. 34)"),
+    ("1978-80", "Other IITs start B.Tech programmes in CS after Kanpur's demand surprised them", "", "S0001 p. 34", "medium", "Rajaraman's account; dates not given per IIT"),
+    ("1980", "Rajaraman panel on computer manpower: expand undergraduate CS; create the Master of Computer Applications (MCA)", "", "S0001 pp. 34-35, 73", "high", ""),
+    ("1980s", "Government fully funds ten institutions to start the MCA", 10, "S0001 p. 35", "high", "start year not given on the page"),
+    ("1998", "MCA graduates about 7,000", 7000, "S0001 p. 56", "medium", "citing reference [108]"),
+    ("1998", "Engineering students about 135,000", 135000, "S0001 p. 56", "low", "probably intake, not all students (dispute ii)"),
+    ("2010", "MCA graduates about 120,000", 120000, "S0001 p. 56", "medium", "citing reference [108]"),
+]
+with open(os.path.join(OUT, "cs_degrees_early.csv"), "w", newline="") as f:
+    for h in [
+        "title: Early computer-science degrees in India: dated events and counts",
+        "definition: a table of events with counts where stated; not a time series",
+        "unit: persons or programmes as stated",
+        "coverage: 1965-2010",
+        "source_ids: S0001 (Rajaraman 2012, printed pages), S0003 (Bassett 2009), S0043",
+        "method: transcribed; disagreements kept in the note column",
+        "breaks: n/a",
+    ]:
+        f.write("# " + h + "\n")
+    w = csv.writer(f)
+    w.writerow(["date", "event", "count", "source_id", "confidence", "note"])
+    w.writerows(CS)
+print("extra ok")

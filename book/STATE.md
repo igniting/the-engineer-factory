@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 3, step 8: `women_engineering_enrolment.csv` and `cs_degrees_early.csv`.** (a) Women's share of B.Tech/BE enrolment: S0152 (AISHE 2020-21: 28.7%), plus any AISHE year found via PIB/press (AISHE site aishe.gov.in; try once), NCAER IT-workforce shares (S0211, located: open it) and Fuller-Narasimhan Chennai figures (S0117) as a separate column. (b) cs_degrees_early: a small table, not a series, from S0001 (IIT Kanpur M.Tech CS option 1965, first B.Tech CS 1978, MCA from 1980, any counts with pages), S0003, Ch. 2 and Ch. 7 dossiers. Then Part E labour market per plan (`graduate_unemployment.csv` from S0154 PLFS; `employability_tests.csv` from S0153; `fresher_pay.csv`).
+**Phase 3, step 9: Part E labour market.** Build `graduate_unemployment.csv` (PLFS graduate unemployment by year from S0154 and its parliamentary-answer link; NY Fed figures for US CS graduates from S0136 as a separate US column), `employability_tests.csv` (Aspiring Minds/SHL 2014, 2016, 2019 headline rates with their definitions, S0153; label as vendor claims; M07), and `fresher_pay.csv` (entry salaries at Infosys/TCS/Wipro over time: dossiers Ch. 11, 12, 14, 18 for any filed or reported figures, e.g. Infosys 20-F fresher pay, press reports of Rs 3.5 lakh stagnation; nominal and real using cpi_iw.csv). Check `dataset_plan.md` row E for any other planned file. Script `build_labour.py`; notes `data/notes/labour.md`.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -17,7 +17,7 @@
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
-- [ ] Phase 3 - Data CSVs (12/30 built: engineering_intake, engineering_graduates (partial), us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports, industry_workforce (points), top_firms, fresher_hiring, firm_women_attrition (last three partial))
+- [ ] Phase 3 - Data CSVs (14/30 built: women_engineering_enrolment (points), cs_degrees_early, engineering_intake, engineering_graduates (partial), us_cpi_u, inr_usd, inr_usd_fy, cpi_iw, cpi_india_cy, software_exports, industry_workforce (points), top_firms, fresher_hiring, firm_women_attrition (last three partial))
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 3 step 8: built `data/women_engineering_enrolment.csv` (AICTE first-year UG women 33.7% 2012-13 and 30.2% 2020-21; AISHE B.Tech 28.7% 2020-21; AISHE CE 2021-22 enrolment 34.2%, degrees 38.5%; via SWE S0325 and S0152) and `data/cs_degrees_early.csv` (1965 M.Tech option to 2010 MCA out-turn; disagreements 1965/1966 and rank 44/40 recorded). AISHE site and NCAER page unreachable. New S0325. Register 322. | data/women_engineering_enrolment.csv, data/cs_degrees_early.csv |
 | 2026-10-12 | Phase 3 step 7: built `data/engineering_intake.csv` (MoSPI colleges 1950-51 to 2005-06; AICTE all-level intake 2012-13 and 2021-22 from Lok Sabha reply via Careers360 S0323, reconciled exactly with Avanti's by-level figures S0267; all-level enrolment 2012-13 to 2020-21; vacancy; Careers360 2023 'BTech' table kept apart as unclear) and `data/engineering_graduates.csv` (2004 Duke; c. 2013 Aspiring Minds; Rajaraman 1.3m kept only to document dispute ii). AICTE dashboard, eparlib and Avanti's GitHub unreachable. New S0323, S0324; S0267 now seen. Register 321. | data/engineering_intake.csv, data/engineering_graduates.csv |
 | 2026-10-12 | Phase 3 step 6: built `data/fresher_hiring.csv` (Infosys recruitment funnel for 16 fiscal years FY1998-FY2026 from 20-F Item 6.D and the 1999 prospectus; offers include laterals from FY2004; TCS/HCLTech/Infosys fresher press points in a separate measure column) and `data/firm_women_attrition.csv` (Infosys attrition FY2006-12; Cognizant total attrition 2020-22 and voluntary tech-services attrition 2022-25, women 36-39%; TCS FY25 and Q2 FY27). Worker restarted mid-step; files verified and rebuilt. Script `build_hiring.py`; notes `hiring_attrition.md`. | data/fresher_hiring.csv, data/firm_women_attrition.csv |
 | 2026-10-12 | Phase 3 step 5: built `data/top_firms.csv` (partial): Infosys revenue and headcount FY1999-FY2026 from 20-F five-year comparison sentences and SEC XBRL (gaps FY2002-03, 2007, 2011, 2013-15); Wipro INR revenue FY2016-26 (XBRL + 20-F FY2026) with book's own FX conversion and 'more than' headcounts FY2019-26; Cognizant revenue 2007-25 (XBRL) and headcount points incl. India 2022-25; TCS headcount points (FY26 derived, flagged). Revenue per employee on mean headcount: Infosys flat at $44-57k nominal FY2001-24, then $60-62k FY2025-26. Registered S0322 (Infosys 20-F FY2001). Register 319. | data/top_firms.csv |
