@@ -10,7 +10,7 @@ Only real, documented people. No composites.
 
 **Known skew:** the index is dominated by founders, officials and scholars. Workers, women engineers, trainees and union members are almost absent because the registered sources name few of them (ethnographies use pseudonyms, which cannot be treated as named people). Phase 2 must search for named, published first-hand accounts by ordinary engineers (memoirs, oral histories, press profiles, court and labour-department records) for every chapter.
 
-**Count:** 148 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
+**Count:** 151 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
 
 | Name | Dates | Roles | Documented | First-hand material | Source IDs | Chapters |
 |---|---|---|---|---|---|---|
@@ -71,6 +71,9 @@ Only real, documented people. No composites.
 | Rajesh Hukku | n.d. | TCS (c. 1979-89; FALCON LAN 1984), COSL 1989, founder of CITIL/i-flex | Engineer to product founder | none | S0240 | 6, 17 |
 | Nagy Hanna | n.d. | World Bank author of 1994 India IT study | Contemporary description of body shopping | | S0241 | 6 |
 | Richard Heeks | n.d. | Researcher, Manchester; fieldwork from 1988 | Survey data on onsite share and billing | | S0085, S0070 | 6, 9 |
+| Mohini Jain | n.d. | Meerut student refused MBBS admission (1991) over Rs 60,000 fee; Supreme Court petitioner | Rank-and-file (court record) | none | S0064 | 7 |
+| V.K. Bansal | d. 2021 (confirm) | Kota coaching pioneer; Bansal Classes 1991 | Origin of IIT coaching industry | none | S0246 | 7, 12 |
+| Pratap Agarwal | n.d. | Ex-US software engineer; NIIT Chandigarh franchisee from 1988 | Small-town training spread | Dataquest 2002 | S0245 | 7 |
 | Ashok Narasimhan | n.d. | First head of Wipro Information Technology |  | none | S0069 | 5 |
 | N.R. Narayana Murthy | b. 1946 | Co-founder (1981) and long-time head of Infosys | Pune founding, Bangalore move, 1993 IPO, 1995 GE decision, Nasdaq 1999 | CHM oral histories S0034, S0035; speeches S0084; interview with Bassett | S0034, S0035, S0084, S0089 | 6,9,11,12 |
 | Nandan Nilekani | b. 1955 | Infosys co-founder; CEO 2002-07; UIDAI chairman | Aadhaar; India Stack advocacy | Books S0125, S0126 | S0125, S0126, S0034 | 11,15,16 |

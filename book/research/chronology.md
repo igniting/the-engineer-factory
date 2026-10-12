@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 56; 1990s 64; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 62; 1990s 68; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 332 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 342 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -124,8 +124,10 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1979-09 | Review Committee on Electronics report | S0023 | 5
 1980 | Electronics Commission sets up Panel on Computer Manpower Development under Rajaraman; MCA courses introduced | S0001 | 7
 1980 | 21 Indian firms export about $4 million of software a year, mostly onsite 'body shopping' | S0230 | 4, 6
+1980-1985 | Sixth Plan: Karnataka, Maharashtra, Tamil Nadu, Andhra Pradesh permit self-financing private technical institutions | S0247 | 7
+1980-81 | 149 engineering and technology colleges in India | S0248 | 7
 1981 | Wipro Series-86 minicomputer launched [disputed: 1981 vs 1982] | S0069 | 5
-1981 | NIIT founded by Rajendra Pawar and Vijay Thadani | S0065 | 7
+1981 | NIIT founded by Rajendra Pawar and Vijay Thadani; first courses BASIC (4 weeks) and COBOL (12 weeks) | S0065, S0244 | 7
 1981 | Electronics Commission committee (Rajaraman) on allowing computer imports for software export | S0001 | 6
 1981-07 | Infosys organised in India by seven founders (per its 1999 SEC filing) | S0089 | 6
 1981-07-02 | Infosys Consultants Pvt Ltd registered in Pune (date from secondary sources; confirm in Infosys filings) | S0034 (to confirm) | 6
@@ -135,6 +137,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1982 | Waiting time for a landline telephone exceeds two years | S0001 | 8
 1982-12 | Dataquest magazine launched | S0077 | 5
 c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws and Bangalore's engineering talent [year from secondary sources; Murthy gives reasons, not year] | S0034 (p. 10) | 6, 10
+1983-07-11 | Karnataka anti-capitation-fee ordinance in force (Act of 1984) | S0064 | 7
 1984 | Bank unions observe 'anti-computerisation year' | S0001 | 8
 1984 | Liberalised minicomputer policy: 32-bit machines allowed, capacity limits removed | S0001 | 8
 1984 | DoE and UNDP fund CAD centres (IIT Kanpur, IIT Bombay, IISc, Jadavpur) and computer-aided management at IIMs | S0001 | 8
@@ -150,6 +153,7 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1985 | ECIL collaborates with Norsk Data (and with CDC in 1988) | S0001 | 8
 1985-10-15 | CMC's IMPRESS computerised passenger reservation goes live in New Delhi (date from Wikipedia; confirm with S0067) | S0067 | 8
 1985-10-28 | Citicorp Overseas Software Ltd (COSL) inaugurated at SEEPZ, Bombay | S0240 | 6, 15
+1985-86 | 242 engineering and technology colleges (+62% in five years) | S0248 | 7
 1986 | Software export, development and training policy | S0062 | 8
 1986 | Aptech founded by Atul Nishar in Mumbai [disputed: 1985 per Ashoka profile] | S0083 | 7
 1986 | National Policy on Education calls for statutory AICTE | S0076 | 7
@@ -165,7 +169,6 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1987 | Sterling Computers sells the Shiva PC, an IBM clone, for Rs 29,000 | S0001 | 8
 1987 | NIIT begins franchising courses to smaller towns | S0001, S0065 | 7
 1987 | KSA/Infosys joint venture with Kurt Salmon Associates (to 1994) | S0089 | 6
-1988 | Maharashtra anti-capitation-fee Act (Act 6 of 1988) comes into force | S0075 | 7
 1988 | C-DAC set up in Pune under Vijay Bhatkar | S0080 (weak; confirm) | 8
 1988 | Nasscom formally established | S0060 | 8
 1988 | Intel opens a sales office in India | S0198 | 16
@@ -174,10 +177,13 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1988 | Nasscom founded with 38 members | S0001, S0060 | 8
 1988 | Sukhatme and Mahadevan's EPW study of IIT Bombay graduates' emigration | S0046 | 13
 1988 | 65% of Indian software export contracts carried out wholly at client sites; about 75% of export development overseas | S0085 | 6
+1988 | Asiaweek calls NIIT 'the biggest computer trainer this side of the Suez' | S0245 | 7
+1988-04-13 | Maharashtra anti-capitation-fee Act (1987; Act 6 of 1988) receives assent; preamble cites 'large scale commercialisation of education' | S0075 | 7
 1988-10 | Cray X-MP/14 imported by DST for NCMRWF; operational end March 1989 | S0078 | 8
 1988-1998 | At least 65% of Indian export contracts programming-only, billed on time-and-materials basis | S0085 | 6, 11
 1989 | Cray Y-MP contract for IISc not fulfilled (export licence) | S0001 | 8
 1989 | DoE comes under an IAS officer after a dispute between technocrats | S0001 | 8
+1989-06-05 | Karnataka notification sets private medical fees at Rs 2,000 / 25,000 / 60,000 by category | S0064 | 7
 1990 | N. Vittal (IAS) takes over the DoE | S0001 | 9
 1990 | First Software Technology Park established in Bangalore | S0001 | 9
 1990 | About 80,000 computers in India; software exports c. $128-131 million | S0001 | 8, 9
@@ -185,9 +191,11 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1990 | HCL programmer (pseudonym in source) sent to Palo Alto on B1/B2 visa; Sun billed $50 an hour, about half kept by HCL | S0242 | 6
 1990/91 | Indian software exports $131.2 million | S0085 | 6, 9
 1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
+1990-91 | 289 engineering and technology colleges | S0248 | 7
 1991 | PARAM 8000 unveiled by C-DAC (date to confirm against C-DAC sources) | S0080 | 8
 1991 | Nasscom hires Dewang Mehta as president | S0001 | 9
 1991 | C-DAC completes its first parallel computer (PARAM) | S0001 | 8
+1991 | Bansal Classes founded in Kota (coaching begun early 1980s) | S0246 | 7
 1991-05 | Rajiv Gandhi assassinated; Infosys postpones its IPO | S0034 | 9
 1991-06-05 | STPI registered as an autonomous society under the Department of Electronics | S0091 | 9
 1991-07-24 | Manmohan Singh's budget extends the section 80HHC export tax concession to software exports | S0088 | 9
@@ -197,6 +205,7 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1992 | IBM re-enters India as Tata-IBM, a 50:50 venture | S0001, S0055 | 9
 1992 | IISc buys a PARAM 8600 from C-DAC | S0001 | 8
 1992-02 | IBM returns to India as Tata Information Systems Ltd | S0055 | 9
+1992-04-15 | Andhra Pradesh Section 3-A; private engineering colleges admit 50% at own choice | S0063 | 7
 1992-07-30 | Supreme Court, Mohini Jain: capitation fees impermissible | S0064 | 7
 1992-12 | TiE founded in Silicon Valley by A.J. Patel and eight co-founders [formalisation dated 1994 by others] | S0116 | 13
 1993 | Motorola's Bangalore software centre rated CMM Level 5, by its own account the world's first commercial organisation at that level [Business Today: first in India, 1994] | S0199 | 12
@@ -211,6 +220,7 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1994 | American Express sets up back-office centre in Mumbai [disputed: Gurgaon per other sources; 1992 per Roy's firm] | S0001, S0206 | 14
 1994 | World Bank study: body shopping 70-80% of export revenue, 'hourly or monthly rate'; warns automation tools may erode demand | S0241 | 6, 19
 1994-03 | First TiE conference (later TiECon) | S0116 | 13
+1994-95 | 337 engineering and technology colleges | S0248 | 7, 12
 1995 | DoE starts accrediting private computer training institutes (DOEACC) | S0001 | 7
 1995 | Infosys adopts US GAAP reporting voluntarily | S0089, S0034 | 11
 1995-05 | GE, then Infosys's largest client, seeks price cuts; Infosys declines and loses much of the business | S0034, S0089 | 11
