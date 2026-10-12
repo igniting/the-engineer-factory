@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 51; 1990s 61; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 56; 1990s 64; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 324 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 332 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -149,6 +149,7 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1985 | DoE-UNDP Knowledge Based Computer Systems programme ($5.2 million) | S0001 | 8
 1985 | ECIL collaborates with Norsk Data (and with CDC in 1988) | S0001 | 8
 1985-10-15 | CMC's IMPRESS computerised passenger reservation goes live in New Delhi (date from Wikipedia; confirm with S0067) | S0067 | 8
+1985-10-28 | Citicorp Overseas Software Ltd (COSL) inaugurated at SEEPZ, Bombay | S0240 | 6, 15
 1986 | Software export, development and training policy | S0062 | 8
 1986 | Aptech founded by Atul Nishar in Mumbai [disputed: 1985 per Ashoka profile] | S0083 | 7
 1986 | National Policy on Education calls for statutory AICTE | S0076 | 7
@@ -158,10 +159,12 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1986 | ERNET academic network project funded ($6 million UNDP) | S0001 | 8
 1986 | Science Advisory Committee (C.N.R. Rao) sets up committee on high-performance computers, chaired by Rajaraman | S0001 | 8
 1986 | Computerised railway reservation goes live at New Delhi booking office [disputed: S0001 says 1986; Wikipedia 15 Oct 1985] | S0001, S0067 | 8
+1986 | Tata Burroughs renamed Tata Unisys; with TCS supplies nearly 70% of body-shopping exports | S0240 | 6
 1987 | India seeks a Cray X-MP/24; US blocks sale | S0079, S0080 (myth M05) | 8
 1987 | AICTE Act (Act 52 of 1987) gives AICTE statutory powers | S0076 | 7
 1987 | Sterling Computers sells the Shiva PC, an IBM clone, for Rs 29,000 | S0001 | 8
 1987 | NIIT begins franchising courses to smaller towns | S0001, S0065 | 7
+1987 | KSA/Infosys joint venture with Kurt Salmon Associates (to 1994) | S0089 | 6
 1988 | Maharashtra anti-capitation-fee Act (Act 6 of 1988) comes into force | S0075 | 7
 1988 | C-DAC set up in Pune under Vijay Bhatkar | S0080 (weak; confirm) | 8
 1988 | Nasscom formally established | S0060 | 8
@@ -170,13 +173,17 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1988 | UTI and ICICI set up TDICI, India's first venture capital fund for IT | S0001 | 8, 16
 1988 | Nasscom founded with 38 members | S0001, S0060 | 8
 1988 | Sukhatme and Mahadevan's EPW study of IIT Bombay graduates' emigration | S0046 | 13
+1988 | 65% of Indian software export contracts carried out wholly at client sites; about 75% of export development overseas | S0085 | 6
 1988-10 | Cray X-MP/14 imported by DST for NCMRWF; operational end March 1989 | S0078 | 8
+1988-1998 | At least 65% of Indian export contracts programming-only, billed on time-and-materials basis | S0085 | 6, 11
 1989 | Cray Y-MP contract for IISc not fulfilled (export licence) | S0001 | 8
 1989 | DoE comes under an IAS officer after a dispute between technocrats | S0001 | 8
 1990 | N. Vittal (IAS) takes over the DoE | S0001 | 9
 1990 | First Software Technology Park established in Bangalore | S0001 | 9
 1990 | About 80,000 computers in India; software exports c. $128-131 million | S0001 | 8, 9
 1990 | GE begins working with Infosys | S0034 | 6, 11
+1990 | HCL programmer (pseudonym in source) sent to Palo Alto on B1/B2 visa; Sun billed $50 an hour, about half kept by HCL | S0242 | 6
+1990/91 | Indian software exports $131.2 million | S0085 | 6, 9
 1990-08-07 | CMC maintains passenger reservation systems in four metros | S0068 | 8
 1991 | PARAM 8000 unveiled by C-DAC (date to confirm against C-DAC sources) | S0080 | 8
 1991 | Nasscom hires Dewang Mehta as president | S0001 | 9
@@ -202,6 +209,7 @@ c. 1983 | Infosys moves from Pune to Bangalore, citing Maharashtra tenancy laws 
 1994 | National Telecom Policy allows private firms into telecom | S0001 | 9
 1994 | Infosys raises $7.7 million from foreign institutional investors | S0089 | 11
 1994 | American Express sets up back-office centre in Mumbai [disputed: Gurgaon per other sources; 1992 per Roy's firm] | S0001, S0206 | 14
+1994 | World Bank study: body shopping 70-80% of export revenue, 'hourly or monthly rate'; warns automation tools may erode demand | S0241 | 6, 19
 1994-03 | First TiE conference (later TiECon) | S0116 | 13
 1995 | DoE starts accrediting private computer training institutes (DOEACC) | S0001 | 7
 1995 | Infosys adopts US GAAP reporting voluntarily | S0089, S0034 | 11

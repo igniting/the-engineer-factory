@@ -10,7 +10,7 @@ Only real, documented people. No composites.
 
 **Known skew:** the index is dominated by founders, officials and scholars. Workers, women engineers, trainees and union members are almost absent because the registered sources name few of them (ethnographies use pseudonyms, which cannot be treated as named people). Phase 2 must search for named, published first-hand accounts by ordinary engineers (memoirs, oral histories, press profiles, court and labour-department records) for every chapter.
 
-**Count:** 142 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
+**Count:** 148 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
 
 | Name | Dates | Roles | Documented | First-hand material | Source IDs | Chapters |
 |---|---|---|---|---|---|---|
@@ -65,6 +65,12 @@ Only real, documented people. No composites.
 | T.B. Finn | n.d. | General manager, IBM India from 1976 | Reported one-third layoff | none | S0237 | 5 |
 | Hirendra Nath Mukherjee | 1907-2004 (confirm) | MP; PAC chairman | PAC enquiry into IBM, 1975 | none | S0056 | 5 |
 | Mantosh Sondhi | n.d. | Chair, 1978 review committee on electronics | Recommended private manufacture | none | S0001 | 5 |
+| 'Rajesh Ahuja' (pseudonym used by source) | n.d. | Bombay programmer sent by HCL to Palo Alto, 1990 | Rank-and-file voice for Ch. 6; $50/hour billing case | Multinational Monitor 1995 | S0242 | 6 |
+| Kala Sivasubramanian | n.d. | TCS programmer in San Francisco | Sued by TCS for leaving ($30,000 clause) | none | S0242 | 6, 11 |
+| K.R. Trilokekar | n.d. | Engineer, ORG Systems from 1978 | Systems software for Sperry | Note to Sharma 2006 (via S0240) | S0240 | 5, 6 |
+| Rajesh Hukku | n.d. | TCS (c. 1979-89; FALCON LAN 1984), COSL 1989, founder of CITIL/i-flex | Engineer to product founder | none | S0240 | 6, 17 |
+| Nagy Hanna | n.d. | World Bank author of 1994 India IT study | Contemporary description of body shopping | | S0241 | 6 |
+| Richard Heeks | n.d. | Researcher, Manchester; fieldwork from 1988 | Survey data on onsite share and billing | | S0085, S0070 | 6, 9 |
 | Ashok Narasimhan | n.d. | First head of Wipro Information Technology |  | none | S0069 | 5 |
 | N.R. Narayana Murthy | b. 1946 | Co-founder (1981) and long-time head of Infosys | Pune founding, Bangalore move, 1993 IPO, 1995 GE decision, Nasdaq 1999 | CHM oral histories S0034, S0035; speeches S0084; interview with Bassett | S0034, S0035, S0084, S0089 | 6,9,11,12 |
 | Nandan Nilekani | b. 1955 | Infosys co-founder; CEO 2002-07; UIDAI chairman | Aadhaar; India Stack advocacy | Books S0125, S0126 | S0125, S0126, S0034 | 11,15,16 |
