@@ -1,0 +1,33 @@
+# title: Recruitment funnel and fresher hiring, by firm and fiscal year
+# definition: Infosys rows are the company's annual recruitment statistics (applications received, tested, interviewed, offers of employment extended, offers accepted).
+#   From FY2004 the offers figure is all 'offers of employment' (campus and lateral), not freshers only. Other rows are fresher-specific press figures; measure column says which.
+# unit: persons
+# coverage: Infosys FY1998-FY2026 (gaps FY1999-2000, FY2003, FY2006-07, FY2011, FY2013-19); TCS, HCLTech and Infosys press points FY2023-FY2027
+# source_ids: S0259, S0322, S0260, S0270, S0264, S0265, S0271, S0272, S0266, S0287-S0291, S0296, S0297 (Infosys, Item 6.D or prospectus 'Human resources'); S0309, S0310, S0138, S0139, S0133
+# method: transcribed as published. offer_rate_per_1000_applications computed = offers / applications * 1000.
+# breaks: 'tested' not reported from FY2012 onward; FY2005 20-F gives two phrasings (interviewed 'over 36,600' and 'approximately 36,600'). Offers vs hires vs joiners are different measures: never compare across columns.
+firm,period,year_end,measure,applications,tested,interviewed,offers,accepted,value,offer_rate_per_1000_applications,qualifier,source_id,confidence,note
+Infosys,FY1997-98,1998,funnel,70870,21350,5800,1790,1300,,25.3,approximately,"S0259 (424B4 prospectus, 1999)",high,
+Infosys,FY2000-01,2001,funnel,385200,49100,20800,7650,6100,,19.9,approximately,S0322 (20-F FY2001),high,
+Infosys,FY2001-02,2002,funnel,193640,,6730,1710,1550,,8.8,approximately,S0260 (20-F FY2002),high,
+Infosys,FY2003-04,2004,funnel,908500,,18200,13600,,,15.0,approximately,S0270 (20-F FY2004),high,offers include laterals
+Infosys,FY2004-05,2005,funnel,1348800,122000,36600,14500,,,10.8,approximately; tested 'over',S0264 (20-F FY2005),high,offers include laterals
+Infosys,FY2007-08,2008,funnel,885000,227500,97600,46300,,,52.3,approximately/over,S0265 (20-F FY2008),high,offers include laterals
+Infosys,FY2008-09,2009,funnel,488700,77600,46600,16900,,,34.6,approximately,S0271 (20-F FY2009),high,offers include laterals
+Infosys,FY2009-10,2010,funnel,400800,77000,61000,26200,,,65.4,approximately,S0272 (20-F FY2010),high,offers include laterals
+Infosys,FY2011-12,2012,funnel,622970,,60860,41460,,,66.6,approximately,S0266 (20-F FY2012),high,offers include laterals
+Infosys,FY2019-20,2020,funnel,2141373,,150130,83319,,,38.9,exact,S0287 (20-F FY2020),high,offers include laterals
+Infosys,FY2020-21,2021,funnel,1427618,,135216,48029,,,33.6,exact,S0288 (20-F FY2021),high,offers include laterals
+Infosys,FY2021-22,2022,funnel,5866636,,523385,222500,,,37.9,exact,S0289 (20-F FY2022),high,offers include laterals
+Infosys,FY2022-23,2023,funnel,5342299,,389183,114374,,,21.4,exact,S0290 (20-F FY2023),high,offers include laterals
+Infosys,FY2023-24,2024,funnel,2436929,,194367,26975,,,11.1,exact,S0291 (20-F FY2024),high,offers include laterals
+Infosys,FY2024-25,2025,funnel,4457748,,430080,83207,,,18.7,exact,S0296 (20-F FY2025),high,offers include laterals
+Infosys,FY2025-26,2026,funnel,5884480,,450901,87286,,,14.8,exact,S0297 (20-F FY2026),high,offers include laterals
+TCS,FY2025-26,2026,freshers_hired,,,,,,44000,,,S0309,low,"'reportedly' over 44,000 freshers hired in FY26 (Business Today)"
+TCS,FY2026-27,2027,fresher_offers,,,,,,25000,,,S0309; S0139,medium,"offers made by April 2026; 'Clarity on demand will lead to more hiring' (CEO to PTI); BS frames it against a usual c. 40,000"
+TCS,Q1 FY2026-27,2027,freshers_joined,,,,,,14000,,,S0310,medium,"approximately 14,000 joined by end of Q1"
+TCS,Q2 FY2026-27,2027,freshers_joined,,,,,,10000,,,S0138,medium,onboarded in the quarter to 30 Sep 2026 (POST-CUTOFF)
+Infosys,FY2026-27,2027,fresher_plan,,,,,,20000,,,S0139,medium,"company said it will add 20,000 freshers (plan, not hires)"
+HCLTech,FY2025-26,2026,freshers_hired,,,,,,11000,,,S0139,medium,"'over 11,000 graduates last fiscal'"
+Infosys,FY2023-24,2024,freshers_hired,,,,,,11900,,,S0133 (HR Katha),low,"'hired only 11,900 new graduates this year' vs 50,000 the previous year (as reported, citing other reports)"
+Infosys,FY2022-23,2023,freshers_hired,,,,,,50000,,,S0133 (HR Katha),low,as reported

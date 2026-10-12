@@ -1,0 +1,25 @@
+# title: Attrition rate and women's share of workforce, by firm
+# definition: each row states the firm's own attrition definition (total vs voluntary; with or without subsidiaries; IT services only) and women's-share basis
+# unit: percent
+# coverage: Infosys attrition FY2005-06 to FY2011-12 and women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and Q2 FY2026-27
+# source_ids: S0265, S0271, S0272, S0266, S0291 (Infosys 20-F); S0293, S0192, S0299 (Cognizant 10-K); S0160, S0310 (TCS)
+# method: transcribed as published; two Cognizant 2022 rows because the 10-K changed its headline metric from total to voluntary (tech services) attrition
+# breaks: definitions differ between firms and over time; do not compare across rows with different attrition_definition
+firm,period,attrition_pct,attrition_definition,women_pct,women_definition,source_id,confidence
+Infosys,FY2005-06,11.2,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265 (20-F FY2008),high
+Infosys,FY2006-07,13.7,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265,high
+Infosys,FY2007-08,13.4,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265,high
+Infosys,FY2008-09,11.1,attrition excl. Infosys BPO and subsidiaries,,,S0271 (20-F FY2009),high
+Infosys,FY2009-10,13.4,attrition (as stated),,,S0272 (20-F FY2010),high
+Infosys,FY2010-11,17.0,"attrition, twelve months to 31 March",,,S0266 (20-F FY2012),high
+Infosys,FY2011-12,14.7,"attrition, twelve months to 31 March",,,S0266,high
+Infosys,FY2023-24,,,40,'nearly 40%' of workforce (quoted statement in 20-F),S0291 (20-F FY2024),medium
+Cognizant,2020,20.6,total attrition (voluntary and involuntary),36,women share of workforce at 31 Dec,S0293 (10-K FY2021),high
+Cognizant,2021,30.8,total attrition (voluntary and involuntary),38,"women share at 31 Dec (c. 123,000 women)",S0293,high
+Cognizant,2022,31.7,total attrition (voluntary and involuntary),38,"women share at 31 Dec (c. 134,000 women)",S0293,high
+Cognizant,2022,25.6,Voluntary Attrition - Tech Services,,,S0293 (10-K FY2023),high
+Cognizant,2023,13.8,Voluntary Attrition - Tech Services,38,women share 'approximately 38%',S0293,high
+Cognizant,2024,15.9,Voluntary Attrition - Tech Services,38,women share 'approximately 38%',S0192 (10-K FY2024),high
+Cognizant,2025,13.9,Voluntary Attrition - Tech Services,39,women share 'approximately 39%',S0299 (10-K FY2025),high
+TCS,FY2024-25,13.3,"LTM attrition, IT services",35.2,women share of workforce,S0160 (Q4 FY2024-25 fact sheet),medium
+TCS,Q2 FY2026-27,13.3,12-month trailing attrition (to 30 Sep 2026),,,S0310,medium
