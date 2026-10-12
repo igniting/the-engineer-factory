@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 87; 2000s 54; 2010s 40; 2020s 43. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 40; 2020s 49. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 404 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 412 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -236,6 +236,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1995 | Infosys adopts US GAAP reporting voluntarily | S0089, S0034 | 11
 1995 | Onsite work 66% of Indian software revenue (from 90% in 1988; 56% in 2000) | S0254 | 9, 11
 1995 | European Union announces the euro as common currency from 1 January 1999; legacy-system conversion work follows | S0001 (p. 47) | 11
+1995 | i-flex's MicroBanker sold to 117 banks, mostly in Africa, tops a core-banking league table; earnings fund FLEXCUBE (founder account) | S0176 | 16
 1995-05 | GE, then Infosys's largest client, seeks price cuts; Infosys declines and loses much of the business | S0034, S0089 | 11
 1995-1996 | AdventNet (later Zoho) founded in Chennai by the Vembu brothers and Tony Thomas | S0175 | 16
 1996 | F.C. Kohli succeeded by S. Ramadorai as TCS chief | S0001 | 11
@@ -286,6 +287,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2001-11-05 | Securities class action filed in New York against Sify, its officers and IPO underwriters over IPO allocations | S0261 | 11
 2002 | Private universities permitted by state acts | S0001 | 12
 2002 | Wipro acquires Spectramind, Raman Roy's BPO firm | S0206 | 14
+2002 | i-flex lists on the National Stock Exchange and Bombay Stock Exchange | S0176 | 16
 2002-01 | Anna University campus placements fall to c. 320 from 1,200; TCS, Infosys and Cognizant cut intake; some firms defer joining by a year and cut promised pay 50-60% | S0263 | 11, 12
 2002-03-31 | Infosys has 9,400 IT professionals (2,200 in 1998), 193,640 applications in FY2002, and reports a rising fixed-price share | S0260 | 11, 12
 2002-2007 | Nandan Nilekani is Infosys CEO (Kris Gopalakrishnan 2007-11, S.D. Shibulal 2011-14) | S0034 | 11, 15
@@ -304,7 +306,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2005-02 | Infosys training facility at Mysore can house 4,500 trainees (c. 12,000 a year) on a 14-week course; opened by PM Manmohan Singh per company releases (to confirm) | S0264, S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
 2005-06-23 | Special Economic Zones Act 2005 receives assent (s. 10AA tax regime) | S0114 | 14
-2005-08 | Oracle buys Citigroup's 41% stake in i-flex for $593 million | S0176 | 16
+2005-08 | Oracle buys Citigroup's stake in i-flex [41% for $593m per earlier source; 42% for $592m per Hukku interview, dispute (ww)] | S0176 | 16
 2005-12 | Duke study challenges US press counts of Indian and Chinese engineers; notes latest official Indian graduation data are from 1993 | S0213 | 12, 14
 2006 | Railway reservation becomes web-based | S0001 | 15
 2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
@@ -369,15 +371,18 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2019-08 | Amazon opens Hyderabad campus, its largest building worldwide (15,000 work points) | S0201 | 16
 2019-10 | UPI passes 1 billion transactions in a month | S0129 | 16
 2019-20 | AICTE: B.Tech approved intake 23.69 lakh, enrolment 13.84 lakh (9.84 lakh seats vacant) | S0151 | 12, 18
+2020-03-17 | Zoho sues Freshworks in US federal court in California alleging trade-secret violations (allegation) | S0173 | 16
 2020-21 | AISHE: B.Tech enrolment 23.20 lakh, 28.7% women | S0152 | 12
-2021 | Indian startup funding peaks at about $42 billion (Inc42; other vendors differ) | S0147 | 16, 17
+2021 | Indian startup funding peaks (c. $42bn Inc42; $43.5bn other vendor; c. $37bn implied by Tracxn; dispute (xx)) | S0147 | 16, 17
 2021-07-23 | Zomato lists on Indian exchanges, the first Indian unicorn to do so | S0184 | 16, 17
 2021-09-22 | Freshworks lists on Nasdaq (FRSH) at $36 | S0174 | 16
 2021-12-31 | EPAM's largest delivery centres are in Ukraine (12,389), Belarus (9,416) and Russia (8,933); India 4,349 | S0170 | 15
+2022 | Indian startup funding falls 31% to $25.7bn (Tracxn) | S0147 | 16, 17
 2022-03-11 | RBI bars Paytm Payments Bank from onboarding new customers | S0182 | 16
 2022-09-21 | Rishad Premji says Wipro fired 300 employees for moonlighting for a competitor | S0131 | 17
 2022-10 | Reports of delayed fresher onboarding at Infosys, Wipro, HCLTech, Accenture | S0134 | 17
 2023 | 72% of approved H-1B petitions for India-born workers (FY2023) | S0105 | 18
+2023 | Indian startup funding falls c. 58% to $10.8bn (Tracxn) | S0147 | 16, 17
 2023-06 | China's youth (16-24) unemployment hits 21.3%; publication suspended in August | S0169 | sidebar
 2023-08 | UPI passes 10 billion transactions in a month | S0129 | 16
 2023-24 | PLFS: graduate unemployment 13.0%; youth (15-29) 10.2% | S0154 | 18
@@ -390,8 +395,11 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-06 | NITES says over 10,000 freshers still awaiting joining dates at five IT firms | S0133 | 17
 2024-07-16 | NCLT admits BCCI insolvency petition against Byju's | S0185 | 16, 17
 2024-10-23 | Supreme Court sets aside NCLAT order in Byju's case | S0185 | 16
+2024-11-05 | Freshworks announces a 13% reduction in force | S0285 | 16, 18
+2024-12 | UPI processes c. 16.73 billion transactions in the month (c. Rs 23.25 lakh crore) | S0286 | 16
 2024-12-31 | EPAM: India now its largest delivery location (10,072) ahead of Ukraine (8,764) | S0170 | 18, sidebar
 2024-12-31 | Cognizant has c. 241,500 of its c. 336,800 employees in India | S0192 | 18
+2024-12-31 | Freshworks has c. 3,700 employees in India, c. 83% of its workforce; sells generative AI agents (Freddy) | S0285 | 16, 18
 2024-25 | Open Doors: 363,019 Indian students in the US; OPT participation 143,740 | S0158 | 18
 2025 | Philippine IT-BPM revenue passes $40 billion, 1.9 million workers (IBPAP) [LIVE-CHECKED] | S0168 | sidebar
 2025-02-01 | Union Budget announces a national framework to guide states on GCCs in tier-2 cities | S0205 | 18
