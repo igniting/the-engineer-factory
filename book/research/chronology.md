@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 64; 1990s 74; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 46; 1980s 65; 1990s 77; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 350 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 355 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -85,6 +85,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1971 | India-Pakistan war and creation of Bangladesh | S0001, S0003 | 3
 1971 | M.G.K. Menon sets up a semiconductor committee; report 1973; no action until 1978 | S0001 | 3
 1971-1978 | ECIL sells 98 computers (21 TDC-12, 32 TDC-312, 35 TDC-316, 10 Micro 78) | S0001 | 3
+1971-1981 | Bangalore population grows 76% on public-sector industry (vs 38% in 1991-2001) | S0258 | 10
 1972 | Committee on Automation (Dandekar) reports; says firms should justify computer installations to unions | S0020, S0021 | 3
 1972 | KIAP ends | S0031, S0030 | 2
 1972 | NCSDCT set up at TIFR with Rs 2.85 million from DoE and $2 million from UNDP (renamed NCST 1983) | S0001, S0013 | 3
@@ -164,6 +165,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1986 | Science Advisory Committee (C.N.R. Rao) sets up committee on high-performance computers, chaired by Rajaraman | S0001 | 8
 1986 | Computerised railway reservation live at New Delhi booking office, 50 counters; clerks increased, not cut [dispute (g): pilot 1985] | S0001 | 8
 1986 | Tata Burroughs renamed Tata Unisys; with TCS supplies nearly 70% of body-shopping exports | S0240 | 6
+1986 | TI's Bangalore earth station required 'removing or breaking 25 different government rules' | S0255 | 8, 10
 1986-12 | Policy on Computer Software Export, Software Development and Training: duty-free imports against 250% export obligation in 4 years; satellite exports allowed | S0241, S0001 | 8
 1986-12-29 | Christian Science Monitor reports planned US supercomputer sale to India (letter in reply 8 Jan 1987) | S0079 | 8
 1987 | India seeks a Cray X-MP/24; US blocks sale | S0079, S0080 (myth M05) | 8
@@ -246,7 +248,9 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1998 | Infosys receives c. 70,870 job applications, tests 21,350, hires c. 1,300 (fiscal 1998) | S0089 | 12
 1998 | Infosys assessed at CMM Level 4 | S0089 | 12
 1998 | About 135,000 engineering students and 7,000 MCA graduates (Rajaraman's figures) | S0001 | 12
+1998 | Bangalore headquarters 152 of 558 Indian software firms (Mumbai 122, Chennai 93) | S0085 | 10
 1998-03-24 | Microsoft announces a software development centre in Hyderabad; opens August 1998, moves to HITEC City February 1999 with 36 staff | S0195 | 10, 16
+1998-11 | Chandrababu Naidu opens CyberTowers, Hyderabad: 'the triplet cities of Hyderabad-Secunderabad-Cyberabad' | S0119 | 10
 1998-11-22 | HITEC City, Hyderabad, formally inaugurated by PM Vajpayee | S0119 | 10
 1998-12-31 | Infosys employs about 3,000 IT professionals; c. 245 dedicated to Nortel | S0089 | 11, 12
 1998-1999 | Nasscom estimates Indian Y2K earnings at $2.3bn, rising to $3bn by end-1999 | S0109 | 11
@@ -255,6 +259,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 1999 | Six of the world's twelve CMM Level 5 organisations are in India | S0001 | 12
 1999 | IBM buys out Tata's share; IBM India wholly owned | S0001 | 11
 1999 | New Telecom Policy liberalises telecom further | S0001 | 11
+1999 | Indians receive 47% of US H-1B visas (55,047) | S0255 | 10, 13
 1999-02 | Infosys files Form F-1 with the US SEC for 1,800,000 ADSs | S0089, S0090 | 11
 1999-03 | Infosys ADSs priced at $34 and listed on Nasdaq as INFY; first India-based company on a US exchange | S0090 | 11
 1999-10 | Satyam Infoway lists on Nasdaq | S0179 | 11, 16
