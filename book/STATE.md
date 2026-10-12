@@ -107,6 +107,7 @@
 - For OCR'd PDFs, verify whether printed page markers sit at the top or foot of the page by rendering one page as an image before citing pages. (Hanna 1994, S0241, was first cited one page high in Ch. 6-7; corrected 2026-10-12.)
 - Never create placeholder source IDs. (Broken three times: S0087, S0191, S0214. Before appending rows, list exactly the sources to be registered and check each is a specific item.)
 - Previously noted: Register a source only when a specific, citable item exists (two IDs, S0087 and S0191, were withdrawn for this reason).
+- (2026-10-12) Check press features for composite or 'imaginary' framing before quoting anyone in them (e.g. Business Today 'Operation Satyam', S0282). Composites may supply only the publication's own factual statements, never quotations.
 
 ## Environment notes
 - Web search and fetch work in this environment (tested 2026-10-11).
