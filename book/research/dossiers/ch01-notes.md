@@ -93,3 +93,20 @@ p. 452 [Ch. 3/7 material]
 - Memory: 1,024 words at commissioning (S0012), later 2,048 (S0216). RESOLVED.
 - Power: 18 kW (S0012, 1960) vs 20 kW (S0013, 1999); 1960 figure preferred; possibly grew with expansion.
 - (b) HEC-2M arrival: still open (July 1955 per S0001 from Mukherjee S0015; 'mid-1955' S0010; 'early 1956' S0007). Need S0015 or S0008.
+
+## S0217 Menon, 'Fancy Calculating Machine', Modern Asian Studies 52(2) 2018 (abstract and endnotes only, via WebFetch 2026-10-12)
+- Argument: central planning and the explosion of official statistics justified the pursuit of computers; ISI effectively authored the Second Plan (1956-61).
+- URAL: designer Bashir Rameyev (Penza works); formally transferred to Government of India and lent to ISI, government keeping 'complete freedom to utilize the equipment at their discretion' (fn 87, PCMMMA Record 119). ISI house magazine *Samvadadhvam* 2(4), July-Sept 1958 on URAL (also S0001 ref 22).
+- Soviet letters went to Mahalanobis directly, irritating diplomat Y.D. Gundevia (fn 58).
+- Users of ISI computers: about a dozen institutions incl. Andhra University, IISc, IIT Kharagpur, TIFR, Atomic Energy Commission (fn 92).
+- ISI-JU begun 1962, completed 1966, 'unsuccessful' (fn 122). [Other dates: 1964 operational (Wikipedia on Mitra), 1965-66 commissioned (S0010), 1966 (S0001).]
+- TIFR CDC machine installed May 1964 for $1.5m, US AID loan (fn 124). [S0013: commissioned mid-June 1964.]
+- Planning Commission centre: IBM 1620, 1965, $462,000 Ford Foundation grant (= Rs 23 lakh per S0007), open shop, 'no profit no loss'; one shift a day until 1968, then two shifts (c. 13 hours); obsolete by 1971 (fn 129).
+- People: S.K. Mitra (Computer Laboratory); 'Mani Mukherjee', Electronics Division [same as Mohi/Monimohan Mukherjee? check]; Pitambar Pant (ISI cell in Delhi, Mahalanobis's correspondent); D.Y. Panov and engineers Melnicov and Zimarev (Soviet side).
+- Morton Nadler: EDP consultant at ISI 1959; lectures spring 1959 -> *Topics in Engineering Logic* (1962); joined Bull, Paris, 1960; later Inria; Virginia Tech c. 1984-91; died 13 Nov 2013 aged 92; memoir *No Regrets* (S0218).
+
+## Rank-and-file voices for Ch. 1 (requirement: at least two named)
+Candidates so far: Morton Nadler (memoir, S0218: to obtain); Mohi Mukherjee (memoir essay, S0015: to obtain); D. Dutta Majumder (ISIJU team; INSA biographical memoir to find); D.Y. Phadke (in TIFR photo; role unknown); the 'about six' TIFRAC engineers, unnamed in S0013 (P.V.S. Rao's essay S0014 may name them). Not yet met. Record in dossier Gaps if not found.
+
+## Sources still to open for Ch. 1
+S0014 (P.V.S. Rao essay, OUP 2011), S0015/S0016 (Mukherjee in Banerjee 1996), S0008 (Menon book ch. 3), S0217 body text, S0052 (Founding Fuel), S0017 (PTI 2010), S0029 (Rudra biography), S0218 (Nadler memoir), Samvadadhvam 1958, R.C. Bose reminiscences (SAADA) for ISI life, Rajaraman S0001 section 3 (already in scratchpad).

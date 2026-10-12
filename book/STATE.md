@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 2: research dossier for Chapter 1, 'The statistician's machines' (1931-1966).** Write `research/dossiers/ch01.md` with the ten required sections (summary 300 words; timeline table; evidence notes 3,000-6,000 words with every claim tagged; people; numbers table; disputes; 6-12 documented scenes; documented voices under 50 words with exact page/timestamp; comparative sidebar material (USSR); gaps). Before writing, open and read (upgrade to 'seen') the core sources: S0013 (Narasimhan 1999, pp. 448-454 as page images), S0007 (Caravan), S0010 (Scroll excerpt), S0001 (Rajaraman, sections 1-3), S0052, S0017; try to obtain S0012 (Narasimhan 1960, Proc. Indian Acad. Sci.), S0014 (P.V.S. Rao essay), S0015 (Mukherjee memoir), S0008 (Menon ch. 3) and itihaasa TIFR items (S0011). Resolve or document disputes (a), (b), TIFRAC's name. Find at least two rank-and-file voices (e.g. ISI programmers, TIFRAC team members). Likely needs more than one session: split into (i) source reading and notes, (ii) dossier writing.
+**Phase 2, Ch. 1 dossier, step 2 of 3: remaining sources.** Source notes are in `research/dossiers/ch01-notes.md` (Narasimhan 1960 and 1999 read in full; Caravan, Scroll, TIFR archive exhibit, Menon 2018 endnotes). Next: try to open S0014 (P.V.S. Rao, 'TIFRAC: India's First Computer'), S0015 (Mohi Mukherjee memoir), S0008/S0217 body text, S0052, S0017, S0029, S0218 (Nadler memoir), R.C. Bose's ISI reminiscences (SAADA), ISI's *Samvadadhvam* 1958; look for named rank-and-file voices (TIFRAC engineers, ISI programmers). Resolve HEC-2M arrival date (dispute b). Then step 3: write `research/dossiers/ch01.md` in the ten-section format from the notes.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -16,7 +16,7 @@
 - [x] **Phase 1c** (2026-10-11): people index (133), myths (30, provisional verdicts), dataset plan (27 planned files in 8 groups; 7 source gaps listed)
 - [x] **Phase 1d** (2026-10-12): outline v1 (19 chapters, 129,000 words; new Ch. 15 'The other employers'; Ch. 8 and 16 retitled; sidebars placed; rank-and-file voices requirement); 5 titles proposed, recommendation recorded
 - [x] **Phase 1 complete** (2026-10-12)
-- [ ] Phase 2 - Dossiers (0/21 incl. prologue and epilogue)
+- [ ] Phase 2 - Dossiers (0/21 incl. prologue and epilogue; Ch. 1 in progress)
 - [ ] Phase 3 - Data CSVs
 - [ ] Phase 4 - Drafts (0/21)
 - [ ] Phase 5 - Verification (0/21)
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 2 Ch. 1 step 1: source reading and notes; S0012 and S0013 read in full as images (S0012 upgraded to seen); TIFRAC date, name and memory disputes resolved with contemporary 1960 paper; Morton Nadler corrected (American, not Hungarian) in chronology; S0216 (TIFR archive exhibit), S0217 (Menon 2018, MAS), S0218 (Nadler memoir) registered | `research/dossiers/ch01-notes.md`, `research/sources.md`, `research/chronology.md` |
 | 2026-10-12 | Phase 1d: outline v1 with revision log (13 changes with reasons), central-question mapping, sidebar placement, title proposals and recommendation; chapter-number mapping note added to research files | `plan/outline.md` |
 | 2026-10-11 | Phase 1c task 3: dataset plan, 27 planned CSVs in 8 groups (reference, industry size, firms, education, labour market, migration, beyond services, early computing), each with definition, unit, years, source IDs, breaks and reconciliation method; 7 source gaps listed (fresher pay has no source yet) | `research/dataset_plan.md` |
 | 2026-10-11 | Phase 1c task 2: myths list rewritten: M01-M22 given provisional verdicts with evidence and 'what would change it'; 8 new candidates (M23-M30: IBM exit, 1991, GCCs as new, Motorola CMM 5, Satyam, state vs private, services mindset, AI and fresher slump); 5 new sources (S0210-S0213, S0215) incl. NCAER caste/gender in IT and Duke 2005 engineer counts; S0214 withdrawn (placeholder created in error, again) | `research/myths.md`, `research/sources.md` |
