@@ -50,7 +50,7 @@
 | Prologue | 3,000 | - | 0 | 0 | 0 |
 | Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 0 | 0 | 0 |
 | Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 0 | 0 | 0 |
-| Ch. 3 | 6,500 | v1 (see dossier) | 0 | 0 | 0 |
+| Ch. 3 | 6,500 | v1 (c. 5,900 words; evidence notes c. 3,040) | 0 | 0 | 0 |
 | Ch. 4 | 6,000 | - | 0 | 0 | 0 |
 | Ch. 5 | 6,500 | - | 0 | 0 | 0 |
 | Ch. 6 | 6,500 | - | 0 | 0 | 0 |
