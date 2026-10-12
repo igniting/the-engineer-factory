@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 43; 1970s 40; 1980s 51; 1990s 61; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 51; 1990s 61; 2000s 31; 2010s 26; 2020s 41. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 318 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 324 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -70,6 +70,7 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1967 | IBM's difficulties with the Indian government begin | S0055 | 5
 1967 | ECIL set up at Hyderabad under the Department of Atomic Energy to commercialise BARC electronics [day 11 April from secondary sources; confirm] | S0001 | 3
 1967 | Tata Computer Centre set up to handle data processing for Tata group companies; founding team Kanodia, Patel, Malhotra, Sahni [disputed (k)] | S0228, S0003 | 4
+1967 | Sarabhai's Electronics Committee presses IBM to stop importing old machines for lease | S0055 | 5
 1967-03-23 | Lok Sabha: question on LIC computers and union fears of retrenchment; Morarji Desai says no retrenchment | S0019 | 3
 1968-04-01 | Tata Computer Systems (later TCS) set up by Tata Sons [disputed (k): 1967 as Tata Computer Centre per S0228, S0003; see dossiers/ch04.md] | S0039, S0235, S0231 | 4
 1969 | Major private banks nationalised | S0001 | 3
@@ -100,11 +101,14 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1975 | Tata and Burroughs form a company to manufacture computers in Bombay | S0001 | 4
 1975 | Public Accounts Committee report cautious on computerisation | S0001, S0022 | 3
 1975-01 | Kohli's CSI presidential address at Ahmedabad: India missed the industrial revolution but could lead in IT | S0231 | 4
+1975-11 | Public Accounts Committee (H.N. Mukherjee) opens enquiry into IBM after CAG observations on Railways dealings | S0056 | 5
 1975-12-26 | Computer Maintenance Corporation (later CMC Ltd) incorporated as a fully state-owned company, Secunderabad | S0066 | 5
+1976 | T.B. Finn becomes IBM India general manager; one-third of workforce reportedly laid off within four months | S0237 | 5
 1976-04 | Public Accounts Committee 221st report on computerisation in government | S0022 | 3
-1976-08-11 | Hindustan Computers Ltd (HCL) founded by Shiv Nadar and former DCM calculator-division engineers | S0081 | 5
+1976-08-11 | Hindustan Computers Ltd (HCL) founded by Shiv Nadar and former DCM calculator-division engineers (UP government joint venture for licence; starting pay Rs 2,000 a month) | S0081 | 5
 1977 | Regional Computer Centre at Jadavpur University opens with a Burroughs 6738 | S0001 | 3
 1977 | ICIM begins making ICL 2900-series computers | S0001 | 5
+1977 | Fernandes meets IBM executives and, by his 2006 account, tells them 'You get out' | S0056 | 5
 1977-03 | Janata government takes office; George Fernandes later moved to Industry ministry | S0056 | 5
 1977-08 | N.R. Narayana Murthy joins Patni as head of software | S0229, S0034 | 4, 6
 1978 | IBM closes its Indian operations (break point 2 in Rajaraman's scheme); TCS-Burroughs partnership ends; Patni Computer Systems founded [disputed (o): 1976 per S0229] | S0001, S0039, S0044, S0229 | 5
@@ -113,8 +117,10 @@ One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source
 1978 | Fewer than 1,000 computers in India; software exports insignificant | S0001 | 5
 1978 | ECIL's Micro 78 microprocessor system | S0001 | 5
 1978 | M.G.K. Menon moved from DoE; Biswajit Nag becomes DoE secretary | S0001 | 5
-1978-06 | IBM shuts its Indian operations; CMC takes over maintenance of IBM installations | S0055, S0066 | 5
-1979 | Wipro-IISc collaboration on computers begins (Premji, Dhawan) | S0069 | 5
+1978 | IIT Kanpur's first CS B.Tech admits 20 students; last admitted rank 40 | S0001 | 5, 7
+1978-06 | IBM shuts its Indian operations (1 June per S0237); CMC takes over maintenance; ex-IBM staff form IDM for cards and data centres; rented machines sold at near-zero book value [why IBM left disputed (q)] | S0055, S0066, S0001, S0237 | 5
+1978-1984 | Private minicomputer makers (DCM, ORG, HCL, PSI, Wipro, Patni, IDM, Zenith) write their own Unix-based OS and compilers because software imports barred | S0001 | 5
+1979-07 | Wipro signs consultancy with IISc (about Rs 14 lakh) to design a microprocessor minicomputer | S0069 | 5
 1979-09 | Review Committee on Electronics report | S0023 | 5
 1980 | Electronics Commission sets up Panel on Computer Manpower Development under Rajaraman; MCA courses introduced | S0001 | 7
 1980 | 21 Indian firms export about $4 million of software a year, mostly onsite 'body shopping' | S0230 | 4, 6

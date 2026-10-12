@@ -10,7 +10,7 @@ Only real, documented people. No composites.
 
 **Known skew:** the index is dominated by founders, officials and scholars. Workers, women engineers, trainees and union members are almost absent because the registered sources name few of them (ethnographies use pseudonyms, which cannot be treated as named people). Phase 2 must search for named, published first-hand accounts by ordinary engineers (memoirs, oral histories, press profiles, court and labour-department records) for every chapter.
 
-**Count:** 136 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
+**Count:** 142 rows (2026-10-12). Dates marked '(confirm)' or 'n.d.' are not yet verified from a registered source; do not use in text until checked.
 
 | Name | Dates | Roles | Documented | First-hand material | Source IDs | Chapters |
 |---|---|---|---|---|---|---|
@@ -59,6 +59,12 @@ Only real, documented people. No composites.
 | Azim Premji | b. 1945 | Chairman, Wipro | Took Wipro into computers with IISc (1979-81) | Interviews (to locate) | S0069, S0103 | 5,11 |
 | Satish Dhawan | 1920-2002 | Director, IISc | IISc-Wipro collaboration (1979) | none | S0069 | 5 |
 | Sridhar Mitta | n.d. | Wipro R&D manager from 1980 | Built Wipro's first minicomputer | none | S0069 | 5 |
+| K.R. (Kamlaksha Rama) Naik | n.d. | IBM India employee laid off at the 1978 exit; later ORG Systems | Rank-and-file voice for Ch. 5 (thin); organised 2018 reunion | none; reunion group to contact via press | S0236 | 5 |
+| Y. Narahari | n.d. | IISc BE student c. 1981; later Chair, EECS Division, IISc | Witness to Wipro's first hires; turned down Wipro offer 1982 | quoted in S0069 | S0069 | 5 |
+| N.J. Rao | n.d. | Head, IISc Digital Systems Lab | Designed Wipro Series-86 architecture with Wipro team | quoted in S0069 | S0069 | 5 |
+| T.B. Finn | n.d. | General manager, IBM India from 1976 | Reported one-third layoff | none | S0237 | 5 |
+| Hirendra Nath Mukherjee | 1907-2004 (confirm) | MP; PAC chairman | PAC enquiry into IBM, 1975 | none | S0056 | 5 |
+| Mantosh Sondhi | n.d. | Chair, 1978 review committee on electronics | Recommended private manufacture | none | S0001 | 5 |
 | Ashok Narasimhan | n.d. | First head of Wipro Information Technology |  | none | S0069 | 5 |
 | N.R. Narayana Murthy | b. 1946 | Co-founder (1981) and long-time head of Infosys | Pune founding, Bangalore move, 1993 IPO, 1995 GE decision, Nasdaq 1999 | CHM oral histories S0034, S0035; speeches S0084; interview with Bassett | S0034, S0035, S0084, S0089 | 6,9,11,12 |
 | Nandan Nilekani | b. 1955 | Infosys co-founder; CEO 2002-07; UIDAI chairman | Aadhaar; India Stack advocacy | Books S0125, S0126 | S0125, S0126, S0034 | 11,15,16 |
