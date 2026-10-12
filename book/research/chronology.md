@@ -4,9 +4,9 @@
 
 One line per dated event, oldest first. Format: `YYYY[-MM[-DD]] | event | source IDs | chapter(s)`. Uncertain dates marked `c.`; disputed dates marked `[disputed: see myths.md Mnn or dossier]`.
 
-**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 69. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
+**Decade spread:** 1930s-40s 5; 1950s 21; 1960s 44; 1970s 45; 1980s 65; 1990s 88; 2000s 55; 2010s 42; 2020s 76. The 2000s and 2010s are thin relative to their weight in the book (Satyam, BPO, H-1B politics, demonetisation, GCC growth); fill them in Phase 2 dossier timelines.
 
-**Count:** 434 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
+**Count:** 441 events (2026-10-12). Target for Phase 1b: >=300, 1930s-2026.
 
 1931 | Indian Statistical Institute (ISI) founded in Calcutta under P.C. Mahalanobis | S0010 | 1
 1944 | British Indian government begins paying for Indian students to attend US universities | S0003 | 2, 13
@@ -402,9 +402,13 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-01-31 | RBI bars Paytm Payments Bank from taking deposits after 29 February 2024 | S0182 | 16
 2024-03 | Cabinet approves IndiaAI Mission (Rs 10,371.92 crore over five years) | S0186 | 18
 2024-06 | NITES says over 10,000 freshers still awaiting joining dates at five IT firms | S0133 | 17
+2024-06-13 | NITES says over 10,000 freshers await joining dates at Wipro, Infosys, TCS, Zensar and LTIMindtree (union estimate) | S0133 | prologue
 2024-07-16 | NCLT admits BCCI insolvency petition against Byju's | S0185 | 16, 17
 2024-08-20 | NITES complains to the Union Labour Ministry about Infosys's delayed 2022-23 campus recruits | S0295 | 17
+2024-08-20 | NITES complains to the Union Labour Ministry about 2,000+ unonboarded Infosys 2022 recruits | S0295, S0311 | 18, prologue
 2024-09-03 | Union Labour Ministry directs Karnataka to act on Infosys onboarding complaint | S0295 | 17
+2024-09-03 | Union Labour Ministry directs Karnataka to examine the Infosys onboarding complaint | S0295 | 18, prologue
+2024-10-07 | Infosys 2022 recruits join the Mysuru campus as apprentices (also reported as 21 October) | S0311, S0313 | prologue
 2024-10-23 | Supreme Court sets aside NCLAT order in Byju's case | S0185 | 16
 2024-11-05 | Freshworks announces a 13% reduction in force | S0285 | 16, 18
 2024-12 | UPI processes c. 16.73 billion transactions in the month (c. Rs 23.25 lakh crore) | S0286 | 16
@@ -414,9 +418,11 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2024-12-31 | Freshworks has c. 3,700 employees in India, c. 83% of its workforce; sells generative AI agents (Freddy) | S0285 | 16, 18
 2024-25 | Open Doors: 363,019 Indian students in the US; OPT participation 143,740 | S0158 | 18
 2025 | Philippine IT-BPM revenue passes $40 billion, 1.9 million workers (IBPAP) [LIVE-CHECKED] | S0168 | sidebar
-2025-02 | Infosys dismisses trainees at Mysuru after assessments (over 300 per company; 700 per NITES) | S0133 | 17, 18
 2025-02-01 | Union Budget announces a national framework to guide states on GCCs in tier-2 cities | S0205 | 18
+2025-02-07 | Infosys lets go of Mysuru trainees from the 2022 batch after assessments (c. 300 per company; c. 700 per NITES) | S0133, S0311, S0312 | 17, 18, prologue
+2025-02-13 | Union Labour Ministry directs Karnataka to take 'urgent necessary actions' on the Infosys terminations | S0133 | prologue
 2025-03 | TCS Q4 FY25: 607,979 employees, 35.2% women, 13.3% attrition (LTM, IT services) | S0160 | 18
+2025-04-18 | Infosys lets go of more Mysuru trainees the day after its Q4 results (240 or 370 reported) | S0313, S0314 | prologue
 2025-04-26 | IndiaAI selects Sarvam AI to build a sovereign LLM (120B parameters planned) [LIVE-CHECKED] | S0308, S0307, S0186 | 18
 2025-06-06 | AICTE chairman says an expert committee is revising model curricula to put AI in all branches | S0145 | 18
 2025-06-12 | TCS bench policy takes effect: 35 bench days a year, 225 billable days | S0302 | 18
@@ -435,10 +441,11 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2026-02-07 | NCLAT directs NCLT to decide BCCI's withdrawal plea in the Byju's case within a week [LIVE-CHECKED] | S0185 | 16
 2026-02-24 | Nasscom Strategic Review: FY26 tech revenue about $315 billion, 59.5 lakh employees (+1.35 lakh), AI revenue $10-12bn (industry body) [LIVE-CHECKED] | S0306 | 18, prologue
 2026-04 | FY26: TCS net headcount down 23,460; HCLTech speaks of 'AI deflation' on its results call [LIVE-CHECKED; primary transcript needed] | S0139, S0142 | 18
+2026-04-13 | TCS says it has made 25,000 fresher offers for FY27, more depending on demand | S0309 | 18, prologue
 2026-05-11 | Forbes India reports 'AI deflation'; HCLTech CEO says a $100m deal is 'maybe $80 million' today [LIVE-CHECKED] | S0142 | 18
 2026-06-08 | US District Court (Massachusetts, Sorokin J.) rules the $100,000 H-1B fee unlawful; summaries differ on whether the proclamation or the agency policies were vacated [LIVE-CHECKED] | S0137 | 18
 2026-06-15 | Infosys 20-F FY2026: clients 'selectively insourcing' as AI raises productivity; tools include Claude Code | S0297 | 18
 2026-07-24 | First Circuit denies government's stay; fee stays blocked [LIVE-CHECKED] | S0137 | 18
 2026-09-18 | Proclamation 11069 extends the H-1B fee to 21 September 2027; claims outsourcing firms' registrations fell 92% [POST-CUTOFF; LIVE-CHECKED] | S0300 | 18
 2026-09-30 | N.D. California (Global Nurse Force v. Trump) bars enforcement of fee policies pending rulemaking [LIVE-CHECKED] | S0137 | 18
-2026-10 | TCS reports Q2 FY27: 10,000 freshers onboarded, headcount 598,056; FY27 fresher target reportedly 25,000 [LIVE-CHECKED] | S0138 | 18, prologue
+2026-10-08 | TCS Q2 FY27: 10,000 freshers onboarded (14,000 in Q1) of c. 25,000 offers; headcount 598,056 [POST-CUTOFF; LIVE-CHECKED] | S0138, S0310 | 18, prologue
