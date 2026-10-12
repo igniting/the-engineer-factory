@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 4, step 3: draft Chapter 3, 'Self-reliance and its limits' (1962-1977).** Same rules as steps 1-2: write `drafts/ch03.md` from `research/dossiers/ch03.md` and ch03-notes.md only; re-open full-text sources in the scratchpad to confirm exact wording and pages of every quotation (S0001 `src/rajaraman.txt`, printed page = PDF page - 6; S0020 `src/automation1972.pdf`, OCR, check page images; other ch03 full texts as listed in the dossier); paraphrase summariser-read sources (†); open on a documented scene from the dossier's scene list; cover the Bhabha Committee, DoE and Electronics Commission, ECIL's 98 computers, import licensing, LIC and the automation committee, union resistance, NCSDCT/NIC, and who the state trained and employed (education and profession); rank-and-file requirement NOT met for Ch. 3 per phase2-review: use union and committee records for collective voices, name no one not documented, and record the shortfall in drafting notes; numbered endnotes in reading order ('[n] S0xxx, p. y'); gates: 0 em dashes, 0 banned words, word count vs 6,500, notes complete and in order, all IDs in register; drafting notes at the end.
+**Phase 4, continuing (author asked 2026-10-12 to draft all chapters without pausing):** draft remaining chapters, prologue and epilogue with the brief at scratchpad `drafting_brief.md` (same rules as steps 1-2); gate each with `gate.py`; log each here; then Phase 5.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -18,7 +18,7 @@
 - [x] **Phase 1 complete** (2026-10-12)
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
-- [ ] Phase 4 - Drafts (2/21: Ch. 1 and Ch. 2 drafts v1 done 2026-10-12)
+- [ ] Phase 4 - Drafts (3/21 drafted v1: ch01, ch02, ch05)
 - [ ] Phase 5 - Verification (0/21)
 - [ ] Phase 6 - Revision
 - [ ] Phase 7 - Assembly
@@ -26,6 +26,7 @@
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-12 | Phase 4: drafted `drafts/ch05.md` (5,604 words body, 132 endnotes, gates pass). Opens on IBM executives' 1977 meeting with George Fernandes (his 2006 recollection, S0056, labelled). FERA and IBM exit 1 June 1978, CMC, IDM, minicomputer policy and private makers, Unix-trained programmers, the hardware path that faded. Rank-and-file weak: K.R. Naik (S0236†, paraphrased), Y. Narahari (S0069). Sidebar on Korea/Taiwan omitted (S0163, S0166, S0167 unread). Extra passages from registered full texts listed in drafting notes. S0034 p. 5 speaker label to check; S0069 author Rohini Krishnamurthy (13 Dec 2019) to add to register. | drafts/ch05.md |
 | 2026-10-12 | Phase 4 step 2: drafted `drafts/ch02.md` (5,430 words body, 144 endnotes in reading order, 0 em dashes, 0 banned words, all IDs registered). Opens on the July 1963 DC-7 delivery of the IBM 1620 (S0003, p. 783); Hill and Sarker, five patrons (M14 handled as half right), turn to America, Kelkar's reading of the 1957 deans' proceedings, Bhushan's arrival (no women; English filter), KIAP 'influence, not power', faculty 'on the fly', Sethi and the 1620, ten-day courses, 7044 paid in rupees, 1970 compiler, Minsk II and Madras contrast, 'job eaters', migration (1965 Act, Sukhatme, RFC 176, 38 US faculty), 1978 B.Tech, Kohli and Murthy, gaps stated. All quotations re-checked against full texts of S0003, S0031 and S0001; Bhushan and Sethi (summariser-read) paraphrased. Page fixes: $320,000 at S0003 p. 792 n. 15; Fay 'boy's father' p. 13; S0001 Kanpur pp. 17-18. Dispute (ppp) lettered (rank 44 vs 40). Below 6,500 because of unread sources (S0004, S0016, S0030, S0032, S0033): noted, no padding. | drafts/ch02.md |
 | 2026-10-12 | Phase 4 step 1: drafted `drafts/ch01.md` (4,680 words body, 106 endnotes in reading order, 0 em dashes, 0 banned words). Opens on TIFR's assembled-but-idle computer (Feb 1959, S0012); ISI's HEC-2M and URAL, Nadler, TIFRAC, first brain drain, CDC 3600, ISIJU, 1958 resolution, Narasimhan vs Banerjee (flagged unread), education and profession, turn to Kanpur. Quotes only from full-text sources (S0001, S0012, S0013, S0217 notes) except two flagged for Phase 5. Re-reading S0001 corrected three dossier page refs (SPR quote p. 15; CDC/ISIJU p. 17; 1961-64 count p. 18 confirmed). Removed several unsourced background sentences during self-check. Below 6,500 target because of evidence gaps (memoirs unobtained): noted, no padding. Sidebar omitted (S0165 unread). | drafts/ch01.md |
 | 2026-10-12 | Phase 3 step 11 and close-out: built `gcc.csv`, `foreign_firm_india_headcount.csv`, `startup_funding.csv`, `upi.csv` (RBI Handbook FY2016-17 to FY2023-24 from 2021/2025/2026 editions), `computers_installed.csv` (1964-2010 incl. <1,000 in 1978 and 80,000 in 1990, S0001 p. 29); dropped unverified 'IBM 2010 c. 85,000'. Close-out: all 27 CSVs cite only registered source IDs; full rebuild via new `scripts/build_all.sh` reproduces every file byte for byte; `data/README.md` index generated. `mobile_data_price.csv` not built. Phase 3 marked done. | data/*.csv, data/README.md |
@@ -84,7 +85,7 @@
 | Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 0 | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 0 | 0 | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 0 | 0 | 0 |
-| Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 0 | 0 | 0 |
+| Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 5,604 (draft v1) | 0 | 0 |
 | Ch. 6 | 6,500 | v1 (5,670 words; evidence notes 3,290) | 0 | 0 | 0 |
 | Ch. 7 | 6,000 | v1 (5,120 words; evidence notes 3,040) | 0 | 0 | 0 |
 | Ch. 8 | 6,500 | v1 (5,420 words; evidence notes 3,140) | 0 | 0 | 0 |
