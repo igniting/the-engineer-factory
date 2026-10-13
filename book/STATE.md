@@ -19,13 +19,14 @@
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
-- [ ] Phase 5 - Verification (0/21)
+- [ ] Phase 5 - Verification (1/21: ch02)
 - [ ] Phase 6 - Revision
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-13 | Phase 5: verified `drafts/ch02.md` (independent sub-agent; log `verify/ch02-factcheck.md`). 144 claims: 123 confirmed, 17 corrected, 4 softened; 6 rest on one source (attributed). Fixes: Fay 'boy's father' refers to last two years; 'often not even consulted'; 'spend far more' (not per student); Delhi p. 12; S0020 thirty computers p. 5; Sukhatme figure is S0047 (not S0046); Spark is an alumni-revived student magazine; Rabinowitz challenge was a single card-copy program; 24-hours claim from Shukla's article in same Spark issue (S0224 widened); Kothari 'physicist' dropped; Huskey left July 1964 (softened 'Americans left in 1965'). Originals of S0223, S0225 fetched; register upgraded. S0043 live-checked. Dispute (c) settled: July arrival, late-August running (S0224 also July). (ppp) open; Spark 2021 editorial gives a third figure 'AIR 30' (no year), logged only. | drafts/ch02.md, verify/ch02-factcheck.md |
 | 2026-10-12 | Phase 4: drafted `drafts/ch05.md` (5,604 words body, 132 endnotes, gates pass). Opens on IBM executives' 1977 meeting with George Fernandes (his 2006 recollection, S0056, labelled). FERA and IBM exit 1 June 1978, CMC, IDM, minicomputer policy and private makers, Unix-trained programmers, the hardware path that faded. Rank-and-file weak: K.R. Naik (S0236†, paraphrased), Y. Narahari (S0069). Sidebar on Korea/Taiwan omitted (S0163, S0166, S0167 unread). Extra passages from registered full texts listed in drafting notes. S0034 p. 5 speaker label to check; S0069 author Rohini Krishnamurthy (13 Dec 2019) to add to register. | drafts/ch05.md |
 | 2026-10-12 | Phase 4: drafted `drafts/ch06.md` (5,522 words body, 119 endnotes, gates pass). Opens on 'Rajesh Ahuja' (magazine pseudonym, labelled, S0242). Body shopping, hourly pricing, Infosys founding (S0089: three founders worked in the US, a fourth ran a US-based JV's projects; Pune not in filing), NASSCOM 1988. Rank-and-file met: 'Rajesh Ahuja' (S0242), K.R. Trilokekar (S0240 n. 61), Kala Sivasubramanian (S0242, via lawsuit). No sidebar (none in outline). L-1 dropped (no source). S0034 page fixes: 'bespoke software' p. 5; RBI travel rule p. 9; p. 5 speaker label 'Brock:' on Murthy answer (check PDF). Saxenian 'per line of code' (S0255, p. 10) added as dispute (ee). Aspray (S0230) and Sudha Murty Rs 10,000 (S0210) paraphrased. | drafts/ch06.md |
 | 2026-10-12 | Phase 4: drafted `drafts/ch03.md` (6,055 words body, 133 endnotes, gates pass). Opens on the Standing Labour Committee's special meeting on automation, 18 July 1968 (S0020). Bhabha Committee, DoE and Electronics Commission, ECIL, import licensing, LIC and unions, Committee on Automation, NCSDCT/NIC. Rank-and-file NOT met: collective voices from S0020 used instead. Extra verified passages of S0020, S0001, S0013 listed in drafting notes. Page fixes: S0001 Bhabha Committee p. 21, 'not taken seriously' p. 22. Committee members' union affiliations to confirm. Bhabha report submission adds to dispute (e). Agent stopped by rate limit after writing; file complete and gated by coordinator. | drafts/ch03.md |
@@ -100,7 +101,7 @@
 |---|---|---|---|---|---|
 | Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 2,530 (draft v1) | 0 | 0 |
 | Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 0 | 0 |
-| Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 0 | 0 |
+| Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 5,453 (verified) | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 6,055 (draft v1) | 0 | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 4,925 (draft v1) | 0 | 0 |
 | Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 5,604 (draft v1) | 0 | 0 |
