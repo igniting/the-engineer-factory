@@ -19,13 +19,14 @@
 - [x] Phase 2 - Dossiers (21/21 v1 done 2026-10-12; close-out review `research/dossiers/phase2-review.md`)
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
-- [ ] Phase 5 - Verification (1/21: ch02)
+- [ ] Phase 5 - Verification (2/21: ch01, ch02)
 - [ ] Phase 6 - Revision
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-13 | Phase 5: verified `drafts/ch01.md` (independent sub-agent; log `verify/ch01-factcheck.md`). 124 claims (all 106 notes): 82 confirmed, 17 corrected, 13 softened, 2 removed, 3 paraphrased, 7 rest on one source. Fixes: USSR/UN funding was for HEC-2M, not URAL (S0010); Gundevia ambassador in Berne, invented 'small foreign policy' sentence replaced by Menon's line (S0217 n. 58); 'complete freedom' from Mahalanobis note of 4 Mar 1959; 'de-facto National Computer Centre' full; TIFRAC 'apart from two bias supplies' (S0012, p. 48); 1958 resolution is Govt Resolution 131/CF/57 para. 5, not Parliament/preamble; $1m was for 'best American machines'; S0051 removed (n. 36), S0008 replaced by S0007 (n. 11). Several superlatives softened. Re-fetched S0007, S0010, S0052, S0216, S0217, S0220, S0222. TIFRAC naming settled (1962). Dispute (b) HEC-2M arrival open. Author could supply S0015 memoir, Menon body (S0217/S0008), Banerjee (S0221). Register updated. | drafts/ch01.md, verify/ch01-factcheck.md |
 | 2026-10-13 | Phase 5: verified `drafts/ch02.md` (independent sub-agent; log `verify/ch02-factcheck.md`). 144 claims: 123 confirmed, 17 corrected, 4 softened; 6 rest on one source (attributed). Fixes: Fay 'boy's father' refers to last two years; 'often not even consulted'; 'spend far more' (not per student); Delhi p. 12; S0020 thirty computers p. 5; Sukhatme figure is S0047 (not S0046); Spark is an alumni-revived student magazine; Rabinowitz challenge was a single card-copy program; 24-hours claim from Shukla's article in same Spark issue (S0224 widened); Kothari 'physicist' dropped; Huskey left July 1964 (softened 'Americans left in 1965'). Originals of S0223, S0225 fetched; register upgraded. S0043 live-checked. Dispute (c) settled: July arrival, late-August running (S0224 also July). (ppp) open; Spark 2021 editorial gives a third figure 'AIR 30' (no year), logged only. | drafts/ch02.md, verify/ch02-factcheck.md |
 | 2026-10-12 | Phase 4: drafted `drafts/ch05.md` (5,604 words body, 132 endnotes, gates pass). Opens on IBM executives' 1977 meeting with George Fernandes (his 2006 recollection, S0056, labelled). FERA and IBM exit 1 June 1978, CMC, IDM, minicomputer policy and private makers, Unix-trained programmers, the hardware path that faded. Rank-and-file weak: K.R. Naik (S0236†, paraphrased), Y. Narahari (S0069). Sidebar on Korea/Taiwan omitted (S0163, S0166, S0167 unread). Extra passages from registered full texts listed in drafting notes. S0034 p. 5 speaker label to check; S0069 author Rohini Krishnamurthy (13 Dec 2019) to add to register. | drafts/ch05.md |
 | 2026-10-12 | Phase 4: drafted `drafts/ch06.md` (5,522 words body, 119 endnotes, gates pass). Opens on 'Rajesh Ahuja' (magazine pseudonym, labelled, S0242). Body shopping, hourly pricing, Infosys founding (S0089: three founders worked in the US, a fourth ran a US-based JV's projects; Pune not in filing), NASSCOM 1988. Rank-and-file met: 'Rajesh Ahuja' (S0242), K.R. Trilokekar (S0240 n. 61), Kala Sivasubramanian (S0242, via lawsuit). No sidebar (none in outline). L-1 dropped (no source). S0034 page fixes: 'bespoke software' p. 5; RBI travel rule p. 9; p. 5 speaker label 'Brock:' on Murthy answer (check PDF). Saxenian 'per line of code' (S0255, p. 10) added as dispute (ee). Aspray (S0230) and Sudha Murty Rs 10,000 (S0210) paraphrased. | drafts/ch06.md |
@@ -100,7 +101,7 @@
 | Item | Target | Dossier | Draft | Verified | Final |
 |---|---|---|---|---|---|
 | Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 2,530 (draft v1) | 0 | 0 |
-| Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 0 | 0 |
+| Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 4,625 (verified) | 0 |
 | Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 5,453 (verified) | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 6,055 (draft v1) | 0 | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 4,925 (draft v1) | 0 | 0 |
