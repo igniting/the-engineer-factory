@@ -1,0 +1,33 @@
+prologue  markers  56  notes  56  OK
+ch01      markers 105  notes 105  OK
+ch02      markers 145  notes 145  OK
+ch03      markers 132  notes 132  OK
+ch04      markers  93  notes  93  OK
+ch05      markers 120  notes 120  OK
+ch06      markers 109  notes 109  OK
+ch07      markers 100  notes 100  OK
+ch08      markers 109  notes 109  OK
+ch09      markers  90  notes  90  OK
+ch10      markers 102  notes 102  OK
+ch11      markers  98  notes  98  OK
+ch12      markers 112  notes 112  OK
+ch13      markers 123  notes 123  OK
+ch14      markers 113  notes 113  OK
+ch15      markers  94  notes  94  OK
+ch16      markers 127  notes 127  OK
+ch17      markers  92  notes  92  OK
+ch18      markers  85  notes  85  OK
+ch19      markers 133  notes 133  OK
+epilogue  markers  61  notes  61  OK
+
+Total markers 2199, total converted notes 2199
+Distinct S-IDs cited: 212 (P 110, D 6, S 96)
+Bibliography entries: 212; duplicates: none
+IDs in notes missing from bibliography: none
+Unknown IDs (not in register): none
+Withdrawn IDs cited: none
+IDs without curated short form (parser fallback): none
+Note overrides applied: 26; stale overrides: none
+Raw S-IDs left in converted notes: none
+Notes with possible internal remarks: 0
+Bibliography lines with possible internal text: 0
