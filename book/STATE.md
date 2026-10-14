@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 19/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch15, ch16, ch17, ch18, prologue)
+- [ ] Phase 6 - Revision (step 2: 20/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch15, ch16, ch17, ch18, ch19, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch19.md` from phase6-review (log `verify/ch19-revision.md`; 6,536 words). Keeps all evidence the prologue cut (87,286 offers, 5,884,480 applications, 2m AI-skilled, nine months, 44,000, 598,056, Kunnumal, first AI-code-generation filing); AICTE cross-reference aligned with Ch. 12; pays off Blinder's test (Ch. 14 wording), contract forms and who keeps savings (Ch. 11, 13, 15; parent keeps saving anchored to S0297 'selectively insourcing'), and Ch. 11's documentation interpretation (S0291 'code assistant ... coding, testing, and documentation', framed as consistent, not proof); hiring-gap sentence; training claims lead with Nasscom's 2m; 'parameter' explained. 2017 study unnamed; court orders unread. AI not stated as cause; Anthropic mentions neutral. | drafts/ch19.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch18.md` from phase6-review (log `verify/ch18-revision.md`; 4,618 words). Mysuru section cut to c. 100 words with cross-reference to the prologue (master telling); union complaint follows prologue sequence (20 Aug complaint, 3 Sep ministry letter, c. 2,000 letters 2-3 Sep per union, c. 700 in TNM 6 Sep, c. 500 by early Oct per DH); Rs 245,000 kept, dollar conversion fixed; opens on Premji's 21 Sep 2022 speech; AI causation cut to pointer to Ch. 19; lists recast; Bengaluru/Mysuru forms; ITeS expanded; moralising ending cut. Nasscom full name: both 'Service' (S0001 p. 75; Infosys F-1) and 'Services' (S0001 pp. 4, 42, 86) appear; book uses 'Service' form, coordinator confirmed prologue cite. | drafts/ch18.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch17.md` from phase6-review (log `verify/ch17-revision.md`; 5,256 words). Citi decision attributed to Hukku; sidebar keeps title, explanations cut to one hypothesis sentence, 'as Nilekani did (Chapter 16)'; Simputer sentence added (S0001 p. 55 'not a commercial success'); Hukku's bankers-as-teachers point in talent explanation (S0176); Nasscom full name/label; TCS expanded; FY format; 'Chapter 19' explicit; 150,000 headcount points to Ch. 12. Oracle/i-flex stays on S0340 without $593m. NPCI-ownership retitle declined (unsourced). | drafts/ch17.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch15.md` from phase6-review (log `verify/ch15-revision.md`; 5,098 words). TI milestone quote paraphrased, pointer to Ch. 8, list recast as narrative; Radha Basu cut to one sentence (Ch. 13); Motorola pointer (Ch. 11); keeps 'zero difference' and captives (Amex 1994, GECIS 1997 per S0001 p. 53, pointer to Ch. 14); new education paragraph (S0278 p. 28: third-tier colleges 88% of undergraduates per a 2006 estimate, AICTE cut 22,722 seats; p. 29 'scraping the bottom of the barrel'); Oracle Bangalore 1994 (S0001 p. 48); 'circle had closed' cut; questions recast; Zinnov labelled. SAP/Intel still hedged. | drafts/ch15.md |
@@ -158,7 +159,7 @@
 | Ch. 16 | 6,500 | v1 (5,100 words; evidence notes 3,070) | 6,440 (draft v1) | 6,558 (revised v2) | 0 |
 | Ch. 17 | 6,500 | v1 (5,000 words; evidence notes 3,050) | 5,190 (draft v1) | 5,256 (revised v2) | 0 |
 | Ch. 18 | 6,000 | v1 (4,850 words; evidence notes 3,020) | 4,840 (draft v1) | 4,618 (revised v2) | 0 |
-| Ch. 19 | 7,000 | v1 (7,050 words; evidence notes 4,180) | 6,072 (draft v1) | 6,195 (verified) | 0 |
+| Ch. 19 | 7,000 | v1 (7,050 words; evidence notes 4,180) | 6,072 (draft v1) | 6,536 (revised v2) | 0 |
 | Epilogue | 4,000 | v1 (3,270 words; evidence notes 1,790) | 3,530 (draft v1) | 3,624 (verified) | 0 |
 | **Total** | **129,000** | - | 0 | 0 | 0 |
 
