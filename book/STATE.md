@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 6/21 revised: ch01, ch02, ch03, ch04, ch05, prologue)
+- [ ] Phase 6 - Revision (step 2: 7/21 revised: ch01, ch02, ch03, ch04, ch05, ch07, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch07.md` from phase6-review (log `verify/ch07-revision.md`; 5,305 words). DoT-monopoly quote cut (Ch. 8 keeps); 1978 IIT ratio second telling cut; Hanna 'Nearly 60%' cut, pointer to Ch. 6; TMA Pai promise removed (source unregistered), sentence now makes no claim about a later chapter; opening tightened; Rajaraman tag; Nasscom full name; city parentheticals; 'academic year 1980-81'; editorialising line cut. Keeps MCA panel, NIIT, 'recycling graduates', Hanna shortage quote. Ch. 12 must not mention TMA Pai. | drafts/ch07.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch05.md` from phase6-review (log `verify/ch05-revision.md`; 5,035 words). Renting business cut to three sentences pointing to Ch. 3 (removes $190,000 conversion); 1974 survey cut to clause (Ch. 2); ECIL pool, MCA/NIIT (Ch. 7), 'fifty visits' (Ch. 9), Infosys founding (Ch. 6), anti-computer year (Ch. 8) cut to cross-references; IBM arrival now 1950 per S0020 p. 33 para. 2.54 (coordinator confirmed page in PDF; Sharma's 1951 uncited); Banerjee short tag; Rajaraman tag; Multibus explained; Thompson and Ritchie named (S0001 ref. 74). Korea/Taiwan sidebar still omitted. 5,657 to 5,035 words. | drafts/ch05.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch03.md` from phase6-review (log `verify/ch03-revision.md`; 6,045 words). 1974 survey cut to one clause (Ch. 2); export section cut to one sentence pointing to Ch. 4 (B6700, country list, Tata-Burroughs now only in Ch. 4); unsourced 1972 Kanpur degree clause deleted; courses 'three or four times a year'; city list as prose; Rajaraman introduced; city parentheticals; Banerjee short tag. Keeps IBM 1950 arrival (S0020 p. 33), 1401 rental, DoE licensing, embargoes, NCSDCT, LIC mid-1960s. | drafts/ch03.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch04.md` from phase6-review (log `verify/ch04-revision.md`; 4,500 words). Cut to cross-references: 217 survey (Ch. 2), Kanpur, IBM/FERA (Ch. 5), body shopping and Murthy/Patni/Infosys (Ch. 6) and others (items 1.3-1.13); keeps TCS origins, Burroughs, Softronics. Fixes: $190,000 conversion deleted; IBM 'failed to agree terms under FERA'; NCSDCT 'on Rajaraman's dating, in 1972'; LIC 'mid-1960s'; Poona/Bangalore parentheticals. Kohli-rickshaw addition declined (S0003 n. 41 not about Kohli). 5,029 to 4,500 words, 93 notes. | drafts/ch04.md |
@@ -133,7 +134,7 @@
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 4,925 (draft v1) | 4,500 (revised v2) | 0 |
 | Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 5,604 (draft v1) | 5,035 (revised v2) | 0 |
 | Ch. 6 | 6,500 | v1 (5,670 words; evidence notes 3,290) | 5,522 (draft v1) | 5,574 (verified) | 0 |
-| Ch. 7 | 6,000 | v1 (5,120 words; evidence notes 3,040) | 5,285 (draft v1) | 5,364 (verified) | 0 |
+| Ch. 7 | 6,000 | v1 (5,120 words; evidence notes 3,040) | 5,285 (draft v1) | 5,305 (revised v2) | 0 |
 | Ch. 8 | 6,500 | v1 (5,420 words; evidence notes 3,140) | 5,489 (draft v1) | 5,527 (verified) | 0 |
 | Ch. 9 | 6,000 | v1 (5,470 words; evidence notes 3,370) | 5,600 (draft v1) | 5,647 (verified) | 0 |
 | Ch. 10 | 6,500 | v1 (4,980 words; evidence notes 3,020) | 5,619 (draft v1) | 5,709 (verified) | 0 |
