@@ -306,7 +306,7 @@ c. 1985-11 | Railway reservation pilot (IMPRESS) in New Delhi [date varies: 15 O
 2005-02 | Infosys training facility at Mysore can house 4,500 trainees (c. 12,000 a year) on a 14-week course; opened by PM Manmohan Singh per company releases (to confirm) | S0264, S0115 | 12
 2005-06-23 | Special Economic Zones Act receives assent | S0114 | 14
 2005-06-23 | Special Economic Zones Act 2005 receives assent (s. 10AA tax regime) | S0114 | 14
-2005-08 | Oracle buys Citigroup's stake in i-flex [41% for $593m per earlier source; 42% for $592m per Hukku interview, dispute (ww)] | S0176 | 16
+2005-08-02 | Oracle buys Citigroup Venture Capital International's stake in i-flex [41% per Oracle release, no price; 42% for $592m per Hukku interview; $593m unsourced, dropped in Phase 5] | S0340, S0176 | 16
 2005-12 | Duke study challenges US press counts of Indian and Chinese engineers; notes latest official Indian graduation data are from 1993 | S0213 | 12, 14
 2006 | Railway reservation becomes web-based | S0001 | 15
 2006-03 | Blinder's 'Offshoring: The Next Industrial Revolution?' in Foreign Affairs | S0113 | 14
