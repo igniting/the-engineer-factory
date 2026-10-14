@@ -2,12 +2,12 @@
 
 **Read this first every session.** Then read `plan/instructions.md` (the brief) and `plan/style.md`. Do the task under "Next task". After each task: update this file, commit, push, report in three lines.
 
-- **Current phase:** 7 - Assembly
+- **Current phase:** Complete (v1 published)
 - **Last updated:** 2026-10-12 (session 8)
 - **Book status:** In progress
 
 ## Next task
-**Phase 7, step 1: assemble the parts that need no author decision.** In `final/`: (1) `back-matter.md`: timeline appendix (from research/chronology.md, events the chapters use, with source IDs), data appendix (one short table or summary per key CSV in research/data with definitions and source IDs), bibliography (every source ID cited in drafts, full citation from sources.md, grouped primary/secondary/datasets), index term list; (2) endnote expansion: convert each chapter's '[n] S0xxx, p. y.' notes to short-citation form (author, short title, page) with a full bibliography entry; (3) `front-matter-draft.md`: AI disclosure and conflict-of-interest note (matching the epilogue's D11 sentence), a note on sources and method (no interviews; pseudonyms as published; verification process), contents. Leave placeholders [TITLE], [YOUR NAME], [BIO] and the pseudonym decision marked. Then step 2 (after author decisions): title page, preface, final manuscript in one Markdown file, .docx/.epub if tools allow. Author decisions pending: title; 'Gayatri' pseudonym (prologue, Ch. 18, epilogue; fallback Labour Ministry directive 13 Feb 2025); rank-and-file relaxation or acquisitions; name and bio; documents listed as author-supplied in verify logs.
+**Book complete.** Optional next steps if the author wants them: (1) acquire the unread sources listed in the verify logs (memoirs, Lok Sabha answers, Bassett 2016, Breznitz, call-centre ethnographies) to lift the body above 110,000 words and restore the omitted sidebars; (2) a copy-edit pass on the assembled manuscript; (3) rebuild with `python3 book/final/scripts/build_notes.py` then `python3 book/final/scripts/build_site.py` and pandoc after any change.
 
 
 ## Author decisions (2026-10-14)
@@ -29,11 +29,12 @@
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
 - [x] Phase 6 - Revision (done 2026-10-14: review, 21 revisions, consistency pass `verify/phase6-consistency.md`; body total c. 109,475 words)
-- [ ] Phase 7 - Assembly
+- [x] Phase 7 - Assembly (done 2026-10-14: `final/manuscript.md`, `final/the-engineer-factory.docx` and `.epub`, front matter with AI and conflict-of-interest disclosure, 2,199 endnotes in short-citation form, bibliography of 212 sources, timeline (161 events), data appendix (27 datasets), index terms (489); website at https://igniting.github.io/the-engineer-factory/ built from `docs/` by `final/scripts/build_site.py`)
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 7: front matter, endnote conversion and bibliography (`final/notes/`, `final/bibliography.md`), timeline, data appendix, index terms, assembled manuscript, docx and epub, GitHub Pages site (`docs/`, deploy workflow, `gh-pages` branch mirror); Ch. 17 unsourced Tally incorporation date removed; register fixes (S0176, S0178, S0185). Site live at https://igniting.github.io/the-engineer-factory/. | final/, docs/ |
 | 2026-10-14 | Phase 6 step 3: consistency pass (18 fixes in 11 chapters: cross-references, leftover repetition, Wipro headcount note in Ch. 19, city first-mention forms, Nasscom name in epilogue); Ch. 9 1998 city names set to period forms (coordinator); renaming-year sources registered S0341-S0345; style D12. All 21 drafts pass gates. Phase 6 closed; body c. 109,475 words. | drafts/*.md, verify/phase6-consistency.md, research/sources.md, plan/style.md |
 | 2026-10-14 | Phase 6: revised `drafts/epilogue.md` from phase6-review (log `verify/epilogue-revision.md`; 4,307 words). New 'What the history shows' section (c. 800 words, labelled as the book's reading, no new facts): foreign exchange well supported (counter: Unix skills Ch. 5, Heeks net 40% Ch. 6); engineer surplus weakest as cause (counter: World Bank 1990s shortage Ch. 7, state investment Ch. 10, empty seats Ch. 12); US labour market real but may have helped create the surplus (Khanna-Morales Ch. 13); hourly model well supported, AI's effect unsettled. Pays off World Bank/Heeks automation warning (Ch. 6) and 1986 railway counters (Ch. 8); Blinder pointer (Ch. 14, 19). 2026 numbers replaced by cross-references. D11 disclosure sentence added. 17 carried facts re-checked in full texts. | drafts/epilogue.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch19.md` from phase6-review (log `verify/ch19-revision.md`; 6,536 words). Keeps all evidence the prologue cut (87,286 offers, 5,884,480 applications, 2m AI-skilled, nine months, 44,000, 598,056, Kunnumal, first AI-code-generation filing); AICTE cross-reference aligned with Ch. 12; pays off Blinder's test (Ch. 14 wording), contract forms and who keeps savings (Ch. 11, 13, 15; parent keeps saving anchored to S0297 'selectively insourcing'), and Ch. 11's documentation interpretation (S0291 'code assistant ... coding, testing, and documentation', framed as consistent, not proof); hiring-gap sentence; training claims lead with Nasscom's 2m; 'parameter' explained. 2017 study unnamed; court orders unread. AI not stated as cause; Anthropic mentions neutral. | drafts/ch19.md |
