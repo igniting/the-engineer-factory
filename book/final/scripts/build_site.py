@@ -147,9 +147,14 @@ def main():
              f'<p>A narrative history of how India built a software profession, and what AI coding tools now do to it. '
              f'Every source is listed in the notes and bibliography; the research files, data and checking logs are in '
              f'<a href="https://github.com/igniting/the-engineer-factory">the repository</a>.</p>'
+             f'<p>Download: <a href="the-engineer-factory.epub">EPUB</a> · <a href="the-engineer-factory.docx">Word</a></p>'
              f'<h2>Contents</h2><ul class="toc">' + ''.join(items) + '</ul>')
     with open(os.path.join(DOCS, 'index.html'), 'w') as f:
         f.write(page('Contents', inner, None, ('about.html', 'About this book')))
+    for ext in ('epub', 'docx'):
+        src = os.path.join(F, 'the-engineer-factory.' + ext)
+        if os.path.exists(src):
+            shutil.copy(src, DOCS)
     print('pages:', len(seq) + 1)
 
 
