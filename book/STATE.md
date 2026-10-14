@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 8/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, prologue)
+- [ ] Phase 6 - Revision (step 2: 9/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch08.md` from phase6-review (log `verify/ch08-revision.md`; 5,271 words). Keeper of TI satellite link (scene, negotiation, 1985/86 reconciliation, DoT-monopoly quote; 'negotiated in 1985'), bank unions' anti-computer year (told directly), 1982 phone wait, Nasscom founding (1988, 38 members), STPs, railway demand. Cut to cross-references: Heeks onsite figures, World Bank contract, 40% net, 60% IIT emigration (Ch. 6); Bombay-to-Bangalore (Ch. 10, Chandru paraphrased); 56,000 and $131.2m (Ch. 9). Laboratories section recast as narrative; Rajaraman tag; Nasscom/TCS/DEC expanded; FY format; flat section endings. Heeks series consistent with Ch. 9. | drafts/ch08.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch06.md` from phase6-review (log `verify/ch06-revision.md`; 5,227 words). Cut to cross-references: TI dates (Ch. 8), Bombay-to-Bangalore (Ch. 10), Burroughs/Softronics (Ch. 4), 'fifty visits' and RBI show-cause (Ch. 9), 1984 export quote (Ch. 5), MCA/NIIT (Ch. 7), Nasscom founding (Ch. 8), 56,000 and $128m (Ch. 9). Keeps body shopping, Murthy at Patni, Infosys founding, Heeks onsite figures, World Bank 60%, net earnings 40%, Saxenian dissent, 1994 warning. Murthy's seven-year phone wait labelled as recollection vs Rajaraman's two years (S0001 p. 33); HCL expanded (S0001 p. 40). City renaming years (Mumbai 1995 etc.) lack a registered source: register one at assembly. | drafts/ch06.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch07.md` from phase6-review (log `verify/ch07-revision.md`; 5,305 words). DoT-monopoly quote cut (Ch. 8 keeps); 1978 IIT ratio second telling cut; Hanna 'Nearly 60%' cut, pointer to Ch. 6; TMA Pai promise removed (source unregistered), sentence now makes no claim about a later chapter; opening tightened; Rajaraman tag; Nasscom full name; city parentheticals; 'academic year 1980-81'; editorialising line cut. Keeps MCA panel, NIIT, 'recycling graduates', Hanna shortage quote. Ch. 12 must not mention TMA Pai. | drafts/ch07.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch05.md` from phase6-review (log `verify/ch05-revision.md`; 5,035 words). Renting business cut to three sentences pointing to Ch. 3 (removes $190,000 conversion); 1974 survey cut to clause (Ch. 2); ECIL pool, MCA/NIIT (Ch. 7), 'fifty visits' (Ch. 9), Infosys founding (Ch. 6), anti-computer year (Ch. 8) cut to cross-references; IBM arrival now 1950 per S0020 p. 33 para. 2.54 (coordinator confirmed page in PDF; Sharma's 1951 uncited); Banerjee short tag; Rajaraman tag; Multibus explained; Thompson and Ritchie named (S0001 ref. 74). Korea/Taiwan sidebar still omitted. 5,657 to 5,035 words. | drafts/ch05.md |
@@ -136,7 +137,7 @@
 | Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 5,604 (draft v1) | 5,035 (revised v2) | 0 |
 | Ch. 6 | 6,500 | v1 (5,670 words; evidence notes 3,290) | 5,522 (draft v1) | 5,227 (revised v2) | 0 |
 | Ch. 7 | 6,000 | v1 (5,120 words; evidence notes 3,040) | 5,285 (draft v1) | 5,305 (revised v2) | 0 |
-| Ch. 8 | 6,500 | v1 (5,420 words; evidence notes 3,140) | 5,489 (draft v1) | 5,527 (verified) | 0 |
+| Ch. 8 | 6,500 | v1 (5,420 words; evidence notes 3,140) | 5,489 (draft v1) | 5,271 (revised v2) | 0 |
 | Ch. 9 | 6,000 | v1 (5,470 words; evidence notes 3,370) | 5,600 (draft v1) | 5,647 (verified) | 0 |
 | Ch. 10 | 6,500 | v1 (4,980 words; evidence notes 3,020) | 5,619 (draft v1) | 5,709 (verified) | 0 |
 | Ch. 11 | 6,500 | v1 (6,220 words; evidence notes 3,960) | 5,746 (draft v1) | 5,808 (verified) | 0 |
