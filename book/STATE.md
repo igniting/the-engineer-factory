@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 11/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, prologue)
+- [ ] Phase 6 - Revision (step 2: 12/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch11.md` from phase6-review (log `verify/ch11-revision.md`; 5,690 words). Cut to cross-references: GE episode and FY1997-98 funnel and onsite series (Ch. 9), 180,000/revenue per head (Ch. 10), 47% H-1B (Ch. 13); training centre, Mysore, 2002 private universities handed to Ch. 12. Keeper of pyramid, ISO/CMM, Motorola, Y2K/euro, price premium, Ravichandar, Anna University and the 'mid-1980's' offshore self-claim ('Chapter 6 tests that dating'). The book's single 'machines learn documented work' line kept here, labelled as interpretation, pointing to Ch. 19. BT dated Jan 2001; growth wording per Ch. 9; Nasscom/FY/Rajaraman/Murthy/city forms. | drafts/ch11.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch10.md` from phase6-review (log `verify/ch10-revision.md`; 5,408 words). TI dates cut to pointer (Ch. 8); 'per line of code' paragraph cut (one sentence kept); park dates trimmed; onsite share points to Ch. 9; H-1B 'largest share' (Ch. 13); 'zero difference' to Ch. 15; 'Inside the parks' cut, ends on 'Three readings' and turn to Y2K; Simputer promise deleted, Pune/Chennai/Delhi as gap; 180,000 labelled Saxenian's; Hyderabad survey labelled magazine's; Nasscom/Rajaraman/city forms. Coordinator removed unsourced Wipro Bombay head-office wording. | drafts/ch10.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch09.md` from phase6-review (log `verify/ch09-revision.md`; 5,361 words). Keeper of 'fifty visits', RBI show-cause, GE hotel rooms, 56,000, export-series comparison, FY1997-98 funnel, 1989 pay comparison, 80% offshore, H-1B/L-1 counts and the reconciled onsite-share series. Cut to cross-references: net earnings and 1988 onsite (Ch. 6), recycling graduates (Ch. 7), STPs (Ch. 8), price premium/pyramid/CMM/Motorola/Y2K (Ch. 11), B-1 to H-1 (Ch. 13). Machines foreshadow cut (Ch. 11 keeps). Nasscom figures labelled; lists recast as narrative. New verified facts: S0088 p. 31 (budget close), S0255 p. 10 (onsite 90% 1990, 58% 1998), S0097 p. 66 n. 24 (61% 1995). | drafts/ch09.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch08.md` from phase6-review (log `verify/ch08-revision.md`; 5,271 words). Keeper of TI satellite link (scene, negotiation, 1985/86 reconciliation, DoT-monopoly quote; 'negotiated in 1985'), bank unions' anti-computer year (told directly), 1982 phone wait, Nasscom founding (1988, 38 members), STPs, railway demand. Cut to cross-references: Heeks onsite figures, World Bank contract, 40% net, 60% IIT emigration (Ch. 6); Bombay-to-Bangalore (Ch. 10, Chandru paraphrased); 56,000 and $131.2m (Ch. 9). Laboratories section recast as narrative; Rajaraman tag; Nasscom/TCS/DEC expanded; FY format; flat section endings. Heeks series consistent with Ch. 9. | drafts/ch08.md |
@@ -142,7 +143,7 @@
 | Ch. 8 | 6,500 | v1 (5,420 words; evidence notes 3,140) | 5,489 (draft v1) | 5,271 (revised v2) | 0 |
 | Ch. 9 | 6,000 | v1 (5,470 words; evidence notes 3,370) | 5,600 (draft v1) | 5,361 (revised v2) | 0 |
 | Ch. 10 | 6,500 | v1 (4,980 words; evidence notes 3,020) | 5,619 (draft v1) | 5,408 (revised v2) | 0 |
-| Ch. 11 | 6,500 | v1 (6,220 words; evidence notes 3,960) | 5,746 (draft v1) | 5,808 (verified) | 0 |
+| Ch. 11 | 6,500 | v1 (6,220 words; evidence notes 3,960) | 5,746 (draft v1) | 5,690 (revised v2) | 0 |
 | Ch. 12 | 7,000 | v1 (5,700 words; evidence notes 3,440) | 6,340 (draft v1) | 6,398 (verified) | 0 |
 | Ch. 13 | 6,500 | v1 (5,370 words; evidence notes 3,280) | 5,435 (draft v1) | 5,464 (verified) | 0 |
 | Ch. 14 | 6,000 | v1 (4,950 words; evidence notes 3,070) | 5,352 (draft v1) | 5,437 (verified) | 0 |
