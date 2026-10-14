@@ -7,7 +7,7 @@
 - **Book status:** In progress
 
 ## Next task
-**Phase 6, step 2: apply revisions chapter by chapter from `verify/phase6-review.md`.** One revision agent per chapter (prologue and Part I first), each given the review's items for its chapter (sections 1-8 and the top-30 list): cut repetitions to cross-references per the keep/cut list, fix contradictions and cross-references, apply style fixes (per cent vs %, Nasscom form, city parentheticals, fiscal-year format), honour framing corrections; any changed or added fact must come from verified dossier/source material and be checked against the full text, with notes renumbered and gates passing; log changes in `verify/chNN-revision.md`. Then the epilogue's 'What the history shows' section and the unkept promises (World Bank automation warning, railway counters, Blinder's test) in Ch. 19/epilogue; TMA Pai (2002) needs the judgment fetched and verified or the cross-references removed. Word target after cuts: keep total at or above 110,000 by adding verified unused scenes, never padding. Decision D11: the AI-assistance and Anthropic conflict-of-interest disclosure goes in a front-matter note at assembly, plus one plain sentence in the epilogue's closing pages.
+**Phase 6, step 3: consistency check of the revised book.** Re-run a whole-book read of the revised drafts (fresh agent, same method as step 1) limited to: (a) cross-references now pointing to the right chapter and to material that is actually there; (b) any repetition reintroduced; (c) contradictions introduced by revisions; (d) a register entry for city/state renaming years (Mumbai 1995, Chennai 1996, Kolkata 2001, Bengaluru/Mysuru 2014, Odisha 2011, Gurugram) or remove the years; (e) re-verification of any fact changed or added in step 2 that the revision logs did not check against full text. Then Phase 7 (assembly). Author decisions still pending: title; 'Gayatri' pseudonym (prologue, Ch. 18, epilogue; fallback Labour Ministry directive 13 Feb 2025); rank-and-file relaxation or acquisitions; author name and bio; author-supplied documents listed in verify logs.
 
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
@@ -20,7 +20,7 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 21/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch15, ch16, ch17, ch18, ch19, epilogue, prologue)
+- [ ] Phase 6 - Revision (step 2 done 2026-10-14: 21/21 revised, logs verify/*-revision.md; body total c. 109,660 words)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
