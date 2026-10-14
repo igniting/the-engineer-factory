@@ -30,5 +30,7 @@ Source: author's master instructions, section 8, plus decisions logged below. Ap
 - **D9 (2026-10-11) Dashes.** En dashes for ranges (1985–1991) are allowed in final assembly; in working files use a hyphen. No em dashes anywhere in prose.
 - **D10 (2026-10-11) Confidence language.** Use "documented", "reported", "claimed", "estimated" deliberately: documented = primary record; reported = contemporaneous press; claimed = party with an interest; estimated = modelled number.
 
+- **D11 (2026-10-14) AI disclosure.** The book's AI-assisted drafting and the conflict of interest (Anthropic products such as Claude Code and Claude Cowork appear in sources and text) are disclosed in a front-matter note at assembly, and in one plain sentence in the epilogue's closing pages. Chapters describe the products neutrally, as the sources do.
+
 ## Banned-word check (run before marking a draft done)
 `grep -niE "delve|tapestry|testament|landscape|navigat|fast-paced|—" book/drafts/chNN.md` must return nothing (except "landscape" inside a quotation or proper name, which the checker notes).
