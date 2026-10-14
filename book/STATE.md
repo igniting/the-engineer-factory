@@ -9,6 +9,14 @@
 ## Next task
 **Phase 7, step 1: assemble the parts that need no author decision.** In `final/`: (1) `back-matter.md`: timeline appendix (from research/chronology.md, events the chapters use, with source IDs), data appendix (one short table or summary per key CSV in research/data with definitions and source IDs), bibliography (every source ID cited in drafts, full citation from sources.md, grouped primary/secondary/datasets), index term list; (2) endnote expansion: convert each chapter's '[n] S0xxx, p. y.' notes to short-citation form (author, short title, page) with a full bibliography entry; (3) `front-matter-draft.md`: AI disclosure and conflict-of-interest note (matching the epilogue's D11 sentence), a note on sources and method (no interviews; pseudonyms as published; verification process), contents. Leave placeholders [TITLE], [YOUR NAME], [BIO] and the pseudonym decision marked. Then step 2 (after author decisions): title page, preface, final manuscript in one Markdown file, .docx/.epub if tools allow. Author decisions pending: title; 'Gayatri' pseudonym (prologue, Ch. 18, epilogue; fallback Labour Ministry directive 13 Feb 2025); rank-and-file relaxation or acquisitions; name and bio; documents listed as author-supplied in verify logs.
 
+
+## Author decisions (2026-10-14)
+- **Title (decided by agent at author's request):** *The Engineer Factory: How India Priced Its Engineers by the Hour, and What AI Does to That Bargain* (Phase 1d recommendation; the epilogue's verdict finds the hourly model the best-supported thread).
+- **Author name:** not to appear anywhere (no byline, no bio). Title page and front matter carry no author name.
+- **Rank-and-file requirement:** relaxed. Chapters may rely on labelled participant accounts, published pseudonyms and collective records; shortfalls stay stated in drafting notes, not in the text.
+- **Prologue pseudonym:** not addressed by the author; the reporter's published pseudonym 'Gayatri (name changed)' stays, labelled in text (prologue, Ch. 18, epilogue).
+- **GitHub Pages:** author wants the book published as a GitHub Pages site from this repository.
+
 ## Phase checklist
 - [x] **Phase 0 - Setup** (2026-10-11)
 - [x] **Phase 1a - Bibliography** (2026-10-11, incl. author-requested batches 5b and 5c): 207 sources (98 primary, 9 datasets, 100 secondary); 11 seen in full, 173 located, 23 unverified. Before 5c: 189 sources (89 primary, 9 datasets, 91 secondary); 11 seen in full, 156 located, 22 unverified
