@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 1/21 revised: ch01)
+- [ ] Phase 6 - Revision (step 2: 2/21 revised: ch01, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/prologue.md` from phase6-review (log `verify/prologue-revision.md`; 2,321 words). 'From the top' section lightened (detail moved to Ch. 19); final paragraph keeps 1955 vs 2010 and build-or-buy only; Rajaraman and Nasscom full names at first mention (Nasscom expansion from S0001 p. 75); 'Chapter 19' explicit. Mysuru section and offer-letter sequence kept as master telling (Ch. 18 to cross-refer). c. 680 words under target; no verified unused material. | drafts/prologue.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch01.md` from phase6-review (log `verify/ch01-revision.md`; 4,663 words). Coda's 1620 date/aid cut to Ch. 2 teaser; Banerjee identified (S0222); Bangalore/Madras parentheticals; buying 'on terms the sellers set'; CDC uptime credited to TIFR reports via S0007; Nadler attributed to Menon; new S0052 short-courses passage (38 words, verified). Length gap c. 1,800 words: S0219, S0008, S0015, S0218, S0221 unavailable. | drafts/ch01.md |
 | 2026-10-14 | Phase 6 step 1: whole-book review `verify/phase6-review.md` (c. 9,300 words, nine sections; c. 50 repetitions worth c. 6,900 words, about a dozen unkept cross-chapter promises, no explicit verdict on the thesis; top-30 fix list). S0001 page audit `verify/phase6-s0001-pages.md`: all 366 citations correct. | verify/phase6-review.md, verify/phase6-s0001-pages.md |
 | 2026-10-13 | Phase 5: verified `drafts/epilogue.md` (independent sub-agent; log `verify/epilogue-factcheck.md`). 60 notes: 37 confirmed, 8 corrected, 7 softened, 1 removed, 7 rest on one source; all 27 quotes verbatim; post-cutoff URLs live-checked 2026-10-14. Fixes: 2,117 counts centres vs 1,700 companies; Nasscom FY25 revision reason removed (S0306 gives none; GCC restatement Sept 2024 stated separately); NITI base described two ways (pp. 11, 12); NFAP p. 5; 'first such estimate' removed; deals estimate narrowed to Vijayakumar; AI timing now 'two years before Infosys's annual filings first mentioned AI code generation'; GCC framework 'promised' (para. 91). S0204 confirmed in policy text. Scenarios labelled as the book's; Rekha/Aman labelled invented. (lll) open. | drafts/epilogue.md, verify/epilogue-factcheck.md |
@@ -121,7 +122,7 @@
 ## Word counts
 | Item | Target | Dossier | Draft | Verified | Final |
 |---|---|---|---|---|---|
-| Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 2,530 (draft v1) | 2,568 (verified) | 0 |
+| Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 2,530 (draft v1) | 2,321 (revised v2) | 0 |
 | Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 4,663 (revised v2) | 0 |
 | Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 5,453 (verified) | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 6,055 (draft v1) | 6,110 (verified) | 0 |
