@@ -32,5 +32,7 @@ Source: author's master instructions, section 8, plus decisions logged below. Ap
 
 - **D11 (2026-10-14) AI disclosure.** The book's AI-assisted drafting and the conflict of interest (Anthropic products such as Claude Code and Claude Cowork appear in sources and text) are disclosed in a front-matter note at assembly, and in one plain sentence in the epilogue's closing pages. Chapters describe the products neutrally, as the sources do.
 
+- **D12 (2026-10-14) Renaming years.** First-mention parentheticals give the renaming year only where sourced: Mumbai 1995 (S0341), Chennai 1996 (S0342), Kolkata 2001 (S0343), Bengaluru and Mysuru 2014 (S0344), Odisha 2011 (S0345). Gurgaon/Gurugram and Poona/Pune use '(now X)' without a year. Period names are used in period narrative (e.g. Bombay and Madras for 1998 data).
+
 ## Banned-word check (run before marking a draft done)
 `grep -niE "delve|tapestry|testament|landscape|navigat|fast-paced|—" book/drafts/chNN.md` must return nothing (except "landscape" inside a quotation or proper name, which the checker notes).
