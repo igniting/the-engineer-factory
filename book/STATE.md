@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision
+- [ ] Phase 6 - Revision (step 2: 1/21 revised: ch01)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch01.md` from phase6-review (log `verify/ch01-revision.md`; 4,663 words). Coda's 1620 date/aid cut to Ch. 2 teaser; Banerjee identified (S0222); Bangalore/Madras parentheticals; buying 'on terms the sellers set'; CDC uptime credited to TIFR reports via S0007; Nadler attributed to Menon; new S0052 short-courses passage (38 words, verified). Length gap c. 1,800 words: S0219, S0008, S0015, S0218, S0221 unavailable. | drafts/ch01.md |
 | 2026-10-14 | Phase 6 step 1: whole-book review `verify/phase6-review.md` (c. 9,300 words, nine sections; c. 50 repetitions worth c. 6,900 words, about a dozen unkept cross-chapter promises, no explicit verdict on the thesis; top-30 fix list). S0001 page audit `verify/phase6-s0001-pages.md`: all 366 citations correct. | verify/phase6-review.md, verify/phase6-s0001-pages.md |
 | 2026-10-13 | Phase 5: verified `drafts/epilogue.md` (independent sub-agent; log `verify/epilogue-factcheck.md`). 60 notes: 37 confirmed, 8 corrected, 7 softened, 1 removed, 7 rest on one source; all 27 quotes verbatim; post-cutoff URLs live-checked 2026-10-14. Fixes: 2,117 counts centres vs 1,700 companies; Nasscom FY25 revision reason removed (S0306 gives none; GCC restatement Sept 2024 stated separately); NITI base described two ways (pp. 11, 12); NFAP p. 5; 'first such estimate' removed; deals estimate narrowed to Vijayakumar; AI timing now 'two years before Infosys's annual filings first mentioned AI code generation'; GCC framework 'promised' (para. 91). S0204 confirmed in policy text. Scenarios labelled as the book's; Rekha/Aman labelled invented. (lll) open. | drafts/epilogue.md, verify/epilogue-factcheck.md |
 | 2026-10-13 | Phase 5: verified `drafts/prologue.md` (independent sub-agent; log `verify/prologue-factcheck.md`). 72 claims (notes 1-66): 52 confirmed, 11 corrected, 4 softened, 5 rest on one source; all 29 quotes exact. Gayatri: every detail traces to S0311 (re-fetched); inner states only in her own words; reporter's narration of depression excluded; pseudonyms labelled. Note 61 confirmed (S0291 Item 3.D, 24 June 2024, first 'code generation'); following sentence corrected (FY2022-23 filings already mention AI; only AI code generation is new, in risk factors, Infosys only). Fixes: 'pandemic hiring boom' -> S0311's '2022 lull'; 'six words'; single reporter; HR Katha does not cite other reports, Pune sourced to S0295/S0315; 930/160/140 and 7 Oct attributed to the report; ISI 'statistical calculations'; TIFR 'most of them physics graduates'; quality-control rationale now 'later chapters argue'. Post-cutoff live-checked 2026-10-14. Disputes (6 pm/5 pm; 300/400/700; 240/370; TCS 25,000) shown both ways. S0001 page-numbering check flagged for Phase 6. PRIVACY: one EDGAR request (before the rule arrived) used UA 'anshu research contact@example.com' containing the user's first name; user informed. | drafts/prologue.md, verify/prologue-factcheck.md |
@@ -121,7 +122,7 @@
 | Item | Target | Dossier | Draft | Verified | Final |
 |---|---|---|---|---|---|
 | Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 2,530 (draft v1) | 2,568 (verified) | 0 |
-| Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 4,625 (verified) | 0 |
+| Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 4,663 (revised v2) | 0 |
 | Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 5,453 (verified) | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 6,055 (draft v1) | 6,110 (verified) | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 4,925 (draft v1) | 5,029 (verified) | 0 |
