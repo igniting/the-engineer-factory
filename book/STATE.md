@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 2/21 revised: ch01, prologue)
+- [ ] Phase 6 - Revision (step 2: 3/21 revised: ch01, ch02, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch02.md` from phase6-review (log `verify/ch02-revision.md`; 5,592 words). Keeper of 1974 survey, Kanpur arrival/courses and Sukhatme; TCS founding cut to pointer to Ch. 4 (S0038, S0039 dropped), Infosys founding to Ch. 6; ECIL expanded; city parentheticals; FORTRAN and 'compiler' glossed (S0003 p. 794 n. 23); new 1965-war blackout passage from Fay (S0031 p. 13, quotes verified; war per S0001 p. 81). No 1972 Kanpur programme (no source); c. 900 words short. | drafts/ch02.md |
 | 2026-10-14 | Phase 6: revised `drafts/prologue.md` from phase6-review (log `verify/prologue-revision.md`; 2,321 words). 'From the top' section lightened (detail moved to Ch. 19); final paragraph keeps 1955 vs 2010 and build-or-buy only; Rajaraman and Nasscom full names at first mention (Nasscom expansion from S0001 p. 75); 'Chapter 19' explicit. Mysuru section and offer-letter sequence kept as master telling (Ch. 18 to cross-refer). c. 680 words under target; no verified unused material. | drafts/prologue.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch01.md` from phase6-review (log `verify/ch01-revision.md`; 4,663 words). Coda's 1620 date/aid cut to Ch. 2 teaser; Banerjee identified (S0222); Bangalore/Madras parentheticals; buying 'on terms the sellers set'; CDC uptime credited to TIFR reports via S0007; Nadler attributed to Menon; new S0052 short-courses passage (38 words, verified). Length gap c. 1,800 words: S0219, S0008, S0015, S0218, S0221 unavailable. | drafts/ch01.md |
 | 2026-10-14 | Phase 6 step 1: whole-book review `verify/phase6-review.md` (c. 9,300 words, nine sections; c. 50 repetitions worth c. 6,900 words, about a dozen unkept cross-chapter promises, no explicit verdict on the thesis; top-30 fix list). S0001 page audit `verify/phase6-s0001-pages.md`: all 366 citations correct. | verify/phase6-review.md, verify/phase6-s0001-pages.md |
@@ -124,7 +125,7 @@
 |---|---|---|---|---|---|
 | Prologue | 3,000 | v1 (3,520 words; evidence notes 1,750) | 2,530 (draft v1) | 2,321 (revised v2) | 0 |
 | Ch. 1 | 6,500 | v1 (6,400 words; evidence notes 3,100) | 4,680 (draft v1) | 4,663 (revised v2) | 0 |
-| Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 5,453 (verified) | 0 |
+| Ch. 2 | 6,500 | v1 (6,660 words; evidence notes 3,200) | 5,430 (draft v1) | 5,592 (revised v2) | 0 |
 | Ch. 3 | 6,500 | v1 (5,860 words; evidence notes 3,020) | 6,055 (draft v1) | 6,110 (verified) | 0 |
 | Ch. 4 | 6,000 | v1 (6,210 words; evidence notes 3,440) | 4,925 (draft v1) | 5,029 (verified) | 0 |
 | Ch. 5 | 6,500 | v1 (6,240 words; evidence notes 3,500) | 5,604 (draft v1) | 5,657 (verified) | 0 |
