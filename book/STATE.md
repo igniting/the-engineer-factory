@@ -20,12 +20,13 @@
 - [x] Phase 3 - Data CSVs (2026-10-12: 27 CSVs built, index `research/data/README.md`; `mobile_data_price.csv` not built (no regulator source reachable); reproducible via `research/data/scripts/build_all.sh`)
 - [x] Phase 4 - Drafts (21/21 v1 drafted 2026-10-13: prologue, Ch. 1-19, epilogue; all pass gates; c. 110,500 body words against a 129,000 target)
 - [x] Phase 5 - Verification (21/21 done 2026-10-14; logs in verify/; every note covered; unresolved items limited to author-supplied documents, listed in each log)
-- [ ] Phase 6 - Revision (step 2: 16/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch16, prologue)
+- [ ] Phase 6 - Revision (step 2: 17/21 revised: ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch15, ch16, prologue)
 - [ ] Phase 7 - Assembly
 
 ## Completed tasks
 | Date | Task | Output |
 |---|---|---|
+| 2026-10-14 | Phase 6: revised `drafts/ch15.md` from phase6-review (log `verify/ch15-revision.md`; 5,098 words). TI milestone quote paraphrased, pointer to Ch. 8, list recast as narrative; Radha Basu cut to one sentence (Ch. 13); Motorola pointer (Ch. 11); keeps 'zero difference' and captives (Amex 1994, GECIS 1997 per S0001 p. 53, pointer to Ch. 14); new education paragraph (S0278 p. 28: third-tier colleges 88% of undergraduates per a 2006 estimate, AICTE cut 22,722 seats; p. 29 'scraping the bottom of the barrel'); Oracle Bangalore 1994 (S0001 p. 48); 'circle had closed' cut; questions recast; Zinnov labelled. SAP/Intel still hedged. | drafts/ch15.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch16.md` from phase6-review (log `verify/ch16-revision.md`; 6,558 words). Unsourced 'withdrawing for two decades... unusual step' sentence removed; moralising ending flattened; Puttaswamy education (JEE/NEET/CBSE) paragraph moved up as the chapter's education hinge; new 'Two lessons' paragraph links Satyam recruiting (over 1,500 institutions, 12-week training; S0283 pp. 24, 32) to the JEE ruling (S0127 2018, Sikri J., p. 555); per cent; Nasscom full name; 'Orissa (Odisha since 2011)' (renaming-year source needed at assembly with other city renamings). Attributions unchanged; authorship sentence not restored. | drafts/ch16.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch14.md` from phase6-review (log `verify/ch14-revision.md`; 5,291 words). Infosys series/Mysore/course figures cut to pointers to Ch. 12 (crisis-year FY2008-09 kept); 200,000 labelled with pointer to Ch. 9; Blinder's test stated in one citable sentence; opens with 2002-2004 signpost; 'The other employers' cut to hand-over to Ch. 15; 'Two million' recast, Rajaraman figures labelled as industry count; March 2009 quarter rewritten as scene with S0271 figures (77,600 tested, 46,600 interviewed, 12,400 net additions, attrition 11.1%, fixed-price 35.4% vs 31.0%, two risk quotes) verified; definitions of lateral hiring, ITES, BPM; 'Gurgaon (now Gurugram)'. Philippines sidebar still blocked. | drafts/ch14.md |
 | 2026-10-14 | Phase 6: revised `drafts/ch13.md` from phase6-review (log `verify/ch13-revision.md`; 5,406 words). Keeps B-1 to H-1 quote, 47% H-1B, Fuller-Narasimhan detail, Radha Basu. Cut to cross-references: 1965 Act and Sukhatme (Ch. 2), 1989 pay comparison (Ch. 9), Anuradha to one sentence (Ch. 12). Onsite 90/61% labelled Parthasarathy via Saxenian (S0097 p. 66 n. 24), pointer to Ch. 9. Machines and visibility foreshadows cut; savings line points to Ch. 19. Ends on Perrero's 'one system'. Sponsor list recast (full table in note 41). Israel sidebar still blocked (S0163). | drafts/ch13.md |
@@ -151,7 +152,7 @@
 | Ch. 12 | 7,000 | v1 (5,700 words; evidence notes 3,440) | 6,340 (draft v1) | 6,172 (revised v2) | 0 |
 | Ch. 13 | 6,500 | v1 (5,370 words; evidence notes 3,280) | 5,435 (draft v1) | 5,406 (revised v2) | 0 |
 | Ch. 14 | 6,000 | v1 (4,950 words; evidence notes 3,070) | 5,352 (draft v1) | 5,291 (revised v2) | 0 |
-| Ch. 15 | 6,500 | v1 (5,040 words; evidence notes 3,030) | 4,900 (draft v1) | 4,964 (verified) | 0 |
+| Ch. 15 | 6,500 | v1 (5,040 words; evidence notes 3,030) | 4,900 (draft v1) | 5,098 (revised v2) | 0 |
 | Ch. 16 | 6,500 | v1 (5,100 words; evidence notes 3,070) | 6,440 (draft v1) | 6,558 (revised v2) | 0 |
 | Ch. 17 | 6,500 | v1 (5,000 words; evidence notes 3,050) | 5,190 (draft v1) | 5,185 (verified) | 0 |
 | Ch. 18 | 6,000 | v1 (4,850 words; evidence notes 3,020) | 4,840 (draft v1) | 4,891 (verified) | 0 |
