@@ -14,7 +14,8 @@
 - **Title (decided by agent at author's request):** *The Engineer Factory: How India Priced Its Engineers by the Hour, and What AI Does to That Bargain* (Phase 1d recommendation; the epilogue's verdict finds the hourly model the best-supported thread).
 - **Author name:** not to appear anywhere (no byline, no bio). Title page and front matter carry no author name.
 - **Rank-and-file requirement:** relaxed. Chapters may rely on labelled participant accounts, published pseudonyms and collective records; shortfalls stay stated in drafting notes, not in the text.
-- **Prologue pseudonym:** not addressed by the author; the reporter's published pseudonym 'Gayatri (name changed)' stays, labelled in text (prologue, Ch. 18, epilogue).
+- **Prologue pseudonym:** author decision (2026-10-15): keep the reporter's published pseudonym 'Gayatri (name changed)', labelled in text (prologue, Ch. 18, epilogue).
+- **Git history:** author decision (2026-10-15): do not rewrite history (old commits keep the earlier privacy-incident wording).
 - **GitHub Pages:** author wants the book published as a GitHub Pages site from this repository.
 
 ## Phase checklist
