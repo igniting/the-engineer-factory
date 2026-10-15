@@ -30,9 +30,11 @@ Source: author's master instructions, section 8, plus decisions logged below. Ap
 - **D9 (2026-10-11) Dashes.** En dashes for ranges (1985–1991) are allowed in final assembly; in working files use a hyphen. No em dashes anywhere in prose.
 - **D10 (2026-10-11) Confidence language.** Use "documented", "reported", "claimed", "estimated" deliberately: documented = primary record; reported = contemporaneous press; claimed = party with an interest; estimated = modelled number.
 
-- **D11 (2026-10-14) AI disclosure.** The book's AI-assisted drafting and the conflict of interest (Anthropic products such as Claude Code and Claude Cowork appear in sources and text) are disclosed in a front-matter note at assembly, and in one plain sentence in the epilogue's closing pages. Chapters describe the products neutrally, as the sources do.
+- **D11 (2026-10-14) AI disclosure.** The book's AI-assisted drafting and the conflict of interest (Anthropic products such as Claude Code and Claude Cowork appear in sources and text) are disclosed in a front-matter note at assembly, and in one plain sentence at the first mention of Claude Code in Chapter 19 (revised 2026-10-15 after the publisher's critique; the epilogue no longer repeats it). Chapters describe the products neutrally, as the sources do.
 
 - **D12 (2026-10-14) Renaming years.** First-mention parentheticals give the renaming year only where sourced: Mumbai 1995 (S0341), Chennai 1996 (S0342), Kolkata 2001 (S0343), Bengaluru and Mysuru 2014 (S0344), Odisha 2011 (S0345). Gurgaon/Gurugram and Poona/Pune use '(now X)' without a year. Period names are used in period narrative (e.g. Bombay and Madras for 1998 data).
 
 ## Banned-word check (run before marking a draft done)
 `grep -niE "delve|tapestry|testament|landscape|navigat|fast-paced|—" book/drafts/chNN.md` must return nothing (except "landscape" inside a quotation or proper name, which the checker notes).
+
+- **D13 (2026-10-15) Research log stays in the notes.** After the publisher's critique: the body states what is known and flags real uncertainty in a clause; gaps in the record ('no copy has been located'), source-version adjudication and dating disputes go in the notes. No 'not yet', no 'for this book' in the body. Main secondary sources are named once per chapter; quotations, contested claims, self-descriptions and allegations stay attributed in the body.

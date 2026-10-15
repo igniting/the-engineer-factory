@@ -91,13 +91,37 @@ def load_shorts(reg, cited):
 
 
 def load_note_overrides():
+    """Rows (piece, n, match, text). An override applies to the note in its piece
+    whose draft text starts with `match`; `n` is only a fallback when `match` is
+    empty, so renumbering a chapter's notes does not misapply overrides."""
     path = os.path.join(FINAL, 'note_overrides.csv')
-    ov = {}
+    rows = []
     if os.path.exists(path):
         with open(path, encoding='utf-8', newline='') as fh:
             for row in csv.DictReader(fh):
-                ov[(row['piece'].strip(), int(row['n']))] = row['text'].strip()
-    return ov
+                rows.append((row['piece'].strip(), int(row['n']),
+                             (row.get('match') or '').strip(), row['text'].strip()))
+    return rows
+
+
+def resolve_overrides(rows, pieces):
+    """Map (piece, n) -> text, matching each override to its note by draft text."""
+    ov, stale = {}, []
+    for piece, n, match, text in rows:
+        notes = dict(pieces[piece][2]) if piece in pieces else {}
+        if match:
+            hits = [k for k, v in notes.items() if v.startswith(match)]
+            if len(hits) == 1:
+                ov[(piece, hits[0])] = text
+            elif len(hits) > 1 and n in hits:
+                ov[(piece, n)] = text
+            else:
+                stale.append((piece, n))
+        elif n in notes:
+            ov[(piece, n)] = text
+        else:
+            stale.append((piece, n))
+    return ov, stale
 
 
 def load_bib_overrides():
@@ -202,7 +226,7 @@ def main():
         for sid in sorted(cited):
             print('%s\tparsed: %s\n\tcurated: %s' % (sid, derive_short(reg[sid]), shorts[sid]))
         return
-    note_ov = load_note_overrides()
+    note_ov, stale_rows = resolve_overrides(load_note_overrides(), pieces)
     bib_ov = load_bib_overrides()
 
     report = []
@@ -239,7 +263,7 @@ def main():
             ' missing=%s' % missing if missing else '',
             ' orphans=%s' % orphans if orphans else '',
             ' dup=%s' % dup if dup else ''))
-    stale = sorted(k for k in note_ov if k not in used_overrides)
+    stale = sorted(set(k for k in note_ov if k not in used_overrides) | set(stale_rows))
 
     # bibliography
     groups = {'P': [], 'D': [], 'S': []}
