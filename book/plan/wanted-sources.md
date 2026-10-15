@@ -50,3 +50,27 @@ Sources the book needs but could not reach. Ranked by how much each would add. R
 ## How to send them
 
 Page scans, PDFs or e-book files work best; page numbers matter because every quotation is cited to a page. A photograph of the relevant pages is enough for a single fact. Please do not commit copyrighted books to this repository, which is public: share them in the conversation, or put them somewhere private and send the link.
+
+## Found online, 2026-10-15 (Phase 8)
+
+The author could not buy books, so three searches looked for openly available stand-ins: primary records, open-access articles by the same authors, author interviews and scholarly reviews. Reviews are used only for what the reviewer says. Details and exact quotations: `research/acquisitions/workers.md`, `industry.md`, `records.md`.
+
+| Wanted # | Status | Stand-in found |
+|---|---|---|
+| 1 Sharma | Not obtained | PTI launch report on *The Long Revolution* [S0369] (summary only) |
+| 2 Ramadorai | Not obtained | *Outlook* review [S0368]; *The Economist*, 2008 [S0367] |
+| 3 Banerjee 2026 | Not obtained | Reviews by Farrell [S0363], Saini [S0364], Menon [S0365]; adapted excerpt [S0366] |
+| 4 Upadhya 2016 | Stand-in | Upadhya and Vasavi, NIAS/IDPAD report 2006 [S0346], with engineers' testimony; Upadhya, *EPW* 2004, 2007 [S0347, S0348] |
+| 5 Call-centre ethnographies | Stand-in | Taylor et al. 2009, 2010 [S0349, S0350]; D'Cruz and Noronha 2013, 2007 [S0351, S0352]; reviews [S0353, S0354] |
+| 6 Xiang | Weak | Blog review only [S0355] |
+| 7 Bassett 2016 | Partial | Author interview [S0372]; review, first page [S0373] |
+| 11 IBM exit | Partial | *Computerwoche*, 14 Apr 1978 [S0361]; Lok Sabha answer, 7 Dec 1977 [S0362] (located, not read) |
+| 12 Huskey | Found | CHM oral history, India content pp. 41-42 [S0033] |
+| 13 Kanpur rank | Partial | Rajaraman interview: 'closed at an AIR of 40' [S0382]; annual report not found |
+| 14 Aadhaar | Partial | CAG Report 24 of 2021, full text [S0128]; FT review of *Rebooting India* [S0383] |
+| 15 TMA Pai | Found | Judgment, full text [S0374] |
+| 16 Satyam | Partial | High Court and SAT records confirming the 9 April 2015 conviction [S0378, S0379]; judgment itself not found |
+| 17 H-1B fee orders | Found | D. Mass. order and judgment [S0375, S0376]; N.D. Cal. order [S0377] |
+| 18 Attrition | Partial | Infosys FY2020-24 from SEC filings [S0381]; TCS not obtained |
+| 19-21 Parliament | Not obtained | Parliament digital library blocked from the research container |
+| Voices (new) | Found | CHM oral histories of Malhotra, Chandrasekaran, Nilekani, Murthy [S0358-S0360, S0035]; *Dallas Observer* 1998 [S0356]; *Wired* 2004 [S0357] |
