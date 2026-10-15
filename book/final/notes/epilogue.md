@@ -90,7 +90,7 @@
 
 [45] Nasscom, Strategic Review 2025 press release (2025) (note to editors); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[46] Proclamation 10973 (2025), p. 46027; Proclamation 11069 (2026), p. 60498; Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[46] Proclamation 10973 (2025), p. 46027; Proclamation 11069 (2026), p. 60498; *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 42; *California v. Mullin*, D. Mass., Judgment (8 June 2026); *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 34; checked against the court record on 15 October 2026; post-cutoff material.
 
 [47] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 5 (Table 1); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 

@@ -321,29 +321,29 @@ The irony is plain. The institute that had built India's first computer now boug
 
 ISI tried once more to build. In the early 1960s (Rajaraman dates the decision to 1960, when TIFRAC was inaugurated) ISI decided to build a transistorised computer jointly with Jadavpur University in Calcutta. The machine, called ISIJU, was completed in 1966, but in Rajaraman's words 'It was not a successful project as the computer was unreliable and did not have appropriate software.'[89] Gopalakrishnan and his co-authors record practical troubles: the United Nations did not supply a card reader and line printer free of charge, and fluctuations in the electricity supply disrupted its link to other equipment.[90]
 
-By then the country's stock of computers had grown, slowly. Menon counts 15 digital computers in India by the end of 1964.[91] Rajaraman records that between 1961 and 1964 twelve computers were installed in research and development organisations and two in educational institutions.[92] In the autumn of 1965 the Planning Commission opened its own computer centre in Delhi, an IBM 1620 bought with a Ford Foundation grant of Rs 2.3 million (Rs 23 lakh), which Menon's journal article gives as $462,000. It ran 'open shop', available to outside users, on a no-profit, no-loss basis, one shift a day until 1968.[93] The planners who had once queued for time on ISI's machines now had one of their own, made by IBM.
+By then the country's stock of computers had grown, slowly. Menon counts 15 digital computers in India by the end of 1964.[91] Rajaraman records that between 1961 and 1964 twelve computers were installed in research and development organisations and two in educational institutions.[92] In the autumn of 1965 the Planning Commission opened its own computer centre in Delhi, an IBM 1620 bought with a Ford Foundation grant of Rs 2.3 million (Rs 23 lakh), which Menon's journal article gives as $462,000. It ran 'open shop', available to outside users, on a no-profit, no-loss basis, one shift a day until 1968.[93] The planners who had once queued for time on ISI's machines now had one of their own, made by IBM. The reviewer Angela Saini writes that Banerjee's 2026 history (discussed below) finds IBM's dominance of Indian computing 'nearly absolute' by the mid-1960s.[94]
 
 ## Policy without a policy
 
-The Indian state had a view about science, but not yet about computers. In March 1958 the Government of India adopted a Scientific Policy Resolution. It declared that 'Science and technology can make up for deficiencies in raw materials by providing substitutes, or, indeed, by providing skills which can be exported in return for raw materials.' Among its aims was to begin 'with all possible speed, programmes for the training of scientific and technical personnel'.[94] Read with hindsight, the first sentence describes what India would later sell: skills, exported in return for what the country lacked.
+The Indian state had a view about science, but not yet about computers. In March 1958 the Government of India adopted a Scientific Policy Resolution. It declared that 'Science and technology can make up for deficiencies in raw materials by providing substitutes, or, indeed, by providing skills which can be exported in return for raw materials.' Among its aims was to begin 'with all possible speed, programmes for the training of scientific and technical personnel'.[95] Read with hindsight, the first sentence describes what India would later sell: skills, exported in return for what the country lacked.
 
-Beyond that resolution, Rajaraman notes, 'there was no government policy on computers'.[95] The state paid for the institutes, lent them the machines and, through Nehru, lent them prestige. It did not plan an industry. The machines were scientific instruments, and the people who used them were scientists. A national committee on electronics was appointed only in 1963, under Bhabha, after the 1962 war with China. Chapter 3 tells that story.[96]
+Beyond that resolution, Rajaraman notes, 'there was no government policy on computers'.[96] The state paid for the institutes, lent them the machines and, through Nehru, lent them prestige. It did not plan an industry. The machines were scientific instruments, and the people who used them were scientists. A national committee on electronics was appointed only in 1963, under Bhabha, after the 1962 war with China. Chapter 3 tells that story.[97]
 
 ## Two explanations
 
 Why did these beginnings not lead to an Indian computer industry? Two explanations are on offer, and the evidence supports parts of both.
 
-The first is Narasimhan's own. Building a first-generation machine was within the reach of a talented research group, and TIFR did it. Building second-generation machines, and building them in numbers, required production know-how and investment that only large manufacturers had.[97] TIFR's decision to buy the CDC 3600 was, on this view, a wise one, and the real product of the TIFRAC years was trained people.
+The first is Narasimhan's own. Building a first-generation machine was within the reach of a talented research group, and TIFR did it. Building second-generation machines, and building them in numbers, required production know-how and investment that only large manufacturers had.[98] TIFR's decision to buy the CDC 3600 was, on this view, a wise one, and the real product of the TIFRAC years was trained people.
 
-The second comes from Dwaipayan Banerjee, an associate professor of science, technology and society at the Massachusetts Institute of Technology (MIT), whose book *Computing in the Age of Decolonization* was published by Princeton University Press in February 2026. It has not been read for this book. What follows rests on the publisher's description and on a summary published by MIT News, both consulted in October 2026.[98] According to those accounts, Banerjee argues that India's attempt from the 1950s to the 1980s to build a self-reliant computing industry was blocked by Cold War politics, trade imbalances, the monopolies of American corporations and the preference of India's technocratic elite for profitable technical services. Among the constraints he identifies are limits on the flow of American designs, a foreign-exchange crisis in 1958 that made larger memories unaffordable, and rescue loans led by the World Bank that were conditional on opening markets to Western capital. 'This is very much an external constraint story,' he is quoted as saying.[99]
+The second comes from Dwaipayan Banerjee, an associate professor of science, technology and society at the Massachusetts Institute of Technology (MIT), whose book *Computing in the Age of Decolonization* was published by Princeton University Press in February 2026. It has not been read for this book. What follows rests on the publisher's description and on a summary published by MIT News, both consulted in October 2026, and on three reviews published in 2026.[99] According to those accounts, Banerjee argues that India's attempt from the 1950s to the 1980s to build a self-reliant computing industry was blocked by Cold War politics, trade imbalances, the monopolies of American corporations and the preference of India's technocratic elite for profitable technical services. Among the constraints he identifies are limits on the flow of American designs, a foreign-exchange crisis in 1958 that made larger memories unaffordable, and rescue loans led by the World Bank that were conditional on opening markets to Western capital. 'This is very much an external constraint story,' he is quoted as saying.[100] One of the reviews adds a detail that bears directly on this chapter. Tracie Farrell, reviewing the book in the *International Journal of Asian Studies*, writes that it contrasts IBM with Control Data Corporation, the maker of TIFR's CDC 3600, which 'had invited Indian engineers to train using their best technology and even proposed to bring some manufacturing of memory to India, a long-standing hope of TIFR'. She quotes the book's judgement that CDC was 'treating Indian researchers as peers'.[101]
 
-The two accounts overlap more than they disagree. Both see the 1950s as the moment when India learned that it could build a computer but not a computer industry. They differ on the cause: the economics of manufacturing in one account, the politics of the Cold War and of aid in the other. The record in this chapter contains evidence for both. Mahalanobis could not buy a UNIVAC, partly because of a diplomatic dispatch. His second machine came on Soviet terms. TIFR's next machine was bought with American aid. Yet the ILLIAC team in Illinois shared design details with TIFR, and Narasimhan, who knew the Americans' work at first hand, chose to buy rather than build because he judged that second-generation machines needed production know-how that only large manufacturers had. Later chapters return to this debate, which runs through the book's first central question: why India came to sell services rather than make machines.
+The two accounts overlap more than they disagree. Both see the 1950s as the moment when India learned that it could build a computer but not a computer industry. They differ on the cause: the economics of manufacturing in one account, the politics of the Cold War and of aid in the other. The record in this chapter contains evidence for both. Mahalanobis could not buy a UNIVAC, partly because of a diplomatic dispatch. His second machine came on Soviet terms. TIFR's next machine was bought with American aid. Yet the ILLIAC team in Illinois shared design details with TIFR; CDC, on Farrell's account of Banerjee, treated TIFR's researchers as peers; and Narasimhan, who knew the Americans' work at first hand, chose to buy rather than build because he judged that second-generation machines needed production know-how that only large manufacturers had. Later chapters return to this debate, which runs through the book's first central question: why India came to sell services rather than make machines.
 
 ## Who learned, and who worked
 
-The education of India's first computer people was informal and tiny. The sources read for this chapter record no computer course anywhere in the country before the machines arrived. Mukherjee and Roy learned by watching the HEC-2M being built in London. Around a dozen people at ISI then learned to program it.[100] ISI's engineers learned Russian in order to read the URAL's manuals.[101] Nadler's lectures at ISI in the spring of 1959 were an early instance of teaching in the subject.[102] At TIFR, a team of physics graduates learned by building.[103] By Rajaraman's estimate only a few dozen scientists and engineers in India knew about computers in 1955.[104]
+The education of India's first computer people was informal and tiny. The sources read for this chapter record no computer course anywhere in the country before the machines arrived. Mukherjee and Roy learned by watching the HEC-2M being built in London. Around a dozen people at ISI then learned to program it.[102] ISI's engineers learned Russian in order to read the URAL's manuals.[103] Nadler's lectures at ISI in the spring of 1959 were an early instance of teaching in the subject.[104] At TIFR, a team of physics graduates learned by building.[105] By Rajaraman's estimate only a few dozen scientists and engineers in India knew about computers in 1955.[106]
 
-The profession was a scientific civil service. Computer work meant a salaried post at a state-funded institute, such as ISI, TIFR or the Atomic Energy Establishment, working on statistics, physics and planning. There were no private employers of programmers, no market for computer services and no exports. The sources read for this chapter record almost nothing about the pay, families or backgrounds of the people who did the work, and no woman appears in them as a computer worker. The only labour-market signal of the period was an outflow: three of TIFRAC's builders settling in the United States.[105]
+The profession was a scientific civil service. Computer work meant a salaried post at a state-funded institute, such as ISI, TIFR or the Atomic Energy Establishment, working on statistics, physics and planning. There were no private employers of programmers, no market for computer services and no exports. The sources read for this chapter record almost nothing about the pay, families or backgrounds of the people who did the work, and no woman appears in them as a computer worker. The only labour-market signal of the period was an outflow: three of TIFRAC's builders settling in the United States.[107]
 
 ## Coda: from building machines to teaching people
 
@@ -542,29 +542,33 @@ The next step was to train more, and to do it in classrooms rather than workshop
 
 [93] Menon, 'Chasing the Machine' (2018) for Rs 23 lakh; Menon, '"Fancy Calculating Machine"' (2018), n. 129 for $462,000, the opening (*Times of India*, 24 September 1965) and operating terms.
 
-[94] *Scientific Policy Resolution* (1958), Resolution No. 131/CF/57, 4 March 1958, para. 5 and list of aims (text at nstmis-dst.org/SPResolution.aspx, consulted 2026-10-13); also quoted in Rajaraman, *History of Computing in India* (2012), p. 15.
+[94] Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026) (the phrase is quoted there from the book, no page given). Reviewer's report only; post-cutoff material, checked against the live page in October 2026.
 
-[95] Rajaraman, *History of Computing in India* (2012), p. 18.
+[95] *Scientific Policy Resolution* (1958), Resolution No. 131/CF/57, 4 March 1958, para. 5 and list of aims (text at nstmis-dst.org/SPResolution.aspx, consulted 2026-10-13); also quoted in Rajaraman, *History of Computing in India* (2012), p. 15.
 
-[96] Rajaraman, *History of Computing in India* (2012), p. 3 (Bhabha Committee, 1963); p. 21 (after the 1962 border war with China); see Ch. 3.
+[96] Rajaraman, *History of Computing in India* (2012), p. 18.
 
-[97] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+[97] Rajaraman, *History of Computing in India* (2012), p. 3 (Bhabha Committee, 1963); p. 21 (after the 1962 border war with China); see Ch. 3.
 
-[98] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description); Dizikes, 'The Tech Revolution That Wasn't' (2026) (MIT News; also for Banerjee's MIT post, 'associate professor of science, technology, and society'). Both consulted 2026-10-12; post-cutoff material; live-checked 2026-10-13.
+[98] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
 
-[99] Dizikes, 'The Tech Revolution That Wasn't' (2026) (live-checked 2026-10-13); Banerjee, *Computing in the Age of Decolonization* (2026).
+[99] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description); Dizikes, 'The Tech Revolution That Wasn't' (2026) (MIT News; also for Banerjee's MIT post, 'associate professor of science, technology, and society'). Both consulted 2026-10-12; post-cutoff material; live-checked 2026-10-13. Reviews: Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026) (Farrell, *International Journal of Asian Studies*), Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026) (Saini, *Los Angeles Review of Books*, 5 August 2026), Menon, 'India's Pursuit of Tech Self-Reliance' (2026) (Nikhil Menon, *Issues in Science and Technology* 42, no. 4, Summer 2026, pp. 98-100); all post-cutoff, checked against the live pages 2026-10-15.
 
-[100] Rajaraman, *History of Computing in India* (2012), pp. 15-16.
+[100] Dizikes, 'The Tech Revolution That Wasn't' (2026) (live-checked 2026-10-13); Banerjee, *Computing in the Age of Decolonization* (2026).
 
-[101] Rajaraman, *History of Computing in India* (2012), p. 16.
+[101] Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), pp. 2-3 (the 'peers' phrase is cited there to p. 153 of the book). Reviewer's report only; post-cutoff material, checked in October 2026.
 
-[102] Menon, '"Fancy Calculating Machine"' (2018), n. 27.
+[102] Rajaraman, *History of Computing in India* (2012), pp. 15-16.
 
-[103] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
+[103] Rajaraman, *History of Computing in India* (2012), p. 16.
 
-[104] Rajaraman, *History of Computing in India* (2012), p. 7.
+[104] Menon, '"Fancy Calculating Machine"' (2018), n. 27.
 
-[105] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+[105] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
+
+[106] Rajaraman, *History of Computing in India* (2012), p. 7.
+
+[107] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
 
 
 # Chapter 2. Kanpur, 1963 (1946-1978)
@@ -573,151 +577,153 @@ In July 1963 a chartered DC-7 landed at a military airbase in Kanpur, a large ci
 
 The machine had been planned before there was a building to put it in. Its delivery date had been set by the earliest moment that a room could hold it.[4] With two colleagues from Princeton, Forman Acton and Irving Rabinowitz, Huskey had the 1620 working in time to show it to the institute's Board of Governors in late August.[5] V. Rajaraman, who joined the Kanpur faculty that year and whose history of Indian computing guided Chapter 1, dates the installation to August 1963 and calls it the first computer with a FORTRAN compiler in any Indian educational institution. A compiler is software that translates a program written in a high-level language such as FORTRAN into the machine's own instructions.[6] The two dates describe two moments: the crate arriving in July, the machine running in August.[7]
 
-Once it ran, the three Americans began an informal course for twenty-five first-year students, chosen for the purpose. After their ordinary classes, Bassett writes, the students 'would stay long into the night programming the computer'.[8]
+Huskey's own account, given to the Computer History Museum in 2006, fills the gap between them. He remembered the aircraft as a chartered DC-8, not the DC-7 of Bassett's account, and recalled that it reached Delhi without a manifest, so that a customs officer sent it on to the military airfield at Kanpur.[8] The computer room was still unfinished. 'This is monsoon season, by the way, in the middle of July,' he said, and the crated machine was set down in about an inch of water.[9] Because the 1620 had been paid for with American aid under a 'buy America clause', it was built for 60-cycle power, while India's supply ran at 50 cycles. It took telegrams to IBM and a converter found in Germany before, 'in about three weeks', the machine was running.[10] The two accounts cannot be reconciled on the aircraft, and both are given here.
 
-Chapter 1 ended with India's scientists deciding to buy their computers rather than build them. This chapter is about the institution that decided to teach people to use them. Kanpur was not the first place in India with a computer. It was the first place where a computer was put at the centre of an engineering education, where every student was required to program, and where computer science was first taught as a subject of its own. It was also, from its first graduating year, a door to the United States. Both facts shaped the profession this book describes. The education was built to serve India, and a large share of its best products went to America. The questions of who was let in, who taught them, and where they went afterwards begin here.
+Once it ran, the three Americans began an informal course for twenty-five first-year students, chosen for the purpose. After their ordinary classes, Bassett writes, the students 'would stay long into the night programming the computer'.[11]
+
+Chapter 1 ended with India's scientists deciding to buy their computers rather than build them. This chapter is about the institution that decided to teach people to use them. Kanpur was not the first place in India with a computer, although the American who set up its computer came to remember it that way. 'So I think our computer center was the first such in India,' Huskey said in 2006.[12] Chapter 1 shows that ISI and TIFR had working machines years earlier. It was the first place where a computer was put at the centre of an engineering education, where every student was required to program, and where computer science was first taught as a subject of its own. It was also, from its first graduating year, a door to the United States. Both facts shaped the profession this book describes. The education was built to serve India, and a large share of its best products went to America. The questions of who was let in, who taught them, and where they went afterwards begin here.
 
 ## The standard of MIT
 
-The engineering colleges the British founded in India had a limited purpose: to prepare Indians for subordinate posts under British rule.[9] The idea of something grander came from a British scientist. In 1944 A.V. Hill, a British Nobel laureate who was advising the government of British India, noted that India had no institution like the Massachusetts Institute of Technology (MIT). He recommended at least one or two technical institutes 'of the highest possible standing'.[10]
+The engineering colleges the British founded in India had a limited purpose: to prepare Indians for subordinate posts under British rule.[13] The idea of something grander came from a British scientist. In 1944 A.V. Hill, a British Nobel laureate who was advising the government of British India, noted that India had no institution like the Massachusetts Institute of Technology (MIT). He recommended at least one or two technical institutes 'of the highest possible standing'.[14]
 
-In 1945 a committee chaired by N.R. Sarker, which included two Indians with MIT doctorates, took the idea further. Its interim report of 1946 proposed four institutes, spread across the regions of India, that would train students to the standard of MIT.[11] Independent India adopted the plan. The first Indian Institute of Technology opened at Kharagpur, west of Calcutta (Kolkata since 2001), in 1951, with help from the United States, Britain, the Soviet Union and UNESCO.[12]
+In 1945 a committee chaired by N.R. Sarker, which included two Indians with MIT doctorates, took the idea further. Its interim report of 1946 proposed four institutes, spread across the regions of India, that would train students to the standard of MIT.[15] Independent India adopted the plan. The first Indian Institute of Technology opened at Kharagpur, west of Calcutta (Kolkata since 2001), in 1951, with help from the United States, Britain, the Soviet Union and UNESCO.[16]
 
-For the next four, the government did something unusual. It gave each institute a single foreign patron. The Soviet Union supported Bombay (Mumbai since 1995), which opened in 1958. West Germany supported Madras (Chennai since 1996), opened in 1959. The United States took Kanpur, opened in 1960. Britain supported Delhi, which began in 1963 as the Delhi College of Engineering.[13] There was an irony in the last arrangement that Bassett notes: in a 1949 speech at MIT, Winston Churchill had lamented that Britain itself had nothing of 'comparable stature'.[14]
+For the next four, the government did something unusual. It gave each institute a single foreign patron. The Soviet Union supported Bombay (Mumbai since 1995), which opened in 1958. West Germany supported Madras (Chennai since 1996), opened in 1959. The United States took Kanpur, opened in 1960. Britain supported Delhi, which began in 1963 as the Delhi College of Engineering.[17] There was an irony in the last arrangement that Bassett notes: in a 1949 speech at MIT, Winston Churchill had lamented that Britain itself had nothing of 'comparable stature'.[18]
 
-Peter Fay, a Caltech historian who taught at Kanpur from 1964 to 1966, gave the Indian government's reasoning as he understood it. The existing university engineering departments were entrenched and taught much as they had decades before. Extra money for one university would have to be matched for dozens of others. New institutes, built with foreign help, could start with a younger faculty and spend far more.[15]
+Peter Fay, a Caltech historian who taught at Kanpur from 1964 to 1966, gave the Indian government's reasoning as he understood it. The existing university engineering departments were entrenched and taught much as they had decades before. Extra money for one university would have to be matched for dozens of others. New institutes, built with foreign help, could start with a younger faculty and spend far more.[19]
 
-The single-patron arrangement made the IITs, for a while, a set of different experiments under one name. Madras, under West German influence, built a curriculum that Bassett calls in some ways the antithesis of Kanpur's, heavy with practical training in manual skills such as blacksmithing and woodworking.[16] Its first computer, acquired in 1963, was a surplus analogue machine built by Bell Labs that had belonged to an American university.[17] At Delhi, the British faculty ran departments themselves.[18] At Bombay the first director, Brigadier S.K. Bose, a former commandant of a military engineering college, was cautious about computers. In August 1961 he told an official at the Tata Institute of Fundamental Research that he had turned down a Soviet Ural-I computer because it cost too much, and that his institute preferred to spend its money on other instruments.[19]
+The single-patron arrangement made the IITs, for a while, a set of different experiments under one name. Madras, under West German influence, built a curriculum that Bassett calls in some ways the antithesis of Kanpur's, heavy with practical training in manual skills such as blacksmithing and woodworking.[20] Its first computer, acquired in 1963, was a surplus analogue machine built by Bell Labs that had belonged to an American university.[21] At Delhi, the British faculty ran departments themselves.[22] At Bombay the first director, Brigadier S.K. Bose, a former commandant of a military engineering college, was cautious about computers. In August 1961 he told an official at the Tata Institute of Fundamental Research that he had turned down a Soviet Ural-I computer because it cost too much, and that his institute preferred to spend its money on other instruments.[23]
 
-The common belief that the IITs were modelled on MIT is therefore half right. MIT was the standard the planners named. In practice, four of the five early institutes had non-American patrons and took different shapes. Kanpur, and later Bombay, came closest to the American model, and for reasons this chapter traces it was the American model that won.[20]
+The common belief that the IITs were modelled on MIT is therefore half right. MIT was the standard the planners named. In practice, four of the five early institutes had non-American patrons and took different shapes. Kanpur, and later Bombay, came closest to the American model, and for reasons this chapter traces it was the American model that won.[24]
 
 ## The turn to America
 
-The orientation towards America predated Kanpur. Before the Second World War, between one and two thousand Indian students a year studied in Britain. In the United States there were at most 208.[21] In 1944 the government of British India began paying for Indian students at American universities, and independent India continued the practice. By 1949-50 there were 1,680 Indian students in American universities and fewer than 700 in British ones.[22] Most of those the government sponsored studied engineering or agriculture.[23]
+The orientation towards America predated Kanpur. Before the Second World War, between one and two thousand Indian students a year studied in Britain. In the United States there were at most 208.[25] In 1944 the government of British India began paying for Indian students at American universities, and independent India continued the practice. By 1949-50 there were 1,680 Indian students in American universities and fewer than 700 in British ones.[26] Most of those the government sponsored studied engineering or agriculture.[27]
 
-Bassett's judgement on this generation is that 'Indians educated in the United States would provide the strongest and most enduring technological link between the two countries'.[24] His larger argument is that the alignment was not imposed. It was chosen and shaped by an Indian technical elite educated in America, which built ties with American firms, universities and, at times, the American government, and kept them through the worst years of relations between the two states.[25] Kanpur was that elite's most important project.
+Bassett's judgement on this generation is that 'Indians educated in the United States would provide the strongest and most enduring technological link between the two countries'.[28] His larger argument is that the alignment was not imposed. It was chosen and shaped by an Indian technical elite educated in America, which built ties with American firms, universities and, at times, the American government, and kept them through the worst years of relations between the two states.[29] Kanpur was that elite's most important project.
 
 ## A director reads a book
 
-By 1958 India and the United States had informally agreed that America would help build the IIT at Kanpur. Delays meant that the institute opened in 1960 without American help.[26] Its first director, P.K. Kelkar, was an electrical engineer with a 1936 doctorate from the University of Liverpool. He had taught at the Victoria Jubilee Technical Institute in Bombay and had been chief planning officer for IIT Bombay, working closely with its Soviet sponsors.[27]
+By 1958 India and the United States had informally agreed that America would help build the IIT at Kanpur. Delays meant that the institute opened in 1960 without American help.[30] Its first director, P.K. Kelkar, was an electrical engineer with a 1936 doctorate from the University of Liverpool. He had taught at the Victoria Jubilee Technical Institute in Bombay and had been chief planning officer for IIT Bombay, working closely with its Soviet sponsors.[31]
 
-Kelkar knew several foreign systems of engineering education. But in a memoir written after he retired, and never published, he described what Bassett calls an epiphany. Before any American programme existed, he read the proceedings of a 1957 conference of American engineering deans, which described how their schools were reorganising teaching around 'engineering science': a common scientific foundation beneath the separate branches of engineering.[28] The volume had two central themes, engineering science and the computer. One contributor called the computer 'the embodiment of a new attitude toward the utilization of ideas', which would become, like the library, the intellectual hub of a university.[29] Another, Gordon Brown, the dean of engineering at MIT, defined the modern engineer as someone who 'builds mechanisms to program, to control or to compute with lightning-like speed'.[30]
+Kelkar knew several foreign systems of engineering education. But in a memoir written after he retired, and never published, he described what Bassett calls an epiphany. Before any American programme existed, he read the proceedings of a 1957 conference of American engineering deans, which described how their schools were reorganising teaching around 'engineering science': a common scientific foundation beneath the separate branches of engineering.[32] The volume had two central themes, engineering science and the computer. One contributor called the computer 'the embodiment of a new attitude toward the utilization of ideas', which would become, like the library, the intellectual hub of a university.[33] Another, Gordon Brown, the dean of engineering at MIT, defined the modern engineer as someone who 'builds mechanisms to program, to control or to compute with lightning-like speed'.[34]
 
-Bassett points out that the engineering-science model had won in America partly because engineering schools wanted military research funding. Its rhetoric, Bassett argues, was broad enough to appeal to Kelkar, an idealist who had come to engineering through physics.[31] The computer was central to his plan from the start. A letter to him from D.S. Kothari, dated December 1960, was attached to a paper on the 'Purchase of Digital Computer' that went before the institute's Board of Governors in March 1961.[32] Even before any American programme was in place, Kelkar planned to buy an IBM machine with American funds and to have physicists at Delhi University train his faculty to use it.[33]
+Bassett points out that the engineering-science model had won in America partly because engineering schools wanted military research funding. Its rhetoric, Bassett argues, was broad enough to appeal to Kelkar, an idealist who had come to engineering through physics.[35] The computer was central to his plan from the start. A letter to him from D.S. Kothari, dated December 1960, was attached to a paper on the 'Purchase of Digital Computer' that went before the institute's Board of Governors in March 1961.[36] Even before any American programme was in place, Kelkar planned to buy an IBM machine with American funds and to have physicists at Delhi University train his faculty to use it.[37]
 
-Kelkar also brought with him a connection that would matter later. In the late 1950s, at the Victoria Jubilee Technical Institute, he and F.C. Kohli, an MIT-trained control engineer working for Tata Electric, had started a master's course in control engineering. Brown, the MIT dean quoted above, had been one of Kohli's professors.[34]
+Kelkar also brought with him a connection that would matter later. In the late 1950s, at the Victoria Jubilee Technical Institute, he and F.C. Kohli, an MIT-trained control engineer working for Tata Electric, had started a master's course in control engineering. Brown, the MIT dean quoted above, had been one of Kohli's professors.[38]
 
 ## Arrival at Kanpur Central
 
-The first hundred undergraduates arrived in July 1960.[35] The institute had no campus of its own. Abhay Bhushan, who holds roll number 60001 and so counts as Kanpur's first student, later wrote a three-part account of those years. He remembers arriving at Kanpur Central station with a few coins in his pocket and being collected by truck with other boys from all over the country.[36] They lived in a hostel borrowed from the Government Central Textile Institute in Gwaltoli, and attended classes and laboratories at the Harcourt Butler Technological Institute.[37] Fewer than seventy lived in the hostel, two to a room; the food, from a contractor, was by his account generally poor. The next year's intake, of almost a hundred, lived in rented houses in the city and in another institute's hostel.[38] The first classes on the new campus were held in its workshop building in 1963.[39]
+The first hundred undergraduates arrived in July 1960.[39] The institute had no campus of its own. Abhay Bhushan, who holds roll number 60001 and so counts as Kanpur's first student, later wrote a three-part account of those years. He remembers arriving at Kanpur Central station with a few coins in his pocket and being collected by truck with other boys from all over the country.[40] They lived in a hostel borrowed from the Government Central Textile Institute in Gwaltoli, and attended classes and laboratories at the Harcourt Butler Technological Institute.[41] Fewer than seventy lived in the hostel, two to a room; the food, from a contractor, was by his account generally poor. The next year's intake, of almost a hundred, lived in rented houses in the city and in another institute's hostel.[42] The first classes on the new campus were held in its workshop building in 1963.[43]
 
-Bhushan recalls that not one of the hundred who started was a woman. When students put on plays, boys took the women's parts.[40] The absence was so ordinary that it shaped the language of the people describing the place. Fay, writing in 1966 for a Caltech audience, described the last two undergraduate years as professional training in the branch of engineering 'which the boy or the boy's father has chosen'.[41] The sources read for this chapter do not say when the first woman was admitted to Kanpur, or to its computing courses. Nor do they record the caste, class or regional background of its first students. Those questions are taken up, with better evidence, in later chapters.
+Bhushan recalls that not one of the hundred who started was a woman. When students put on plays, boys took the women's parts.[44] The absence was so ordinary that it shaped the language of the people describing the place. Fay, writing in 1966 for a Caltech audience, described the last two undergraduate years as professional training in the branch of engineering 'which the boy or the boy's father has chosen'.[45] The sources read for this chapter do not say when the first woman was admitted to Kanpur, or to its computing courses. Nor do they record the caste, class or regional background of its first students. Those questions are taken up, with better evidence, in later chapters.
 
-What the sources do record is a series of filters. Entry was by a common examination taken across India.[42] Teaching was in English, and Fay reported that only a fraction of the students were thoroughly comfortable in it. The English paper in the entrance examination had a pass mark set deliberately low, so as not to exclude promising engineers, and the first-year English course had largely become a language course.[43] Bhushan remembered that English was the first humanities subject the students took.[44] His first-year teachers, he wrote, had been borrowed from the colleges of Uttar Pradesh and taught by memory and rote, even in mathematics; in the second year new teachers arrived, many with doctorates from the United States, Canada and Britain.[45]
+What the sources do record is a series of filters. Entry was by a common examination taken across India.[46] Teaching was in English, and Fay reported that only a fraction of the students were thoroughly comfortable in it. The English paper in the entrance examination had a pass mark set deliberately low, so as not to exclude promising engineers, and the first-year English course had largely become a language course.[47] Bhushan remembered that English was the first humanities subject the students took.[48] His first-year teachers, he wrote, had been borrowed from the colleges of Uttar Pradesh and taught by memory and rote, even in mathematics; in the second year new teachers arrived, many with doctorates from the United States, Canada and Britain.[49]
 
 ## Influence, not power
 
-American help arrived after the students. In January 1961 MIT sent three professors to India. Their report recommended support based almost entirely on a partnership with Kelkar, and proposed a consortium of American universities with MIT informally at its head.[46] Later that year the two governments and nine universities agreed to set up the Kanpur Indo-American Program, known as KIAP. Its members were MIT, Caltech, the Carnegie Institute of Technology, Case, Princeton, the University of California at Berkeley, Michigan, Ohio State and Purdue. Stanford was asked and declined.[47] Early in 1962 the US Agency for International Development (USAID) contracted with the nine through an agent, Educational Services Incorporated, and American faculty began to arrive.[48] The programme was meant to last ten years.[49] It ended in 1972.[50]
+American help arrived after the students. In January 1961 MIT sent three professors to India. Their report recommended support based almost entirely on a partnership with Kelkar, and proposed a consortium of American universities with MIT informally at its head.[50] Later that year the two governments and nine universities agreed to set up the Kanpur Indo-American Program, known as KIAP. Its members were MIT, Caltech, the Carnegie Institute of Technology, Case, Princeton, the University of California at Berkeley, Michigan, Ohio State and Purdue. Stanford was asked and declined.[51] Early in 1962 the US Agency for International Development (USAID) contracted with the nine through an agent, Educational Services Incorporated, and American faculty began to arrive.[52] The programme was meant to last ten years.[53] It ended in 1972.[54]
 
-Fay's report from Kanpur is the fullest contemporary description of what this meant on the ground. The Americans were contract employees of the aid agency. They lived in houses it rented for them, drew flour, sugar and Scotch from the commissary in New Delhi, and were paid in dollars through their home universities.[51] At their peak there were about thirty of them; by 1966 there were twenty, and falling.[52] They sat on the committees that appointed faculty, but without a vote. They were often not even consulted on promotions. Where an Indian could head a department, an American did not.[53] The Americans also held periodic morning meetings of their own, to which their Indian colleagues were not invited. Fay's examples of what came up there include equipment 'lying in the rain at Delhi airport waiting for customs', and how to get out of Kanpur in a hurry during 'the fighting last September, when the city was blacked out and Americans in the Punjab were all ordered to Delhi'. Fay was writing in June 1966, so the fighting was the war with Pakistan of September 1965. In his own case, he added, the problem was leaving without abandoning 'a four-foot Benares brass tray'. It is the only point in the sources read for this chapter at which India's wars reach the Kanpur story.[54]
+Fay's report from Kanpur is the fullest contemporary description of what this meant on the ground. The Americans were contract employees of the aid agency. They lived in houses it rented for them, drew flour, sugar and Scotch from the commissary in New Delhi, and were paid in dollars through their home universities.[55] At their peak there were about thirty of them; by 1966 there were twenty, and falling.[56] They sat on the committees that appointed faculty, but without a vote. They were often not even consulted on promotions. Where an Indian could head a department, an American did not.[57] The Americans also held periodic morning meetings of their own, to which their Indian colleagues were not invited. Fay's examples of what came up there include equipment 'lying in the rain at Delhi airport waiting for customs', and how to get out of Kanpur in a hurry during 'the fighting last September, when the city was blacked out and Americans in the Punjab were all ordered to Delhi'. Fay was writing in June 1966, so the fighting was the war with Pakistan of September 1965. In his own case, he added, the problem was leaving without abandoning 'a four-foot Benares brass tray'. It is the only point in the sources read for this chapter at which India's wars reach the Kanpur story.[58]
 
-A first-year student from Delhi told Fay that he had chosen Kanpur over the IIT near his home because 'you Americans run this one'. Fay replied that he sometimes wished they did. 'For the fact is we have influence; we do not have power.'[55] He was frank about the hurry the arrangement imposed: 'For we have always been in a hurry. The program is to run for only ten years, and individuals never stay for more than two.'[56]
+A first-year student from Delhi told Fay that he had chosen Kanpur over the IIT near his home because 'you Americans run this one'. Fay replied that he sometimes wished they did. 'For the fact is we have influence; we do not have power.'[59] He was frank about the hurry the arrangement imposed: 'For we have always been in a hurry. The program is to run for only ten years, and individuals never stay for more than two.'[60]
 
-Influence still bought a great deal. Bassett, drawing on a 1972 dissertation by Kim Patrick Sebaly, estimates that the American contribution to Kanpur, in equipment and visiting faculty, was twice what the Soviet Union gave Bombay or West Germany gave Madras, and three times what Britain gave Delhi.[57] By November 1965 more than $4 million of equipment and books had been ordered from the United States. Fay judged that Kanpur was 'already the best equipped engineering and science school in India', and that this had helped it attract faculty.[58] The 1620, he added, was one of several things that had begun 'as an idea in an American's head', and it had been 'a very great success'.[59]
+Influence still bought a great deal. Bassett, drawing on a 1972 dissertation by Kim Patrick Sebaly, estimates that the American contribution to Kanpur, in equipment and visiting faculty, was twice what the Soviet Union gave Bombay or West Germany gave Madras, and three times what Britain gave Delhi.[61] By November 1965 more than $4 million of equipment and books had been ordered from the United States. Fay judged that Kanpur was 'already the best equipped engineering and science school in India', and that this had helped it attract faculty.[62] The 1620, he added, was one of several things that had begun 'as an idea in an American's head', and it had been 'a very great success'.[63]
 
-The question of who ran Kanpur has no single answer in the sources. The student thought the Americans did. Fay thought they had influence and not power. Bassett's reading is that Indian elites chose the American alignment and shaped it to their own ends.[60] All three can be true at once: the money and the model were American, the appointments and the institution were Indian.
+The question of who ran Kanpur has no single answer in the sources. The student thought the Americans did. Fay thought they had influence and not power. Bassett's reading is that Indian elites chose the American alignment and shaped it to their own ends.[64] All three can be true at once: the money and the model were American, the appointments and the institution were Indian.
 
 ## Learning on the fly
 
-Kelkar chose most of his permanent faculty from among Indians with American doctorates, many of them recruited while they were working or teaching in the United States.[61] By 1966 Kanpur had about seventy-five faculty at assistant professor level or above. All but four were under forty. All held doctorates or equivalent degrees: over half from the United States and Canada, a dozen from Britain or elsewhere in Europe.[62] Fay compared Kanpur's mechanical engineering department, where four of twelve teachers lacked a doctorate, with Delhi's, where reportedly one of fifteen had one.[63]
+Kelkar chose most of his permanent faculty from among Indians with American doctorates, many of them recruited while they were working or teaching in the United States.[65] By 1966 Kanpur had about seventy-five faculty at assistant professor level or above. All but four were under forty. All held doctorates or equivalent degrees: over half from the United States and Canada, a dozen from Britain or elsewhere in Europe.[66] Fay compared Kanpur's mechanical engineering department, where four of twelve teachers lacked a doctorate, with Delhi's, where reportedly one of fifteen had one.[67]
 
-The people who would run the computer centre came by the same route. H.K. Kesavan, who had a master's degree from Illinois and a doctorate from Michigan State and had been a professor at Waterloo in Canada, arrived in January 1964 to head electrical engineering, and in May became the first head of the computer centre. Rajaraman had arrived in 1963, with a master's from MIT and a doctorate from Wisconsin in analogue computation. Two of Kesavan's former colleagues at Waterloo, H.N. Mahabala and T.R. Viswanathan, both with doctorates from Saskatchewan, followed.[64]
+The people who would run the computer centre came by the same route. H.K. Kesavan, who had a master's degree from Illinois and a doctorate from Michigan State and had been a professor at Waterloo in Canada, arrived in January 1964 to head electrical engineering, and in May became the first head of the computer centre. Rajaraman had arrived in 1963, with a master's from MIT and a doctorate from Wisconsin in analogue computation. Two of Kesavan's former colleagues at Waterloo, H.N. Mahabala and T.R. Viswanathan, both with doctorates from Saskatchewan, followed.[68]
 
-None of them had been trained as computer scientists, because almost nobody had. Rajaraman and Mahabala, Bassett writes, obtained their computing education 'on the fly, without formal training', and later spent time at Berkeley and MIT under the KIAP programme.[65] The first teachers of computing in India were electrical engineers who taught themselves, and then taught others.
+None of them had been trained as computer scientists, because almost nobody had. Rajaraman and Mahabala, Bassett writes, obtained their computing education 'on the fly, without formal training', and later spent time at Berkeley and MIT under the KIAP programme.[69] The first teachers of computing in India were electrical engineers who taught themselves, and then taught others.
 
 ## Switching it on
 
-Among the students who took to the machine was Ravi Sethi, a first-year in the autumn of 1963. In a recollection published in 2021 in *The Spark*, a student magazine of the 1960s revived by IIT Kanpur alumni, he describes taking an evening course from Acton after the midterm examinations, and being one of six students selected to operate the 1620. He remembers being authorised to switch it on as an event in itself.[66] Programs were punched on cards, one line of code to a card. An operator ran the jobs. From the blinking lights on the console, the students learned to tell when a program had fallen into a loop. Rabinowitz once challenged Sethi to write a program that would copy a deck of cards and fit on a single card, which meant six instructions or fewer. The machine needed its generators running, and then its air conditioning, before it could be turned on. Sethi spent the following summer working for Huskey on a compiler.[67]
+Among the students who took to the machine was Ravi Sethi, a first-year in the autumn of 1963. In a recollection published in 2021 in *The Spark*, a student magazine of the 1960s revived by IIT Kanpur alumni, he describes taking an evening course from Acton after the midterm examinations, and being one of six students selected to operate the 1620. He remembers being authorised to switch it on as an event in itself.[70] Programs were punched on cards, one line of code to a card. An operator ran the jobs. From the blinking lights on the console, the students learned to tell when a program had fallen into a loop. Rabinowitz once challenged Sethi to write a program that would copy a deck of cards and fit on a single card, which meant six instructions or fewer. The machine needed its generators running, and then its air conditioning, before it could be turned on. Sethi spent the following summer working for Huskey on a compiler.[71]
 
-The machine was soon in use day and night. By February 1964 it was running twenty-four hours a day, and by April the centre was open to students around the clock.[68] Rajaraman recalled that all students had free access to it.[69] Undergraduates worked at the centre as programmers. Among them were Sethi, who later became a senior manager at Bell Labs; Jayadev Misra, later head of electrical engineering at the University of Texas at Austin; and Raj Kanodia, who would help connect MIT to the ARPANET.[70] Bassett notes that, as in America, some students' lives were changed by their first encounter with the machine, and that they took any chance to work on it.[71]
+The machine was soon in use day and night. By February 1964 it was running twenty-four hours a day, and by April the centre was open to students around the clock.[72] Rajaraman recalled that all students had free access to it.[73] Undergraduates worked at the centre as programmers. Among them were Sethi, who later became a senior manager at Bell Labs; Jayadev Misra, later head of electrical engineering at the University of Texas at Austin; and Raj Kanodia, who would help connect MIT to the ARPANET.[74] Bassett notes that, as in America, some students' lives were changed by their first encounter with the machine, and that they took any chance to work on it.[75]
 
-From the spring of 1964 every student at Kanpur was trained in computing.[72] Rajaraman describes it as a compulsory course in programming and numerical methods for all engineering students, introduced in 1964, and claims it as a first.[73] Kelkar, speaking at Berkeley in 1968, described the effect on the institute: 'we soon became aware of the compelling power of the computer. It exercised a unique fascination over the minds of not only post-doctorals, but also freshmen'.[74]
+From the spring of 1964 every student at Kanpur was trained in computing.[76] Rajaraman describes it as a compulsory course in programming and numerical methods for all engineering students, introduced in 1964, and claims it as a first.[77] Kelkar, speaking at Berkeley in 1968, described the effect on the institute: 'we soon became aware of the compelling power of the computer. It exercised a unique fascination over the minds of not only post-doctorals, but also freshmen'.[78]
 
-The faculty moved quickly to make the subject a discipline. By 1965, plans were in place for a master's degree in electrical engineering with a concentration in computer science.[75] Rajaraman's chronology dates the start of the M.Tech programme in computers to 1966; IIT Kanpur's own account of his career dates it to 1965 and calls it the first time computer science was offered as an academic discipline in India.[76] The institute's catalogue for 1969 listed a full range of undergraduate and graduate courses, including software engineering, information theory, hardware design and image processing.[77] Rajaraman published an introductory programming textbook, *Principles of Computer Programming*, in 1969, and later texts on FORTRAN and COBOL.[78] Bassett observes that he and Mahabala published research but never narrowed into a speciality; their main work was teaching, at Kanpur and beyond it.[79]
+The faculty moved quickly to make the subject a discipline. By 1965, plans were in place for a master's degree in electrical engineering with a concentration in computer science.[79] Rajaraman's chronology dates the start of the M.Tech programme in computers to 1966; IIT Kanpur's own account of his career dates it to 1965 and calls it the first time computer science was offered as an academic discipline in India.[80] The institute's catalogue for 1969 listed a full range of undergraduate and graduate courses, including software engineering, information theory, hardware design and image processing.[81] Rajaraman published an introductory programming textbook, *Principles of Computer Programming*, in 1969, and later texts on FORTRAN and COBOL.[82] Bassett observes that he and Mahabala published research but never narrowed into a speciality; their main work was teaching, at Kanpur and beyond it.[83]
 
 ## Missionaries
 
-The three Americans who set up the 1620 saw their job as spreading the gospel of computing across India. They lectured at the Tata Institute of Fundamental Research, IIT Madras, the Indian Statistical Institute, the University of Roorkee, the University of Bombay and the Physical Research Laboratory in Ahmedabad, and gave a special session for fifteen members of the Planning Commission.[80]
+The three Americans who set up the 1620 saw their job as spreading the gospel of computing across India. They lectured at the Tata Institute of Fundamental Research, IIT Madras, the Indian Statistical Institute, the University of Roorkee, the University of Bombay and the Physical Research Laboratory in Ahmedabad, and gave a special session for fifteen members of the Planning Commission.[84]
 
-Their lasting contribution was a ten-day course for people from institutions that might one day use computers. Rajaraman says that Huskey, instead of restricting it to Kanpur's own faculty, opened it to scientists, engineers and teachers from across India.[81] The course taught programming, numerical methods and computer logic, with hands-on laboratory sessions. The programming language was FORGO, a variant of FORTRAN.[82] Each course had about fifty or sixty participants, and it ran three or four times a year.[83] By August 1965, 600 people from fifty institutions had taken it: from other IITs, engineering colleges, scientific institutions, national laboratories, government agencies and private firms.[84] Indian faculty kept the course going after the Americans left, and Rajaraman says it ran until 1975 and trained over 1,500 people.[85]
+Their lasting contribution was a ten-day course for people from institutions that might one day use computers. Rajaraman says that Huskey, instead of restricting it to Kanpur's own faculty, opened it to scientists, engineers and teachers from across India.[85] The course taught programming, numerical methods and computer logic, with hands-on laboratory sessions. The programming language was FORGO, a variant of FORTRAN.[86] Each course had about fifty or sixty participants, and it ran three or four times a year.[87] By August 1965, 600 people from fifty institutions had taken it: from other IITs, engineering colleges, scientific institutions, national laboratories, government agencies and private firms.[88] Indian faculty kept the course going after the Americans left, and Rajaraman says it ran until 1975 and trained over 1,500 people.[89]
 
-Drawing on Mahabala's recollections, Bassett writes that the Kanpur faculty taught the course 'with an almost religious sense of mission', in many cases driving to the railway station ten miles away themselves to collect participants, while their wives cooked the meals.[86] Mahabala later met many computer professionals who told him that these courses had been their introduction to computing.[87] Kelkar's claim at Berkeley in 1968 was broader: 'there is hardly a computer installation where there is nobody who had been to Kanpur at least once.'[88]
+Drawing on Mahabala's recollections, Bassett writes that the Kanpur faculty taught the course 'with an almost religious sense of mission', in many cases driving to the railway station ten miles away themselves to collect participants, while their wives cooked the meals.[90] Mahabala later met many computer professionals who told him that these courses had been their introduction to computing.[91] Kelkar's claim at Berkeley in 1968 was broader: 'there is hardly a computer installation where there is nobody who had been to Kanpur at least once.'[92]
 
-The claim cannot be tested, but it was not far-fetched. A government committee later counted thirty computers in the whole of India in 1965.[89] A course that had trained 600 people by August of that year had reached a large part of the small world of Indian computing.[90]
+The claim cannot be tested, but it was not far-fetched. A government committee later counted thirty computers in the whole of India in 1965.[93] A course that had trained 600 people by August of that year had reached a large part of the small world of Indian computing.[94]
 
 ## A dead crow on the world market
 
-The 1620 was a good first machine. It was small, simple and needed little staff. Within a year of its arrival Kanpur had used up its capacity, and some of the faculty's problems were beyond it.[91] The 1620 had cost roughly $320,000 before IBM's 60 per cent educational discount.[92] The institute's second computer was a much bigger purchase: an IBM 7044, which arrived in 1966 and made Kanpur home to one of the most powerful computers in India.[93]
+The 1620 was a good first machine. It was small, simple and needed little staff. Within a year of its arrival Kanpur had used up its capacity, and some of the faculty's problems were beyond it.[95] The 1620 had cost roughly $320,000 before IBM's 60 per cent educational discount.[96] The institute's second computer was a much bigger purchase: an IBM 7044, which arrived in 1966 and made Kanpur home to one of the most powerful computers in India.[97]
 
-How it was paid for matters to the rest of this book. The 7044's list price was $3 million. IBM gave Kanpur its standard educational discount, and also 'allowed it to pay in rupees', which Bassett calls 'a major concession to a country for which foreign exchange was precious'.[94] Rajaraman records that the money came from the Government of India.[95] Foreign exchange was the binding constraint on Indian computing for the next quarter-century, as later chapters show. A machine bought in rupees escaped it.
+How it was paid for matters to the rest of this book. The 7044's list price was $3 million. IBM gave Kanpur its standard educational discount, and also 'allowed it to pay in rupees', which Bassett calls 'a major concession to a country for which foreign exchange was precious'.[98] Rajaraman records that the money came from the Government of India.[99] Foreign exchange was the binding constraint on Indian computing for the next quarter-century, as later chapters show. A machine bought in rupees escaped it.
 
-The concession had a cost. The 7044 had been introduced in 1961 as a stopgap while IBM developed its System/360, and it was on its way to obsolescence when it reached Kanpur. By 1969, three years after Kanpur bought it, IBM was phasing it out. Neither IBM India nor its American parent helped the institute obtain new software.[96] Kanpur students had been learning FORTRAN II, which the student newspaper, *Spark*, called 'almost a dead crow on the world market'.[97]
+The concession had a cost. The 7044 had been introduced in 1961 as a stopgap while IBM developed its System/360, and it was on its way to obsolescence when it reached Kanpur. By 1969, three years after Kanpur bought it, IBM was phasing it out. Neither IBM India nor its American parent helped the institute obtain new software.[100] Kanpur students had been learning FORTRAN II, which the student newspaper, *Spark*, called 'almost a dead crow on the world market'.[101]
 
-The response was the first of many Indian adaptations to old hardware. In 1970 Kanpur undergraduates wrote what Bassett calls 'the first compiler written in India', which brought features of newer versions of FORTRAN to a machine that had never been designed for them.[98] Making up-to-date software run on out-of-date hardware, Bassett remarks, proved a spur to innovation.[99]
+The response was the first of many Indian adaptations to old hardware. In 1970 Kanpur undergraduates wrote what Bassett calls 'the first compiler written in India', which brought features of newer versions of FORTRAN to a machine that had never been designed for them.[102] Making up-to-date software run on out-of-date hardware, Bassett remarks, proved a spur to innovation.[103]
 
-The obsolete machine stayed. KIAP ended in 1972, during what Bassett describes as the worst years of relations between India and the United States, and there was no second phase.[100] With no American money for a replacement, Kanpur kept its 7044 until 1979, when it was replaced by a Digital Equipment Corporation DEC-10.[101]
+The obsolete machine stayed. KIAP ended in 1972, during what Bassett describes as the worst years of relations between India and the United States, and there was no second phase.[104] With no American money for a replacement, Kanpur kept its 7044 until 1979, when it was replaced by a Digital Equipment Corporation DEC-10.[105]
 
-Other IITs fared worse, and the comparison shows what American help had bought. At Bombay a Soviet Minsk II computer was delivered through UNESCO in 1965. It then stood in storage for two years while the Soviet Union and UNESCO negotiated who would pay for the Soviet technicians to install it. The technicians arrived in July 1967, repaired the damage done in storage, and the machine began working in January 1968.[102] It ran a Soviet programming language rather than FORTRAN and was the only one of its kind in India.[103] Madras overtook Kanpur by a different route. In 1971 West Germany agreed to give IIT Madras a computer, and Mahabala, who had moved there from Kanpur, persuaded the Germans to buy an IBM machine instead of a German one with German experts. The IBM 370/155 inaugurated at Madras in November 1973 was the most powerful computer in India.[104]
+Other IITs fared worse, and the comparison shows what American help had bought. At Bombay a Soviet Minsk II computer was delivered through UNESCO in 1965. It then stood in storage for two years while the Soviet Union and UNESCO negotiated who would pay for the Soviet technicians to install it. The technicians arrived in July 1967, repaired the damage done in storage, and the machine began working in January 1968.[106] It ran a Soviet programming language rather than FORTRAN and was the only one of its kind in India.[107] Madras overtook Kanpur by a different route. In 1971 West Germany agreed to give IIT Madras a computer, and Mahabala, who had moved there from Kanpur, persuaded the Germans to buy an IBM machine instead of a German one with German experts. The IBM 370/155 inaugurated at Madras in November 1973 was the most powerful computer in India.[108]
 
 ## Job eaters
 
-Kanpur's enthusiasm was not the national mood. Bassett notes that India's development priorities favoured atomic power, steel and dams, which its leaders saw as raising living standards broadly. The computer, imported and labour-saving, was 'a problematic technology in a country that had a surplus of labor, prized self-sufficiency, and put little stock in international trade'.[105] In the early 1960s IBM installed computers in a few laboratories and large firms, mostly for record-keeping, and Indian unions opposed them as 'job eaters'.[106] The government did not begin to study the question seriously until the late 1960s, a story Chapter 3 tells.[107]
+Kanpur's enthusiasm was not the national mood. Bassett notes that India's development priorities favoured atomic power, steel and dams, which its leaders saw as raising living standards broadly. The computer, imported and labour-saving, was 'a problematic technology in a country that had a surplus of labor, prized self-sufficiency, and put little stock in international trade'.[109] In the early 1960s IBM installed computers in a few laboratories and large firms, mostly for record-keeping, and Indian unions opposed them as 'job eaters'.[110] The government did not begin to study the question seriously until the late 1960s, a story Chapter 3 tells.[111]
 
-What connected Kanpur to the wider country was IBM. A 1974 survey counted 217 computers installed in India: 65 per cent made by IBM, 13 per cent by the British firm ICL and 11 per cent by the Indian public-sector firm Electronics Corporation of India Limited (ECIL).[108] Bassett is careful about the link: 'Simultaneity is not causality, but an American-oriented program of engineering education in India and an American computing firm did reinforce each other.'[109] Kanpur taught people to program IBM machines, and IBM sold the machines they programmed.
+What connected Kanpur to the wider country was IBM. A 1974 survey counted 217 computers installed in India: 65 per cent made by IBM, 13 per cent by the British firm ICL and 11 per cent by the Indian public-sector firm Electronics Corporation of India Limited (ECIL).[112] Bassett is careful about the link: 'Simultaneity is not causality, but an American-oriented program of engineering education in India and an American computing firm did reinforce each other.'[113] Kanpur taught people to program IBM machines, and IBM sold the machines they programmed.
 
 ## The road out
 
-Kelkar and the Americans who designed KIAP had meant to build an Indian institute that would train engineers to solve Indian problems. In Bassett's account the students partly defeated that aim by making Kanpur what its name already implied: 'the Indian MIT', and a step towards the American one.[110]
+Kelkar and the Americans who designed KIAP had meant to build an Indian institute that would train engineers to solve Indian problems. In Bassett's account the students partly defeated that aim by making Kanpur what its name already implied: 'the Indian MIT', and a step towards the American one.[114]
 
-The numbers moved quickly. Foreign students in American colleges rose from 26,759 in 1948 to 100,262 in 1966. In 1965-66 almost 7,000 Indians were studying in the United States. At MIT in 1966 only Canada sent more students than India's eighty-two.[111] For its best undergraduates, Bassett writes, Kanpur was often only a step towards the best American graduate programmes, while its own graduate courses drew mainly students from further down India's educational hierarchy.[112]
+The numbers moved quickly. Foreign students in American colleges rose from 26,759 in 1948 to 100,262 in 1966. In 1965-66 almost 7,000 Indians were studying in the United States. At MIT in 1966 only Canada sent more students than India's eighty-two.[115] For its best undergraduates, Bassett writes, Kanpur was often only a step towards the best American graduate programmes, while its own graduate courses drew mainly students from further down India's educational hierarchy.[116]
 
-Law made the step permanent. Before 1965 a system of national quotas severely restricted permanent Indian immigration to the United States. Indian engineers could study in America but were generally not allowed to stay and work. In 1965, as Bassett notes, the year of Kanpur's first graduating class, President Lyndon Johnson signed a law that abolished the national quotas and made it much easier for Indians to settle.[113] Sixty-six of Kanpur's first hundred students graduated that May.[114] Bhushan went to MIT on a research assistantship.[115] An email list of the first batch, which Bassett obtained, showed that roughly a third were living in the United States in 2005.[116]
+Law made the step permanent. Before 1965 a system of national quotas severely restricted permanent Indian immigration to the United States. Indian engineers could study in America but were generally not allowed to stay and work. In 1965, as Bassett notes, the year of Kanpur's first graduating class, President Lyndon Johnson signed a law that abolished the national quotas and made it much easier for Indians to settle.[117] Sixty-six of Kanpur's first hundred students graduated that May.[118] Bhushan went to MIT on a research assistantship.[119] An email list of the first batch, which Bassett obtained, showed that roughly a third were living in the United States in 2005.[120]
 
-The most thorough study of IIT emigration was made at Bombay by S.P. Sukhatme. It found that slightly over 40 per cent of the institute's electrical engineering graduates of 1973 to 1977 had ended up abroad, the great majority in the United States.[117] No comparable figure exists for Kanpur; Bassett expects it was similar.[118] Whatever an IIT's foreign patron, those who left went overwhelmingly to America.[119]
+The most thorough study of IIT emigration was made at Bombay by S.P. Sukhatme. It found that slightly over 40 per cent of the institute's electrical engineering graduates of 1973 to 1977 had ended up abroad, the great majority in the United States.[121] No comparable figure exists for Kanpur; Bassett expects it was similar.[122] Whatever an IIT's foreign patron, those who left went overwhelmingly to America.[123]
 
-Kanpur's graduates reached the centre of American computing within a few years. On 14 June 1971 the ARPANET's Network Working Group issued Request for Comments 176, a protocol document. Its four authors were listed as A. Bhushan and R. Kanodia of MIT, Robert Metcalfe of MIT, later the inventor of Ethernet, and Jon Postel of UCLA.[120] Bhushan chaired the working group that defined the File Transfer Protocol, a standard still used to move files between computers.[121] Two of the four names on that document had learned to program on a 1620 in Kanpur.
+Kanpur's graduates reached the centre of American computing within a few years. On 14 June 1971 the ARPANET's Network Working Group issued Request for Comments 176, a protocol document. Its four authors were listed as A. Bhushan and R. Kanodia of MIT, Robert Metcalfe of MIT, later the inventor of Ethernet, and Jon Postel of UCLA.[124] Bhushan chaired the working group that defined the File Transfer Protocol, a standard still used to move files between computers.[125] Two of the four names on that document had learned to program on a 1620 in Kanpur.
 
-Bassett later measured the long-run result. In 2008 he examined the faculty of the ten American computer science departments ranked highest in 1993. Thirty-eight had taken their first degree in India: eleven from IIT Madras, ten from IIT Kanpur, five from IIT Delhi and four from IIT Bombay, with the rest from other Indian colleges. It was, he wrote, 'enough to fill a good-sized department'.[122]
+Bassett later measured the long-run result. In 2008 he examined the faculty of the ten American computer science departments ranked highest in 1993. Thirty-eight had taken their first degree in India: eleven from IIT Madras, ten from IIT Kanpur, five from IIT Delhi and four from IIT Bombay, with the rest from other Indian colleges. It was, he wrote, 'enough to fill a good-sized department'.[126]
 
-## Rank 44
+## Rank 40, or 44
 
-Until 1978 there was no undergraduate degree in computer science at Kanpur. Computing lived inside electrical engineering. That year the institute created a bachelor's degree in computer science, the first at any IIT.[123] Rajaraman, who led the effort, recalled that the institute's senate had 'grudgingly allowed 20 students' into the programme, because it did not think computer science was mainstream engineering.[124]
+Until 1978 there was no undergraduate degree in computer science at Kanpur. Computing lived inside electrical engineering. That year the institute created a bachelor's degree in computer science, the first at any IIT.[127] Rajaraman, who led the effort, recalled that the institute's senate had 'grudgingly allowed 20 students' into the programme, because it did not think computer science was mainstream engineering.[128]
 
-Admission to every IIT seat was by rank in the Joint Entrance Examination. In 1978 over 100,000 students sat it for about 1,500 places.[125] The highest-ranked candidate chose any seat at any IIT, the next chose from what remained, and so on down.[126] The students' choice was decisive. Bassett, citing an interview with Rajaraman, writes that the last of the twenty computer science places at Kanpur was filled by the candidate ranked 44th, so that close to half of the top forty students in India had chosen it.[127] Rajaraman's own history gives the rank of the last student admitted as 40.[128] Either way, a subject the senate had not considered mainstream became, in its first year, one of the most sought-after courses in the country. The other IITs, Rajaraman writes, were surprised, and all of them started degrees in computer science.[129] Ten years later, in 1988, Kanpur's fourteen computer science seats were filled by rank 38.[130]
+Admission to every IIT seat was by rank in the Joint Entrance Examination. In 1978 over 100,000 students sat it for about 1,500 places.[129] The highest-ranked candidate chose any seat at any IIT, the next chose from what remained, and so on down.[130] Arjun Malhotra, later a co-founder of the computer firm HCL, described the arithmetic of that choice to the Computer History Museum in 2018. Sitting the examination in the mid-1960s, he wanted one of the 30 places in IIT Kharagpur's electronics department and told himself that with 'a rank of 30 or less, then no one can take my first choice away from me'. He came 32nd, and got in because candidates ranked above him chose mechanical engineering and other courses.[131] The students' choice was decisive. Bassett, citing an interview with Rajaraman, writes that the last of the twenty computer science places at Kanpur was filled by the candidate ranked 44th, so that close to half of the top forty students in India had chosen it.[132] Rajaraman's own history gives the rank of the last student admitted as 40.[133] So does his account in a 2018 interview with *Vox Populi*, an IIT Kanpur student magazine, in which he recalled that 'Students and their parents were very apprehensive about this new programme', and that 'The greatest surprise came when the JEE results were declared and the B.Tech programme closed at an AIR of 40' (AIR being the all-India rank).[134] Two of Rajaraman's own accounts therefore give 40, and Bassett's report of an interview with him gives 44. All three rest on memory; the institute's annual report for 1978-79, which would settle the figure, has not been found.[135] Either way, a subject the senate had not considered mainstream became, in its first year, one of the most sought-after courses in the country. The other IITs, Rajaraman writes, were surprised, and all of them started degrees in computer science.[136] Ten years later, in 1988, Kanpur's fourteen computer science seats were filled by rank 38.[137]
 
-Where those students went is documented for the first class. Nineteen graduated in 1983. In 2007 Bassett traced seventeen through an alumni website. One had died. Of the other sixteen, fourteen lived in the United States, one in the Czech Republic and one in India.[131] Nine had doctorates and five held faculty posts in American computer science departments. Six lived in the San Francisco Bay Area, and at least three had founded companies. One, Rajeev Motwani of Stanford, was an early academic mentor to Larry Page and Sergey Brin in the work that led to Google.[132]
+Where those students went is documented for the first class. Nineteen graduated in 1983. In 2007 Bassett traced seventeen through an alumni website. One had died. Of the other sixteen, fourteen lived in the United States, one in the Czech Republic and one in India.[138] Nine had doctorates and five held faculty posts in American computer science departments. Six lived in the San Francisco Bay Area, and at least three had founded companies. One, Rajeev Motwani of Stanford, was an early academic mentor to Larry Page and Sergey Brin in the work that led to Google.[139]
 
-Some Kanpur teachers, frustrated by the outflow, tried to stop it by refusing to write recommendation letters for students applying to American graduate schools. Bassett calls the attempt futile.[133]
+Some Kanpur teachers, frustrated by the outflow, tried to stop it by refusing to write recommendation letters for students applying to American graduate schools. Bassett calls the attempt futile.[140]
 
 ## The road to industry
 
-Kanpur never had a computer industry of its own. Bassett contrasts it with MIT and Stanford, each of which seeded one nearby.[134] Its influence on Indian software ran through people.
+Kanpur never had a computer industry of its own. Bassett contrasts it with MIT and Stanford, each of which seeded one nearby.[141] Its influence on Indian software ran through people.
 
-The first of them was Kohli, Kelkar's old colleague from Bombay. Kelkar persuaded him to sit on Kanpur's electrical engineering selection committee and to visit the institute regularly. Kohli got his practical introduction to computing on Kanpur's 1620, and took computing back to Tata Electric in Bombay.[135] When the Tata group set up a computing business, Kohli moved to head it; Chapter 4 examines the founding dates.[136] In the early years of what became Tata Consultancy Services, Mahabala spent his summers there as a consultant, and Kohli often hired Kanpur's master's graduates in computing.[137]
+The first of them was Kohli, Kelkar's old colleague from Bombay. Kelkar persuaded him to sit on Kanpur's electrical engineering selection committee and to visit the institute regularly. Kohli got his practical introduction to computing on Kanpur's 1620, and took computing back to Tata Electric in Bombay.[142] When the Tata group set up a computing business, Kohli moved to head it; Chapter 4 examines the founding dates.[143] In the early years of what became Tata Consultancy Services, Mahabala spent his summers there as a consultant, and Kohli often hired Kanpur's master's graduates in computing.[144]
 
-The second was N.R. Narayana Murthy. He had studied electrical engineering at the University of Mysore, meaning to become a hydroelectric engineer, and then took a master's degree at Kanpur, where he got 'hooked' on computing.[138] Kanpur also gave him a network. Jashwant Krishnayya, an MIT-trained professor at the Indian Institute of Management in Ahmedabad who was installing a Hewlett-Packard computer bought with Ford Foundation money, made a trip to Kanpur to recruit engineers with computing skills, and Murthy went to work for him. After a brief spell in France he returned to work for Krishnayya again, at a research institute modelled on the RAND Corporation, and then joined the MIT-educated Narendra Patni, whose firm was one of the first in India to get computing work from American companies, and which Murthy left in 1981 to found Infosys with colleagues (Chapter 6).[139] Bassett's summary is that Kanpur gave Murthy the ability, and men like Patni and Kohli, already connected to American business, gave that ability its commercial force.[140]
+The second was N.R. Narayana Murthy. He had studied electrical engineering at the University of Mysore, meaning to become a hydroelectric engineer, and then took a master's degree at Kanpur, where he got 'hooked' on computing.[145] In his own account the turn came after a breakfast-table talk by a visiting professor from Princeton, which sent him from control theory to computer science; within months he was running simulations through the night on the 7044. 'It was a macho thing to make the six tape units rotate fast.'[146] Kanpur also gave him a network. Jashwant Krishnayya, an MIT-trained professor at the Indian Institute of Management in Ahmedabad who was installing a Hewlett-Packard computer bought with Ford Foundation money, made a trip to Kanpur to recruit engineers with computing skills, and Murthy went to work for him. He described the choice to the Computer History Museum in 2018. Each of the twelve students in his graduate computer-science class, he recalled, had four or five job offers from companies that had installed IBM 1401s, and Krishnayya's paid half as much. Rajaraman advised him to take it anyway, for the chance to learn how a time-sharing system worked, and he did.[147] After a brief spell in France he returned to work for Krishnayya again, at a research institute modelled on the RAND Corporation, and then joined the MIT-educated Narendra Patni, whose firm was one of the first in India to get computing work from American companies, and which Murthy left in 1981 to found Infosys with colleagues (Chapter 6).[148] Bassett's summary is that Kanpur gave Murthy the ability, and men like Patni and Kohli, already connected to American business, gave that ability its commercial force.[149]
 
-The third large firm of the period has no Kanpur connection at all. Wipro was built by Azim Premji, a Stanford-educated electrical engineer who turned his family's cooking-oil business towards computers.[141] Kanpur was one route into the industry, not the only one.
+The third large firm of the period has no Kanpur connection at all. Wipro was built by Azim Premji, a Stanford-educated electrical engineer who turned his family's cooking-oil business towards computers.[150] Kanpur was one route into the industry, not the only one.
 
 ## Who was taught, and for what
 
-The education Kanpur built can be described precisely. It took about a hundred young men a year at first, chosen by a national examination and taught in English. Its teachers were Indians with North American doctorates and a few dozen visiting Americans, paid through the aid agency. It taught engineering science, made programming compulsory from 1964, offered computer science within an engineering master's degree from the mid-1960s, and from 1978 a degree of its own. For a few years it was the best-equipped engineering school in India, and then, for most of the 1970s, a school with an obsolete computer.[142]
+The education Kanpur built can be described precisely. It took about a hundred young men a year at first, chosen by a national examination and taught in English. Its teachers were Indians with North American doctorates and a few dozen visiting Americans, paid through the aid agency. It taught engineering science, made programming compulsory from 1964, offered computer science within an engineering master's degree from the mid-1960s, and from 1978 a degree of its own. For a few years it was the best-equipped engineering school in India, and then, for most of the 1970s, a school with an obsolete computer.[151]
 
-The profession is harder to describe, because in the 1960s there was barely one in India. The documented destinations of Kanpur's computing graduates are American graduate schools and laboratories, a few Indian firms and institutes, and later the companies that became Tata Consultancy Services and Infosys.[143] What those who stayed in India were paid, and how they found work, is not recorded in the sources used here. Nor is the experience of the students who did not shine, who failed the course, or who never left Uttar Pradesh. The first-hand accounts that survive come from men who went on to distinguished careers, and they should be read with that in mind.
+The profession is harder to describe, because in the 1960s there was barely one in India. The documented destinations of Kanpur's computing graduates are American graduate schools and laboratories, a few Indian firms and institutes, and later the companies that became Tata Consultancy Services and Infosys.[152] What those who stayed in India were paid, and how they found work, is barely recorded in the sources used here; Murthy's memory of a class with more job offers than students is a rare glimpse.[153] Nor is the experience of the students who did not shine, who failed the course, or who never left Uttar Pradesh. The first-hand accounts that survive come from men who went on to distinguished careers, and they should be read with that in mind.
 
 ## Coda: from the classroom to the state
 
-In 1972 the American programme ended, and Kanpur's computer was already old. Kelkar had left two years earlier to direct IIT Bombay.[144] The government in Delhi had by then created a Department of Electronics, in 1970, and was setting out to have India's computers designed and built in India by a public-sector company.[145] The next chapter follows that attempt at self-reliance, and the people the state trained and employed to carry it out.
+In 1972 the American programme ended, and Kanpur's computer was already old. Kelkar had left two years earlier to direct IIT Bombay.[154] The government in Delhi had by then created a Department of Electronics, in 1970, and was setting out to have India's computers designed and built in India by a public-sector company.[155] The next chapter follows that attempt at self-reliance, and the people the state trained and employed to carry it out.
 
 
 ### Notes to Chapter 2. Kanpur, 1963 (1946-1978)
@@ -736,281 +742,301 @@ In 1972 the American programme ended, and Kanpur's computer was already old. Kel
 
 [7] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 783, 792; Rajaraman, *History of Computing in India* (2012), p. 17.
 
-[8] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
+[8] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 41 (Oral History of Harry Huskey, interviewed by William Aspray, 7 February 2006; DC-8, missing manifest, customs, military airport). Bassett, 'Aligning India in the Cold War Era' (2009), p. 783 gives a DC-7.
 
-[9] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
+[9] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42.
 
-[10] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
+[10] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42 (60-cycle and 50-cycle power, telegrams, converter from Germany, 'in about three weeks we had the machine up and running').
 
-[11] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787; *Interim Report of the Sarker Committee* (1946).
+[11] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
 
-[12] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
+[12] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42.
 
-[13] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
+[13] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
 
-[14] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787 n. 8.
+[14] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
 
-[15] Fay, 'Report from Kanpur' (1966), p. 14.
+[15] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787; *Interim Report of the Sarker Committee* (1946).
 
-[16] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
+[16] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
 
-[17] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
+[17] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
 
-[18] Fay, 'Report from Kanpur' (1966), p. 12.
+[18] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787 n. 8.
 
-[19] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
+[19] Fay, 'Report from Kanpur' (1966), p. 14.
 
-[20] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 787, 796-798.
+[20] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
 
-[21] Bassett, 'Aligning India in the Cold War Era' (2009), p. 788.
+[21] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
 
-[22] Bassett, 'Aligning India in the Cold War Era' (2009), p. 788.
+[22] Fay, 'Report from Kanpur' (1966), p. 12.
 
-[23] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
+[23] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
 
-[24] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
+[24] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 787, 796-798.
 
-[25] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
+[25] Bassett, 'Aligning India in the Cold War Era' (2009), p. 788.
 
-[26] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
+[26] Bassett, 'Aligning India in the Cold War Era' (2009), p. 788.
 
 [27] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
 
-[28] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
+[28] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
 
-[29] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+[29] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
 
-[30] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+[30] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
 
-[31] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
+[31] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
 
-[32] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791 n. 13.
+[32] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
 
 [33] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
 
 [34] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
 
-[35] Fay, 'Report from Kanpur' (1966), p. 11.
+[35] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
 
-[36] Bhushan, 'Vignettes of History' (2014), Part I.
+[36] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791 n. 13.
 
-[37] Bhushan, 'Vignettes of History' (2014), Part I; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
+[37] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
 
-[38] Bhushan, 'Vignettes of History' (2014), Part II.
+[38] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
 
-[39] Bhushan, 'Vignettes of History' (2014), Part III.
+[39] Fay, 'Report from Kanpur' (1966), p. 11.
 
-[40] Bhushan, 'Vignettes of History' (2014), Parts I and III.
+[40] Bhushan, 'Vignettes of History' (2014), Part I.
 
-[41] Fay, 'Report from Kanpur' (1966), p. 13.
+[41] Bhushan, 'Vignettes of History' (2014), Part I; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
 
-[42] Fay, 'Report from Kanpur' (1966), p. 11.
+[42] Bhushan, 'Vignettes of History' (2014), Part II.
 
-[43] Fay, 'Report from Kanpur' (1966), p. 15.
+[43] Bhushan, 'Vignettes of History' (2014), Part III.
 
-[44] Bhushan, 'Vignettes of History' (2014), Part II.
+[44] Bhushan, 'Vignettes of History' (2014), Parts I and III.
 
-[45] Bhushan, 'Vignettes of History' (2014), Part I.
+[45] Fay, 'Report from Kanpur' (1966), p. 13.
 
-[46] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
+[46] Fay, 'Report from Kanpur' (1966), p. 11.
 
-[47] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790 n. 12; Fay, 'Report from Kanpur' (1966), p. 11.
+[47] Fay, 'Report from Kanpur' (1966), p. 15.
 
-[48] Fay, 'Report from Kanpur' (1966), p. 11.
+[48] Bhushan, 'Vignettes of History' (2014), Part II.
 
-[49] Fay, 'Report from Kanpur' (1966), p. 16.
+[49] Bhushan, 'Vignettes of History' (2014), Part I.
 
-[50] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
+[50] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
 
-[51] Fay, 'Report from Kanpur' (1966), pp. 11-12.
+[51] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790 n. 12; Fay, 'Report from Kanpur' (1966), p. 11.
 
-[52] Fay, 'Report from Kanpur' (1966), p. 12.
+[52] Fay, 'Report from Kanpur' (1966), p. 11.
 
-[53] Fay, 'Report from Kanpur' (1966), p. 13.
+[53] Fay, 'Report from Kanpur' (1966), p. 16.
 
-[54] Fay, 'Report from Kanpur' (1966), p. 13 (the article appeared in June 1966, p. 11); Rajaraman, *History of Computing in India* (2012), p. 81 (the 1965 war with Pakistan).
+[54] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
 
-[55] Fay, 'Report from Kanpur' (1966), p. 13.
+[55] Fay, 'Report from Kanpur' (1966), pp. 11-12.
 
-[56] Fay, 'Report from Kanpur' (1966), p. 16.
+[56] Fay, 'Report from Kanpur' (1966), p. 12.
 
-[57] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795 and n. 25.
+[57] Fay, 'Report from Kanpur' (1966), p. 13.
 
-[58] Fay, 'Report from Kanpur' (1966), p. 16.
+[58] Fay, 'Report from Kanpur' (1966), p. 13 (the article appeared in June 1966, p. 11); Rajaraman, *History of Computing in India* (2012), p. 81 (the 1965 war with Pakistan).
 
-[59] Fay, 'Report from Kanpur' (1966), p. 16.
+[59] Fay, 'Report from Kanpur' (1966), p. 13.
 
-[60] Fay, 'Report from Kanpur' (1966), p. 13; Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
+[60] Fay, 'Report from Kanpur' (1966), p. 16.
 
-[61] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
+[61] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795 and n. 25.
 
-[62] Fay, 'Report from Kanpur' (1966), p. 14.
+[62] Fay, 'Report from Kanpur' (1966), p. 16.
 
-[63] Fay, 'Report from Kanpur' (1966), p. 14.
+[63] Fay, 'Report from Kanpur' (1966), p. 16.
 
-[64] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
+[64] Fay, 'Report from Kanpur' (1966), p. 13; Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
 
-[65] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+[65] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
 
-[66] Sethi, 'Our Experiences on the 1620' (2021).
+[66] Fay, 'Report from Kanpur' (1966), p. 14.
 
-[67] Sethi, 'Our Experiences on the 1620' (2021).
+[67] Fay, 'Report from Kanpur' (1966), p. 14.
 
-[68] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (same issue of *The Spark*, A. Shukla, 'The IBM 1620'); Rajaraman, *History of Computing in India* (2012), p. 18; Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+[68] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
 
-[69] Rajaraman, *History of Computing in India* (2012), p. 18.
+[69] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
-[70] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793 n. 18.
+[70] Sethi, 'Our Experiences on the 1620' (2021).
 
-[71] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+[71] Sethi, 'Our Experiences on the 1620' (2021).
 
-[72] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+[72] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (same issue of *The Spark*, A. Shukla, 'The IBM 1620'); Rajaraman, *History of Computing in India* (2012), p. 18; Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
 [73] Rajaraman, *History of Computing in India* (2012), p. 18.
 
-[74] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795.
+[74] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793 n. 18.
 
 [75] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
-[76] Rajaraman, *History of Computing in India* (2012), p. 70; IIT Kanpur, obituary of V. Rajaraman (2025), consulted 2026-10-12; post-cutoff material; live-checked 2026-10-13.
+[76] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
-[77] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+[77] Rajaraman, *History of Computing in India* (2012), p. 18.
 
-[78] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 793-794 and n. 20.
+[78] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795.
 
 [79] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
-[80] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+[80] Rajaraman, *History of Computing in India* (2012), p. 70; IIT Kanpur, obituary of V. Rajaraman (2025), consulted 2026-10-12; post-cutoff material; live-checked 2026-10-13.
 
-[81] Rajaraman, *History of Computing in India* (2012), pp. 17-18.
+[81] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
-[82] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+[82] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 793-794 and n. 20.
 
-[83] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Rajaraman, *History of Computing in India* (2012), p. 18.
+[83] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
 
-[84] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 799-800.
+[84] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
 
-[85] Rajaraman, *History of Computing in India* (2012), p. 18.
+[85] Rajaraman, *History of Computing in India* (2012), pp. 17-18.
 
-[86] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 and n. 41.
+[86] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
 
-[87] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[87] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Rajaraman, *History of Computing in India* (2012), p. 18.
 
-[88] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+[88] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 799-800.
 
-[89] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5.
+[89] Rajaraman, *History of Computing in India* (2012), p. 18.
 
-[90] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[90] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 and n. 41.
 
-[91] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+[91] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[92] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
+[92] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
 
-[93] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+[93] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5.
 
-[94] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 n. 21.
+[94] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[95] Rajaraman, *History of Computing in India* (2012), p. 18.
+[95] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
 
-[96] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 and n. 21.
+[96] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
 
 [97] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
 
-[98] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+[98] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 n. 21.
 
-[99] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+[99] Rajaraman, *History of Computing in India* (2012), p. 18.
 
-[100] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
+[100] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 and n. 21.
 
-[101] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797 n. 32.
+[101] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
 
-[102] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
+[102] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
 
-[103] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
+[103] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
 
-[104] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 797-798; Gopalakrishnan and Narayanan, *Computers in India* (1975), p. 25, as quoted in Bassett, 'Aligning India in the Cold War Era' (2009), p. 798 n. 33.
+[104] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
 
-[105] Bassett, 'Aligning India in the Cold War Era' (2009), p. 798.
+[105] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797 n. 32.
 
-[106] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+[106] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
 
-[107] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+[107] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
 
-[108] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[108] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 797-798; Gopalakrishnan and Narayanan, *Computers in India* (1975), p. 25, as quoted in Bassett, 'Aligning India in the Cold War Era' (2009), p. 798 n. 33.
 
-[109] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[109] Bassett, 'Aligning India in the Cold War Era' (2009), p. 798.
 
-[110] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
+[110] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
 
-[111] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
+[111] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
 
-[112] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 802-803.
+[112] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[113] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 49.
+[113] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[114] Fay, 'Report from Kanpur' (1966), p. 11.
+[114] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
 
-[115] Bhushan, 'Vignettes of History' (2014), Part III.
+[115] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
 
-[116] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 803-804 n. 50.
+[116] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 802-803.
 
-[117] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 50, citing Sukhatme, *The Real Brain Drain* (1994), pp. 17-18.
+[117] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 49.
 
-[118] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803.
+[118] Fay, 'Report from Kanpur' (1966), p. 11.
 
-[119] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+[119] Bhushan, 'Vignettes of History' (2014), Part III.
 
-[120] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
+[120] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 803-804 n. 50.
 
-[121] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
+[121] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 50, citing Sukhatme, *The Real Brain Drain* (1994), pp. 17-18.
 
-[122] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806.
+[122] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803.
 
-[123] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806; Rajaraman, *History of Computing in India* (2012), p. 34.
+[123] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
 
-[124] Rajaraman, *History of Computing in India* (2012), p. 34.
+[124] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
 
-[125] Rajaraman, *History of Computing in India* (2012), p. 34.
+[125] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
 
-[126] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806.
+[126] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806.
 
-[127] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 and n. 53.
+[127] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806; Rajaraman, *History of Computing in India* (2012), p. 34.
 
 [128] Rajaraman, *History of Computing in India* (2012), p. 34.
 
 [129] Rajaraman, *History of Computing in India* (2012), p. 34.
 
-[130] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 n. 53.
+[130] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806.
 
-[131] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+[131] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), p. 4 (Oral History of Arjun Malhotra, recorded 15 November 2018; he left school in December 1964, p. 4).
 
-[132] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+[132] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 and n. 53.
 
-[133] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+[133] Rajaraman, *History of Computing in India* (2012), p. 34.
 
-[134] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[134] Jayshankar, 'Interview with Dr Rajaraman', *Vox Populi* (2018) (Vox Populi, 7 June 2018, updated 15 May 2021; participant's recollection forty years on; consulted 2026-10-15).
 
-[135] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801.
+[135] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 n. 53; Rajaraman, *History of Computing in India* (2012), p. 34; Jayshankar, 'Interview with Dr Rajaraman', *Vox Populi* (2018). The annual report for 1978-79 has not been found.
 
-[136] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[136] Rajaraman, *History of Computing in India* (2012), p. 34.
 
-[137] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+[137] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 n. 53.
 
-[138] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+[138] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
 
-[139] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+[139] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
 
-[140] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
+[140] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
 
-[141] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801 n. 44.
+[141] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[142] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 783-806; Fay, 'Report from Kanpur' (1966), pp. 11-16; Rajaraman, *History of Computing in India* (2012), pp. 17-18, 34.
+[142] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801.
 
-[143] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-807.
+[143] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[144] Bassett, 'Aligning India in the Cold War Era' (2009), p. 798.
+[144] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
 
-[145] Rajaraman, *History of Computing in India* (2012), p. 3.
+[145] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+
+[146] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 7-8 (Oral History of N.R. Narayana Murthy, Part 1, recorded 13 May 2018; founder's recollection).
+
+[147] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 8-9.
+
+[148] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+
+[149] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
+
+[150] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801 n. 44.
+
+[151] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 783-806; Fay, 'Report from Kanpur' (1966), pp. 11-16; Rajaraman, *History of Computing in India* (2012), pp. 17-18, 34.
+
+[152] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-807.
+
+[153] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 8.
+
+[154] Bassett, 'Aligning India in the Cold War Era' (2009), p. 798.
+
+[155] Rajaraman, *History of Computing in India* (2012), p. 3.
 
 
 # Chapter 3. Self-reliance and its limits (1962-1977)
@@ -1029,117 +1055,117 @@ Before 1970, V. Rajaraman, the historian of Indian computing, writes, there was 
 
 IBM found a way to work within that rule. It had had a commercial outlet in India since 1950 and began manufacturing in 1963, making punched cards at a factory in Bangalore (Bengaluru since 2014) and, at Kurla in Bombay (Mumbai since 1995), the model 029 key punch (a machine for punching data onto cards) and other unit-record equipment.[10] The key punches were exported to IBM branches and subsidiaries in South-East Asia. The foreign exchange they earned paid for imports of used, disassembled IBM 1401 computers.[11] Around 1965 many 1401s were being replaced in America and Europe by IBM's new System/360, and IBM could import the old machines at a low inter-company price, since their book value was small. In Bombay they were dismantled, their worn parts replaced, and then reassembled, painted and rented to Indian customers.[12] The government licensed IBM to recondition 68 of them over three years, 22 in 1968, 22 in 1969 and 24 in 1970, and to make up to 4,000 key punches. IBM had applied to recondition System/360s instead.[13] Its British rival ICL ran the same trade from a plant in Poona (now Pune), exporting card equipment and using the proceeds to sell its systems in India.[14]
 
-By 1970 the 1401 was the most popular computer in India, with about 80 installations. Indian Railways had more than a dozen; most Tata group companies and the big textile firms had them; the first computer at Tata Consultancy Services (TCS) was a 1401; even the Indian Statistical Institute installed one. For smaller firms IBM ran data centres in the major cities.[15] ICL, by comparison, had 48 of its 1901A machines assembled by the public-sector Bharat Electronics between 1965 and 1975.[16]
+By 1970 the 1401 was the most popular computer in India, with about 80 installations. Indian Railways had more than a dozen; most Tata group companies and the big textile firms had them; the first computer at Tata Consultancy Services (TCS) was a 1401; even the Indian Statistical Institute installed one. For smaller firms IBM ran data centres in the major cities.[15] ICL, by comparison, had 48 of its 1901A machines assembled by the public-sector Bharat Electronics between 1965 and 1975.[16] Two reviewers of the historian Dwaipayan Banerjee's 2026 history of Indian computing (Chapter 1) report its measure of IBM's lead. Angela Saini writes that the book counts '106 of India's 145 active computers' as IBM machines in 1972, and Tracie Farrell that it has IBM producing three-quarters of the country's computers by the early 1970s.[17]
 
-The machines were not cheap. The annual rental for a high-end 1401, with four tape drives and two disks, was about Rs 850,000. Rajaraman converts this to $190,000 'at the prevailing exchange rate'.[17] That conversion roughly matches the exchange rate before the rupee was devalued in 1966; at the 1970 rate the rental came to about $113,000.[18] The devaluation itself, Rajaraman notes, gave IBM a windfall, because its rentals were quoted in dollars.[19] IBM 'was in fact accused of profiteering', since rentals in America were much lower. Its defence was that the rental included free maintenance and the services of a systems engineer who analysed the customer's needs, designed the software and even helped with programming: IBM was selling a computing service, not renting a machine.[20]
+The machines were not cheap. The annual rental for a high-end 1401, with four tape drives and two disks, was about Rs 850,000. Rajaraman converts this to $190,000 'at the prevailing exchange rate'.[18] That conversion roughly matches the exchange rate before the rupee was devalued in 1966; at the 1970 rate the rental came to about $113,000.[19] The devaluation itself, Rajaraman notes, gave IBM a windfall, because its rentals were quoted in dollars.[20] IBM 'was in fact accused of profiteering', since rentals in America were much lower. Its defence was that the rental included free maintenance and the services of a systems engineer who analysed the customer's needs, designed the software and even helped with programming: IBM was selling a computing service, not renting a machine.[21]
 
-That service is where many Indians learned the trade. Rajaraman, who is not uncritical of IBM's prices, credits it with recruiting and training very good technical and sales staff. 'A whole generation of maintenance engineers and programmers were trained and nurtured by IBM. In short IBM set a bench mark for professional operations in India.'[21] IBM was also keen to show how hard its machines worked. A study it prepared around 1970, quoted by the government's Committee on Automation, claimed that 'computer utilisation in India has been extremely high; amongst the highest in the world', with 1400-series machines averaging more than two shifts a day.[22]
+That service is where many Indians learned the trade. Rajaraman, who is not uncritical of IBM's prices, credits it with recruiting and training very good technical and sales staff. 'A whole generation of maintenance engineers and programmers were trained and nurtured by IBM. In short IBM set a bench mark for professional operations in India.'[22] IBM was also keen to show how hard its machines worked. A study it prepared around 1970, quoted by the government's Committee on Automation, claimed that 'computer utilisation in India has been extremely high; amongst the highest in the world', with 1400-series machines averaging more than two shifts a day.[23]
 
-The state was already moving against the trade in repainted machines. By the early 1970s the new Department of Electronics had declared in its annual report that 'no further manufacturing programmes based on the renovation of 'As is' machines will be accepted in future as a matter of national policy'.[23] The question was what would replace them.
+The state was already moving against the trade in repainted machines. By the early 1970s the new Department of Electronics had declared in its annual report that 'no further manufacturing programmes based on the renovation of 'As is' machines will be accepted in future as a matter of national policy'.[24] The question was what would replace them.
 
 ## A plan for 500 computers a year
 
-The 1962 border war with China persuaded the government that electronics and communications mattered for defence and for long-run industrial growth. In 1963 it appointed a committee on electronics under Homi Bhabha, the chairman of the Atomic Energy Commission, whose career as a builder of Indian science Chapter 1 followed.[24] The committee's report was ready by 1966, but Bhabha was killed in an air crash before formally submitting it.[25] According to a history by Kris Gopalakrishnan and his co-authors, the report was formally presented to the government only after his death, and a committee under Vikram Sarabhai was set up in 1966 to carry out its recommendations.[26] Its central recommendations were a Department of Electronics in the central government and an Electronics Commission with wide financial and executive powers to take quick decisions.[27]
+The 1962 border war with China persuaded the government that electronics and communications mattered for defence and for long-run industrial growth. In 1963 it appointed a committee on electronics under Homi Bhabha, the chairman of the Atomic Energy Commission, whose career as a builder of Indian science Chapter 1 followed.[25] The committee's report was ready by 1966, but Bhabha was killed in an air crash before formally submitting it.[26] According to a history by Kris Gopalakrishnan and his co-authors, the report was formally presented to the government only after his death, and a committee under Vikram Sarabhai was set up in 1966 to carry out its recommendations.[27] Its central recommendations were a Department of Electronics in the central government and an Electronics Commission with wide financial and executive powers to take quick decisions.[28]
 
-The committee's computer subcommittee was chaired by R. Narasimhan, head of the computer group at the Tata Institute of Fundamental Research (TIFR) in Bombay, whose work on TIFRAC Chapter 1 described.[28] It projected India's needs for ten years ahead. One very large computer would be imported for a national facility. Three to five medium-large machines would be imported and run as Regional Computer Centres, shared like power utilities. All smaller computers would be made in India from Indian components, about 500 a year for ten years.[29] Its report argued that 'attaining self-sufficiency in systems engineering and fabrication is of fundamental importance from the point of view of the defence and security of our country'.[30]
+The committee's computer subcommittee was chaired by R. Narasimhan, head of the computer group at the Tata Institute of Fundamental Research (TIFR) in Bombay, whose work on TIFRAC Chapter 1 described.[29] It projected India's needs for ten years ahead. One very large computer would be imported for a national facility. Three to five medium-large machines would be imported and run as Regional Computer Centres, shared like power utilities. All smaller computers would be made in India from Indian components, about 500 a year for ten years.[30] Its report argued that 'attaining self-sufficiency in systems engineering and fabrication is of fundamental importance from the point of view of the defence and security of our country'.[31]
 
-In 1970 the plan was debated at a National Electronics Conference at TIFR, attended by people from universities, companies, government, laboratories and the armed forces.[31] Rajaraman, then on the faculty of the Indian Institute of Technology (IIT) Kanpur, argued that India lacked a home market large enough to build up in the textbook order, from components to circuits to systems. India should go backwards, design systems first and import the components, and pay for the imports with exports. 'Foreign exchange can also be earned by software export,' he said. In his history of 2012 he added: 'However, my comment was not taken seriously.'[32]
+In 1970 the plan was debated at a National Electronics Conference at TIFR, attended by people from universities, companies, government, laboratories and the armed forces.[32] Rajaraman, then on the faculty of the Indian Institute of Technology (IIT) Kanpur, argued that India lacked a home market large enough to build up in the textbook order, from components to circuits to systems. India should go backwards, design systems first and import the components, and pay for the imports with exports. 'Foreign exchange can also be earned by software export,' he said. In his history of 2012 he added: 'However, my comment was not taken seriously.'[33]
 
-The chairman of the conference, Sarabhai, who had succeeded Bhabha, took a larger view. In his concluding remarks he called computing 'far more fundamental, of wider significance than any other field of electronics', and of 'particular relevance to our developing country where resources are scarce'. Multinational companies had a contribution to make 'on honourable commercially rewarding terms, on ground rules which are acceptable to India', but not, he said, at the cost of a major national effort.[33] On that thinking, Rajaraman writes, the government started a computer division at the Electronics Corporation of India Ltd (ECIL), a public-sector company set up at Hyderabad in 1967 under the Department of Atomic Energy to commercialise electronics developed at the atomic research centre at Trombay.[34]
+The chairman of the conference, Sarabhai, who had succeeded Bhabha, took a larger view. In his concluding remarks he called computing 'far more fundamental, of wider significance than any other field of electronics', and of 'particular relevance to our developing country where resources are scarce'. Multinational companies had a contribution to make 'on honourable commercially rewarding terms, on ground rules which are acceptable to India', but not, he said, at the cost of a major national effort.[34] On that thinking, Rajaraman writes, the government started a computer division at the Electronics Corporation of India Ltd (ECIL), a public-sector company set up at Hyderabad in 1967 under the Department of Atomic Energy to commercialise electronics developed at the atomic research centre at Trombay.[35]
 
 ## The gatekeeper
 
-The Department of Electronics (DoE) was established in 1970 and the Electronics Commission, by most accounts, in 1971. M.G.K. Menon, the director of TIFR, became secretary of the department and chairman of the commission.[35] Narasimhan later described the two big decisions that followed. The first was to develop and manufacture small and medium computers in India, so that within a set time most of the country's needs in that range could be met from Indian production. The second was to centralise all computer purchasing through global tenders.[36]
+The Department of Electronics (DoE) was established in 1970 and the Electronics Commission, by most accounts, in 1971. M.G.K. Menon, the director of TIFR, became secretary of the department and chairman of the commission.[36] Narasimhan later described the two big decisions that followed. The first was to develop and manufacture small and medium computers in India, so that within a set time most of the country's needs in that range could be met from Indian production. The second was to centralise all computer purchasing through global tenders.[37]
 
-The DoE also became the gate through which every imported computer had to pass. In 1970 responsibility for import licences for computers was transferred to it as a 'single window clearance', and it drafted rules that judged each request by its essentiality, whether an equivalent machine was made in India and how much foreign exchange it needed.[37] The political economy left little room. The Congress party had governed since independence; the major private banks were nationalised in 1969; the rupee was not convertible and the trade balance was permanently in deficit, so that 'obtaining foreign exchange for import of equipment required elaborate justification'.[38] The quadrupling of oil prices in 1973 made foreign exchange scarcer still. Unless the United Nations Development Programme (UNDP) or a foreign government was paying, clearance to import a computer usually took one to three years.[39] Rajaraman notes that the delays hurt universities, laboratories, industry and especially companies that wanted to import computers in order to export software.[40]
+The DoE also became the gate through which every imported computer had to pass. In 1970 responsibility for import licences for computers was transferred to it as a 'single window clearance', and it drafted rules that judged each request by its essentiality, whether an equivalent machine was made in India and how much foreign exchange it needed.[38] The political economy left little room. The Congress party had governed since independence; the major private banks were nationalised in 1969; the rupee was not convertible and the trade balance was permanently in deficit, so that 'obtaining foreign exchange for import of equipment required elaborate justification'.[39] The quadrupling of oil prices in 1973 made foreign exchange scarcer still. Unless the United Nations Development Programme (UNDP) or a foreign government was paying, clearance to import a computer usually took one to three years.[40] Rajaraman notes that the delays hurt universities, laboratories, industry and especially companies that wanted to import computers in order to export software.[41]
 
-Foreign policy closed other doors. During the 1971 war with Pakistan, which ended with the creation of Bangladesh, the American president Richard Nixon favoured Pakistan, and the United States embargoed exports of electronics and computers to India. India's first nuclear test in 1974 brought a further embargo on advanced electronic equipment, including high-end computers and scientific software.[41]
+Foreign policy closed other doors. During the 1971 war with Pakistan, which ended with the creation of Bangladesh, the American president Richard Nixon favoured Pakistan, and the United States embargoed exports of electronics and computers to India. India's first nuclear test in 1974 brought a further embargo on advanced electronic equipment, including high-end computers and scientific software.[42]
 
-Private Indian firms, several of them already making electronic calculators, wanted to build computers. The DoE was expected to publish a minicomputer policy setting the rules, but it kept delaying, partly because many components and peripherals would have to be imported and partly to protect the ECIL programme it was funding.[42] A DoE panel on minicomputers, chaired by P.V.S. Rao of TIFR, reported in 1973 that minicomputers could be made in India without foreign collaboration and projected demand for about 1,400 of them between 1974 and 1979.[43] The policy did not come until 1978. In the meantime, Rajaraman writes, the DoE 'became very unpopular' as legitimate requests from universities, government science departments and industry were 'inordinately delayed'; and 'no private Indian company was allowed to manufacture computers'.[44]
+Private Indian firms, several of them already making electronic calculators, wanted to build computers. The DoE was expected to publish a minicomputer policy setting the rules, but it kept delaying, partly because many components and peripherals would have to be imported and partly to protect the ECIL programme it was funding.[43] A DoE panel on minicomputers, chaired by P.V.S. Rao of TIFR, reported in 1973 that minicomputers could be made in India without foreign collaboration and projected demand for about 1,400 of them between 1974 and 1979.[44] The policy did not come until 1978. In the meantime, Rajaraman writes, the DoE 'became very unpopular' as legitimate requests from universities, government science departments and industry were 'inordinately delayed'; and 'no private Indian company was allowed to manufacture computers'.[45]
 
 ## A cottage industry in Hyderabad
 
-ECIL's computer division was headed by S. Srikantan, who had designed the Trombay Digital Computer 12 (TDC-12) at the atomic research centre. It was a 12-bit real-time machine, similar in design to the PDP-8 made by the American firm Digital Equipment Corporation, and it was commissioned at Trombay in 1969.[45] System software had to be written from scratch, and the effort, Rajaraman says, was underestimated. ECIL had no commercial computer of its own on which to develop software, so it sent the work out to TIFR, IIT Kanpur and the Indian Institute of Management at Ahmedabad. An operating system, an assembler and BASIC and FORTRAN compilers were produced.[46] The TDC-12 was followed by the TDC-312 in 1974 and the 16-bit TDC-316 in 1975, which had a version of the business language COBOL, and in 1978 by the Micro 78, built around a microprocessor.[47]
+ECIL's computer division was headed by S. Srikantan, who had designed the Trombay Digital Computer 12 (TDC-12) at the atomic research centre. It was a 12-bit real-time machine, similar in design to the PDP-8 made by the American firm Digital Equipment Corporation, and it was commissioned at Trombay in 1969.[46] System software had to be written from scratch, and the effort, Rajaraman says, was underestimated. ECIL had no commercial computer of its own on which to develop software, so it sent the work out to TIFR, IIT Kanpur and the Indian Institute of Management at Ahmedabad. An operating system, an assembler and BASIC and FORTRAN compilers were produced.[47] The TDC-12 was followed by the TDC-312 in 1974 and the 16-bit TDC-316 in 1975, which had a version of the business language COBOL, and in 1978 by the Micro 78, built around a microprocessor.[48]
 
-Between 1971 and 1978 ECIL sold 98 computers: 21 TDC-12s, 32 TDC-312s, 35 TDC-316s and 10 Micro 78s.[48] A TDC-12 typically cost Rs 600,000, a TDC-312 Rs 1 million and a TDC-316 Rs 3 million, about $360,000 at the 1975 rate.[49] ECIL had shown, in Rajaraman's judgement, that computers could be made in India from local components with imported chips and peripherals. 'It however worked more like a cottage industry', because its volumes were small. Its sales effort was poor. Most of its machines went to atomic energy establishments, government departments and universities that depended on government grants and were 'constrained to buy' from it. 'Only 4 machines were sold to the private sector.' The machines were overpriced and short of software.[50] ECIL had 11 per cent of the installed base in 1974 (Chapter 2).[51]
+Between 1971 and 1978 ECIL sold 98 computers: 21 TDC-12s, 32 TDC-312s, 35 TDC-316s and 10 Micro 78s.[49] A TDC-12 typically cost Rs 600,000, a TDC-312 Rs 1 million and a TDC-316 Rs 3 million, about $360,000 at the 1975 rate.[50] ECIL had shown, in Rajaraman's judgement, that computers could be made in India from local components with imported chips and peripherals. 'It however worked more like a cottage industry', because its volumes were small. Its sales effort was poor. Most of its machines went to atomic energy establishments, government departments and universities that depended on government grants and were 'constrained to buy' from it. 'Only 4 machines were sold to the private sector.' The machines were overpriced and short of software.[51] ECIL had 11 per cent of the installed base in 1974 (Chapter 2).[52]
 
-ECIL's most important work was hidden from view. The Air Defence Ground Environment System (ADGES), a chain of radar stations along India's borders to detect hostile aircraft, could not be bought abroad without revealing sensitive information to foreign vendors, and imports were always exposed to sudden embargoes. TIFR designed the system and its software under P.V.S. Rao. Each installation used three ruggedised TDC-316s and cost Rs 30 million; 25 were deployed by the Indian Air Force between 1969 and 1984, and the income sustained ECIL's other development work.[52] Besides the 98 machines sold commercially, 75 ruggedised TDC-316s went into this project.[53] 'In the published literature this important contribution of ECIL is not mentioned,' Rajaraman writes.[54] ECIL machines also logged data for atomic energy, monitored satellite launches, tested gas turbines and controlled the cutting of billets in steel mills, all places where export controls made imports difficult.[55] The DoE gave ECIL grants and loans of Rs 37.44 million.[56]
+ECIL's most important work was hidden from view. The Air Defence Ground Environment System (ADGES), a chain of radar stations along India's borders to detect hostile aircraft, could not be bought abroad without revealing sensitive information to foreign vendors, and imports were always exposed to sudden embargoes. TIFR designed the system and its software under P.V.S. Rao. Each installation used three ruggedised TDC-316s and cost Rs 30 million; 25 were deployed by the Indian Air Force between 1969 and 1984, and the income sustained ECIL's other development work.[53] Besides the 98 machines sold commercially, 75 ruggedised TDC-316s went into this project.[54] 'In the published literature this important contribution of ECIL is not mentioned,' Rajaraman writes.[55] ECIL machines also logged data for atomic energy, monitored satellite launches, tested gas turbines and controlled the cutting of billets in steel mills, all places where export controls made imports difficult.[56] The DoE gave ECIL grants and loans of Rs 37.44 million.[57]
 
-The most lasting product was people. ECIL trained 'over a thousand engineers in designing systems and developing systems software', and many of them later joined private computer makers and software companies to lead groups there.[57] For an Indian engineer in the 1970s who wanted to build computers rather than operate them, ECIL was one of very few possible employers, since no private Indian company was allowed to make computers. What these engineers were paid, and who they were, is not recorded in the sources used here.
+The most lasting product was people. ECIL trained 'over a thousand engineers in designing systems and developing systems software', and many of them later joined private computer makers and software companies to lead groups there.[58] For an Indian engineer in the 1970s who wanted to build computers rather than operate them, ECIL was one of very few possible employers, since no private Indian company was allowed to make computers. What these engineers were paid, and who they were, is not recorded in the sources used here.
 
 ## The clerks' case
 
-The computer met its strongest opposition not in factories but in offices. The labour movement already had a template for dealing with new machines. In 1957 the 15th Indian Labour Conference had adopted a Model Agreement on rationalisation, which promised no retrenchment and no loss of earnings for existing workers, an equitable sharing of the gains among the community, the employer and the worker, and prior consultation with the unions before new equipment was installed.[58] Automation in new process industries and in manufacturing aroused little opposition. Computers in offices, the Committee on Automation found, 'evoked serious misgivings among the employees'.[59]
+The computer met its strongest opposition not in factories but in offices. The labour movement already had a template for dealing with new machines. In 1957 the 15th Indian Labour Conference had adopted a Model Agreement on rationalisation, which promised no retrenchment and no loss of earnings for existing workers, an equitable sharing of the gains among the community, the employer and the worker, and prior consultation with the unions before new equipment was installed.[59] Automation in new process industries and in manufacturing aroused little opposition. Computers in offices, the Committee on Automation found, 'evoked serious misgivings among the employees'.[60]
 
-According to that committee, the issue gained national attention because of the 'unilateral decision' of LIC's management, in the mid-1960s, to introduce a computer. The All India Insurance Employees' Association started an agitation, and the central trade union organisations took up the wider question of automation.[60] The OCR text of the report garbles the year, but the committee says elsewhere that until 1965 computers had aroused little opposition, and that serious opposition developed 'since 1965' after a big public-sector undertaking decided to install a computer in one of its offices without consulting its workers.[61] A short biographical note on Ajoy Dasgupta, a leader of the insurance employees, held by the Indian Labour Archives, dates the insurance workers' 'struggles against computerisation' earlier, to 1959-61, and says that 'the computers were installed step by step and the agitation died down'.[62] The two dates may describe two waves of protest, one against earlier office machinery and one against the computer itself. The sources do not settle it.
+According to that committee, the issue gained national attention because of the 'unilateral decision' of LIC's management, in the mid-1960s, to introduce a computer. The All India Insurance Employees' Association started an agitation, and the central trade union organisations took up the wider question of automation.[61] The OCR text of the report garbles the year, but the committee says elsewhere that until 1965 computers had aroused little opposition, and that serious opposition developed 'since 1965' after a big public-sector undertaking decided to install a computer in one of its offices without consulting its workers.[62] A short biographical note on Ajoy Dasgupta, a leader of the insurance employees, held by the Indian Labour Archives, dates the insurance workers' 'struggles against computerisation' earlier, to 1959-61, and says that 'the computers were installed step by step and the agitation died down'.[63] The two dates may describe two waves of protest, one against earlier office machinery and one against the computer itself. The sources do not settle it.
 
-The unions' case, as the committee summarised it, was that automation was 'a painful luxury, and ... a labour saving device which has no place in a developing economy marked by labour surpluses and scarce capital resources'. They held that the loss of jobs, existing and potential, was built into any scheme of automation, and that using an expensive computer for routine office work was a misuse of a costly tool.[63] Bassett records that Indian unions called computers 'job eaters'.[64] The employers answered that automation was simply an advanced stage of mechanisation, indispensable for industrialisation and better management.[65]
+The unions' case, as the committee summarised it, was that automation was 'a painful luxury, and ... a labour saving device which has no place in a developing economy marked by labour surpluses and scarce capital resources'. They held that the loss of jobs, existing and potential, was built into any scheme of automation, and that using an expensive computer for routine office work was a misuse of a costly tool.[64] Bassett records that Indian unions called computers 'job eaters'.[65] The employers answered that automation was simply an advanced stage of mechanisation, indispensable for industrialisation and better management.[66]
 
-The dispute reached Parliament. In November 1966, according to a summary of the Lok Sabha debates that has not yet been checked against the printed record, the Finance Minister said that LIC's switch to computers would take about three years and would remove 383 jobs while creating 225, as LIC employees threatened a strike.[66] On 23 March 1967 George Fernandes, then a member of the Lok Sabha, asked how many computers LIC had installed, at what cost, and how many employees had lost their jobs. The Finance Minister, Morarji Desai, replied, by the same kind of summary, that LIC was autonomous, that talks should be held with its chairman, and that there would be no retrenchment.[67]
+The dispute reached Parliament. In November 1966, according to a summary of the Lok Sabha debates that has not yet been checked against the printed record, the Finance Minister said that LIC's switch to computers would take about three years and would remove 383 jobs while creating 225, as LIC employees threatened a strike.[67] On 23 March 1967 George Fernandes, then a member of the Lok Sabha, asked how many computers LIC had installed, at what cost, and how many employees had lost their jobs. The Finance Minister, Morarji Desai, replied, by the same kind of summary, that LIC was autonomous, that talks should be held with its chairman, and that there would be no retrenchment.[68]
 
-The tripartite meetings did not settle the matter. The Indian Labour Conference discussed automation in July 1966 and agreed that the Model Agreement should apply. The Standing Labour Committee returned to it in May 1967 and could not agree on clerical automation at all; labour representatives and some state labour ministers opposed it.[68] Employees in LIC, the oil companies and the railways stepped up their opposition, and union conventions in 1966 and 1967 demanded an immediate ban.[69] The one safeguard the government had, a requirement that any import using foreign exchange be cleared by the Labour Ministry, barely touched the problem. Most new computers were assembled in India, not imported, so they escaped screening. Between 1967 and 1971, 94 computers were introduced in India and only five proposals were referred to the Labour Ministry.[70] IBM's way around the foreign-exchange rule was also, in practice, a way around the labour rule.
+The tripartite meetings did not settle the matter. The Indian Labour Conference discussed automation in July 1966 and agreed that the Model Agreement should apply. The Standing Labour Committee returned to it in May 1967 and could not agree on clerical automation at all; labour representatives and some state labour ministers opposed it.[69] Employees in LIC, the oil companies and the railways stepped up their opposition, and union conventions in 1966 and 1967 demanded an immediate ban.[70] The one safeguard the government had, a requirement that any import using foreign exchange be cleared by the Labour Ministry, barely touched the problem. Most new computers were assembled in India, not imported, so they escaped screening. Between 1967 and 1971, 94 computers were introduced in India and only five proposals were referred to the Labour Ministry.[71] IBM's way around the foreign-exchange rule was also, in practice, a way around the labour rule.
 
 ## Inside the computer rooms
 
-The Committee on Automation, which grew out of the July 1968 meeting, produced the best surviving picture of where India's computers were and who worked around them. By August 1971 it counted 140 computers in the country: 10 in government departments, 39 in public-sector undertakings including the railways, 55 in private firms and 36 in research institutions, technical institutes and universities.[71] They were concentrated in a few cities. Bombay alone had 35, a quarter of the total; Delhi had 20 and Calcutta (Kolkata since 2001) 14, and no other city had more than 11.[72] Nearly all were new. 'As many as 124 of the 140 computers in India have been installed only since 1965,' the committee wrote, and of the 94 in commercial use all but three dated from after 1965.[73]
+The Committee on Automation, which grew out of the July 1968 meeting, produced the best surviving picture of where India's computers were and who worked around them. By August 1971 it counted 140 computers in the country: 10 in government departments, 39 in public-sector undertakings including the railways, 55 in private firms and 36 in research institutions, technical institutes and universities.[72] They were concentrated in a few cities. Bombay alone had 35, a quarter of the total; Delhi had 20 and Calcutta (Kolkata since 2001) 14, and no other city had more than 11.[73] Nearly all were new. 'As many as 124 of the 140 computers in India have been installed only since 1965,' the committee wrote, and of the 94 in commercial use all but three dated from after 1965.[74]
 
-Most did office work. Payroll, billing, invoices and financial statistics dominated, partly because these jobs had already been partly mechanised on punched-card machines.[74] The railways, with 14 computers, used them for wagon movements and accounts; the State Bank of India reconciled some 70,000 inter-branch transactions a day; Delhi Cloth Mills and Calico Mills used linear programming to choose the cheapest blend of cotton.[75] The committee heard the charge that some firms bought computers as status symbols, 'to keep up with the 'Joneses''.[76] When it asked 40 public and private organisations why they had installed computers, 36 named better quality of product or service, 37 faster tabulation and 36 better management decisions. Only five named a reduction in labour costs.[77]
+Most did office work. Payroll, billing, invoices and financial statistics dominated, partly because these jobs had already been partly mechanised on punched-card machines.[75] The railways, with 14 computers, used them for wagon movements and accounts; the State Bank of India reconciled some 70,000 inter-branch transactions a day; Delhi Cloth Mills and Calico Mills used linear programming to choose the cheapest blend of cotton.[76] The committee heard the charge that some firms bought computers as status symbols, 'to keep up with the 'Joneses''.[77] When it asked 40 public and private organisations why they had installed computers, 36 named better quality of product or service, 37 faster tabulation and 36 better management decisions. Only five named a reduction in labour costs.[78]
 
-The committee's case studies show how the work changed hands. Computer departments created new posts, many at higher grades: systems analysts and programmers above all. Punch-card operators and machine operators were moved into the new sections, and much of the computer staff was recruited from inside the organisation and trained. Several existing employees, the committee found, 'got the benefit of better jobs and better pay', while the pay of the remaining clerks did not rise.[78] Some clerical workers now had to work second and third shifts to keep the expensive machines busy, 'a practice associated usually with blue-collar jobs'. The computer rooms themselves were air-conditioned, which improved conditions for the staff inside them. Union representatives told the committee that computerisation had put clerical staff under more strain, requiring greater speed and fixed schedules.[79] Railway unions complained that computers had cut promotion prospects; the railway administration said its scheme of 'shadow posts' protected them.[80]
+The committee's case studies show how the work changed hands. Computer departments created new posts, many at higher grades: systems analysts and programmers above all. Punch-card operators and machine operators were moved into the new sections, and much of the computer staff was recruited from inside the organisation and trained. Several existing employees, the committee found, 'got the benefit of better jobs and better pay', while the pay of the remaining clerks did not rise.[79] Some clerical workers now had to work second and third shifts to keep the expensive machines busy, 'a practice associated usually with blue-collar jobs'. The computer rooms themselves were air-conditioned, which improved conditions for the staff inside them. Union representatives told the committee that computerisation had put clerical staff under more strain, requiring greater speed and fixed schedules.[80] Railway unions complained that computers had cut promotion prospects; the railway administration said its scheme of 'shadow posts' protected them.[81]
 
-The question of jobs was harder to measure than either side admitted. A works study team in Maharashtra, looking at six establishments, followed 741 employees displaced by computers: 531 were given other jobs, 93 were retrained for the computer section, 71 were absorbed elsewhere in the organisation and 46 in expansion.[81] Almost nobody was sacked. The unions' point was that this was not the whole story. In one unnamed establishment studied by the committee, the staff on branch clearance and government accounts fell from 380 in November 1966 to 304 in January 1970, while the volume of work rose; the old methods would have needed 516 people for the 1970 volume.[82] The committee concluded that although there had been no direct retrenchment, the immediate effect of the computer was a fall in the demand for clerks, because vacancies left by natural wastage were filled by surplus staff rather than new recruits.[83] It was the next generation of clerks, not the present one, who lost.
+The question of jobs was harder to measure than either side admitted. A works study team in Maharashtra, looking at six establishments, followed 741 employees displaced by computers: 531 were given other jobs, 93 were retrained for the computer section, 71 were absorbed elsewhere in the organisation and 46 in expansion.[82] Almost nobody was sacked. The unions' point was that this was not the whole story. In one unnamed establishment studied by the committee, the staff on branch clearance and government accounts fell from 380 in November 1966 to 304 in January 1970, while the volume of work rose; the old methods would have needed 516 people for the 1970 volume.[83] The committee concluded that although there had been no direct retrenchment, the immediate effect of the computer was a fall in the demand for clerks, because vacancies left by natural wastage were filled by surplus staff rather than new recruits.[84] It was the next generation of clerks, not the present one, who lost.
 
-Few managements asked their workers first. Of 42 units for which the committee had information, 35 had introduced a computer without prior consultation, including all eleven railway units, and only seven had consulted their unions.[84] 'No instance was brought to our notice in which a proposal to instal a computer was dropped due to disagreement with union.'[85]
+Few managements asked their workers first. Of 42 units for which the committee had information, 35 had introduced a computer without prior consultation, including all eleven railway units, and only seven had consulted their unions.[85] 'No instance was brought to our notice in which a proposal to instal a computer was dropped due to disagreement with union.'[86]
 
 ## The Committee on Automation
 
-The committee itself was set up by a resolution of the Ministry of Labour, Employment and Rehabilitation on 19 July 1969. Its chairman was R. Venkataraman, a member of the Planning Commission. The central organisations of employers and workers were asked to nominate members. They included G. Ramanujam and Satish Loomba, whose notes to the final report speak for labour, the industrialists Naval H. Tata, B.D. Somani and Babubhai M. Chinai, the economist V.M. Dandekar, and the computer specialist V.R. Rao of the Computer Centre in Delhi.[86] Venkataraman resigned on 22 March 1971, and Dandekar, director of the Gokhale Institute of Economics and Politics in Poona, became chairman on 24 July 1971.[87] The two names that later accounts attach to the committee are therefore both correct; Rajaraman calls it the Dandekar Committee and notes that it was set up under Venkataraman.[88]
+The committee itself was set up by a resolution of the Ministry of Labour, Employment and Rehabilitation on 19 July 1969. Its chairman was R. Venkataraman, a member of the Planning Commission. The central organisations of employers and workers were asked to nominate members. They included G. Ramanujam and Satish Loomba, whose notes to the final report speak for labour, the industrialists Naval H. Tata, B.D. Somani and Babubhai M. Chinai, the economist V.M. Dandekar, and the computer specialist V.R. Rao of the Computer Centre in Delhi.[87] Venkataraman resigned on 22 March 1971, and Dandekar, director of the Gokhale Institute of Economics and Politics in Poona, became chairman on 24 July 1971.[88] The two names that later accounts attach to the committee are therefore both correct; Rajaraman calls it the Dandekar Committee and notes that it was set up under Venkataraman.[89]
 
-The committee collected evidence across the country. Its list of witnesses shows who took part in the argument. In Bombay, between 19 and 22 August 1970, it heard LIC's management, the State Bank of India, Air India, the Maharashtra branch of the Indian National Trade Union Congress (INTUC), petroleum workers' unions, the Computer Society of India, whose delegation included Narasimhan, and a team from Tata Consultancy Services that included F.C. Kohli.[89] In Delhi, in September and November 1970, it heard the Railway Board, INTUC, the Hind Mazdoor Sabha, the All India Railwaymen's Federation, IBM, ICL, and three representatives of the All India Insurance Employees' Association: Saroj Chaudhuri, Sunil Maitra and T.R. Chauhan.[90] The list records names, not words; what the insurance employees' delegation said is not reported separately in the published report.
+The committee collected evidence across the country. Its list of witnesses shows who took part in the argument. In Bombay, between 19 and 22 August 1970, it heard LIC's management, the State Bank of India, Air India, the Maharashtra branch of the Indian National Trade Union Congress (INTUC), petroleum workers' unions, the Computer Society of India, whose delegation included Narasimhan, and a team from Tata Consultancy Services that included F.C. Kohli.[90] In Delhi, in September and November 1970, it heard the Railway Board, INTUC, the Hind Mazdoor Sabha, the All India Railwaymen's Federation, IBM, ICL, and three representatives of the All India Insurance Employees' Association: Saroj Chaudhuri, Sunil Maitra and T.R. Chauhan.[91] The list records names, not words; what the insurance employees' delegation said is not reported separately in the published report.
 
-The committee was candid about its limits. It was 'greatly handicapped because of the inadequacy of available data', had found no comprehensive study of the effects of automation in India, and relied on questionnaires, case studies and oral evidence.[91] Since planning and installing a computer took about two years and full use two or three more, it thought most installations were still in their early phases.[92]
+The committee was candid about its limits. It was 'greatly handicapped because of the inadequacy of available data', had found no comprehensive study of the effects of automation in India, and relied on questionnaires, case studies and oral evidence.[92] Since planning and installing a computer took about two years and full use two or three more, it thought most installations were still in their early phases.[93]
 
-Its recommendations, signed on 18 May 1972, tried to give each side something.[93] Computers in education, research, government statistics and defence should be allowed, with protection for existing staff.[94] Commercial and industrial users, public or private, and expressly including consultancy services, should be examined case by case.[95] Where possible their needs should be met from shared computer service centres, since a computer facility was 'in the nature of a public utility' and should preferably be in the public sector.[96] And 'all use of computers by commercial and industrial establishments ... should be subject to a prior agreement with the workers'.[97] A firm wanting a computer would write a Justification Report setting out the jobs to be computerised, the expected benefits, the likely effects on employment and pay, and the safeguards offered. Two experts, chosen jointly by management and workers, would assess it; the parties would negotiate; and disputes would go to a National Bipartite Machinery of employers and unions whose unanimous recommendations would bind.[98] The committee called its approach 'positive' and urged that India's needs in hardware and software be met 'as far as possible from indigenous sources', which would save foreign exchange and create jobs. It noted that the DoE was 'seized of the matter of ensuring self-reliance'.[99]
+Its recommendations, signed on 18 May 1972, tried to give each side something.[94] Computers in education, research, government statistics and defence should be allowed, with protection for existing staff.[95] Commercial and industrial users, public or private, and expressly including consultancy services, should be examined case by case.[96] Where possible their needs should be met from shared computer service centres, since a computer facility was 'in the nature of a public utility' and should preferably be in the public sector.[97] And 'all use of computers by commercial and industrial establishments ... should be subject to a prior agreement with the workers'.[98] A firm wanting a computer would write a Justification Report setting out the jobs to be computerised, the expected benefits, the likely effects on employment and pay, and the safeguards offered. Two experts, chosen jointly by management and workers, would assess it; the parties would negotiate; and disputes would go to a National Bipartite Machinery of employers and unions whose unanimous recommendations would bind.[99] The committee called its approach 'positive' and urged that India's needs in hardware and software be met 'as far as possible from indigenous sources', which would save foreign exchange and create jobs. It noted that the DoE was 'seized of the matter of ensuring self-reliance'.[100]
 
-Every member signed, but three explanatory notes show how far apart they remained. Satish Loomba wrote that in a socialist system automation was 'wholly beneficial to the people and an instrument of progress', but that in a capitalist economy it served profit, so Indian workers had to oppose it in general. He agreed to the recommendations 'as a practical policy at the present juncture'.[100] G. Ramanujam answered the question whether automation was desirable with 'yes' and 'no'. It could reduce actual and potential employment; 'It can rob labour of its personality, creative effort, sense of achievement and drag down work itself to boredom.' He signed because of the prior-consent safeguard and the public-sector computer centres.[101] The industrialists Tata, Chinai and Somani wrote that the adverse effect of computers on employment was negligible. On the report's own figures, they argued, if half of India's 445 companies with paid-up capital of Rs 10 million or more installed computers (129 more than the 94 already in place), and each new computer affected about 16 employees, some 2,064 people would be affected over a decade or more, enough 'to dispel the exaggerated apprehensions entertained by some sections of the trade unions'. They too signed, as a practical policy.[102]
+Every member signed, but three explanatory notes show how far apart they remained. Satish Loomba wrote that in a socialist system automation was 'wholly beneficial to the people and an instrument of progress', but that in a capitalist economy it served profit, so Indian workers had to oppose it in general. He agreed to the recommendations 'as a practical policy at the present juncture'.[101] G. Ramanujam answered the question whether automation was desirable with 'yes' and 'no'. It could reduce actual and potential employment; 'It can rob labour of its personality, creative effort, sense of achievement and drag down work itself to boredom.' He signed because of the prior-consent safeguard and the public-sector computer centres.[102] The industrialists Tata, Chinai and Somani wrote that the adverse effect of computers on employment was negligible. On the report's own figures, they argued, if half of India's 445 companies with paid-up capital of Rs 10 million or more installed computers (129 more than the 94 already in place), and each new computer affected about 16 employees, some 2,064 people would be affected over a decade or more, enough 'to dispel the exaggerated apprehensions entertained by some sections of the trade unions'. They too signed, as a practical policy.[103]
 
-What happened to the recommendations is not documented in the sources read for this chapter. Rajaraman, writing as a participant in the period, judges that the committee 'prescribed in 1972 strict controls' and that its report 'constrained the introduction of computers in banks, insurance companies and many private companies'. He attributes its hostility partly to the 1401s themselves: small machines used for payroll, accounts and stores, which vocal white-collar workers saw as labour-saving devices, unlike the slower punched-card equipment that had needed many operators.[103] In 1975 Parliament's Public Accounts Committee added its own caution: efficiency gains came only in the long run, and in a country with large-scale unemployment the use of computers for labour-saving work 'may not be desirable or may even be detrimental'. It asked the government to weigh the social cost of computerisation.[104] The DoE, Rajaraman writes, was constrained by these observations and had to move cautiously.[105]
+What happened to the recommendations is not documented in the sources read for this chapter. Rajaraman, writing as a participant in the period, judges that the committee 'prescribed in 1972 strict controls' and that its report 'constrained the introduction of computers in banks, insurance companies and many private companies'. He attributes its hostility partly to the 1401s themselves: small machines used for payroll, accounts and stores, which vocal white-collar workers saw as labour-saving devices, unlike the slower punched-card equipment that had needed many operators.[104] In 1975 Parliament's Public Accounts Committee added its own caution: efficiency gains came only in the long run, and in a country with large-scale unemployment the use of computers for labour-saving work 'may not be desirable or may even be detrimental'. It asked the government to weigh the social cost of computerisation.[105] The DoE, Rajaraman writes, was constrained by these observations and had to move cautiously.[106]
 
 ## Training the state's own
 
-The state that restricted computers also trained people to use them, and much of this chapter's education story runs through its institutions rather than through universities. IBM had trained the first generation of programmers and maintenance engineers on its rented 1401s.[106] ECIL trained its thousand systems engineers.[107] At IIT Kanpur, as Chapter 2 described, short programming courses for people from other institutions ran three or four times a year until 1975.[108]
+The state that restricted computers also trained people to use them, and much of this chapter's education story runs through its institutions rather than through universities. IBM had trained the first generation of programmers and maintenance engineers on its rented 1401s.[107] ECIL trained its thousand systems engineers.[108] At IIT Kanpur, as Chapter 2 described, short programming courses for people from other institutions ran three or four times a year until 1975.[109]
 
-The DoE's largest training venture was the National Centre for Software Development and Computing Techniques (NCSDCT) at TIFR. Rajaraman dates it to 1972, with Rs 2.85 million from the DoE and $2 million from UNDP.[109] Narasimhan, who directed it from 1975 to 1985, gives a fuller account. A UNDP mission in May 1973 surveyed computer science across the country and recommended placing the centre at TIFR, which had run the National Computation Centre on its CDC 3600 since 1964 for users from petroleum companies and dockyards to space agencies and town planners. The centre began working informally in late 1974 and was formally launched in 1975, when a dual-processor DEC 1077 system and a graphics system were installed.[110] At full strength it had a research staff of about 30, roughly a third of them with doctorates.[111]
+The DoE's largest training venture was the National Centre for Software Development and Computing Techniques (NCSDCT) at TIFR. Rajaraman dates it to 1972, with Rs 2.85 million from the DoE and $2 million from UNDP.[110] Narasimhan, who directed it from 1975 to 1985, gives a fuller account. A UNDP mission in May 1973 surveyed computer science across the country and recommended placing the centre at TIFR, which had run the National Computation Centre on its CDC 3600 since 1964 for users from petroleum companies and dockyards to space agencies and town planners. The centre began working informally in late 1974 and was formally launched in 1975, when a dual-processor DEC 1077 system and a graphics system were installed.[111] At full strength it had a research staff of about 30, roughly a third of them with doctorates.[112]
 
-Narasimhan saw the training of enough software engineers as a major challenge. 'Formal educational channels are wholly inadequate to cope with a demand of this magnitude,' he wrote. NCSDCT's answer was a one-year evening course in computer science, held at the Victoria Jubilee Technical Institute in central Bombay and linked by telephone lines to the PDP-10 computer at TIFR. Preference went to people already working in software, employers were persuaded to pay, entry was by a fairly rigorous test, and classes took 60 to 80 students at a time, taught largely through self-study, assignments and imported textbooks.[112] Narasimhan's account does not give the year of the first course, and the students' own experience is not recorded.
+Narasimhan saw the training of enough software engineers as a major challenge. 'Formal educational channels are wholly inadequate to cope with a demand of this magnitude,' he wrote. NCSDCT's answer was a one-year evening course in computer science, held at the Victoria Jubilee Technical Institute in central Bombay and linked by telephone lines to the PDP-10 computer at TIFR. Preference went to people already working in software, employers were persuaded to pay, entry was by a fairly rigorous test, and classes took 60 to 80 students at a time, taught largely through self-study, assignments and imported textbooks.[113] Narasimhan's account does not give the year of the first course, and the students' own experience is not recorded.
 
-The DoE built other institutions too. The National Informatics Centre, founded in 1975 with Rs 31.72 million from the DoE and $4.4 million from UNDP, set up a large computer centre in New Delhi for central government data processing.[113] Regional Computer Centres followed: at Poona in 1974, with an ICL mainframe offering cheap computer time to students and software exporters; at Jadavpur University in Calcutta in 1977, where students in eastern India had free access to a Burroughs mainframe; and at Chandigarh.[114] In 1976 the DoE created the Computer Maintenance Corporation (CMC), at a cost of Rs 53 million, to maintain imported computers and, foreseeing IBM's departure, the machines IBM would leave behind.[115] These bodies employed engineers and programmers on government terms. Of NCSDCT's successor, Rajaraman notes that a core group of its scientists 'later became leaders in the profession'.[116]
+The DoE built other institutions too. The National Informatics Centre, founded in 1975 with Rs 31.72 million from the DoE and $4.4 million from UNDP, set up a large computer centre in New Delhi for central government data processing.[114] Regional Computer Centres followed: at Poona in 1974, with an ICL mainframe offering cheap computer time to students and software exporters; at Jadavpur University in Calcutta in 1977, where students in eastern India had free access to a Burroughs mainframe; and at Chandigarh.[115] In 1976 the DoE created the Computer Maintenance Corporation (CMC), at a cost of Rs 53 million, to maintain imported computers and, foreseeing IBM's departure, the machines IBM would leave behind.[116] These bodies employed engineers and programmers on government terms. Of NCSDCT's successor, Rajaraman notes that a core group of its scientists 'later became leaders in the profession'.[117]
 
 ## A small door marked export
 
-One DoE decision of these years mattered more than its authors could have known. Rajaraman records that, 'recognizing the potential of software export', the department allowed computers to be imported exclusively for software export, and that the first policy paper on this was published in 1974.[117] It was the idea Rajaraman had put to the 1970 conference, turned into an import rule: a computer could be justified if it earned foreign exchange by producing software for foreign clients.
+One DoE decision of these years mattered more than its authors could have known. Rajaraman records that, 'recognizing the potential of software export', the department allowed computers to be imported exclusively for software export, and that the first policy paper on this was published in 1974.[118] It was the idea Rajaraman had put to the 1970 conference, turned into an import rule: a computer could be justified if it earned foreign exchange by producing software for foreign clients.
 
-TCS, the Tata group's computer services unit, used the rule to import a mainframe and earn foreign exchange from programming work done for clients abroad; the next chapter tells that story.[118] What matters here is the mechanism. In a decade when almost every computer import was suspect, the one sure justification was export earnings, and the export that India could make was programming.
+TCS, the Tata group's computer services unit, used the rule to import a mainframe and earn foreign exchange from programming work done for clients abroad; the next chapter tells that story.[119] What matters here is the mechanism. In a decade when almost every computer import was suspect, the one sure justification was export earnings, and the export that India could make was programming.
 
 ## Four explanations
 
 The sources agree on what happened between 1962 and 1977: few computers, slow imports, a public-sector maker that sold 98 machines in seven years, and organised resistance to office computers. They disagree on why India did not build a computer industry.
 
-Rajaraman's verdict, in the conclusions to his history, is that 'as a poor country with a low demand for computers it was strategically incorrect to try to design computers starting at the component level during 1970-1980 and hope to be completely "self-reliant"'. It would have been wiser to concentrate on systems engineering and build from sub-assemblies.[119] He also judges that 'the fear of unemployment which was in the backdrop while taking decisions regarding the use of computers in the 70s was misplaced'.[120] Narasimhan's earlier argument, met in Chapter 1, is that building second-generation computers required production know-how that only large-scale manufacturers had or could command.[121] The historian Dwaipayan Banerjee (Chapter 1), in a book of 2026 known here only through the publisher's description and a news report, argues that Cold War politics, trade imbalances, the monopolies of American corporations and the preference of India's technocratic elite for profitable technical services over research and manufacturing stood in the way of a self-reliant industry.[122]
+Rajaraman's verdict, in the conclusions to his history, is that 'as a poor country with a low demand for computers it was strategically incorrect to try to design computers starting at the component level during 1970-1980 and hope to be completely "self-reliant"'. It would have been wiser to concentrate on systems engineering and build from sub-assemblies.[120] He also judges that 'the fear of unemployment which was in the backdrop while taking decisions regarding the use of computers in the 70s was misplaced'.[121] Narasimhan's earlier argument, met in Chapter 1, is that building second-generation computers required production know-how that only large-scale manufacturers had or could command.[122] Banerjee, in a book known here only through the publisher's description, a news report and three reviews, argues that Cold War politics, trade imbalances, the monopolies of American corporations and the preference of India's technocratic elite for profitable technical services over research and manufacturing stood in the way of a self-reliant industry.[123] The historian Nikhil Menon (Chapter 1), reviewing the book in 2026, reports its conclusion: 'What held India back was not its reliance on the state, but rather the fragmented nature of the state, its inability to direct capital efficiently, and India's geopolitical position during the Cold War.' His own summary of the outcome is blunter: 'India locked itself into cheap, skilled, backend service provision: reliance, not self-reliance.'[124]
 
-The Committee on Automation adds a fourth force that the others mention only in passing. Organised clerical labour made the computer politically costly in exactly the sectors (insurance, banking, the railways) that would later be among its largest users.[123] Even the committee's industrialists accepted the prior-agreement rule, 'despite many reservations'.[124] These explanations do not exclude one another, and the evidence for this period cannot rank them. The state was at once an obstacle (licensing, the protection of ECIL, the ban on private manufacture) and a builder (NCSDCT, the National Informatics Centre, CMC, the regional centres and the 1974 export rule), and both roles appear in the same documents.[125]
+The Committee on Automation adds a fourth force that the others mention only in passing. Organised clerical labour made the computer politically costly in exactly the sectors (insurance, banking, the railways) that would later be among its largest users.[125] Even the committee's industrialists accepted the prior-agreement rule, 'despite many reservations'.[126] These explanations do not exclude one another, and the evidence for this period cannot rank them. The state was at once an obstacle (licensing, the protection of ECIL, the ban on private manufacture) and a builder (NCSDCT, the National Informatics Centre, CMC, the regional centres and the 1974 export rule), and both roles appear in the same documents.[127]
 
 ## Who learned, and who worked
 
-The people who learned computing in these years learned it mostly outside degree programmes: from IBM's systems engineers, at ECIL, at TIFR and NCSDCT, in Kanpur's short courses and on defence projects such as ADGES. Degrees in the subject were still rare and very recent. The work itself was done in a few dozen organisations in a handful of cities, above all Bombay and Delhi: the public-sector companies, the railways, the government's data centres, research institutes, IBM and ICL, and the computer departments of large firms, banks and insurers.[126] Inside those firms the new posts of programmer and systems analyst were often filled by clerks and punch-card operators who were retrained, and who gained better pay by moving.[127]
+The people who learned computing in these years learned it mostly outside degree programmes: from IBM's systems engineers, at ECIL, at TIFR and NCSDCT, in Kanpur's short courses and on defence projects such as ADGES. Degrees in the subject were still rare and very recent. The work itself was done in a few dozen organisations in a handful of cities, above all Bombay and Delhi: the public-sector companies, the railways, the government's data centres, research institutes, IBM and ICL, and the computer departments of large firms, banks and insurers.[128] Inside those firms the new posts of programmer and systems analyst were often filled by clerks and punch-card operators who were retrained, and who gained better pay by moving.[129]
 
-The organised workforce of the period was not made up of programmers. It was made up of clerks, and their unions shaped where computers could go. Their collective voice survives in the committee records quoted in this chapter. No individual insurance clerk, ECIL engineer or IBM trainee speaking in his or her own published words has been found for this book, and the sources used here are almost silent about pay and about women. Women barely appear in the committee's report. Its long lists of witnesses include a Miss E. D'Souza among the delegation from the Maharashtra branch of INTUC, and its own staff included a deputy director, Kamala Mathur.[128]
+The organised workforce of the period was not made up of programmers. It was made up of clerks, and their unions shaped where computers could go. Their collective voice survives in the committee records quoted in this chapter. No individual insurance clerk, ECIL engineer or IBM trainee speaking in his or her own published words has been found for this book, and the sources used here are almost silent about pay and about women. Women barely appear in the committee's report. Its long lists of witnesses include a Miss E. D'Souza among the delegation from the Maharashtra branch of INTUC, and its own staff included a deputy director, Kamala Mathur.[130]
 
 ## Coda: 1977
 
-In 1975 Indira Gandhi declared a state of emergency after a court ruled her election invalid; civil rights were suspended and opposition leaders arrested. The emergency ended in 1977, and in the general election that followed the Congress party lost power for the first time since independence. A coalition led by the Janata Party formed the government, with Morarji Desai as prime minister.[129] Ten years earlier, as Finance Minister, Desai had told the Lok Sabha, according to summaries of the debate, that LIC's computer would cost no one a job.[130]
+In 1975 Indira Gandhi declared a state of emergency after a court ruled her election invalid; civil rights were suspended and opposition leaders arrested. The emergency ended in 1977, and in the general election that followed the Congress party lost power for the first time since independence. A coalition led by the Janata Party formed the government, with Morarji Desai as prime minister.[131] Ten years earlier, as Finance Minister, Desai had told the Lok Sabha, according to summaries of the debate, that LIC's computer would cost no one a job.[132]
 
-The change reached the computer policy quickly. Menon was replaced as secretary of the DoE, and in 1978 the government at last announced a minicomputer policy close to the lines of Rao's panel.[131] The same year IBM left India. Rajaraman judges the timing well chosen, since a number of private entrepreneurs were ready to take the space IBM had left.[132]
+The change reached the computer policy quickly. M.G.K. Menon was replaced as secretary of the DoE, and in 1978 the government at last announced a minicomputer policy close to the lines of Rao's panel.[133] The same year IBM left India. Rajaraman judges the timing well chosen, since a number of private entrepreneurs were ready to take the space IBM had left.[134]
 
 The self-reliance programme had produced fewer than a hundred commercial computers and more than a thousand trained engineers. The labour settlement had made the office computer something a firm had to justify to its workers. And the strict rules on importing computers had left one opening: a machine could be justified if it earned foreign exchange by writing software for foreign clients. In the summer of 1970, when the Committee on Automation took evidence in Bombay, one of the delegations in front of it came from a small Tata unit that called itself a consultancy. The next chapter follows that unit, and the experiment that turned the export opening into a business.
 
@@ -1178,81 +1204,81 @@ The self-reliance programme had produced fewer than a hundred commercial compute
 
 [16] Rajaraman, *History of Computing in India* (2012), p. 19.
 
-[17] Rajaraman, *History of Computing in India* (2012), p. 19.
+[17] Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026) (inner phrase quoted from the book, no page given); Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), p. 2. Reviewers' reports only; post-cutoff material, checked in October 2026.
 
-[18] Rajaraman, *History of Computing in India* (2012), p. 70; Penn World Table 11.0, exchange rate series (annual average rates: 1965 Rs 4.76, 1970 Rs 7.50 per dollar).
+[18] Rajaraman, *History of Computing in India* (2012), p. 19.
 
-[19] Rajaraman, *History of Computing in India* (2012), p. 70.
+[19] Rajaraman, *History of Computing in India* (2012), p. 70; Penn World Table 11.0, exchange rate series (annual average rates: 1965 Rs 4.76, 1970 Rs 7.50 per dollar).
 
-[20] Rajaraman, *History of Computing in India* (2012), p. 19.
+[20] Rajaraman, *History of Computing in India* (2012), p. 70.
 
 [21] Rajaraman, *History of Computing in India* (2012), p. 19.
 
-[22] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 32.
+[22] Rajaraman, *History of Computing in India* (2012), p. 19.
 
-[23] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 34.
+[23] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 32.
 
-[24] Rajaraman, *History of Computing in India* (2012), p. 21.
+[24] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 34.
 
 [25] Rajaraman, *History of Computing in India* (2012), p. 21.
 
-[26] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022) (web extract, unpaginated).
+[26] Rajaraman, *History of Computing in India* (2012), p. 21.
 
-[27] Rajaraman, *History of Computing in India* (2012), p. 21.
+[27] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022) (web extract, unpaginated).
 
-[28] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+[28] Rajaraman, *History of Computing in India* (2012), p. 21.
 
-[29] Rajaraman, *History of Computing in India* (2012), p. 21.
+[29] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
 
-[30] Rajaraman, *History of Computing in India* (2012), p. 24.
+[30] Rajaraman, *History of Computing in India* (2012), p. 21.
 
-[31] Rajaraman, *History of Computing in India* (2012), p. 21.
+[31] Rajaraman, *History of Computing in India* (2012), p. 24.
 
-[32] Rajaraman, *History of Computing in India* (2012), pp. 21-22; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
+[32] Rajaraman, *History of Computing in India* (2012), p. 21.
 
-[33] Rajaraman, *History of Computing in India* (2012), p. 22.
+[33] Rajaraman, *History of Computing in India* (2012), pp. 21-22; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
 
 [34] Rajaraman, *History of Computing in India* (2012), p. 22.
 
-[35] Rajaraman, *History of Computing in India* (2012), pp. 24, 70; Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022).
+[35] Rajaraman, *History of Computing in India* (2012), p. 22.
 
-[36] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+[36] Rajaraman, *History of Computing in India* (2012), pp. 24, 70; Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022).
 
-[37] Rajaraman, *History of Computing in India* (2012), p. 23.
+[37] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
 
-[38] Rajaraman, *History of Computing in India* (2012), p. 22.
+[38] Rajaraman, *History of Computing in India* (2012), p. 23.
 
-[39] Rajaraman, *History of Computing in India* (2012), p. 23.
+[39] Rajaraman, *History of Computing in India* (2012), p. 22.
 
 [40] Rajaraman, *History of Computing in India* (2012), p. 23.
 
 [41] Rajaraman, *History of Computing in India* (2012), p. 23.
 
-[42] Rajaraman, *History of Computing in India* (2012), p. 24.
+[42] Rajaraman, *History of Computing in India* (2012), p. 23.
 
-[43] Rajaraman, *History of Computing in India* (2012), pp. 24, 71.
+[43] Rajaraman, *History of Computing in India* (2012), p. 24.
 
-[44] Rajaraman, *History of Computing in India* (2012), p. 27.
+[44] Rajaraman, *History of Computing in India* (2012), pp. 24, 71.
 
-[45] Rajaraman, *History of Computing in India* (2012), pp. 25, 70.
+[45] Rajaraman, *History of Computing in India* (2012), p. 27.
 
-[46] Rajaraman, *History of Computing in India* (2012), p. 25.
+[46] Rajaraman, *History of Computing in India* (2012), pp. 25, 70.
 
 [47] Rajaraman, *History of Computing in India* (2012), p. 25.
 
 [48] Rajaraman, *History of Computing in India* (2012), p. 25.
 
-[49] Rajaraman, *History of Computing in India* (2012), p. 25; Federal Reserve, G.5A Foreign Exchange Rates (1975 annual average, Rs 8.41 per dollar).
+[49] Rajaraman, *History of Computing in India* (2012), p. 25.
 
-[50] Rajaraman, *History of Computing in India* (2012), pp. 25-26.
+[50] Rajaraman, *History of Computing in India* (2012), p. 25; Federal Reserve, G.5A Foreign Exchange Rates (1975 annual average, Rs 8.41 per dollar).
 
-[51] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[51] Rajaraman, *History of Computing in India* (2012), pp. 25-26.
 
-[52] Rajaraman, *History of Computing in India* (2012), p. 26.
+[52] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
 
-[53] Rajaraman, *History of Computing in India* (2012), p. 25.
+[53] Rajaraman, *History of Computing in India* (2012), p. 26.
 
-[54] Rajaraman, *History of Computing in India* (2012), p. 26.
+[54] Rajaraman, *History of Computing in India* (2012), p. 25.
 
 [55] Rajaraman, *History of Computing in India* (2012), p. 26.
 
@@ -1260,155 +1286,159 @@ The self-reliance programme had produced fewer than a hundred commercial compute
 
 [57] Rajaraman, *History of Computing in India* (2012), p. 26.
 
-[58] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 1-2.
+[58] Rajaraman, *History of Computing in India* (2012), p. 26.
 
-[59] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2.
+[59] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 1-2.
 
 [60] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2.
 
-[61] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 62-63.
+[61] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2.
 
-[62] Indian Labour Archives, 'Ajoy Dasgupta', p. 2.
+[62] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 62-63.
 
-[63] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-3.
+[63] Indian Labour Archives, 'Ajoy Dasgupta', p. 2.
 
-[64] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+[64] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-3.
 
-[65] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 3.
+[65] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
 
-[66] *Lok Sabha Debates*, 24 November 1966. Paraphrased.
+[66] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 3.
 
-[67] *Lok Sabha Debates*, 23 March 1967. Paraphrased.
+[67] *Lok Sabha Debates*, 24 November 1966. Paraphrased.
 
-[68] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 3-4.
+[68] *Lok Sabha Debates*, 23 March 1967. Paraphrased.
 
-[69] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
+[69] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 3-4.
 
 [70] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
 
-[71] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 24-25.
+[71] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
 
-[72] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 25.
+[72] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 24-25.
 
-[73] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
+[73] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 25.
 
-[74] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 30.
+[74] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
 
-[75] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 29.
+[75] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 30.
 
-[76] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
+[76] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 29.
 
-[77] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 40.
+[77] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
 
-[78] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52, 55.
+[78] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 40.
 
-[79] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 56.
+[79] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52, 55.
 
-[80] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 57.
+[80] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 56.
 
-[81] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52-53.
+[81] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 57.
 
-[82] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 53, 160.
+[82] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52-53.
 
-[83] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 54.
+[83] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 53, 160.
 
-[84] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 63-64.
+[84] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 54.
 
-[85] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 65.
+[85] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 63-64.
 
-[86] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 7, 89.
+[86] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 65.
 
-[87] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 7.
+[87] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 7, 89.
 
-[88] Rajaraman, *History of Computing in India* (2012), p. 22.
+[88] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 7.
 
-[89] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 136-139.
+[89] Rajaraman, *History of Computing in India* (2012), p. 22.
 
-[90] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 139-140.
+[90] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 136-139.
 
-[91] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 35.
+[91] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 139-140.
 
-[92] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 36-37.
+[92] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 35.
 
-[93] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 75.
+[93] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 36-37.
 
-[94] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 67.
+[94] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 75.
 
-[95] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 67-68.
+[95] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 67.
 
-[96] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 69.
+[96] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 67-68.
 
-[97] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 70.
+[97] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 69.
 
-[98] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 70-72.
+[98] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 70.
 
-[99] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 73-74.
+[99] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 70-72.
 
-[100] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 79-80.
+[100] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 73-74.
 
-[101] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 81-82.
+[101] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 79-80.
 
-[102] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 83-85.
+[102] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 81-82.
 
-[103] Rajaraman, *History of Computing in India* (2012), pp. 22-23.
+[103] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 83-85.
 
-[104] Rajaraman, *History of Computing in India* (2012), p. 23.
+[104] Rajaraman, *History of Computing in India* (2012), pp. 22-23.
 
 [105] Rajaraman, *History of Computing in India* (2012), p. 23.
 
-[106] Rajaraman, *History of Computing in India* (2012), p. 19.
+[106] Rajaraman, *History of Computing in India* (2012), p. 23.
 
-[107] Rajaraman, *History of Computing in India* (2012), p. 26.
+[107] Rajaraman, *History of Computing in India* (2012), p. 19.
 
-[108] Rajaraman, *History of Computing in India* (2012), p. 18 (three times a year); Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (four times a year).
+[108] Rajaraman, *History of Computing in India* (2012), p. 26.
 
-[109] Rajaraman, *History of Computing in India* (2012), p. 27.
+[109] Rajaraman, *History of Computing in India* (2012), p. 18 (three times a year); Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (four times a year).
 
-[110] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 450-451.
+[110] Rajaraman, *History of Computing in India* (2012), p. 27.
 
-[111] Narasimhan, 'Men, Machines and Ideas' (1999), p. 451.
+[111] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 450-451.
 
 [112] Narasimhan, 'Men, Machines and Ideas' (1999), p. 451.
 
-[113] Rajaraman, *History of Computing in India* (2012), p. 27.
+[113] Narasimhan, 'Men, Machines and Ideas' (1999), p. 451.
 
-[114] Rajaraman, *History of Computing in India* (2012), pp. 28, 71.
+[114] Rajaraman, *History of Computing in India* (2012), p. 27.
 
-[115] Rajaraman, *History of Computing in India* (2012), p. 28; Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+[115] Rajaraman, *History of Computing in India* (2012), pp. 28, 71.
 
-[116] Rajaraman, *History of Computing in India* (2012), p. 27.
+[116] Rajaraman, *History of Computing in India* (2012), p. 28; Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
 
-[117] Rajaraman, *History of Computing in India* (2012), p. 28.
+[117] Rajaraman, *History of Computing in India* (2012), p. 27.
 
 [118] Rajaraman, *History of Computing in India* (2012), p. 28.
 
-[119] Rajaraman, *History of Computing in India* (2012), p. 59.
+[119] Rajaraman, *History of Computing in India* (2012), p. 28.
 
 [120] Rajaraman, *History of Computing in India* (2012), p. 59.
 
-[121] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+[121] Rajaraman, *History of Computing in India* (2012), p. 59.
 
-[122] Banerjee, *Computing in the Age of Decolonization* (2026); Dizikes, 'The Tech Revolution That Wasn't' (2026). Book not read; publisher description and MIT News report (May 2026), consulted 2026-10-12; live-checked 2026-10-13; post-cutoff material. Paraphrased.
+[122] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
 
-[123] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-4, 63.
+[123] Banerjee, *Computing in the Age of Decolonization* (2026); Dizikes, 'The Tech Revolution That Wasn't' (2026); reviews Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026), Menon, 'India's Pursuit of Tech Self-Reliance' (2026). Book not read; publisher description and MIT News report (May 2026), consulted 2026-10-12; live-checked 2026-10-13; post-cutoff material. Paraphrased.
 
-[124] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 85.
+[124] Menon, 'India's Pursuit of Tech Self-Reliance' (2026), pp. 98-100 (Menon, review of Banerjee, *Computing in the Age of Decolonization* (2026), *Issues in Science and Technology* 42, no. 4, Summer 2026; the first sentence is his statement of the book's argument, the second his own). Post-cutoff; checked against the live page 2026-10-15.
 
-[125] Rajaraman, *History of Computing in India* (2012), pp. 27-28.
+[125] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-4, 63.
 
-[126] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 25; Rajaraman, *History of Computing in India* (2012), pp. 19, 26-28.
+[126] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 85.
 
-[127] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 55.
+[127] Rajaraman, *History of Computing in India* (2012), pp. 27-28.
 
-[128] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 74, 137.
+[128] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 25; Rajaraman, *History of Computing in India* (2012), pp. 19, 26-28.
 
-[129] Rajaraman, *History of Computing in India* (2012), p. 82.
+[129] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 55.
 
-[130] *Lok Sabha Debates*, 23 March 1967. Paraphrased.
+[130] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 74, 137.
 
-[131] Rajaraman, *History of Computing in India* (2012), p. 24.
+[131] Rajaraman, *History of Computing in India* (2012), p. 82.
 
-[132] Rajaraman, *History of Computing in India* (2012), p. 24.
+[132] *Lok Sabha Debates*, 23 March 1967. Paraphrased.
+
+[133] Rajaraman, *History of Computing in India* (2012), p. 24.
+
+[134] Rajaraman, *History of Computing in India* (2012), p. 24.
 
 
 # Chapter 4. Tata's experiment (1968-1978)
@@ -1465,63 +1495,65 @@ The rule that turned scarcity into an export business is dated differently by di
 
 The idea was older than the policy: Rajaraman had argued at a conference in 1970 that software export could earn foreign exchange (Chapter 3).[47]
 
-The mechanism is described in detail only for TCS's own Burroughs computer, in the *Technology Review* profile. The machine cost $340,000, and more than twice that once Indian tariffs were added. The government allowed the import on condition that TCS export twice the machine's value within five years. TCS met the condition.[48] A computer, in other words, was licensed against future earnings abroad. A firm that wanted machines had to sell outside India, and what it had to sell was the skill of its staff. It is not clear from the profile whether 'twice the value' meant twice the $340,000 or twice the cost after tariffs, and the import licence itself has not been seen. Nor was the rule watertight. Aspray concludes that by 1980 most of the hardware imported into India was being used for domestic purposes, not for producing software exports.[49]
+The mechanism is described in detail only for TCS's own Burroughs computer, in the *Technology Review* profile. The machine cost $340,000, and more than twice that once Indian tariffs were added. The government allowed the import on condition that TCS export twice the machine's value within five years. TCS met the condition.[48] A second account, a 2008 profile of Ramadorai in *The Economist* that drew on him and other long-serving TCS staff, dates the purchase of TCS's new Burroughs computer to 1974 and puts the tariff on it at 101.25 per cent, made up of import duty, auxiliary duty, countervailing duty and a levy towards the cost of the war in Bangladesh. It states the condition in the same terms: 'The government required TCS to earn twice as much from exports as it spent on its imported machines.'[49] That 1974 date matches Rajaraman's, but it dates TCS's own licence, not the general rule. A computer, in other words, was licensed against future earnings abroad. A firm that wanted machines had to sell outside India, and what it had to sell was the skill of its staff. Neither account makes clear whether the duty counted towards the sum to be earned back, and the import licence itself has not been seen. Nor was the rule watertight. Aspray concludes that by 1980 most of the hardware imported into India was being used for domestic purposes, not for producing software exports.[50]
 
 ## Burroughs
 
-TCS tied its fortunes to Burroughs, a computer maker based in Detroit. Sharma says simply that Kohli decided to work with IBM's closest rival.[50] In 2020 Kohli recalled that he had built up the relationship while he was in the United States, and called Burroughs the 'number two computer company at that time'. It was, he said, not a legal partnership.[51] Aspray writes that TCS became Burroughs' exclusive agent in India.[52] The Tata group dates the partnership to 1973; the *Technology Review* profile places the first contract in 1974.[53] The likeliest reading is a relationship formed in 1973-74.
+TCS tied its fortunes to Burroughs, a computer maker based in Detroit. Sharma says simply that Kohli decided to work with IBM's closest rival.[51] In 2020 Kohli recalled that he had built up the relationship while he was in the United States, and called Burroughs the 'number two computer company at that time'. It was, he said, not a legal partnership.[52] Aspray writes that TCS became Burroughs' exclusive agent in India.[53] The Tata group dates the partnership to 1973; the *Technology Review* profile places the first contract in 1974.[54] The likeliest reading is a relationship formed in 1973-74.
 
-The accounts of the first work differ in emphasis. In the profile, Burroughs wanted a healthcare software package to sell with its new computers, and TCS had no Burroughs machine in India to write it on. Its programmers wrote the software on the ICL and built a filter, a program that converted it to run on Burroughs hardware. The job made Burroughs a large repeat client.[54] Sharma describes the breakthrough as a contract to write operating-system software for a new series of Burroughs mainframes, and credits a group of young engineers with the filter that made ICL software work on the Burroughs platform.[55] Rajaraman says that TCS imported a Burroughs B6700 and converted software written for other makers' computers to run on Burroughs machines, and that Burroughs outsourced many such jobs to TCS.[56] The Tata group's timeline speaks of converting a hospital-accounting system for a Detroit client in 1973, which the company describes as the first recorded case of offshore software delivery.[57] That is a company's claim about itself. These versions can be read as a sequence, conversion first, then application packages, then systems software, but the documents that would settle it have not been seen.
+The accounts of the first work differ in emphasis. In the profile, Burroughs wanted a healthcare software package to sell with its new computers, and TCS had no Burroughs machine in India to write it on. Its programmers wrote the software on the ICL and built a filter, a program that converted it to run on Burroughs hardware. The job made Burroughs a large repeat client.[55] Sharma describes the breakthrough as a contract to write operating-system software for a new series of Burroughs mainframes, and credits a group of young engineers with the filter that made ICL software work on the Burroughs platform.[56] Rajaraman says that TCS imported a Burroughs B6700 and converted software written for other makers' computers to run on Burroughs machines, and that Burroughs outsourced many such jobs to TCS.[57] The Tata group's timeline speaks of converting a hospital-accounting system for a Detroit client in 1973, which the company describes as the first recorded case of offshore software delivery.[58] That is a company's claim about itself. These versions can be read as a sequence, conversion first, then application packages, then systems software, but the documents that would settle it have not been seen.
 
-The first offshore job is itself uncertain, and the 1973 hospital job is the company's own nomination. Sharma lists the clients who followed as the Detroit Police, the City of Detroit, the State University of New York and several banks.[58] S. Ramadorai, who started at TCS as an assistant systems programmer and succeeded Kohli as chief executive in 1996, has written the company's history, which has not been seen for this book; a published review says only that the arrangement with Burroughs let TCS do part of the development work in India and part at client locations abroad.[59]
+The first offshore job is itself uncertain, and the 1973 hospital job is the company's own nomination. Sharma lists the clients who followed as the Detroit Police, the City of Detroit, the State University of New York and several banks.[59] S. Ramadorai, who started at TCS as an assistant systems programmer and succeeded Kohli as chief executive in 1996, has written the company's history, which has not been seen for this book; a published review says only that the arrangement with Burroughs let TCS do part of the development work in India and part at client locations abroad.[60]
 
 Whichever account is closest, the work had a pattern that would last. Programmers in Bombay wrote code for machines they could not see, and the code was carried to the United States to run. Software was the one product a computer-starved country could make without many computers of its own, so long as it had one machine to write on and a way to move the result.
 
-The partnership spread beyond services. Rajaraman records that Tata and Burroughs formed a company to manufacture computers in Bombay in 1975, which failed and closed after four years.[60] Sharma says that Tata and Burroughs went into making peripherals in India and also set up a separate software unit, Tata Burroughs Limited, which, with TCS, remained India's top software exporter for a long time.[61] Whether Rajaraman's manufacturing company and Sharma's peripherals venture were the same is not clear from the sources. TCS also looked well beyond Detroit. The company lists a project for an electric utility in Iran in 1971 and a project for a British housing society, done for Burroughs, in 1974.[62] Rajaraman, independently, says TCS 'actively scouted for programming work' in Iran, Switzerland, South Africa and Canada as well as the United States, and that it 'was able to demonstrate that software services export from India was feasible and profitable'.[63] According to the Tata group, Kohli received an award as a leading exporter from the Engineering Export Promotion Council in 1976.[64] The Tata group's tribute adds that customers valued the company's quality of service at a low cost, the more so after the 1973 oil crisis.[65] That is the company's own statement of the cost advantage on which the industry would be built.
+The partnership spread beyond services. Rajaraman records that Tata and Burroughs formed a company to manufacture computers in Bombay in 1975, which failed and closed after four years.[61] Sharma says that Tata and Burroughs went into making peripherals in India and also set up a separate software unit, Tata Burroughs Limited, which, with TCS, remained India's top software exporter for a long time.[62] Whether Rajaraman's manufacturing company and Sharma's peripherals venture were the same is not clear from the sources. TCS also looked well beyond Detroit. The company lists a project for an electric utility in Iran in 1971 and a project for a British housing society, done for Burroughs, in 1974.[63] Rajaraman, independently, says TCS 'actively scouted for programming work' in Iran, Switzerland, South Africa and Canada as well as the United States, and that it 'was able to demonstrate that software services export from India was feasible and profitable'.[64] According to the Tata group, Kohli received an award as a leading exporter from the Engineering Export Promotion Council in 1976.[65] The Tata group's tribute adds that customers valued the company's quality of service at a low cost, the more so after the 1973 oil crisis.[66] That is the company's own statement of the cost advantage on which the industry would be built.
 
 ## Programmers on site
 
-Not all the work could be done in Bombay. Aspray writes that Burroughs asked TCS to send programmers to the United States to install systems software for Burroughs customers, and he treats that request as the birth of India's software export business.[66] A manufacturer installing machines at its customers' premises needed programmers there, and TCS supplied them. The practice that grew from this came to be called 'body shopping' (Chapter 6).[67] Aspray says the name was applied derisively and that, once TCS had succeeded, other Indian firms began to offer the same service.[68]
+Not all the work could be done in Bombay. Aspray writes that Burroughs asked TCS to send programmers to the United States to install systems software for Burroughs customers, and he treats that request as the birth of India's software export business.[67] A manufacturer installing machines at its customers' premises needed programmers there, and TCS supplied them. The practice that grew from this came to be called 'body shopping' (Chapter 6).[68] Aspray says the name was applied derisively and that, once TCS had succeeded, other Indian firms began to offer the same service.[69]
 
 The book's central question about the business model has to be asked here, and it cannot yet be answered. The sources show programmers sent abroad and machines licensed against exports. None shows how TCS charged Burroughs or its American clients in the 1970s: by the person-month, by the hour or by a fixed price for each job. The conversion and package work suggests fixed deliverables; the installation work on site suggests time-based billing. Until a contract, a rate card or a first-hand account is found, it cannot be said that billing by the hour began here. What can be said is that the industry's first exports combined two things: code written at home and people's time spent at a client's site. Chapter 6 follows how the second came to dominate.
 
-The scale stayed small. Rajaraman judges that India's software exports were insignificant in 1978.[69] Aspray puts the industry in 1980 at twenty-one firms exporting about $4 million a year, mostly by sending people to client sites; that figure has not yet been checked against official data.[70]
+The scale stayed small. Rajaraman judges that India's software exports were insignificant in 1978.[70] A contemporary estimate points the same way. In April 1978 the West German trade weekly *Computerwoche* put India's software exports in 1977 at about Rs 10 million, roughly $1.1 million at the 1977 average rate, and named TCS and the Operations Research Group of Baroda (now Vadodara) as firms that had reached markets in the United States and western Europe.[71] Aspray puts the industry in 1980 at twenty-one firms exporting about $4 million a year, mostly by sending people to client sites; that figure has not yet been checked against official data.[72]
 
 ## Data by air
 
-The second experiment was smaller, and in one way it went further. Narendra Patni had studied at MIT and, according to Bassett, worked with the computer pioneer and entrepreneur Jay Forrester, doing consulting work and taking part in his business ventures.[71] Sharma writes that Patni formed Data Conversion Inc., the forerunner of his later Patni Computer Systems, to convert paper records into data on paper and magnetic tape, and dates the start of the outsourcing model to 1972.[72]
+The second experiment was smaller, and in one way it went further. Narendra Patni had studied at MIT and, according to Bassett, worked with the computer pioneer and entrepreneur Jay Forrester, doing consulting work and taking part in his business ventures.[73] Sharma writes that Patni formed Data Conversion Inc., the forerunner of his later Patni Computer Systems, to convert paper records into data on paper and magnetic tape, and dates the start of the outsourcing model to 1972.[74]
 
-Sharma describes how the model was tested. Patni and his wife, Poonam, tried it out in their apartment in Cambridge, Massachusetts, with the living room standing for the United States and the bedroom for India.[73] A team of data-entry operators was then hired in Poona, two dozen by Sharma's account; a *Business Standard* profile of 2007 says the Patnis began from their apartment in 1972 and that the Poona office was started by Poonam Patni with twenty people.[74] The work was keying American documents onto tape in India and sending the tapes back. It was an early form of the offshore 'process' work that would fill the back offices of the 1990s, and it began two decades before them. The living-room test rests on Sharma's account alone; the *Business Standard* profile confirms only that the business began in the apartment. The operators in Poona are the chapter's most obvious rank-and-file workers, and none of them is named in any source.
+Sharma describes how the model was tested. Patni and his wife, Poonam, tried it out in their apartment in Cambridge, Massachusetts, with the living room standing for the United States and the bedroom for India.[75] A team of data-entry operators was then hired in Poona, two dozen by Sharma's account; a *Business Standard* profile of 2007 says the Patnis began from their apartment in 1972 and that the Poona office was started by Poonam Patni with twenty people.[76] The work was keying American documents onto tape in India and sending the tapes back. It was an early form of the offshore 'process' work that would fill the back offices of the 1990s, and it began two decades before them. The living-room test rests on Sharma's account alone; the *Business Standard* profile confirms only that the business began in the apartment. The operators in Poona are the chapter's most obvious rank-and-file workers, and none of them is named in any source.
 
-Patni then moved into software. Sharma says Narendra Patni formed Patni Computer Systems with his brothers Gajendra and Ashok, both graduates of IIT Delhi, in 1976, and that the firm began by reselling minicomputers made by the American firm Data General and then wrote software for Data General's customers; the *Business Standard* profile gives 1978 as the founding year.[75] Bassett calls the firm Patni Data Systems and describes it as one of the first Indian firms to get computing work from American companies.[76]
+Patni then moved into software. Sharma says Narendra Patni formed Patni Computer Systems with his brothers Gajendra and Ashok, both graduates of IIT Delhi, in 1976, and that the firm began by reselling minicomputers made by the American firm Data General and then wrote software for Data General's customers; the *Business Standard* profile gives 1978 as the founding year.[77] Bassett calls the firm Patni Data Systems and describes it as one of the first Indian firms to get computing work from American companies.[78]
 
-In August 1977, according to Sharma, Patni hired Murthy to head its software division, whose staff by the end of the decade included Nandan Nilekani and Kris Gopalakrishnan; Chapter 6 tells how Murthy and six other Patni employees left in 1981 to found Infosys.[77]
+In August 1977, according to Sharma, Patni hired Murthy to head its software division.[79] Murthy, who put his stay at about four years before Infosys began in July 1981, told the Computer History Museum in 2018 that by the time he arrived the Patnis had 'also started a business to develop software for export to the United States'.[80] That recollection fits Sharma's 1976 better than the profile's 1978, though it does not show when the company itself was constituted. The division's staff by the end of the decade included Nandan Nilekani, who joined in January 1979, and Kris Gopalakrishnan; Chapter 6 tells how Murthy and six other Patni employees left in 1981 to found Infosys.[81]
 
 ## Who did the work
 
-The 1970s are the point at which a computing education in India became a route to a job in industry. Bassett notes that no IT industry grew up in Kanpur itself; its graduates found work in firms such as TCS (Chapter 2).[78] Kohli's own view of education, as he put it in 2020, was simple: 'Indians are capable of doing a lot of things. And only thing is they have to receive some training.'[79]
+The 1970s are the point at which a computing education in India became a route to a job in industry. Bassett notes that no IT industry grew up in Kanpur itself; its graduates found work in firms such as TCS (Chapter 2).[82] Kohli's own view of education, as he put it in 2020, was simple: 'Indians are capable of doing a lot of things. And only thing is they have to receive some training.'[83]
 
-Most of the people who could program in India in these years had been trained by IBM, the public-sector Electronics Corporation of India, Kanpur's short courses and the National Centre for Software Development and Computing Techniques in Bombay, founded, on Rajaraman's dating, in 1972 (Chapter 3).[80] TCS drew on these pools and trained its own staff on the job, but the sources used here say little about how. Kohli said in 2009 that the company had assessed early on that technology became obsolete 'in less than 24 months', so that its staff would need continuing education in new technologies.[81]
+Most of the people who could program in India in these years had been trained by IBM, the public-sector Electronics Corporation of India, Kanpur's short courses and the National Centre for Software Development and Computing Techniques in Bombay, founded, on Rajaraman's dating, in 1972 (Chapter 3).[84] TCS drew on these pools and trained its own staff on the job, but the sources used here say little about how. Kohli said in 2009 that the company had assessed early on that technology became obsolete 'in less than 24 months', so that its staff would need continuing education in new technologies.[85]
 
-The profession at this stage was defined by the task, whether systems programming, conversion or data processing, rather than by a degree. The founders of TCS included management graduates and a statistician, and its recruits included chartered accountants and science and mathematics postgraduates as well as engineers.[82] The data-entry operators in Poona needed typing, not engineering. The people who joined Patni's software division at the end of the decade had a year or so of experience each.[83]
+The profession at this stage was defined by the task, whether systems programming, conversion or data processing, rather than by a degree. The founders of TCS included management graduates and a statistician, and its recruits included chartered accountants and science and mathematics postgraduates as well as engineers.[86] The data-entry operators in Poona needed typing, not engineering. The people who joined Patni's software division at the end of the decade had a year or so of experience each.[87]
 
-What these people were paid, how many there were, how they lived in Bombay or Poona or Detroit, and whether any of them were women, the sources do not say. The only names that survive are those of founders, or of junior staff who later became founders and chief executives: Ramadorai, Nilekani, Gopalakrishnan. No account by an ordinary TCS programmer or Patni operator of the 1970s has been found in print for this book. Their absence should be kept in mind when reading the founders' accounts, which are the only ones there are.
+A few of them can be heard, briefly. In *The Economist*'s profile a colleague of Ramadorai's recalled of the temperamental early machines, 'You had to work with your own hands.' Programmers booked half-hour slots on the Burroughs terminals, and the magazine adds that 'One hour's computer time cost more than a programmer earned in a month.' Seturaman Mahalingam, later TCS's chief financial officer, worked on an early offshore project in Feltham, outside London, and posted his instructions to the programmers in Bombay twice, a day apart, in case one postbag went astray. Jayant Pendharkar, later its chief marketing officer, remembered the Burroughs arriving in three truckloads under a customs seal, which an eager employee broke before the inspectors came; in the magazine's telling, Ramadorai threaded the sealing wires back into place.[88] At Patni, Nilekani recalled for the Computer History Museum, Murthy interviewed him with puzzles in a small cabin at Nariman Point and hired him on the spot. The firm's Data General computer was often idle at night, 'and for those of us who had grown up sending these cards, to have a terminal where you could do whatever you wanted was unbelievable luxury.' He worked all night on it, learning, and part of the job was teaching the customers who had bought the machine.[89] These are memories, told decades later, of men who rose to run their companies.
+
+What these people were paid, how many there were, how they lived in Bombay or Poona or Detroit, and whether any of them were women, the sources do not say, beyond the *Economist*'s comparison with an hour of computer time. The only names that survive are those of founders, or of junior staff who later rose to the top of their companies: Ramadorai, Mahalingam, Pendharkar, Nilekani, Gopalakrishnan. No account by an ordinary TCS programmer or Patni operator of the 1970s has been found in print for this book. Their absence should be kept in mind when reading the founders' accounts, which are the only ones there are.
 
 ## Three readings
 
 Three explanations of this decade can be drawn from the sources, and they are not exclusive.
 
-The first is the founders' own. Kohli saw the potential of the technology, recruited the best people and, in 1975, told the profession what India could become. The Tata group's tributes tell the story this way, and so, mostly, did Kohli.[84] It is a self-description, and Kohli himself resisted its strongest form. When the Computer History Museum's interviewer called him the father of the industry, he replied: 'Father is a misnomer.' He was, he said, the father of his three children, and that was all. Then he added: 'I did set up the computer industry in this country, and that is that. People know it.'[85]
+The first is the founders' own. Kohli saw the potential of the technology, recruited the best people and, in 1975, told the profession what India could become. The Tata group's tributes tell the story this way, and so, mostly, did Kohli.[90] It is a self-description, and Kohli himself resisted its strongest form. When the Computer History Museum's interviewer called him the father of the industry, he replied: 'Father is a misnomer.' He was, he said, the father of his three children, and that was all. Then he added: 'I did set up the computer industry in this country, and that is that. People know it.'[91]
 
-The second reading is about policy. On this view, which Rajaraman's and Aspray's accounts support, the export industry was a by-product of import controls and foreign-exchange rules. Firms exported because exports were the price of getting machines, and because there was too little demand at home.[86] Aspray's finding that most imported hardware went to domestic use anyway is a reminder that the rule was not a clean success.[87]
+The second reading is about policy. On this view, which Rajaraman's and Aspray's accounts support, the export industry was a by-product of import controls and foreign-exchange rules. Firms exported because exports were the price of getting machines, and because there was too little demand at home.[92] Aspray's finding that most imported hardware went to domestic use anyway is a reminder that the rule was not a clean success.[93]
 
-The third is about networks. Bassett argues that what mattered was the pairing of an American-style engineering education, at Kanpur and elsewhere, with men such as Kohli and Patni who had American training and American contacts.[88]
+The third is about networks. Bassett argues that what mattered was the pairing of an American-style engineering education, at Kanpur and elsewhere, with men such as Kohli and Patni who had American training and American contacts.[94]
 
-The evidence assembled here supports the second and third readings more than the first, without being able to weigh them precisely. It also bears on two claims that recur in histories of the industry. The first is that TCS was India's first software company. That depends on the definition. TCS began as a bureau selling computing services to its own group, as IBM's data centres in the big cities already did for smaller firms, and its first exports came only in the early 1970s; Patni's Data Conversion was exporting data-entry work from 1972. If the test is a firm that exported software services, TCS is among the first, with Patni's venture beside it; if the test is the first firm to sell computing services in India, it is not.[89] The second claim, examined in Chapter 8, is that the first offshore development centre in India was opened by Texas Instruments in Bangalore (Bengaluru since 2014) in 1985. Software written in Bombay for Burroughs in 1973-74, and data keyed in Poona from 1972, show that Indian firms were doing work for foreign clients in India more than a decade earlier, though without satellite links and not in a centre owned by a foreign company.[90]
+The evidence assembled here supports the second and third readings more than the first, without being able to weigh them precisely. It also bears on two claims that recur in histories of the industry. The first is that TCS was India's first software company. That depends on the definition. TCS began as a bureau selling computing services to its own group, as IBM's data centres in the big cities already did for smaller firms, and its first exports came only in the early 1970s; Patni's Data Conversion was exporting data-entry work from 1972. If the test is a firm that exported software services, TCS is among the first, with Patni's venture beside it; if the test is the first firm to sell computing services in India, it is not.[95] The second claim, examined in Chapter 8, is that the first offshore development centre in India was opened by Texas Instruments in Bangalore (Bengaluru since 2014) in 1985. Software written in Bombay for Burroughs in 1973-74, and data keyed in Poona from 1972, show that Indian firms were doing work for foreign clients in India more than a decade earlier, though without satellite links and not in a centre owned by a foreign company.[96]
 
 ## 1978
 
-The decade closed with a break. The Tata group dates the end of its partnership with Burroughs to 1978.[91] In the same year IBM, which had installed most of India's computers and trained many of its programmers, left the country after it and the government failed to agree terms under the Foreign Exchange Regulation Act of 1973 (Chapter 5), and the government announced a long-delayed policy that let private Indian companies make minicomputers.[92] India had fewer than 1,000 computers in 1978.[93] TCS had shown that Indian programmers could earn foreign exchange. Who would now supply and maintain India's computers, and what the departure of the largest of them would do to the people it had trained, is the subject of the next chapter.
+The decade closed with a break. The Tata group dates the end of its partnership with Burroughs to 1978.[97] The reviewer Rashmi Bansal writes that Ramadorai's history of the company presents that year as the gravest test TCS had faced, because Tata Sons formed a formal joint venture with Burroughs and left TCS to fend for itself.[98] *The Economist*'s profile adds that in 1979 Ramadorai was sent to the United States to open the company's first overseas office: TCS was now free to work with other computer makers, but it had to find its own customers.[99] In 1978 IBM, which had installed most of India's computers and trained many of its programmers, left the country after it and the government failed to agree terms under the Foreign Exchange Regulation Act of 1973 (Chapter 5), and the government announced a long-delayed policy that let private Indian companies make minicomputers.[100] India had fewer than 1,000 computers in 1978.[101] TCS had shown that Indian programmers could earn foreign exchange. Who would now supply and maintain India's computers, and what the departure of the largest of them would do to the people it had trained, is the subject of the next chapter.
 
 
 ### Notes to Chapter 4. Tata's experiment (1968-1978)
@@ -1622,95 +1654,111 @@ The decade closed with a break. The Tata group dates the end of its partnership 
 
 [48] Venkatraman, 'India's IT Guy' (2013). Rests on one source.
 
-[49] Aspray, 'The Role of Policy' (2010).
+[49] *The Economist*, 'Ram Drive' (2008), paras 2 and 4 (course-page mirror of *The Economist*, 21 August 2008).
 
-[50] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+[50] Aspray, 'The Role of Policy' (2010).
 
-[51] Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 4-5.
+[51] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
 
-[52] Aspray, 'The Role of Policy' (2010).
+[52] Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 4-5.
 
-[53] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Venkatraman, 'India's IT Guy' (2013).
+[53] Aspray, 'The Role of Policy' (2010).
 
-[54] Venkatraman, 'India's IT Guy' (2013).
+[54] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Venkatraman, 'India's IT Guy' (2013).
 
-[55] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+[55] Venkatraman, 'India's IT Guy' (2013).
 
-[56] Rajaraman, *History of Computing in India* (2012), p. 28.
+[56] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
 
-[57] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+[57] Rajaraman, *History of Computing in India* (2012), p. 28.
 
-[58] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+[58] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
 
-[59] Ramadorai, *The TCS Story ... and Beyond* (2011) (as reported in a published review, *Deccan Herald*, 29 October 2011; memoir not seen); Rajaraman, *History of Computing in India* (2012), p. 28.
+[59] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
 
-[60] Rajaraman, *History of Computing in India* (2012), p. 28.
+[60] Ramadorai, *The TCS Story ... and Beyond* (2011) (as reported in a published review, *Deccan Herald*, 29 October 2011; memoir not seen); Rajaraman, *History of Computing in India* (2012), p. 28.
 
-[61] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+[61] Rajaraman, *History of Computing in India* (2012), p. 28.
 
-[62] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+[62] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
 
-[63] Rajaraman, *History of Computing in India* (2012), p. 28.
+[63] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
 
-[64] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+[64] Rajaraman, *History of Computing in India* (2012), p. 28.
 
-[65] Tata Group, 'The IT Revolutionary' (2024).
+[65] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
 
-[66] Aspray, 'The Role of Policy' (2010).
+[66] Tata Group, 'The IT Revolutionary' (2024).
 
-[67] Rajaraman, *History of Computing in India* (2012), p. 29.
+[67] Aspray, 'The Role of Policy' (2010).
 
-[68] Aspray, 'The Role of Policy' (2010).
+[68] Rajaraman, *History of Computing in India* (2012), p. 29.
 
-[69] Rajaraman, *History of Computing in India* (2012), p. 29.
+[69] Aspray, 'The Role of Policy' (2010).
 
-[70] Aspray, 'The Role of Policy' (2010).
+[70] Rajaraman, *History of Computing in India* (2012), p. 29.
 
-[71] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802 n. 45.
+[71] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), paras 1 and 9 (paragraphs numbered in the online text; translated from the German, 'dürfte... rd. 10 Millionen indische Rupien erreicht haben'); Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1977 (Federal Reserve G.5A, Rs 8.7683), at the year's average rate.
 
-[72] Sharma, 'When Patni Experienced the Eureka Moment' (2011).
+[72] Aspray, 'The Role of Policy' (2010).
 
-[73] Sharma, 'When Patni Experienced the Eureka Moment' (2011). Rests on one source.
+[73] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802 n. 45.
 
-[74] Sharma, 'When Patni Experienced the Eureka Moment' (2011); *Business Standard*, 'The Original IT Man' (2007).
+[74] Sharma, 'When Patni Experienced the Eureka Moment' (2011).
 
-[75] Sharma, 'When Patni Experienced the Eureka Moment' (2011); *Business Standard*, 'The Original IT Man' (2007).
+[75] Sharma, 'When Patni Experienced the Eureka Moment' (2011). Rests on one source.
 
-[76] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+[76] Sharma, 'When Patni Experienced the Eureka Moment' (2011); *Business Standard*, 'The Original IT Man' (2007).
 
-[77] Sharma, 'When Patni Experienced the Eureka Moment' (2011); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5; Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+[77] Sharma, 'When Patni Experienced the Eureka Moment' (2011); *Business Standard*, 'The Original IT Man' (2007).
 
-[78] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801.
+[78] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
 
-[79] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 2.
+[79] Sharma, 'When Patni Experienced the Eureka Moment' (2011).
 
-[80] Rajaraman, *History of Computing in India* (2012), pp. 18-19, 26-27.
+[80] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 14-15.
 
-[81] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4.
+[81] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 7 (Nilekani, January 1979; title page dated 8 January 2019, CHM reference X9234.2020); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5; Bassett, 'Aligning India in the Cold War Era' (2009), p. 801; Sharma, 'When Patni Experienced the Eureka Moment' (2011).
 
-[82] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Tata Group, 'The IT Revolutionary' (2024).
+[82] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801.
 
-[83] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
+[83] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 2.
 
-[84] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4; Tata Group, 'The IT Revolutionary' (2024).
+[84] Rajaraman, *History of Computing in India* (2012), pp. 18-19, 26-27.
 
-[85] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 7.
+[85] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4.
 
-[86] Rajaraman, *History of Computing in India* (2012), pp. 23, 28; Aspray, 'The Role of Policy' (2010).
+[86] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Tata Group, 'The IT Revolutionary' (2024).
 
-[87] Aspray, 'The Role of Policy' (2010).
+[87] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
 
-[88] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 801-802.
+[88] *The Economist*, 'Ram Drive' (2008), paras 1, 3, 4 and 5.
 
-[89] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Sharma, 'When Patni Experienced the Eureka Moment' (2011); Rajaraman, *History of Computing in India* (2012), p. 19.
+[89] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 7 (title page dated 8 January 2019; CHM reference X9234.2020).
 
-[90] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Venkatraman, 'India's IT Guy' (2013); Sharma, 'When Patni Experienced the Eureka Moment' (2011).
+[90] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4; Tata Group, 'The IT Revolutionary' (2024).
 
-[91] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+[91] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 7.
 
-[92] Rajaraman, *History of Computing in India* (2012), pp. 24, 29; Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+[92] Rajaraman, *History of Computing in India* (2012), pp. 23, 28; Aspray, 'The Role of Policy' (2010).
 
-[93] Rajaraman, *History of Computing in India* (2012), p. 29.
+[93] Aspray, 'The Role of Policy' (2010).
+
+[94] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 801-802.
+
+[95] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Sharma, 'When Patni Experienced the Eureka Moment' (2011); Rajaraman, *History of Computing in India* (2012), p. 19.
+
+[96] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Venkatraman, 'India's IT Guy' (2013); Sharma, 'When Patni Experienced the Eureka Moment' (2011).
+
+[97] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+
+[98] Bansal, 'Take A Techie Like That!', *Outlook*, para. 2 (the reviewer's summary, not Ramadorai's words).
+
+[99] *The Economist*, 'Ram Drive' (2008), para. 6.
+
+[100] Rajaraman, *History of Computing in India* (2012), pp. 24, 29; Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[101] Rajaraman, *History of Computing in India* (2012), p. 29.
 
 
 
@@ -1764,101 +1812,101 @@ The question of whether IBM was thrown out or chose to go has been argued ever s
 
 The first is that IBM chose to leave rather than give up control. This is Rajaraman's version: 'After prolonged negotiations the government was unwilling to relax FERA for IBM. Consequently IBM decided to withdraw from India in 1978'.[31] Dataquest's 2006 retrospective says much the same, that IBM left because it could not agree to the FERA rules.[32]
 
-The second is Sharma's, in his 2011 article. FERA, he wrote, only came in handy to ease IBM's exit, and the real cause was a power struggle between a multinational and the government.[33]
+The second is Sharma's, in his 2011 article. FERA, he wrote, only came in handy to ease IBM's exit, and the real cause was a power struggle between a multinational and the government.[33] A report written while the exit was under way points in the same direction. In April 1978 the West German trade weekly *Computerwoche*, drawing on a German foreign-trade bulletin, wrote that specialists thought the Electronics Commission might have brought on the confrontation deliberately. The commission accused IBM of making excessive profits from outdated machines and of largely blocking the local development of new systems. IBM replied that it had proposed replacing its 1400 series with its 360 series in 1970, and with the 370 series in 1972, and that the government had not taken up either plan.[34]
 
-The third comes from Shiv Nadar, a founder of one of the Indian firms that grew in IBM's absence. In a 2006 interview with Knowledge at Wharton, the interviewer began to say that Fernandes had evicted IBM in 1977. Nadar cut in: 'IBM wasn't evicted. The real story was different.' In his account the government had ruled that if a product was made in India, its source code had to reside in the country. Equity dilution, he said, did not hurt companies much, but the source-code requirement did. 'That was the main reason why IBM decided to leave India, as did Coca-Cola'.[34] No other source seen for this book mentions such a rule for computers. Coca-Cola's secret formula was certainly an issue,[35] and Nadar may have run the two cases together. His account stands as his claim, to be tested against the archival studies of the negotiations that this book has not yet been able to read.
+The third comes from Shiv Nadar, a founder of one of the Indian firms that grew in IBM's absence. In a 2006 interview with Knowledge at Wharton, the interviewer began to say that Fernandes had evicted IBM in 1977. Nadar cut in: 'IBM wasn't evicted. The real story was different.' In his account the government had ruled that if a product was made in India, its source code had to reside in the country. Equity dilution, he said, did not hurt companies much, but the source-code requirement did. 'That was the main reason why IBM decided to leave India, as did Coca-Cola'.[35] No other source seen for this book mentions such a rule for computers. Coca-Cola's secret formula was certainly an issue,[36] and Nadar may have run the two cases together. His account stands as his claim, to be tested against the archival studies of the negotiations that this book has not yet been able to read.
 
-The fourth is expulsion. A 2026 history of Indian computing by the historian Dwaipayan Banerjee (Chapter 1) is described by its publisher as treating IBM's departure as a decisive expulsion, one act in a project of technological independence.[36] Fernandes's own words support that reading at the level of political intent.[37]
+The fourth is expulsion. A 2026 history of Indian computing by the historian Dwaipayan Banerjee (Chapter 1) is described by its publisher as treating IBM's departure as a decisive expulsion, one act in a project of technological independence.[37] The reviewer Tracie Farrell, summarising the book, writes that IBM was 'eventually expelled in 1977 by the union-backed Janata Party'.[38] 1977 was the year of the Fernandes meeting; the contemporary record places the closure itself in 1978. Fernandes's own words support that reading at the level of political intent.[39]
 
 The accounts agree on most of the facts and differ on causes and on who acted. The rule made IBM's way of doing business in India impossible unless it gave up control of its core business. IBM would not. The minister closed the door loudly. 'Expelled' and 'chose to leave' describe the same event from opposite sides.
 
 ## June 1978
 
-The unwinding was quick. Rajaraman records that the refurbishing work in Bombay stopped. The computers IBM had rented out 'were sold to the customers at their book value which was almost zero'.[38] A group of former IBM employees formed a company called International Data Machines (IDM) and took over the card factory and the data centres.[39]
+The unwinding was quick. Writing in April 1978, *Computerwoche* reported that IBM, which under FERA could have kept only 40 per cent of its Indian subsidiary, against the company's worldwide policy, would end all its activities in India by the end of the year.[40] Rajaraman records that the refurbishing work in Bombay stopped. The computers IBM had rented out 'were sold to the customers at their book value which was almost zero'.[41] A group of former IBM employees formed a company called International Data Machines (IDM) and took over the card factory and the data centres.[42]
 
-Maintenance went to a state company that had been waiting for it. The Department of Electronics had set up the Computer Maintenance Corporation (CMC) in 1976, Rajaraman writes, 'to maintain imported computers foreseeing such a contingency'.[40] It had cost Rs 53 million to establish,[41] about $5.9 million at the 1976 average exchange rate.[42] IBM sold CMC the spare parts for its 1401s and other machines at a nominal price.[43] Dataquest says CMC took over the maintenance of 800 IBM installations.[44] Rajaraman's figure of 'over 150' installations is far lower.[45] The two may be counting different things, perhaps whole computer systems against every piece of IBM equipment including older punched-card machines, and neither source explains its count.
+Maintenance went to a state company that had been waiting for it. The Department of Electronics had set up the Computer Maintenance Corporation (CMC) in 1976, Rajaraman writes, 'to maintain imported computers foreseeing such a contingency'.[43] It had cost Rs 53 million to establish,[44] about $5.9 million at the 1976 average exchange rate.[45] IBM sold CMC the spare parts for its 1401s and other machines at a nominal price.[46] Dataquest says CMC took over the maintenance of 800 IBM installations.[47] Rajaraman's figure of 'over 150' installations is far lower.[48] *Computerwoche* spoke at the time of 150 IBM 1400-series machines that would need replacing, which suggests that Rajaraman's figure counts those computers.[49] Dataquest's larger number may count every piece of IBM equipment, including older punched-card machines, but it does not explain its count. The same report said that Indian users were paying much more for data processing since CMC had become the monopolist in the market IBM had left, and that CMC was said to be using its new market power to charge fees even higher than IBM's.[50]
 
-What happened to IBM's people is less clear. Rajaraman's account is smooth: 'Most employees of IBM joined CMC. There was thus no disruption of operations of computers'.[46] Other accounts are harsher. Dataquest's chronology says that T.B. Finn, who became IBM India's general manager in 1976, laid off a third of the workforce within four months, and draws the conclusion that IBM had already made up its mind to leave.[47] A 2018 report in the Deccan Chronicle on a reunion of former IBM India staff in Mumbai, forty years after the exit, said there had been around 150 employees at the end, and that many had been left with almost nowhere to go. Some went back to their home towns to look for work, some found jobs, and some started businesses.[48] The Deccan Chronicle's background paragraphs closely follow Sharma's 2011 article, so it is not a fully independent witness. The numbers cannot be reconciled from these sources.
+What happened to IBM's people is less clear. Rajaraman's account is smooth: 'Most employees of IBM joined CMC. There was thus no disruption of operations of computers'.[51] Other accounts are harsher. Dataquest's chronology says that T.B. Finn, who became IBM India's general manager in 1976, laid off a third of the workforce within four months, and draws the conclusion that IBM had already made up its mind to leave.[52] A 2018 report in the Deccan Chronicle on a reunion of former IBM India staff in Mumbai, forty years after the exit, said there had been around 150 employees at the end, and that many had been left with almost nowhere to go. Some went back to their home towns to look for work, some found jobs, and some started businesses.[53] The Deccan Chronicle's background paragraphs closely follow Sharma's 2011 article, so it is not a fully independent witness. The numbers cannot be reconciled from these sources.
 
-One of those employees is named. Kamlaksha Rama Naik, known as K.R. Naik, was laid off by IBM and later worked for ORG Systems, a computer maker in Baroda (now Vadodara).[49] He helped organise the 2018 reunion, and he told the paper, in its paraphrase, that the former staff still shared a strong bond and affection for IBM.[50] ORG Systems was one of the private Indian firms that began making computers under the policy that followed IBM's exit.[51] Naik's path, from the American company to an Indian hardware maker, is in small the movement this chapter describes. His own fuller account has not been found.
+One of those employees is named. Kamlaksha Rama Naik, known as K.R. Naik, was laid off by IBM and later worked for ORG Systems, a computer maker in Baroda (now Vadodara).[54] He helped organise the 2018 reunion, and he told the paper, in its paraphrase, that the former staff still shared a strong bond and affection for IBM.[55] ORG Systems was one of the private Indian firms that began making computers under the policy that followed IBM's exit.[56] Naik's path, from the American company to an Indian hardware maker, is in small the movement this chapter describes. His own fuller account has not been found.
 
-When IBM left there were fewer than 1,000 computers in India, and software exports were, in Rajaraman's word, insignificant.[52]
+When IBM left there were fewer than 1,000 computers in India, and software exports were, in Rajaraman's word, insignificant.[57]
 
 ## The Sondhi policy
 
-The new government reviewed the electronics industry. A committee chaired by Mantosh Sondhi, with Biswajit Nag as its secretary, found 'long delays in importing computers due to the cumbersome procedures of the DoE'. It proposed simpler procedures, and it proposed that private companies be allowed to make computers.[53] In 1978 Nag became secretary of the Department of Electronics.[54]
+The new government reviewed the electronics industry. A committee chaired by Mantosh Sondhi, with Biswajit Nag as its secretary, found 'long delays in importing computers due to the cumbersome procedures of the DoE'. It proposed simpler procedures, and it proposed that private companies be allowed to make computers.[58] In 1978 Nag became secretary of the Department of Electronics.[59]
 
-The minicomputer policy that followed opened a door but kept a hand on it. It favoured what it called systems engineering companies, which need not make their own processors or peripherals. Small entrepreneurs were preferred for dedicated machines for data entry, accounting, invoicing and typesetting. Foreign collaboration was in general not allowed, though foreign equity of up to 40 per cent was permitted in special cases. Every manufacturer needed a licence. Production was capped at Rs 20 million in value,[55] about $2.4 million at the 1978 average rate,[56] and there was a limit on the number of machines. Only the public-sector Electronics Corporation of India Limited (ECIL) would be allowed to make 32-bit computers, the larger machines of the time.[57]
+The minicomputer policy that followed opened a door but kept a hand on it. It favoured what it called systems engineering companies, which need not make their own processors or peripherals. Small entrepreneurs were preferred for dedicated machines for data entry, accounting, invoicing and typesetting. Foreign collaboration was in general not allowed, though foreign equity of up to 40 per cent was permitted in special cases. Every manufacturer needed a licence. Production was capped at Rs 20 million in value,[60] about $2.4 million at the 1978 average rate,[61] and there was a limit on the number of machines. Only the public-sector Electronics Corporation of India Limited (ECIL) would be allowed to make 32-bit computers, the larger machines of the time.[62]
 
-One clause carried the labour settlement of the previous decade into the new one. The policy, Rajaraman records, 'would continue to be restrictive in allowing use of computers in areas where labour displacement was likely to be involved'.[58] The state that let private firms build computers still limited where those computers might replace clerks.
+One clause carried the labour settlement of the previous decade into the new one. The policy, Rajaraman records, 'would continue to be restrictive in allowing use of computers in areas where labour displacement was likely to be involved'.[63] The state that let private firms build computers still limited where those computers might replace clerks.
 
-Rajaraman's judgement on the policy is double. It 'did not completely free the industry from the "licence-permit raj"', but it let private companies into a field that had been reserved for the state.[59] Many licences went to traders who never made anything. The firms that did manufacture, by his list, were DCM Data Products in Delhi, ORG Systems in Baroda, Hindustan Computers Limited in Delhi, PSI Data Systems in Bangalore (Bengaluru since 2014), Wipro in Bangalore, Patni Computers in Pune, IDM in Bombay and Zenith Computers in Bombay.[60] Two of them left founders' and institutional accounts detailed enough to show what the work was like.
+Rajaraman's judgement on the policy is double. It 'did not completely free the industry from the "licence-permit raj"', but it let private companies into a field that had been reserved for the state.[64] Many licences went to traders who never made anything. The firms that did manufacture, by his list, were DCM Data Products in Delhi, ORG Systems in Baroda, Hindustan Computers Limited in Delhi, PSI Data Systems in Bangalore (Bengaluru since 2014), Wipro in Bangalore, Patni Computers in Pune, IDM in Bombay and Zenith Computers in Bombay.[65] Two of them left founders' and institutional accounts detailed enough to show what the work was like.
 
 ## An attic in Delhi
 
-Shiv Nadar and his colleagues were engineers in the calculator division of Delhi Cloth Mills (DCM), a textile company. The calculators had moved from digital circuits to chips, and the more advanced chips went into programmable calculators, which Nadar later called the forerunners of personal computers. A few of the engineers thought they could build a computer.[61]
+Shiv Nadar and his colleagues were engineers in the calculator division of Delhi Cloth Mills (DCM), a textile company. The calculators had moved from digital circuits to chips, and the more advanced chips went into programmable calculators, which Nadar later called the forerunners of personal computers. A few of the engineers thought they could build a computer.[66]
 
-The state, in Nadar's telling, was not only an obstacle. The government's Electronics Commission 'was interested in making entrepreneurs out of executives and engineers. They asked us to write a report' saying they could build an eight-bit machine, and they did. 'Youthful exuberance and age were on our side'.[62] They launched Hindustan Computers Limited (HCL) in August 1976, two years before IBM left. Getting permission to make computers was the hard part. They could not expect a licence themselves, so they found a partner that had one, the government of Uttar Pradesh, and formed a joint venture. 'Interestingly, our toughest challenge was not designing or making computers but getting the government's approval to produce them'.[63]
+The state, in Nadar's telling, was not only an obstacle. The government's Electronics Commission 'was interested in making entrepreneurs out of executives and engineers. They asked us to write a report' saying they could build an eight-bit machine, and they did. 'Youthful exuberance and age were on our side'.[67] They launched Hindustan Computers Limited (HCL) in August 1976, two years before IBM left. Getting permission to make computers was the hard part. They could not expect a licence themselves, so they found a partner that had one, the government of Uttar Pradesh, and formed a joint venture. 'Interestingly, our toughest challenge was not designing or making computers but getting the government's approval to produce them'.[68]
 
-The money came from the founders. They had first set up a company to sell calculators, from their own savings, and used its earnings for HCL. HCL's capital was Rs 2 million (20 lakh), a quarter of it from the Uttar Pradesh government,[64] about $223,000 at the 1976 average rate.[65] Dataquest's chronology says Nadar started a firm called Microcomp with six friends and Rs 175,000, and that it was renamed Hindustan Computers;[66] Nadar's own account of a separate calculator company suggests Microcomp may have been that earlier firm, but the two sources do not agree.
+The money came from the founders. They had first set up a company to sell calculators, from their own savings, and used its earnings for HCL. HCL's capital was Rs 2 million (20 lakh), a quarter of it from the Uttar Pradesh government,[69] about $223,000 at the 1976 average rate.[70] Dataquest's chronology says Nadar started a firm called Microcomp with six friends and Rs 175,000, and that it was renamed Hindustan Computers.[71] Arjun Malhotra, another of the six, whose choice of an IIT seat Chapter 2 described, told the Computer History Museum in 2018 how the two fitted together. In 1975 the six pooled Rs 175,000, most of which went on buying an office in Bombay. Microcomp, named after the programmable calculator they had designed at DCM, was their calculator-trading company. Once they had the licence they incorporated Hindustan Computers Limited, in August 1976, with a total equity of Rs 2 million; the 49 per cent meant for the public was taken up by Microcomp.[72] Microcomp was not renamed HCL. It was the founders' first firm, and HCL's largest shareholder.
 
-The people were young. 'I was 31, and I was the oldest,' Nadar said. When candidates came for interviews, the founders told them first to consider the size of the company they were joining. 'We offered a monthly salary of Rs. 2,000,' he said, a sum 'more than what Citibank was paying at that time. Otherwise, how do you get someone to work in an attic with a bedroom, a table and a chair?'[67] Rs 2,000 a month was about $223 at the 1976 average rate.[68] It is the first documented salary in this book for a job in an Indian computer company, though it is a founder's memory thirty years on. Each hire added 5 per cent to the company's overheads, Nadar said, so they judged each one closely. They took five students from the Indian Institute of Management in Calcutta (Kolkata since 2001) and told them that if they did things right they should become entrepreneurs themselves. 'Did any of them become entrepreneurs? No one did'.[69]
+The people were young. 'I was 31, and I was the oldest,' Nadar said. When candidates came for interviews, the founders told them first to consider the size of the company they were joining. 'We offered a monthly salary of Rs. 2,000,' he said, a sum 'more than what Citibank was paying at that time. Otherwise, how do you get someone to work in an attic with a bedroom, a table and a chair?'[73] Rs 2,000 a month was about $223 at the 1976 average rate.[74] It is the first documented salary in this book for a job in an Indian computer company, though it is a founder's memory thirty years on. Each hire added 5 per cent to the company's overheads, Nadar said, so they judged each one closely. They took five students from the Indian Institute of Management in Calcutta (Kolkata since 2001) and told them that if they did things right they should become entrepreneurs themselves. 'Did any of them become entrepreneurs? No one did'.[75]
 
-HCL's engineers, by Nadar's account, wrote software as well as building hardware. Before they could build their computer they had to create the system software that made the parts run together.[70] In the 1980s they wrote a relational database, which they called Genesis, and Nadar insisted they wrote it 'from scratch'.[71]
+HCL's engineers, by Nadar's account, wrote software as well as building hardware. Before they could build their computer they had to create the system software that made the parts run together.[76] In the 1980s they wrote a relational database, which they called Genesis, and Nadar insisted they wrote it 'from scratch'.[77] Malhotra recalled that HCL's first computer, the HCL 8/C of 1977, was meant to replace IBM 1401s. Because 1401 users were used to punched cards, HCL sold separate data-entry machines that recorded onto floppy disks. To ride out power cuts, the computer was wired to a truck battery that held its state through a cut, and a maintenance engineer had to call every two weeks to top up the battery's distilled water.[78]
 
-Nadar's view of IBM's departure is the opposite of the nationalist story. 'If IBM had stayed on, we would have grown faster. See, IBM was fundamentally creating the market for computers in India.' After IBM left, HCL had to create the market by itself, and 'At that time no one saw the computer as a necessity. It was a convenience'.[72]
+Nadar's view of IBM's departure is the opposite of the nationalist story. 'If IBM had stayed on, we would have grown faster. See, IBM was fundamentally creating the market for computers in India.' After IBM left, HCL had to create the market by itself, and 'At that time no one saw the computer as a necessity. It was a convenience'.[79]
 
 ## Vegetable oil and the 8086
 
-Wipro's road into computers ran through a university. In the late 1970s Wipro Products made vegetable and refined oils.[73] It decided to move into computers, and in July 1979 it signed a consultancy agreement with the Indian Institute of Science (IISc) in Bangalore, through the institute's consultancy centre, worth about Rs 1.4 million (14 lakh),[74] about $172,000 at the 1979 average rate.[75] On 5 October 1979 the institute's registrar wrote to Ashok Narasimhan, Wipro's general manager for finance and planning, that the institute had 'undertaken a project for the design and development of microprocessor-based minicomputer systems' for Wipro, with the know-how to be handed over 'in another fifteen months'.[76]
+Wipro's road into computers ran through a university. In the late 1970s Wipro Products made vegetable and refined oils.[80] It decided to move into computers, and in July 1979 it signed a consultancy agreement with the Indian Institute of Science (IISc) in Bangalore, through the institute's consultancy centre, worth about Rs 1.4 million (14 lakh),[81] about $172,000 at the 1979 average rate.[82] On 5 October 1979 the institute's registrar wrote to Ashok Narasimhan, Wipro's general manager for finance and planning, that the institute had 'undertaken a project for the design and development of microprocessor-based minicomputer systems' for Wipro, with the know-how to be handed over 'in another fifteen months'.[83]
 
-Sridhar Mitta, who joined Wipro as research and development manager in 1980, explained in 2019 why a company like his could now enter the business at all. The world, he said, was moving 'From the expensive vertically integrated systems where computer vendors had to develop components' themselves towards 'more open and cheaper, horizontally integrated systems', in which a maker could buy sub-systems and peripherals from different vendors and put them together.[77] A microprocessor bought from Intel could be the heart of a machine designed in Bangalore.
+Sridhar Mitta, who joined Wipro as research and development manager in 1980, explained in 2019 why a company like his could now enter the business at all. The world, he said, was moving 'From the expensive vertically integrated systems where computer vendors had to develop components' themselves towards 'more open and cheaper, horizontally integrated systems', in which a maker could buy sub-systems and peripherals from different vendors and put them together.[84] A microprocessor bought from Intel could be the heart of a machine designed in Bangalore.
 
-Buying even the tools was hard. N.J. Rao, who ran the institute's Digital Systems Lab, recalled that in 1979 Intel released a development system for its new 8086 processor. 'It would have been really difficult for a company to import the Intel Microprocessor Development System,' he said. 'So IISc procured it'.[78] The university served as a way round the import licence. The Wipro team worked out of Rao's lab. Azim Premji, Wipro's chairman, said the institute set up a committee 'to advise us on what computer we should make'.[79]
+Buying even the tools was hard. N.J. Rao, who ran the institute's Digital Systems Lab, recalled that in 1979 Intel released a development system for its new 8086 processor. 'It would have been really difficult for a company to import the Intel Microprocessor Development System,' he said. 'So IISc procured it'.[85] The university served as a way round the import licence. The Wipro team worked out of Rao's lab. Azim Premji, Wipro's chairman, said the institute set up a committee 'to advise us on what computer we should make'.[86]
 
-The Wipro Series-86 came out in 1981. It used the Intel 8086 processor and Intel's Multibus, a standard set of connections for plugging circuit boards into the machine, and its operating system was licensed from Sentinel Computer Corporation, an American firm. A team at the institute's Centre for Electronics Design and Technology, led by Kishore Babu, designed the case.[80] By Mitta's account the first year's revenue was Rs 20 million (2 crore),[81] about $2.3 million at the 1981 average rate.[82] The new company moved to its first office at 45 Dickenson Road in Bangalore.[83] Forty years later Premji told the institute's convocation that 'it would be quite accurate to say that the Wipro IT business was born in IISc',[84] a founder's tribute on a ceremonial day.
+The Wipro Series-86 came out in 1981. It used the Intel 8086 processor and Intel's Multibus, a standard set of connections for plugging circuit boards into the machine, and its operating system was licensed from Sentinel Computer Corporation, an American firm. A team at the institute's Centre for Electronics Design and Technology, led by Kishore Babu, designed the case.[87] By Mitta's account the first year's revenue was Rs 20 million (2 crore),[88] about $2.3 million at the 1981 average rate.[89] The new company moved to its first office at 45 Dickenson Road in Bangalore.[90] Forty years later Premji told the institute's convocation that 'it would be quite accurate to say that the Wipro IT business was born in IISc',[91] a founder's tribute on a ceremonial day.
 
-The Wipro story also names some of the first employees, which founders' stories rarely do. Y. Narahari, then an engineering undergraduate at the institute and later the chair of one of its engineering divisions, remembered that Victor Jayakaran, from the Digital Systems Lab, was one of Wipro's first hires. 'Out of the first few employees of Wipro, several were trained in this lab,' he said. 'IISc students were given an opportunity to work for a start-up like Wipro'.[85] Many of the institute's graduates joined Wipro in its first two years, among them Vallab Kulkarni, Srikant Seshadri, Anand Talwai and Ravi Bail.[86] Narahari himself was offered a job at Wipro early in 1982. He chose instead to stay for a master's degree in the institute's School of Automation.[87] None of the others speaks in the sources found for this book.
+The Wipro story also names some of the first employees, which founders' stories rarely do. Y. Narahari, then an engineering undergraduate at the institute and later the chair of one of its engineering divisions, remembered that Victor Jayakaran, from the Digital Systems Lab, was one of Wipro's first hires. 'Out of the first few employees of Wipro, several were trained in this lab,' he said. 'IISc students were given an opportunity to work for a start-up like Wipro'.[92] Many of the institute's graduates joined Wipro in its first two years, among them Vallab Kulkarni, Srikant Seshadri, Anand Talwai and Ravi Bail.[93] Narahari himself was offered a job at Wipro early in 1982. He chose instead to stay for a master's degree in the institute's School of Automation.[94] None of the others speaks in the sources found for this book.
 
 ## Programmers made by scarcity
 
-Rajaraman's description of what these firms did is the core of this chapter. They 'designed their systems from scratch using imported microprocessors, support chips, peripherals, and local components'. They 'designed and fabricated printed circuit boards, mounted and soldered all the components and tested the systems'.[88]
+Rajaraman's description of what these firms did is the core of this chapter. They 'designed their systems from scratch using imported microprocessors, support chips, peripherals, and local components'. They 'designed and fabricated printed circuit boards, mounted and soldered all the components and tested the systems'.[95]
 
-Then came the constraint that turned hardware makers into software writers. 'As software could not be imported they had to develop operating systems, device drivers, compilers and application programs. UNIX was the operating system of choice as it was easily available'.[89] Unix, developed by Ken Thompson and Dennis Ritchie at AT&T in 1969, was itself written in C, a high-level programming language, and because American regulators did not allow AT&T to market it, versions circulated almost freely. The one developed at the University of California at Berkeley was popular, and Indian minicomputer makers modified and adopted it.[90] A committee of the Reserve Bank of India chaired by Rangarajan, which recommended that every bank computerise its back offices, made Unix the standard operating system for bank computers.[91] The banks' demand, Rajaraman writes, was large 'and could not be ignored'.[92]
+Then came the constraint that turned hardware makers into software writers. 'As software could not be imported they had to develop operating systems, device drivers, compilers and application programs. UNIX was the operating system of choice as it was easily available'.[96] Unix, developed by Ken Thompson and Dennis Ritchie at AT&T in 1969, was itself written in C, a high-level programming language, and because American regulators did not allow AT&T to market it, versions circulated almost freely. The one developed at the University of California at Berkeley was popular, and Indian minicomputer makers modified and adopted it.[97] A committee of the Reserve Bank of India chaired by Rangarajan, which recommended that every bank computerise its back offices, made Unix the standard operating system for bank computers.[98] The banks' demand, Rajaraman writes, was large 'and could not be ignored'.[99]
 
-His conclusion follows. 'Thus during 1978-1984 a large number of systems programmers in India became experts in UNIX development and usage. They also adopted C widely as UNIX was written in C. This expertise came in handy when India entered the software services export market in the late 80s'.[93] Systems programmers write the software closest to the machine: operating systems, compilers that translate programs into machine instructions, and the drivers that let a computer talk to its disks and printers.
+His conclusion follows. 'Thus during 1978-1984 a large number of systems programmers in India became experts in UNIX development and usage. They also adopted C widely as UNIX was written in C. This expertise came in handy when India entered the software services export market in the late 80s'.[100] Systems programmers write the software closest to the machine: operating systems, compilers that translate programs into machine instructions, and the drivers that let a computer talk to its disks and printers.
 
-The argument suits this book's story almost too well, so its evidence needs stating plainly. The only reference Rajaraman gives for the Unix passage is a personal communication from Vinay Deshpande, an engineer of the period, in 2012.[94] It is a participant's judgement. No source used here counts how many Unix or C programmers the hardware firms trained, or follows individual engineers from these firms into the export trade. HCL's Genesis database is a founder's example, not a census.[95] The claim is plausible and partly evidenced.
+The argument suits this book's story almost too well, so its evidence needs stating plainly. The only reference Rajaraman gives for the Unix passage is a personal communication from Vinay Deshpande, an engineer of the period, in 2012.[101] It is a participant's judgement. No source used here counts how many Unix or C programmers the hardware firms trained, or follows individual engineers from these firms into the export trade. HCL's Genesis database is a founder's example, not a census.[102] A second participant, independent of Rajaraman's source, makes the same link. Malhotra said that HCL wrote its own operating systems and compilers 'because we technically weren't allowed to import software unless it was in source code form', and that this was 'why UNIX became so popular in India over time'.[103] He states the rule more precisely than Rajaraman: software could come in, but only as source code. The claim is plausible and partly evidenced.
 
-The new firms also drew people from the state, among them engineers trained at ECIL (Chapter 3).[96] After 1978, Rajaraman writes, 'ECIL found it difficult to compete with these companies and lost many of their designers to the private sector companies'.[97] In his account the years from 1978 to 1984 saw 'considerable local design and development'. Firms 'designed mother boards and device drivers, modified the UNIX OS and wrote compilers from scratch', and competition drove prices down.[98]
+The new firms also drew people from the state, among them engineers trained at ECIL (Chapter 3).[104] After 1978, Rajaraman writes, 'ECIL found it difficult to compete with these companies and lost many of their designers to the private sector companies'.[105] In his account the years from 1978 to 1984 saw 'considerable local design and development'. Firms 'designed mother boards and device drivers, modified the UNIX OS and wrote compilers from scratch', and competition drove prices down.[106]
 
-A public test came with the Asian Games in Delhi in 1982. Rajiv Gandhi, the prime minister's son and an amateur electronics enthusiast, was in charge of organising them, and he wanted computers to handle the schedules, records, results and clerical work. Locally made DCM computers served as terminals at the venues, connected to a Hewlett-Packard server, and engineers of the National Informatics Centre wrote the whole software system in six months. It brought N. Seshagiri, the centre's director general, close to Rajiv Gandhi.[99] In Rajaraman's account it was through the Games that Rajiv Gandhi heard from private makers about the rules that hampered them.[100]
+A public test came with the Asian Games in Delhi in 1982. Rajiv Gandhi, the prime minister's son and an amateur electronics enthusiast, was in charge of organising them, and he wanted computers to handle the schedules, records, results and clerical work. Locally made DCM computers served as terminals at the venues, connected to a Hewlett-Packard server, and engineers of the National Informatics Centre wrote the whole software system in six months. It brought N. Seshagiri, the centre's director general, close to Rajiv Gandhi.[107] In Rajaraman's account it was through the Games that Rajiv Gandhi heard from private makers about the rules that hampered them.[108]
 
 ## Teaching the new trade
 
-The education system began to respond in the same year IBM left. Chapter 2 told how the Indian Institute of Technology (IIT) at Kanpur started India's first undergraduate degree in computer science in 1978, with twenty places that its senate had 'grudgingly allowed' and that were filled by some of the highest-ranked candidates in the country.[101] The other IITs followed.[102]
+The education system began to respond in the same year IBM left. Chapter 2 told how the Indian Institute of Technology (IIT) at Kanpur started India's first undergraduate degree in computer science in 1978, with twenty places that its senate had 'grudgingly allowed' and that were filled by some of the highest-ranked candidates in the country.[109] The other IITs followed.[110]
 
-The larger change came two years later. In 1980 a Panel on Computer Manpower Development under Rajaraman proposed more places in computer science and a new degree, the Master of Computer Applications (MCA), which would teach computing, mathematics and management to graduates in science and commerce; outside the universities, the private training company NIIT was founded in 1981. Chapter 7 tells both stories.[103]
+The larger change came two years later. In 1980 a Panel on Computer Manpower Development under Rajaraman proposed more places in computer science and a new degree, the Master of Computer Applications (MCA), which would teach computing, mathematics and management to graduates in science and commerce; outside the universities, the private training company NIIT was founded in 1981. Chapter 7 tells both stories.[111]
 
 The sources say almost nothing about who these first students and recruits were beyond their institutions. They give no figures for women in the new hardware firms, and no account of the class or caste of their engineers. What they show is a profession being built from three directions at once: IBM's former staff moving to CMC, IDM and the Indian makers; ECIL's engineers moving to private firms; and new graduates from IISc, the IITs and the management institutes taking jobs in attics and converted offices.
 
 ## Still waiting in Delhi
 
-The 1978 policy did not end the permit system. Infosys, founded in 1981 by N.R. Narayana Murthy and his partners (Chapter 6), wanted to sell programming abroad, not build computers, and found the import rules as hard as HCL had found the manufacturing rules: by Murthy's later account, a licence to import a single computer took about three years (Chapter 9).[104]
+The 1978 policy did not end the permit system. Infosys, founded in 1981 by N.R. Narayana Murthy and his partners (Chapter 6), wanted to sell programming abroad, not build computers, and found the import rules as hard as HCL had found the manufacturing rules: by Murthy's later account, a licence to import a single computer took about three years (Chapter 9).[112]
 
-The state knew. In 1981 the Electronics Commission appointed another committee under Rajaraman to promote software exports by allowing computer imports. It 'recommended liberalization of import of computers for genuine exporters'.[105] The trade was still tiny. Richard Heeks, of the University of Manchester's Institute for Development Policy and Management, estimated India's gross software export earnings at $4 million in 1980 and $25 million in 1984.[106]
+The state knew. In 1981 the Electronics Commission appointed another committee under Rajaraman to promote software exports by allowing computer imports. It 'recommended liberalization of import of computers for genuine exporters'.[113] The trade was still tiny. Richard Heeks, of the University of Manchester's Institute for Development Policy and Management, estimated India's gross software export earnings at $4 million in 1980 and $25 million in 1984.[114]
 
-Nor had the argument about computers and jobs gone away: six years after Fernandes told IBM that computers took Indian jobs, the bank unions, who read the Rangarajan committee's push to computerise as a warning sign, observed 1984 as an 'anti-computerization year' (Chapter 8).[107]
+Nor had the argument about computers and jobs gone away: six years after Fernandes told IBM that computers took Indian jobs, the bank unions, who read the Rangarajan committee's push to computerise as a warning sign, observed 1984 as an 'anti-computerization year' (Chapter 8).[115]
 
 ## Screwdrivers
 
-The period ended with a new prime minister and a new policy. Indira Gandhi was assassinated in 1984 and Rajiv Gandhi succeeded her.[108] That year's computer policy, announced on 19 November by Dataquest's chronology,[109] let any manufacturer make 32-bit machines and removed the limits on numbers.[110] It also allowed assembled boards, with their microprocessors and interface electronics already mounted, to be imported, and cut the duty on them.[111]
+The period ended with a new prime minister and a new policy. Indira Gandhi was assassinated in 1984 and Rajiv Gandhi succeeded her.[116] That year's computer policy, announced on 19 November by Dataquest's chronology,[117] let any manufacturer make 32-bit machines and removed the limits on numbers.[118] It also allowed assembled boards, with their microprocessors and interface electronics already mounted, to be imported, and cut the duty on them.[119]
 
-Rajaraman saw what that meant for the engineers who had been soldering their own boards. 'It changed manufacturing to assembly and system integration.' Imported boards were cheaper and more reliable than boards made in India from local parts and imported chips. 'Thus local manufacturing of boards slowly disappeared'.[112] Within two years, he writes, the growth of computers went up by 100 per cent and their cost fell by half. The old guard, he writes, called the new kind of production 'screw driver' manufacturing.[113] A friend of his described his own job as a consultant to Indian PC makers: finding firms in Taiwan, Singapore and Hong Kong to supply motherboards, disk drives, monitors, power supplies, cables and cases, and timing the deliveries to local 'manufacturers' who assembled them, 'put their labels on them' and printed a manual.[114] The ideal of self-reliance, the cornerstone of the Bhabha Committee's report (Chapter 3), was in Rajaraman's words 'truly and completely buried'.[115]
+Rajaraman saw what that meant for the engineers who had been soldering their own boards. 'It changed manufacturing to assembly and system integration.' Imported boards were cheaper and more reliable than boards made in India from local parts and imported chips. 'Thus local manufacturing of boards slowly disappeared'.[120] Within two years, he writes, the growth of computers went up by 100 per cent and their cost fell by half. The old guard, he writes, called the new kind of production 'screw driver' manufacturing.[121] A friend of his described his own job as a consultant to Indian PC makers: finding firms in Taiwan, Singapore and Hong Kong to supply motherboards, disk drives, monitors, power supplies, cables and cases, and timing the deliveries to local 'manufacturers' who assembled them, 'put their labels on them' and printed a manual.[122] The ideal of self-reliance, the cornerstone of the Bhabha Committee's report (Chapter 3), was in Rajaraman's words 'truly and completely buried'.[123]
 
-He found one failure larger than the rest. 'The only major failing was not investing enough resources to develop a local integrated circuit manufacturing industry.' Indian engineers could design large integrated circuits for Texas Instruments and other foreign firms, 'but had no foundry to fabricate them in India'.[116] A committee on semiconductors had reported in 1973, and nothing tangible was done until 1978; even then, he writes, the investment was too small.[117]
+He found one failure larger than the rest. 'The only major failing was not investing enough resources to develop a local integrated circuit manufacturing industry.' Indian engineers could design large integrated circuits for Texas Instruments and other foreign firms, 'but had no foundry to fabricate them in India'.[124] A committee on semiconductors had reported in 1973, and nothing tangible was done until 1978; even then, he writes, the investment was too small.[125]
 
-What India kept was the skill of making computers work. The engineers who had written operating systems and compilers because software could not be imported, and the graduates trained to design business systems, were about to find a market abroad. The same 1984 policy that ended board-making recognised software as an industry, cut the customs duty on computers imported for software export, which had been over 100 per cent, and made one more change that would shape the next decade. 'Sending engineers abroad to develop and maintain software for clients at their sites and profits earned thereby was recognized as "software export"'.[118] By FY1990-91 software exports, insignificant when IBM left, had reached $131.2 million on Heeks's estimate (Chapter 9 compares the series).[119] Rajaraman dates the start of that trade to these years and gives it the name the industry used, 'body shopping'.[120] The 1984 policy had just made that practice count as an export. Body shopping is the subject of the next chapter.
+What India kept was the skill of making computers work. The engineers who had written operating systems and compilers because software could not be imported, and the graduates trained to design business systems, were about to find a market abroad. The same 1984 policy that ended board-making recognised software as an industry, cut the customs duty on computers imported for software export, which had been over 100 per cent, and made one more change that would shape the next decade. 'Sending engineers abroad to develop and maintain software for clients at their sites and profits earned thereby was recognized as "software export"'.[126] By FY1990-91 software exports, insignificant when IBM left, had reached $131.2 million on Heeks's estimate (Chapter 9 compares the series).[127] Rajaraman dates the start of that trade to these years and gives it the name the industry used, 'body shopping'.[128] The 1984 policy had just made that practice count as an export. Body shopping is the subject of the next chapter.
 
 
 ### Notes to Chapter 5. The year IBM left (1973-1984)
@@ -1929,103 +1977,103 @@ What India kept was the skill of making computers work. The engineers who had wr
 
 [33] Sharma, 'Rise, Fall and Rise of IBM in India' (2011).
 
-[34] Aron, 'HCL's Shiv Nadar' (2006).
+[34] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 2 (paragraphs numbered in the online text; translated from the German).
 
-[35] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+[35] Aron, 'HCL's Shiv Nadar' (2006).
 
-[36] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description, not the book); Dizikes, 'The Tech Revolution That Wasn't' (2026). Consulted 2026-10-12; post-cutoff material; live-checked 2026-10-13.
+[36] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
 
-[37] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+[37] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description, not the book); Dizikes, 'The Tech Revolution That Wasn't' (2026). Consulted 2026-10-12; post-cutoff material; live-checked 2026-10-13.
 
-[38] Rajaraman, *History of Computing in India* (2012), p. 29.
+[38] Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), p. 3 (the reviewer's summary, not Banerjee's words). Post-cutoff material; checked against the live source in October 2026.
 
-[39] Rajaraman, *History of Computing in India* (2012), pp. 29-30.
+[39] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
 
-[40] Rajaraman, *History of Computing in India* (2012), p. 30.
+[40] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 1 (translated from the German).
 
-[41] Rajaraman, *History of Computing in India* (2012), p. 28.
+[41] Rajaraman, *History of Computing in India* (2012), p. 29.
 
-[42] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
+[42] Rajaraman, *History of Computing in India* (2012), pp. 29-30.
 
 [43] Rajaraman, *History of Computing in India* (2012), p. 30.
 
-[44] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
+[44] Rajaraman, *History of Computing in India* (2012), p. 28.
 
-[45] Rajaraman, *History of Computing in India* (2012), p. 29.
+[45] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
 
 [46] Rajaraman, *History of Computing in India* (2012), p. 30.
 
 [47] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
 
-[48] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018).
+[48] Rajaraman, *History of Computing in India* (2012), p. 29.
 
-[49] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018).
+[49] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 5 ('der 150 IBM-1400').
 
-[50] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018).
+[50] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), paras 1 and 3 (translated from the German).
 
-[51] Rajaraman, *History of Computing in India* (2012), p. 40.
+[51] Rajaraman, *History of Computing in India* (2012), p. 30.
 
-[52] Rajaraman, *History of Computing in India* (2012), p. 29.
+[52] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
 
-[53] Rajaraman, *History of Computing in India* (2012), p. 30.
+[53] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018).
 
-[54] Rajaraman, *History of Computing in India* (2012), p. 30.
+[54] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018).
 
-[55] Rajaraman, *History of Computing in India* (2012), p. 31.
+[55] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018).
 
-[56] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1978 (Federal Reserve G.5A), at the year's average rate.
+[56] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[57] Rajaraman, *History of Computing in India* (2012), p. 31.
+[57] Rajaraman, *History of Computing in India* (2012), p. 29.
 
-[58] Rajaraman, *History of Computing in India* (2012), p. 31.
+[58] Rajaraman, *History of Computing in India* (2012), p. 30.
 
-[59] Rajaraman, *History of Computing in India* (2012), pp. 39-40.
+[59] Rajaraman, *History of Computing in India* (2012), p. 30.
 
-[60] Rajaraman, *History of Computing in India* (2012), p. 40.
+[60] Rajaraman, *History of Computing in India* (2012), p. 31.
 
-[61] Aron, 'HCL's Shiv Nadar' (2006).
+[61] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1978 (Federal Reserve G.5A), at the year's average rate.
 
-[62] Aron, 'HCL's Shiv Nadar' (2006).
+[62] Rajaraman, *History of Computing in India* (2012), p. 31.
 
-[63] Aron, 'HCL's Shiv Nadar' (2006).
+[63] Rajaraman, *History of Computing in India* (2012), p. 31.
 
-[64] Aron, 'HCL's Shiv Nadar' (2006).
+[64] Rajaraman, *History of Computing in India* (2012), pp. 39-40.
 
-[65] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
+[65] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[66] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
+[66] Aron, 'HCL's Shiv Nadar' (2006).
 
 [67] Aron, 'HCL's Shiv Nadar' (2006).
 
-[68] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
+[68] Aron, 'HCL's Shiv Nadar' (2006).
 
 [69] Aron, 'HCL's Shiv Nadar' (2006).
 
-[70] Aron, 'HCL's Shiv Nadar' (2006).
+[70] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
 
-[71] Aron, 'HCL's Shiv Nadar' (2006).
+[71] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
 
-[72] Aron, 'HCL's Shiv Nadar' (2006).
+[72] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 9-10, 13 (Malhotra, recorded 15 November 2018; a founder's recollection). Corrects the 'renamed' reading of *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
 
-[73] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+[73] Aron, 'HCL's Shiv Nadar' (2006).
 
-[74] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+[74] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
 
-[75] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1979 (Federal Reserve G.5A), at the year's average rate.
+[75] Aron, 'HCL's Shiv Nadar' (2006).
 
-[76] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+[76] Aron, 'HCL's Shiv Nadar' (2006).
 
-[77] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+[77] Aron, 'HCL's Shiv Nadar' (2006).
 
-[78] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+[78] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 13-14.
 
-[79] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+[79] Aron, 'HCL's Shiv Nadar' (2006).
 
 [80] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
 [81] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[82] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1981 (Federal Reserve G.5A), at the year's average rate.
+[82] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1979 (Federal Reserve G.5A), at the year's average rate.
 
 [83] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
@@ -2037,71 +2085,87 @@ What India kept was the skill of making computers work. The engineers who had wr
 
 [87] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[88] Rajaraman, *History of Computing in India* (2012), p. 40.
+[88] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[89] Rajaraman, *History of Computing in India* (2012), p. 40.
+[89] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1981 (Federal Reserve G.5A), at the year's average rate.
 
-[90] Rajaraman, *History of Computing in India* (2012), p. 40.
+[90] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[91] Rajaraman, *History of Computing in India* (2012), pp. 36, 40.
+[91] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[92] Rajaraman, *History of Computing in India* (2012), p. 40.
+[92] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[93] Rajaraman, *History of Computing in India* (2012), p. 40.
+[93] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[94] Rajaraman, *History of Computing in India* (2012), pp. 40, 66 (ref. 73).
+[94] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
 
-[95] Aron, 'HCL's Shiv Nadar' (2006).
+[95] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[96] Rajaraman, *History of Computing in India* (2012), p. 26.
+[96] Rajaraman, *History of Computing in India* (2012), p. 40.
 
 [97] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[98] Rajaraman, *History of Computing in India* (2012), p. 40.
+[98] Rajaraman, *History of Computing in India* (2012), pp. 36, 40.
 
-[99] Rajaraman, *History of Computing in India* (2012), p. 31.
+[99] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[100] Rajaraman, *History of Computing in India* (2012), p. 31.
+[100] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[101] Rajaraman, *History of Computing in India* (2012), p. 34.
+[101] Rajaraman, *History of Computing in India* (2012), pp. 40, 66 (ref. 73).
 
-[102] Rajaraman, *History of Computing in India* (2012), p. 34.
+[102] Aron, 'HCL's Shiv Nadar' (2006).
 
-[103] Rajaraman, *History of Computing in India* (2012), pp. 34-35 (panel, MCA), 42 (NIIT).
+[103] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), p. 16.
 
-[104] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5 (the transcript prints this answer under the label 'Brock:', but its content, 'we founded Infosys in 1981', shows it is Murthy's).
+[104] Rajaraman, *History of Computing in India* (2012), p. 26.
 
-[105] Rajaraman, *History of Computing in India* (2012), p. 35.
+[105] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[106] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (Table 1; gross foreign-exchange earnings, calendar years; net earnings estimated at about 40% of gross).
+[106] Rajaraman, *History of Computing in India* (2012), p. 40.
 
-[107] Rajaraman, *History of Computing in India* (2012), p. 36.
+[107] Rajaraman, *History of Computing in India* (2012), p. 31.
 
-[108] Rajaraman, *History of Computing in India* (2012), pp. 30-31.
+[108] Rajaraman, *History of Computing in India* (2012), p. 31.
 
-[109] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
+[109] Rajaraman, *History of Computing in India* (2012), p. 34.
 
-[110] Rajaraman, *History of Computing in India* (2012), p. 31.
+[110] Rajaraman, *History of Computing in India* (2012), p. 34.
 
-[111] Rajaraman, *History of Computing in India* (2012), p. 32.
+[111] Rajaraman, *History of Computing in India* (2012), pp. 34-35 (panel, MCA), 42 (NIIT).
 
-[112] Rajaraman, *History of Computing in India* (2012), p. 32.
+[112] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5 (the transcript prints this answer under the label 'Brock:', but its content, 'we founded Infosys in 1981', shows it is Murthy's).
 
-[113] Rajaraman, *History of Computing in India* (2012), p. 40.
+[113] Rajaraman, *History of Computing in India* (2012), p. 35.
 
-[114] Rajaraman, *History of Computing in India* (2012), p. 41.
+[114] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (Table 1; gross foreign-exchange earnings, calendar years; net earnings estimated at about 40% of gross).
 
-[115] Rajaraman, *History of Computing in India* (2012), p. 41.
+[115] Rajaraman, *History of Computing in India* (2012), p. 36.
 
-[116] Rajaraman, *History of Computing in India* (2012), p. 42.
+[116] Rajaraman, *History of Computing in India* (2012), pp. 30-31.
 
-[117] Rajaraman, *History of Computing in India* (2012), p. 28.
+[117] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
 
-[118] Rajaraman, *History of Computing in India* (2012), p. 32.
+[118] Rajaraman, *History of Computing in India* (2012), p. 31.
 
-[119] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (gross export earnings, FY1990-91).
+[119] Rajaraman, *History of Computing in India* (2012), p. 32.
 
-[120] Rajaraman, *History of Computing in India* (2012), p. 29.
+[120] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[121] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[122] Rajaraman, *History of Computing in India* (2012), p. 41.
+
+[123] Rajaraman, *History of Computing in India* (2012), p. 41.
+
+[124] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[125] Rajaraman, *History of Computing in India* (2012), p. 28.
+
+[126] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[127] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (gross export earnings, FY1990-91).
+
+[128] Rajaraman, *History of Computing in India* (2012), p. 29.
 
 
 # Chapter 6. Body shopping (1978-1991)
@@ -2122,109 +2186,115 @@ This chapter is about the trade that Ahuja's year in California stood for. Throu
 
 The trade's own name for the business was not flattering. V. Rajaraman, the historian of Indian computing, defines body shopping as 'sending software engineers to client sites abroad to develop software'.[9] The historian William Aspray notes that the service came, derisively, to be called by that name.[10] Richard Heeks, a British researcher who did fieldwork in Indian software firms from the late 1980s, defined it more exactly. In the Indian context, he wrote, 'the combination of onsite and programming work has come to be known as "body shopping"'.[11] The work was done at the client's site (onsite), and it was programming rather than analysis or design. Both halves mattered.
 
-The model was older than the decade. Dinesh Sharma, a journalist and historian of the industry, writes that Tata Consultancy Services (TCS) and Patni Computer Systems had been sending staff to customer sites in the 1970s, and that this 'became a dominant way of doing software business in the 1980s'.[12] By 1980, by Aspray's count, twenty-one Indian firms exported about $4 million of software a year, and the industry was mainly a body-shopping one.[13] Heeks's series gives the same $4.0 million for 1980.[14]
+Later scholars used the word in two ways. Carol Upadhya, of the National Institute of Advanced Studies (NIAS) in Bangalore (Bengaluru since 2014), wrote in 2004 that the industry as a whole 'was established mainly on the basis of labour contract services, a system known as "body shopping"'.[12] In a 2006 report she and A.R. Vasavi used it more narrowly, for the lowest end of the trade as they found it in the 2000s: agencies in India that recruited engineers and placed them with clients abroad, 'taking a large cut of their salaries as their fee'. The agency paid a basic allowance while an engineer was between assignments ('on the bench') and the contracted rate only for time actually worked.[13] This chapter uses the word in Heeks's wider sense, for onsite programming of any kind, which is how the sources for the 1980s use it.
 
-When the Americans first noticed the trade is a separate question. Pratap Chatterjee, the *Multinational Monitor* reporter, wrote that 'The first "body shoppers" arrived in Silicon Valley in 1987'.[15] He gave no source. Sharma puts TCS and Patni staff at customer sites in the 1970s, and Aspray dates TCS's first programmers in the United States, sent to install systems software for Burroughs customers (Chapter 4), to 1974, more than a decade earlier.[16] The two dates can both be true if Chatterjee meant Silicon Valley alone, but the record does not say, and the question of when body shopping began remains open.
+The model was older than the decade. Dinesh Sharma, a journalist and historian of the industry, writes that Tata Consultancy Services (TCS) and Patni Computer Systems had been sending staff to customer sites in the 1970s, and that this 'became a dominant way of doing software business in the 1980s'.[14] By 1980, by Aspray's count, twenty-one Indian firms exported about $4 million of software a year, and the industry was mainly a body-shopping one.[15] Heeks's series gives the same $4.0 million for 1980.[16]
 
-The early firms clustered in one city. In Heeks's account the industry began around Nariman Point in Bombay in the late 1970s, spread north to the Santa Cruz Electronics Export Processing Zone (SEEPZ), and kept Bombay as its centre until at least the mid-1980s (Chapter 10 follows the move to Bangalore).[17] An office in Bombay, though, was often only where the contracts were signed. Heeks's 1988 survey found that 65 per cent of export contracts were carried out wholly at the client's site. Counting the work itself, just under three-quarters of export development took place overseas and a quarter in India. That was true even of firms in the export zones, which had been set up as bases for work done in India.[18]
+When the Americans first noticed the trade is a separate question. Pratap Chatterjee, the *Multinational Monitor* reporter, wrote that 'The first "body shoppers" arrived in Silicon Valley in 1987'.[17] He gave no source. Sharma puts TCS and Patni staff at customer sites in the 1970s, and Aspray dates TCS's first programmers in the United States, sent to install systems software for Burroughs customers (Chapter 4), to 1974, more than a decade earlier.[18] The two dates can both be true if Chatterjee meant Silicon Valley alone, but he does not say. One participant's account supports the earlier date. Nandan Nilekani, who joined Patni in January 1979 and later co-founded Infosys, recalled for the Computer History Museum that Patni 'did a lot of work for clients in the U.S.', and that he spent almost a year at Data General, living in Cambridge, Massachusetts, and taking the bus to its offices in Westborough to work on the company's own software.[19] He left Patni in July 1981, so that stint came years before 1987, though it is a recollection recorded some four decades later. Upadhya and Vasavi, citing Balaji Parthasarathy, call bodyshopping 'the primary form of outsourcing in the 1980s'.[20] None of these sources names a first contract, and the question of exactly when body shopping began remains open.
+
+The early firms clustered in one city. In Heeks's account the industry began around Nariman Point in Bombay in the late 1970s, spread north to the Santa Cruz Electronics Export Processing Zone (SEEPZ), and kept Bombay as its centre until at least the mid-1980s (Chapter 10 follows the move to Bangalore).[21] An office in Bombay, though, was often only where the contracts were signed. Heeks's 1988 survey found that 65 per cent of export contracts were carried out wholly at the client's site. Counting the work itself, just under three-quarters of export development took place overseas and a quarter in India. That was true even of firms in the export zones, which had been set up as bases for work done in India.[22]
 
 ## Why ship people
 
-Why would a country export programmers rather than programs? The sources give the same answer from different angles. Sharma's is the simplest. Indian firms did not have the hardware, the software tools or the basic infrastructure for serious export work, so 'the best way to leverage it was go to the customer site and work there using their computers'.[19]
+Why would a country export programmers rather than programs? The sources give the same answer from different angles. Sharma's is the simplest. Indian firms did not have the hardware, the software tools or the basic infrastructure for serious export work, so 'the best way to leverage it was go to the customer site and work there using their computers'.[23]
 
-Heeks turned the point into an explanation of the whole industry. Because the work was done onsite, he wrote, it needed no purchase of hardware or software by the Indian company and no technology infrastructure in India. Firms had chosen 'a path of almost "inputless" exports which requires only a contact overseas, a little finance, and the names of some local programmers who can be hired if a contract is forthcoming'. Such a path could be followed 'relatively independent of government policy measures, particularly those on imports, because no imports are needed'.[20]
+Heeks turned the point into an explanation of the whole industry. Because the work was done onsite, he wrote, it needed no purchase of hardware or software by the Indian company and no technology infrastructure in India. Firms had chosen 'a path of almost "inputless" exports which requires only a contact overseas, a little finance, and the names of some local programmers who can be hired if a contract is forthcoming'. Such a path could be followed 'relatively independent of government policy measures, particularly those on imports, because no imports are needed'.[24]
 
-That last clause links body shopping to the policy story of the previous chapter. India rationed foreign exchange, and so it rationed imported machines. N.R. Narayana Murthy, a founder of Infosys, told the Computer History Museum that before 1991 a licence to import a computer took about three years and, by his count, fifty visits to Delhi (Chapter 9 gives his account).[21] He also recalled banks that did not understand what software was and would not lend against it, no venture capital, and a wait for a telephone line that he remembered as about seven years; Rajaraman's figure for 1982 is over two years (Chapter 8).[22] Even a day's business trip abroad needed the permission of the Reserve Bank of India, Murthy said.[23] Rajaraman adds that, before 1984, customs duty on computers imported for software export 'used to be over 100%'.[24]
+That last clause links body shopping to the policy story of the previous chapter. India rationed foreign exchange, and so it rationed imported machines. N.R. Narayana Murthy, a founder of Infosys, told the Computer History Museum that before 1991 a licence to import a computer took about three years and, by his count, fifty visits to Delhi (Chapter 9 gives his account).[25] He also recalled banks that did not understand what software was and would not lend against it, no venture capital, and a wait for a telephone line that he remembered as about seven years; Nilekani remembered two, and Rajaraman's figure for 1982 is over two years (Chapter 8).[26] Even a day's business trip abroad needed the permission of the Reserve Bank of India, Murthy said.[27] Rajaraman adds that, before 1984, customs duty on computers imported for software export 'used to be over 100%'.[28]
 
-Computers stayed scarce. By Rajaraman's count India had fewer than 1,000 of them in 1978 and 80,000 in 1990.[25] Against that background, a programmer on a plane was the cheapest export India had. The interviewer at the Computer History Museum, David Brock, put it to Murthy that despite these obstacles Infosys had got going quickly 'because you could send your colleagues to go work in the U.S. at customer sites'. Murthy answered, 'Yeah.'[26]
+Computers stayed scarce. By Rajaraman's count India had fewer than 1,000 of them in 1978 and 80,000 in 1990.[29] Against that background, a programmer on a plane was the cheapest export India had. The interviewer at the Computer History Museum, David Brock, put it to Murthy that despite these obstacles Infosys had got going quickly 'because you could send your colleagues to go work in the U.S. at customer sites'. Murthy answered, 'Yeah.'[30]
 
-Policy was the push. Heeks's interviews found a pull as well. Indian managers liked onsite programming because it 'produces quick revenue for low investment', which suited a business culture wary of risk in uncertain times.[27] Sharma calls it simply 'a high margin business'.[28] The workers pulled too. 'Many Indian staff also want to work overseas and, if denied the opportunity by one company, will simply join another which will send them abroad.'[29] Ahuja's dream of New York and the Rolling Stones was not unusual. It was one of the things the business ran on.
+Policy was the push. Heeks's interviews found a pull as well. Indian managers liked onsite programming because it 'produces quick revenue for low investment', which suited a business culture wary of risk in uncertain times.[31] Sharma calls it simply 'a high margin business'.[32] The workers pulled too. 'Many Indian staff also want to work overseas and, if denied the opportunity by one company, will simply join another which will send them abroad.'[33] Ahuja's dream of New York and the Rolling Stones was not unusual. It was one of the things the business ran on.
 
 ## The minicomputer route
 
-The firms that did this work had come to it by several roads. One ran through the American computer makers that replaced IBM in India after 1978. Sharma's account is that these minicomputer firms found the Indian market small and slow, and to keep their operations viable they began using local engineers to write software for the machines they sold locally. They found 'that not only were Indian engineers cheaper but the quality of software they wrote was very good', and they began using them for customers back home.[30]
+The firms that did this work had come to it by several roads. One ran through the American computer makers that replaced IBM in India after 1978. Sharma's account is that these minicomputer firms found the Indian market small and slow, and to keep their operations viable they began using local engineers to write software for the machines they sold locally. They found 'that not only were Indian engineers cheaper but the quality of software they wrote was very good', and they began using them for customers back home.[34]
 
-Narendra Patni, whose company sold Data General minicomputers in India, described how his firm's software business began. 'There was a lot of business exchange, and we started doing software work for them including operating systems. That's how our software stream started.'[31] The engineers who did such work are rarely heard in the record. One who is, through a note he sent Sharma in 2006, is K.R. Trilokekar, who joined ORG Systems in 1978. ORG, a division of the Ambalal Sarabhai group, distributed Sperry's mainframes in India. 'We developed P1024 protocol, which Sperry used in its mainframes worldwide,' Trilokekar recalled. 'We also developed several systems software products for them.'[32] His is a reminder that the trade was not only coding to other people's designs. Some Indian engineers wrote the systems software that sat at the heart of American machines.
+Narendra Patni, whose company sold Data General minicomputers in India, described how his firm's software business began. 'There was a lot of business exchange, and we started doing software work for them including operating systems. That's how our software stream started.'[35] The engineers who did such work are rarely heard in the record. One who is, through a note he sent Sharma in 2006, is K.R. Trilokekar, who joined ORG Systems in 1978. ORG, a division of the Ambalal Sarabhai group, distributed Sperry's mainframes in India. 'We developed P1024 protocol, which Sperry used in its mainframes worldwide,' Trilokekar recalled. 'We also developed several systems software products for them.'[36] His is a reminder that the trade was not only coding to other people's designs. Some Indian engineers wrote the systems software that sat at the heart of American machines.
 
-The largest road ran through Tata. TCS had learned its trade in the 1970s on work for the American computer maker Burroughs (Chapter 4), and the two firms' joint software company, Tata Burroughs, was renamed Tata Unisys in 1986.[33] Sharma reports that these two Tata companies 'accounted for nearly 70 per cent of exports through body shopping'.[34] The World Bank's table of top exporters, from data gathered by the National Association of Software and Service Companies (Nasscom), the industry's lobby group, and published in 1994, shows how far ahead they stayed. TCS's exports were Rs 1,754.8 million and Tata Unisys's Rs 560.0 million. The next firm, Digital Equipment (India), had Rs 317.8 million.[35] The table does not state its year; it is probably FY1991-92.
+The largest road ran through Tata. TCS had learned its trade in the 1970s on work for the American computer maker Burroughs (Chapter 4), and the two firms' joint software company, Tata Burroughs, was renamed Tata Unisys in 1986.[37] Sharma reports that these two Tata companies 'accounted for nearly 70 per cent of exports through body shopping'.[38] The World Bank's table of top exporters, from data gathered by the National Association of Software and Service Companies (Nasscom), the industry's lobby group, and published in 1994, shows how far ahead they stayed. TCS's exports were Rs 1,754.8 million and Tata Unisys's Rs 560.0 million. The next firm, Digital Equipment (India), had Rs 317.8 million.[39] The table does not state its year; it is probably FY1991-92.
 
-Below these few firms, the industry was tiny. Over three-quarters of Indian software companies had fewer than twenty-five professionals, and about 95 per cent had software revenue under $100,000. Some, the World Bank noted, were in the business of renting out programmers abroad and operated with 'a one-room office, telephone and fax'.[36] Heeks explained why so many start-ups took this road. A new firm founded by someone who had left a big company could trade on that person's contacts. It could not so easily overcome the barriers of technology, skills and finance, and so it began with onsite programming, where there were few economies of scale. Selling anything else took patience: a few firms, Heeks found, had spent two or three years on export marketing before winning a first order.[37]
+Below these few firms, the industry was tiny. Over three-quarters of Indian software companies had fewer than twenty-five professionals, and about 95 per cent had software revenue under $100,000. Some, the World Bank noted, were in the business of renting out programmers abroad and operated with 'a one-room office, telephone and fax'.[40] Heeks explained why so many start-ups took this road. A new firm founded by someone who had left a big company could trade on that person's contacts. It could not so easily overcome the barriers of technology, skills and finance, and so it began with onsite programming, where there were few economies of scale. Selling anything else took patience: a few firms, Heeks found, had spent two or three years on export marketing before winning a first order.[41]
 
 ## Seven founders and an apparel package
 
-Infosys was one of those start-ups. After a first company of his own, Softronics, had failed for want of computers in India (Chapter 4), Murthy joined Patni Computer Systems in Bombay as general manager of software and visited the United States many times.[38] Among his colleagues were Nandan Nilekani and Kris Gopalakrishnan, young engineers with a year or a year and a half of experience. When he left to try again, he told them he was 'convinced that there's going to be a great future for a company that develops bespoke software for a large market like the U.S.'[39]
+Infosys was one of those start-ups. After a first company of his own, Softronics, had failed for want of computers in India (Chapter 4), Murthy joined Patni Computer Systems in Bombay as general manager of software and visited the United States many times.[42] Patni, he recalled in an earlier museum interview in 2018, sold Data General computers in India, wrote application software for Indian customers and exported software to the United States, and he built a group of 'about 100 youngsters' there.[43] Among his colleagues were Nilekani and Kris Gopalakrishnan, young engineers with a year or a year and a half of experience. When he left to try again, he told them he was 'convinced that there's going to be a great future for a company that develops bespoke software for a large market like the U.S.'[44]
 
-The company was incorporated in July 1981 as Infosys Consultants Private Limited.[40] Its 1999 filing with the US Securities and Exchange Commission says it was founded by seven people: Murthy and six software professionals.[41] The founding is usually remembered for a small sum: Sudha Murty, Murthy's wife, has said she gave him Rs 10,000 of her savings of Rs 10,250 to start it, keeping Rs 250 back, and that she saw it as a risk because his previous venture had failed.[42] At the 1981 average exchange rate that was about $1,150.[43] The story is told often. What the company did next is told less.
+The company was incorporated in July 1981 as Infosys Consultants Private Limited.[45] Its 1999 filing with the US Securities and Exchange Commission says it was founded by seven people: Murthy and six software professionals.[46] They had, Murthy said in 2018, 'lots of hopes, lots of dreams, some confidence, but no money', and what carried them was 'a deal with our client who gave us a reasonably good advance'.[47] The founding is usually remembered for a small sum: Sudha Murty, Murthy's wife, has said she gave him Rs 10,000 of her savings of Rs 10,250 to start it, keeping Rs 250 back, and that she saw it as a risk because his previous venture had failed.[48] At the 1981 average exchange rate that was about $1,150.[49] The story is told often. What the company did next is told less.
 
-Murthy described the first customer to the Computer History Museum. It was an American firm, Data Basics, which sold a software package to apparel and shoe companies, among them Jockey and Reebok. Most of its customers ran the package on small 16-bit minicomputers, the Data General NOVA or the DEC PDP-11. Infosys proposed to move it to a 32-bit Data General MV/8000 and later to an IBM 4381 mainframe, so that Data Basics could sell to bigger companies. 'It was a godsend for us,' Murthy said.[44] The job was a port, the rewriting of an existing program to run on different machines: exactly the kind of conversion work that the World Bank would later list as typical of Indian contracts.[45]
+Murthy described the first customer to the Computer History Museum. It was an American firm, Data Basics, which sold a software package to apparel and shoe companies, among them Jockey and Reebok. Most of its customers ran the package on small 16-bit minicomputers, the Data General NOVA or the DEC PDP-11. Infosys proposed to move it to a 32-bit Data General MV/8000 and later to an IBM 4381 mainframe, so that Data Basics could sell to bigger companies. 'It was a godsend for us,' Murthy said.[50] The job was a port, the rewriting of an existing program to run on different machines: exactly the kind of conversion work that the World Bank would later list as typical of Indian contracts.[51]
 
-The clearest record of where the founders spent the 1980s is the management section of that 1999 filing. It reads like the biography of a body shop. 'From 1981 to 1987, Mr. Nilekani was in the United States managing the marketing and development efforts of Infosys.' K. Dinesh, from 1981 to 1990, 'managed projects for Infosys in the United States'. S.D. Shibulal, from 1981 to 1991, 'worked for Infosys in the United States on projects in the retail and manufacturing industries'. From 1987 to 1994 Gopalakrishnan managed 'all projects at the U.S.-based KSA/Infosys', a joint venture with the American consultancy Kurt Salmon Associates.[46] Three of the seven founders, in other words, spent most or all of the decade working in America, and a fourth ran the projects of an American-based joint venture for the last part of it.
+The clearest record of where the founders spent the 1980s is the management section of that 1999 filing. It reads like the biography of a body shop. 'From 1981 to 1987, Mr. Nilekani was in the United States managing the marketing and development efforts of Infosys.' K. Dinesh, from 1981 to 1990, 'managed projects for Infosys in the United States'. S.D. Shibulal, from 1981 to 1991, 'worked for Infosys in the United States on projects in the retail and manufacturing industries'. From 1987 to 1994 Gopalakrishnan managed 'all projects at the U.S.-based KSA/Infosys', a joint venture with the American consultancy Kurt Salmon Associates.[52] Three of the seven founders, in other words, spent most or all of the decade working in America, and a fourth ran the projects of an American-based joint venture for the last part of it.
 
-The same filing describes Infosys as one of the pioneers of a different model. 'The Indian offshore development model was initiated in the mid-1980's', it says, as a way of dividing a project between a facility in India and the client's site.[47] That is the company's description of itself, written for investors in 1999. The founders' own careers show that for most of the decade the Infosys model, like everyone else's, was onsite. By the early 1990s Infosys was twelfth in the World Bank's table of exporters, with exports of Rs 120.6 million.[48] In 1994, Murthy recalled, the whole company, perhaps 200 people, could still meet in its canteen.[49]
+Nilekani's own recollection matches the filing. Murthy, he said, opened an office in his flat in Poona (now Pune), and 'we all went abroad, so he was the only guy here. We were all sitting in Florida or somewhere doing some programming work for a company which was a client'. 'Essentially from 1981 to 1987,' he said, 'I was in the U.S. working on various projects for Infosys for clients in the U.S.' His explanation was the one this chapter has given: 'in the early days when the technology was not there yet, we had to actually go and do this work physically.'[53]
+
+The same filing describes Infosys as one of the pioneers of a different model. 'The Indian offshore development model was initiated in the mid-1980's', it says, as a way of dividing a project between a facility in India and the client's site.[54] That is the company's description of itself, written for investors in 1999. The founders' own careers show that for most of the decade the Infosys model, like everyone else's, was onsite. By the early 1990s Infosys was twelfth in the World Bank's table of exporters, with exports of Rs 120.6 million.[55] In 1994, Murthy recalled, the whole company, perhaps 200 people, could still meet in its canteen.[56]
 
 ## Selling hours
 
 How was this work priced? The question matters to the argument of this book, which is that the Indian industry was built to sell engineers' time rather than finished products. The best sources for the 1980s converge on an answer, though none of them is a contract.
 
-The first is a World Bank study by Nagy Hanna, published in 1994, which drew on Nasscom data and on surveys of foreign buyers made in 1991 and 1992. It described Indian export growth as coming mainly from contract programmers doing low-level work, '"body-shopping" or "manpower contracts" in which the overseas buyer typically buys "hours" and not a total project or product'. It went on: 'Typically, programmers are contracted out to work for a client at an agreed hourly or monthly rate for six to eighteen months.' The jobs were data conversion and coding, such as moving systems from batch processing to online processing, or converting code to run on Unix.[50] The contracts were 'short in term, low in risk, low in value added, and low in investment', and they made up '70-80 percent of the industry's export revenues'.[51]
+The first is a World Bank study by Nagy Hanna, published in 1994, which drew on Nasscom data and on surveys of foreign buyers made in 1991 and 1992. It described Indian export growth as coming mainly from contract programmers doing low-level work, '"body-shopping" or "manpower contracts" in which the overseas buyer typically buys "hours" and not a total project or product'. It went on: 'Typically, programmers are contracted out to work for a client at an agreed hourly or monthly rate for six to eighteen months.' The jobs were data conversion and coding, such as moving systems from batch processing to online processing, or converting code to run on Unix.[57] The contracts were 'short in term, low in risk, low in value added, and low in investment', and they made up '70-80 percent of the industry's export revenues'.[58]
 
-The second is Heeks's survey work, and it measures something different from his onsite figure: not where contracts were done but how they were billed. 'During the period 1988-1998,' he wrote, 'at least 65% of export contracts were solely for programming work billed on a "time and materials" basis, with programming figuring strongly in the remaining one-third of contracts.'[52] Time and materials is the contract term for billing a client for staff time at agreed rates, plus expenses. The rate could be set per hour, per day or per person per month. The opposite is a fixed-price contract, where the supplier promises a result for a set sum and carries the risk if it takes longer.
+The second is Heeks's survey work, and it measures something different from his onsite figure: not where contracts were done but how they were billed. 'During the period 1988-1998,' he wrote, 'at least 65% of export contracts were solely for programming work billed on a "time and materials" basis, with programming figuring strongly in the remaining one-third of contracts.'[59] Time and materials is the contract term for billing a client for staff time at agreed rates, plus expenses. The rate could be set per hour, per day or per person per month. The opposite is a fixed-price contract, where the supplier promises a result for a set sum and carries the risk if it takes longer.
 
-The third is Ahuja's case, a single documented price: $50 an hour, billed by HCL to Sun in 1990.[53]
+The third is Ahuja's case, a single documented price: $50 an hour, billed by HCL to Sun in 1990.[60]
 
-Together these sources support the claim that Indian software exports were priced by time and not by product, at least from 1988 and very likely through the decade. Two limits apply. For the years before 1988, the evidence is the World Bank's general description, written in 1994. And the time was sold by the hour or by the month; only one source gives a true hourly rate. One scholar describes the trade differently. AnnaLee Saxenian, writing in 2001, said that in body-shopping contracts 'the amount of software code is specified in advance and revenue is earned per line of code'.[54] She cited no source for that sentence, and it disagrees with the World Bank's and Heeks's direct evidence. The weight of the record is for time-based billing, but the dissent is on file.
+A fourth, from inside HCL, is a recollection. Arjun Malhotra, one of its founders, told the Computer History Museum in 2018 that he was sent to HCL's new office in Sunnyvale, taken in 1989, to wind down the company's attempt to sell its own computers in America. He laid off the hardware team, but the American software companies whose compilers and databases his engineers had been adapting for HCL's machines asked for the work to continue and offered to pay for it. That gave him 'a nice positive cashflow, because they were paying me $45+ an hour in those days. I'm going back to 1989.' He thought he had 'about 10, 15, maybe 20 people' there, and he dated HCL's services business from it: 'That is how HCL Technologies started.'[61] It is a founder's account given three decades on, but it is close to the $50 an hour that Sun paid HCL for Ahuja.
 
-Why did Indian firms not sell products instead? Heeks's answer, written in 1998, was that the barriers to packaged software were higher than those to services. Indian firms were far from the foreign markets they wanted to serve and found it hard to follow changing needs. Software multinationals could spend 40-50 per cent of their annual revenue on selling and marketing packages, and experience suggested that 'only about 1-5% of software packages succeed'. Neither government policy nor managers' attitudes favoured such high-risk, long-term bets.[55] Some firms did custom work cheaply in the hope of selling the result as a package, but such 'packages' often became platforms for more custom work.[56]
+Together these sources support the claim that Indian software exports were priced by time and not by product, at least from 1988 and very likely through the decade. Two limits apply. For the years before 1988, the evidence is the World Bank's general description, written in 1994. And the time was sold by the hour or by the month; only Ahuja's case documents a true hourly rate, with Malhotra's recollection beside it. One scholar describes the trade differently. AnnaLee Saxenian, writing in 2001, said that in body-shopping contracts 'the amount of software code is specified in advance and revenue is earned per line of code'.[62] She cited no source for that sentence, and it disagrees with the World Bank's and Heeks's direct evidence. The weight of the record is for time-based billing, but the dissent is on file.
 
-The pricing had consequences that Heeks spelled out. A firm that sold time could grow only by selling more of it: in custom services, 'earnings are directly proportional to the number of people working in the industry'.[57] And the time it sold was the cheapest part of the job. Citing a 1991 study by Bhatnagar and Jain, Heeks wrote that 'Coding is the lowest paid part of the software development process, earning only 10-15% of total project revenue'.[58] Foreign buyers knew what they were paying for. A survey of 150 American and European hardware and software firms, cited by the World Bank, ranked Indian software services as having 'the lowest labor cost after China'. Citing a separate 1991 study of European attitudes, the report also noted 'a low perception of Indian software skills in OECD markets', particularly in project management, and observed that programmers who returned from onsite work had gained little or no experience of managing large projects.[59] The pattern lasted. In the nine months to December 1998, Infosys earned 63.7 per cent of its revenue from time-and-materials contracts and 36.3 per cent from fixed-price ones.[60] Later chapters follow that split into the age of offshore delivery.
+Why did Indian firms not sell products instead? Heeks's answer, written in 1998, was that the barriers to packaged software were higher than those to services. Indian firms were far from the foreign markets they wanted to serve and found it hard to follow changing needs. Software multinationals could spend 40-50 per cent of their annual revenue on selling and marketing packages, and experience suggested that 'only about 1-5% of software packages succeed'. Neither government policy nor managers' attitudes favoured such high-risk, long-term bets.[63] Some firms did custom work cheaply in the hope of selling the result as a package, but such 'packages' often became platforms for more custom work.[64]
+
+The pricing had consequences that Heeks spelled out. A firm that sold time could grow only by selling more of it: in custom services, 'earnings are directly proportional to the number of people working in the industry'.[65] And the time it sold was the cheapest part of the job. Citing a 1991 study by Bhatnagar and Jain, Heeks wrote that 'Coding is the lowest paid part of the software development process, earning only 10-15% of total project revenue'.[66] Foreign buyers knew what they were paying for. A survey of 150 American and European hardware and software firms, cited by the World Bank, ranked Indian software services as having 'the lowest labor cost after China'. Citing a separate 1991 study of European attitudes, the report also noted 'a low perception of Indian software skills in OECD markets', particularly in project management, and observed that programmers who returned from onsite work had gained little or no experience of managing large projects.[67] The pattern lasted. In the nine months to December 1998, Infosys earned 63.7 per cent of its revenue from time-and-materials contracts and 36.3 per cent from fixed-price ones.[68] Later chapters follow that split into the age of offshore delivery.
 
 ## The policy catches up
 
-The government did not invent body shopping, but in the 1980s it began to recognise it. The shift was slow. Looking back in 1994, Murli Menon, editor of the Indian magazine *C&C*, wrote that 'In 1984, the government still believed in self-reliance, indigenisation and protection of the domestic [computer] industry'.[61] A committee chaired by Rajaraman had recommended in 1981 that imports be freed for genuine exporters (Chapter 5).[62] The computer policy of 1984 went further. Customs duty on computers imported for software export was cut, and the work of engineers sent to develop and maintain software at clients' sites abroad was recognised as software export (Chapter 5).[63] The state now counted the body shop as an exporter. In 1986 a new software policy let firms import computers duty-free if they exported software worth 250 per cent of the computer's cost within four years.[64]
+The government did not invent body shopping, but in the 1980s it began to recognise it. The shift was slow. Looking back in 1994, Murli Menon, editor of the Indian magazine *C&C*, wrote that 'In 1984, the government still believed in self-reliance, indigenisation and protection of the domestic [computer] industry'.[69] A committee chaired by Rajaraman had recommended in 1981 that imports be freed for genuine exporters (Chapter 5).[70] The computer policy of 1984 went further. Customs duty on computers imported for software export was cut, and the work of engineers sent to develop and maintain software at clients' sites abroad was recognised as software export (Chapter 5).[71] The state now counted the body shop as an exporter. In 1986 a new software policy let firms import computers duty-free if they exported software worth 250 per cent of the computer's cost within four years.[72]
 
-With machines easier to obtain, some firms began what Sharma says was called remote software development, working from India on clients' systems. High telecommunications costs still held it back.[65] Two foreign arrivals showed what the alternative could look like. In 1984, Sharma writes, Citibank set up a software unit at SEEPZ, with capital spending of Rs 2 crore (Rs 20 million, about $1.8 million at the 1984 average rate). A senior vice-president, Paul Glaser, hoped it could write much of the $250 million of software the bank bought each year.[66] Citicorp Overseas Software Limited (COSL) was inaugurated on 28 October 1985. By the year to March 1990 it was the third-largest software exporter in India, behind TCS and Tata Unisys.[67] COSL also did something rare in the Indian trade of the time: it sold a product. Its MicroBanker branch-banking software was priced at $120,000 for a network of ten terminals and $200,000 for twenty, a price for a thing rather than for hours.[68] One engineer who moved there in 1989, Rajesh Hukku, had spent nearly ten years at TCS and had helped build India's first local area network product, FALCON, in 1984.[69] His later career, building banking software for sale, belongs to a later chapter.
+With machines easier to obtain, some firms began what Sharma says was called remote software development, working from India on clients' systems. High telecommunications costs still held it back.[73] Two foreign arrivals showed what the alternative could look like. In 1984, Sharma writes, Citibank set up a software unit at SEEPZ, with capital spending of Rs 2 crore (Rs 20 million, about $1.8 million at the 1984 average rate). A senior vice-president, Paul Glaser, hoped it could write much of the $250 million of software the bank bought each year.[74] Citicorp Overseas Software Limited (COSL) was inaugurated on 28 October 1985. By the year to March 1990 it was the third-largest software exporter in India, behind TCS and Tata Unisys.[75] COSL also did something rare in the Indian trade of the time: it sold a product. Its MicroBanker branch-banking software was priced at $120,000 for a network of ten terminals and $200,000 for twenty, a price for a thing rather than for hours.[76] One engineer who moved there in 1989, Rajesh Hukku, had spent nearly ten years at TCS and had helped build India's first local area network product, FALCON, in 1984.[77] His later career, building banking software for sale, belongs to a later chapter.
 
-The other arrival was Texas Instruments, which set up a centre in Bangalore (Bengaluru since 2014) linked to its Dallas base by its own satellite connection, a story Chapter 8 tells. Heeks called it 'the first proper offshore software facility'.[70]
+The other arrival was Texas Instruments, which set up a centre in Bangalore linked to its Dallas base by its own satellite connection, a story Chapter 8 tells. Heeks called it 'the first proper offshore software facility'.[78]
 
-In Heeks's account TI also strengthened Bangalore's reputation as a place for software, part of a drift away from Bombay that Chapter 10 examines.[71]
+In Heeks's account TI also strengthened Bangalore's reputation as a place for software, part of a drift away from Bombay that Chapter 10 examines.[79]
 
-The World Bank saw better data links as the way out of body shopping and the brain drain (Chapter 8).[72] In the 1980s, though, TI and COSL were exceptions. Heeks listed the reasons onsite work persisted into the 1990s: clients' distrust of unknown Indian suppliers, which made them keep control and send out only the simple tasks; clients' priorities, which put cost first; projects too small to be worth sending offshore, below about $100,000; the need for face-to-face contact; the shortage in India of experienced managers; and the managers' taste for quick returns.[73] Even in the year to March 1998, more than half of software services export earnings still came from onsite work.[74] Chatterjee reported in 1995 that until about two years earlier most Indian software exported to the United States had been produced on American soil.[75]
+The World Bank saw better data links as the way out of body shopping and the brain drain (Chapter 8).[80] In the 1980s, though, TI and COSL were exceptions. An estimate by Rakesh Basant and Uma Rani, cited by Upadhya and Vasavi, shows how rare they remained: in 1990-91, '90 per cent of Indian software and service export revenues came from onsite work and only 5 per cent from offshore' (Chapter 9 follows the change).[81] Heeks listed the reasons onsite work persisted into the 1990s: clients' distrust of unknown Indian suppliers, which made them keep control and send out only the simple tasks; clients' priorities, which put cost first; projects too small to be worth sending offshore, below about $100,000; the need for face-to-face contact; the shortage in India of experienced managers; and the managers' taste for quick returns.[82] Even in the year to March 1998, more than half of software services export earnings still came from onsite work.[83] Chatterjee reported in 1995 that until about two years earlier most Indian software exported to the United States had been produced on American soil.[84]
 
 ## Who went
 
-The people who went were, overwhelmingly, young men. Heeks found that 'Only some 10% of Indian software developers are female'. Women faced particular obstacles, because the work often meant unsocial hours and, above all, going overseas. One manager described onsite programming to him as 'the young, single man's game'. Yet the women Heeks interviewed felt that software offered 'a more relaxed and less discriminatory atmosphere than many other Indian employment options'.[76] The sources read for this chapter give no 1980s count of women working onsite.
+The people who went were, overwhelmingly, young men. Heeks found that 'Only some 10% of Indian software developers are female'. Women faced particular obstacles, because the work often meant unsocial hours and, above all, going overseas. One manager described onsite programming to him as 'the young, single man's game'. Yet the women Heeks interviewed felt that software offered 'a more relaxed and less discriminatory atmosphere than many other Indian employment options'.[85] The sources read for this chapter give no 1980s count of women working onsite.
 
-The papers they travelled on are thinly documented for the decade. Heeks wrote that only when American rules tightened in the 1990s were Indian workers channelled into temporary work visas, 'rather than student or training or even tourist visas as in the past'.[77] Ahuja's B1/B2 visa fits that description.[78] The work visa that later defined the trade, the H-1B, belongs to Chapter 13.
+The papers they travelled on are thinly documented for the decade. Heeks wrote that only when American rules tightened in the 1990s were Indian workers channelled into temporary work visas, 'rather than student or training or even tourist visas as in the past'.[86] Ahuja's B1/B2 visa fits that description.[87] The work visa that later defined the trade, the H-1B, belongs to Chapter 13.
 
-The firms invested in the people they sent, and they tried to keep them. Sharma describes the routine: firms 'had to hire the right people, train them for a brief while, send them to American clients to execute projects and then they would come back'.[79] Not all came back. The World Bank observed that 'once the personnel are abroad, the temptations to remain abroad are strong', and that the cost of endlessly training replacements had to be set against low profit margins.[80]
+The firms invested in the people they sent, and they tried to keep them. Sharma describes the routine: firms 'had to hire the right people, train them for a brief while, send them to American clients to execute projects and then they would come back'.[88] Not all came back. The World Bank observed that 'once the personnel are abroad, the temptations to remain abroad are strong', and that the cost of endlessly training replacements had to be set against low profit margins.[89]
 
-Some firms used the courts. Chatterjee reported the case of Kala Sivasubramanian, a programmer whom TCS had brought to San Francisco. When she tried to move to another company, TCS 'sued to enforce her contract, which called for her to pay more than $30,000 to the company if she quit'. The firm's lawyer said TCS had sued sixteen former employees successfully, and that the judgment in her case had gone in its favour.[81] The article, published in 1995, does not date her case, which may fall in the early 1990s rather than the 1980s. Her words are not recorded.
+Some firms used the courts. Chatterjee reported the case of Kala Sivasubramanian, a programmer whom TCS had brought to San Francisco. When she tried to move to another company, TCS 'sued to enforce her contract, which called for her to pay more than $30,000 to the company if she quit'. The firm's lawyer said TCS had sued sixteen former employees successfully, and that the judgment in her case had gone in its favour.[90] The article, published in 1995, does not date her case, which may fall in the early 1990s rather than the 1980s. Her words are not recorded.
 
-What the programmers were paid is the weakest part of the record. No source read for this chapter gives an Indian programmer's salary for the 1980s. Ahuja's $800 a month in 1990 is the earliest documented figure in it.[82] In the 1990s the US Department of Labor found Indian firms paying their programmers in America '$15,000 a year plus housing and travel', against '$70,000 plus benefits' for an average American counterpart.[83] Chatterjee wrote in 1995 that a good software engineer in California could earn $100,000 a year while the best in India earned $10,000.[84] Infosys's 1999 filing, citing the consultancy Software Productivity Research, put the average Indian software wage at about 15 per cent of the American rate.[85] The gap was the business. It explains both why clients bought Indian hours and why Indian programmers wanted to be the ones sent to sell them.
+What the programmers were paid is the weakest part of the record. No source read for this chapter gives an Indian programmer's salary for the 1980s. Ahuja's $800 a month in 1990 is the earliest documented figure in it.[91] In the 1990s the US Department of Labor found Indian firms paying their programmers in America '$15,000 a year plus housing and travel', against '$70,000 plus benefits' for an average American counterpart.[92] Chatterjee wrote in 1995 that a good software engineer in California could earn $100,000 a year while the best in India earned $10,000.[93] Infosys's 1999 filing, citing the consultancy Software Productivity Research, put the average Indian software wage at about 15 per cent of the American rate.[94] The gap was the business. It explains both why clients bought Indian hours and why Indian programmers wanted to be the ones sent to sell them.
 
-Many stayed abroad for good. The World Bank estimated that migration of graduates from 'premier institutions like the IITs' was 'as high as 50 percent', and that nearly 60 per cent of computer science graduates of IIT Bombay and IIT Madras left the country for study or jobs.[86] It placed part of the blame on the trade itself: 'The orientation of the sector toward renting out programmers for the export market has led to the ubiquitous problem of "brain drain"'.[87]
+Many stayed abroad for good. The World Bank estimated that migration of graduates from 'premier institutions like the IITs' was 'as high as 50 percent', and that nearly 60 per cent of computer science graduates of IIT Bombay and IIT Madras left the country for study or jobs.[95] It placed part of the blame on the trade itself: 'The orientation of the sector toward renting out programmers for the export market has led to the ubiquitous problem of "brain drain"'.[96]
 
 ## The ledger
 
-By the numbers the decade was a success. Heeks's series, compiled from his own research and the trade magazine *Dataquest*, shows exports rising from $4.0 million in 1980 to $25.3 million in 1984, $54.1 million in 1987 and $131.2 million in the year to March 1991 (Chapter 9 compares this series with Rajaraman's).[88] The World Bank calculated that exports grew by 35 per cent a year between 1987 and 1991, against 21 per cent for the industry as a whole.[89] The number of firms with sales above $1 million rose from fifteen in 1990 to forty-four in 1992.[90] The exporters had also organised. Nilekani was a co-founder of Nasscom, whose founding Chapter 8 describes, and Murthy was its president from 1992 to 1994.[91]
+By the numbers the decade was a success. Heeks's series, compiled from his own research and the trade magazine *Dataquest*, shows exports rising from $4.0 million in 1980 to $25.3 million in 1984, $54.1 million in 1987 and $131.2 million in the year to March 1991 (Chapter 9 compares this series with Rajaraman's).[97] The World Bank calculated that exports grew by 35 per cent a year between 1987 and 1991, against 21 per cent for the industry as a whole.[98] The number of firms with sales above $1 million rose from fifteen in 1990 to forty-four in 1992.[99] The exporters had also organised. Nilekani was a co-founder of Nasscom, whose founding Chapter 8 describes, and Murthy was its president from 1992 to 1994.[100]
 
-The headline numbers overstated what India kept. Heeks pointed out that they were gross foreign-exchange earnings. Net of the foreign exchange spent on Indian workers' travel and living allowances abroad, on marketing, on profits sent home by multinationals and on imported hardware and software, earnings were estimated at about 40 per cent of the gross.[92] His estimate was made in the late 1990s and covers more than travel. It still qualifies the case for the trade. An industry valued as a source of foreign exchange spent much of what it earned abroad, and a good part of that went on the costs of sending people there.
+The headline numbers overstated what India kept. Heeks pointed out that they were gross foreign-exchange earnings. Net of the foreign exchange spent on Indian workers' travel and living allowances abroad, on marketing, on profits sent home by multinationals and on imported hardware and software, earnings were estimated at about 40 per cent of the gross.[101] His estimate was made in the late 1990s and covers more than travel. It still qualifies the case for the trade. An industry valued as a source of foreign exchange spent much of what it earned abroad, and a good part of that went on the costs of sending people there.
 
-How to judge the decade is a matter of interpretation, and the sources allow three readings. Heeks headed his section on the trade 'Body shopping prison'. In that reading body shopping was low-value labour export that built few higher skills, lost the best people to emigration and left India's industry stuck at the bottom of the work.[93] Heeks also offered a second reading in the same paper: 'Some have therefore been able to use onsite "body shopping" services as a stepping stone to better things.'[94] He set out a possible path from exporting labour, to exporting services done in India, to exporting products, and found support for the first step among individual firms though little in the industry as a whole.[95] The third reading is about policy. Body shopping was a rational answer to import controls and scarce foreign exchange, and it outlived them because clients and managers liked it.[96] Heeks's own summary was that much of India's export growth may have come from the industry's 'dogged following of the low-risk, low-barrier first path'.[97]
+How to judge the decade is a matter of interpretation, and the sources allow three readings. Heeks headed his section on the trade 'Body shopping prison'. In that reading body shopping was low-value labour export that built few higher skills, lost the best people to emigration and left India's industry stuck at the bottom of the work.[102] Heeks also offered a second reading in the same paper: 'Some have therefore been able to use onsite "body shopping" services as a stepping stone to better things.'[103] He set out a possible path from exporting labour, to exporting services done in India, to exporting products, and found support for the first step among individual firms though little in the industry as a whole.[104] The third reading is about policy. Body shopping was a rational answer to import controls and scarce foreign exchange, and it outlived them because clients and managers liked it.[105] Heeks's own summary was that much of India's export growth may have come from the industry's 'dogged following of the low-risk, low-barrier first path'.[106]
 
 ## A warning in 1994
 
-The World Bank's study named a risk in the model that this book returns to at its end. Among the drawbacks of body shopping it listed this: 'Demand for these skills is likely to be eroded by tools that automate many of these tasks.' Cheaper countries, it added, were entering the low end of the trade.[98] 'Globally,' the report went on, 'a long-term decline in demand for routine or low-level programmers has been forecasted.'[99] Heeks, four years later, also named 'automation from new technology' as one of the things that could hurt this kind of export.[100] He noticed a trap in it. Clients would let work go offshore only when it was tightly specified, and tightly specified work was exactly what automated software tools could do.[101]
+The World Bank's study named a risk in the model that this book returns to at its end. Among the drawbacks of body shopping it listed this: 'Demand for these skills is likely to be eroded by tools that automate many of these tasks.' Cheaper countries, it added, were entering the low end of the trade.[107] 'Globally,' the report went on, 'a long-term decline in demand for routine or low-level programmers has been forecasted.'[108] Heeks, four years later, also named 'automation from new technology' as one of the things that could hurt this kind of export.[109] He noticed a trap in it. Clients would let work go offshore only when it was tightly specified, and tightly specified work was exactly what automated software tools could do.[110]
 
-These warnings did not come true in the decades that followed. The tools of the 1990s did not erode the demand for Indian programmers. Exports kept growing fast, reaching $1,650 million in the year to March 1998.[102] The epilogue of this book returns to them, and to the caution they suggest about any forecast that machines will soon do the work.
+These warnings did not come true in the decades that followed. The tools of the 1990s did not erode the demand for Indian programmers. Exports kept growing fast, reaching $1,650 million in the year to March 1998.[111] The epilogue of this book returns to them, and to the caution they suggest about any forecast that machines will soon do the work.
 
 ## Making programmers
 
-Body shopping changed what a software education in India was for. The work sold abroad was mostly coding, testing and conversion to designs set by the client.[103] Heeks found that '85% of workers in Indian software exports are programmers', although the average software project needed less than half its labour from programmers.[104] The industry hired, and the colleges supplied, people for the lower stages of the work. A contemporary scholar thought those stages needed little. Robert Schware, writing in 1987 on software industries in the developing world, judged that 'Common business programming representing more than 80% of the world's programming requires comparatively low-level skills'.[105] Chatterjee's description in 1995 of what Indian programmers typically did was close to that: customising commercial programs for particular clients, and updating or debugging smaller packages. Less-qualified programmers, he wrote, were put on 'the monotonous routine of keying in largely repetitive computer code'.[106]
+Body shopping changed what a software education in India was for. The work sold abroad was mostly coding, testing and conversion to designs set by the client.[112] Heeks found that '85% of workers in Indian software exports are programmers', although the average software project needed less than half its labour from programmers.[113] The industry hired, and the colleges supplied, people for the lower stages of the work. A contemporary scholar thought those stages needed little. Robert Schware, writing in 1987 on software industries in the developing world, judged that 'Common business programming representing more than 80% of the world's programming requires comparatively low-level skills'.[114] Chatterjee's description in 1995 of what Indian programmers typically did was close to that: customising commercial programs for particular clients, and updating or debugging smaller packages. Less-qualified programmers, he wrote, were put on 'the monotonous routine of keying in largely repetitive computer code'.[115]
 
-The state had seen the need coming. In 1980 a panel chaired by Rajaraman proposed a new degree, the Master of Computer Applications (MCA), and the private training company NIIT was founded in 1981; Chapter 7 tells both stories.[107]
+The state had seen the need coming. In 1980 a panel chaired by Rajaraman proposed a new degree, the Master of Computer Applications (MCA), and the private training company NIIT was founded in 1981; Chapter 7 tells both stories.[116]
 
-The export trade drew heavily on the new graduates. The World Bank warned that export needs could take 'almost one-half of all new computing course graduates' from government courses, starving other sectors that needed them.[108] By 1995 Chatterjee could report that training institutes such as NIIT were 'matriculating more than 100,000 computer programmers each year'. That is a journalist's figure, and probably counts short courses.[109]
+The export trade drew heavily on the new graduates. The World Bank warned that export needs could take 'almost one-half of all new computing course graduates' from government courses, starving other sectors that needed them.[117] By 1995 Chatterjee could report that training institutes such as NIIT were 'matriculating more than 100,000 computer programmers each year'. That is a journalist's figure, and probably counts short courses.[118]
 
 The 1980s had shown that India could sell its programmers' time abroad, and that the time sold best when there was plenty of it. The next chapter asks who made those programmers: the new degrees, the private institutes that sold computer courses to anyone who could pay, and the private engineering colleges whose fees became a political fight.
 
@@ -2253,201 +2323,219 @@ The 1980s had shown that India could sell its programmers' time abroad, and that
 
 [11] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
 
-[12] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[12] Upadhya, 'A New Transnational Capitalist Class?' (2004), p. 5141.
 
-[13] Aspray, 'The Role of Policy' (2010).
+[13] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 21.
 
-[14] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+[14] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[15] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[15] Aspray, 'The Role of Policy' (2010).
 
-[16] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009); Aspray, 'The Role of Policy' (2010).
+[16] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
 
-[17] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
+[17] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[18] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+[18] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009); Aspray, 'The Role of Policy' (2010).
 
-[19] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[19] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), pp. 7-8 (title page dated 8 January 2019; CHM reference X9234.2020).
 
-[20] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+[20] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 10, n. 12, citing Parthasarathy 2005, p. 208.
 
-[21] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
+[21] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
 
-[22] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5; Rajaraman, *History of Computing in India* (2012), p. 33.
+[22] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
 
-[23] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
+[23] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[24] Rajaraman, *History of Computing in India* (2012), p. 32.
+[24] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
 
-[25] Rajaraman, *History of Computing in India* (2012), p. 29.
+[25] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
 
-[26] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
+[26] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5; Rajaraman, *History of Computing in India* (2012), p. 33; Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 8.
 
-[27] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+[27] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
 
-[28] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[28] Rajaraman, *History of Computing in India* (2012), p. 32.
 
-[29] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+[29] Rajaraman, *History of Computing in India* (2012), p. 29.
 
-[30] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[30] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
 
-[31] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 60.
+[31] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
 
-[32] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 61.
+[32] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[33] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[33] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
 
 [34] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[35] Hanna, *Exploiting Information Technology for Development* (1994), p. 32.
+[35] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 60.
 
-[36] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+[36] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 61.
 
-[37] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 11.
+[37] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[38] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 4-5.
+[38] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[39] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
+[39] Hanna, *Exploiting Information Technology for Development* (1994), p. 32.
 
-[40] Infosys, Form F-1 (1999), p. 7.
+[40] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
 
-[41] Infosys, Form F-1 (1999), pp. 40, 54.
+[41] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 11.
 
-[42] *Business Standard*, 'Took Risk When I Gave Narayana Rs 10,000' (2024).
+[42] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 4-5.
 
-[43] Federal Reserve, G.5A Foreign Exchange Rates.
+[43] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 14.
 
-[44] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 6.
+[44] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
 
-[45] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+[45] Infosys, Form F-1 (1999), p. 7.
 
-[46] Infosys, Form F-1 (1999), p. 55.
+[46] Infosys, Form F-1 (1999), pp. 40, 54.
 
-[47] Infosys, Form F-1 (1999), p. 45.
+[47] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 15.
 
-[48] Hanna, *Exploiting Information Technology for Development* (1994), p. 32.
+[48] *Business Standard*, 'Took Risk When I Gave Narayana Rs 10,000' (2024).
 
-[49] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 7.
+[49] Federal Reserve, G.5A Foreign Exchange Rates.
 
-[50] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+[50] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 6.
 
 [51] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
 
-[52] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+[52] Infosys, Form F-1 (1999), p. 55.
 
-[53] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[53] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), pp. 9-10.
 
-[54] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
+[54] Infosys, Form F-1 (1999), p. 45.
 
-[55] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 3.
+[55] Hanna, *Exploiting Information Technology for Development* (1994), p. 32.
 
-[56] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 3-4.
+[56] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 7.
 
-[57] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 14-15.
+[57] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
 
-[58] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
+[58] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
 
-[59] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+[59] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
 
-[60] Infosys, Form F-1 (1999), p. 30.
+[60] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[61] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[61] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 20-21, 23.
 
-[62] Rajaraman, *History of Computing in India* (2012), p. 35.
+[62] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
 
-[63] Rajaraman, *History of Computing in India* (2012), p. 32.
+[63] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 3.
 
-[64] Rajaraman, *History of Computing in India* (2012), p. 32.
+[64] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 3-4.
 
-[65] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[65] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 14-15.
 
-[66] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009); Federal Reserve, G.5A Foreign Exchange Rates.
+[66] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
 
-[67] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[67] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
 
-[68] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[68] Infosys, Form F-1 (1999), p. 30.
 
-[69] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[69] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[70] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
+[70] Rajaraman, *History of Computing in India* (2012), p. 35.
 
-[71] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13.
+[71] Rajaraman, *History of Computing in India* (2012), p. 32.
 
-[72] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
+[72] Rajaraman, *History of Computing in India* (2012), p. 32.
 
-[73] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 7-8.
+[73] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[74] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+[74] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009); Federal Reserve, G.5A Foreign Exchange Rates.
 
-[75] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[75] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[76] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+[76] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[77] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 9.
+[77] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[78] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[78] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
 
-[79] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+[79] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13.
 
-[80] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+[80] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
 
-[81] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[81] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 19, citing Basant and Rani 2004, p. 5318 (not seen).
 
-[82] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[82] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 7-8.
 
-[83] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[83] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
 
 [84] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[85] Infosys, Form F-1 (1999), p. 42.
+[85] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
 
-[86] Hanna, *Exploiting Information Technology for Development* (1994), pp. 74, 98.
+[86] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 9.
 
-[87] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+[87] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[88] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+[88] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
 
-[89] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
+[89] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
 
-[90] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+[90] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[91] Infosys, Form F-1 (1999), pp. 54-55.
+[91] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[92] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+[92] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[93] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+[93] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
-[94] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+[94] Infosys, Form F-1 (1999), p. 42.
 
-[95] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 15-16.
+[95] Hanna, *Exploiting Information Technology for Development* (1994), pp. 74, 98.
 
-[96] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 8, 14.
+[96] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
 
-[97] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
+[97] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
 
-[98] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+[98] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
 
-[99] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+[99] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
 
-[100] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+[100] Infosys, Form F-1 (1999), pp. 54-55.
 
-[101] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+[101] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
 
-[102] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+[102] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
 
-[103] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7; Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+[103] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
 
-[104] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+[104] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 15-16.
 
-[105] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7, quoting Schware, 'Software Industry Development in the Third World' (1987), p. 1257.
+[105] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 8, 14.
 
-[106] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[106] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
 
-[107] Rajaraman, *History of Computing in India* (2012), pp. 34, 42.
+[107] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
 
-[108] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+[108] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
 
-[109] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+[109] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+
+[110] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+
+[111] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[112] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7; Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[113] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+
+[114] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7, quoting Schware, 'Software Industry Development in the Third World' (1987), p. 1257.
+
+[115] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[116] Rajaraman, *History of Computing in India* (2012), pp. 34, 42.
+
+[117] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+
+[118] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
 
 
 # Chapter 7. The training economy (1980-1995)
@@ -2548,31 +2636,31 @@ The Court partly overruled *Mohini Jain*. It agreed that a right to education fl
 
 To give this effect the Court wrote a scheme, to apply from 1993-94. It covered every private professional college, defined to include 'colleges of engineering and colleges and institutions imparting technical education including electronics, computer sciences'.[82] At least half of the seats in each college were to be 'free seats', filled by the government or university on merit at the government fee. The rest were 'payment seats', filled by those prepared to pay a fixed higher fee, but still in order of merit. 'There shall be no quota reserved for the management or for any family, caste or community which may have established such college.'[83] All admissions would run through one state notification for each kind of college.[84] The payment half, in effect, was to pay for the free half.
 
-The scheme was a compromise between the market reading and the commercialisation reading of the 1980s. It accepted that private colleges would charge their students much more than the state did, and it tried to keep merit as the rule for deciding who could pay. It governed admissions to private professional colleges for the rest of the period this chapter covers.
+The scheme was a compromise between the market reading and the commercialisation reading of the 1980s. It accepted that private colleges would charge their students much more than the state did, and it tried to keep merit as the rule for deciding who could pay. It governed admissions to private professional colleges for the rest of the period this chapter covers, and for some years after. On 31 October 2002 eleven judges of the Supreme Court, in *T.M.A. Pai Foundation v. State of Karnataka*, held that the scheme 'was not correct' and overruled it, leaving unaided colleges to fix their own fees, though still without capitation fees or profiteering (Chapter 12).[85]
 
 ## What the employers found
 
-The people who came out of this system went into a job market that was short of them and suspicious of them at the same time. Hanna's study found that in India 'the demand for trained software personnel far outstrips the supply, and the shortage is a major constraint to the industry's expansion'. The shortage placed a heavy training burden on firms and caused high staff turnover.[85] The same study warned that manpower forecasts made by the Department of Electronics and others were unreliable for lack of basic data.[86]
+The people who came out of this system went into a job market that was short of them and suspicious of them at the same time. Hanna's study found that in India 'the demand for trained software personnel far outstrips the supply, and the shortage is a major constraint to the industry's expansion'. The shortage placed a heavy training burden on firms and caused high staff turnover.[86] The same study warned that manpower forecasts made by the Department of Electronics and others were unreliable for lack of basic data.[87]
 
-Yet employers trusted few of the public institutions. Only 275 industrial training institutes, polytechnics, colleges and universities were qualified and supported to run computer training. Most of them were short of teachers, equipment and books, and had weak links with industry. In 1991, Hanna reported, the number of MCA graduates rose by 50 per cent, yet only 5 per cent were hired by software exporters. One large software house, the report said, considered students from only thirty universities.[87] The MCA was producing graduates, but the exporters were not yet taking many of them.
+Yet employers trusted few of the public institutions. Only 275 industrial training institutes, polytechnics, colleges and universities were qualified and supported to run computer training. Most of them were short of teachers, equipment and books, and had weak links with industry. In 1991, Hanna reported, the number of MCA graduates rose by 50 per cent, yet only 5 per cent were hired by software exporters. One large software house, the report said, considered students from only thirty universities.[88] The MCA was producing graduates, but the exporters were not yet taking many of them.
 
-The large firms trained their own. The World Bank reproduced, from a background paper written by the National Association of Software and Service Companies (Nasscom), the industry's lobby group, a short account of in-house training at TCS, which had just completed twenty-five years. TCS said that it recruited able graduates from leading institutions and turned them into systems professionals through a demanding initial training programme. Its corporate training centre in Bombay (Mumbai since 1995) had run 6,000 programme days in the previous year, about 120,000 person-days of training, and the company said it spent 7 to 8 per cent of its revenue on training.[88] These are the company's own figures, relayed by its industry association. Hanna judged that large firms did 'a satisfactory job' of in-house training, while small and medium firms did very little, for fear that trained staff would leave for better-paid jobs.[89]
+The large firms trained their own. The World Bank reproduced, from a background paper written by the National Association of Software and Service Companies (Nasscom), the industry's lobby group, a short account of in-house training at TCS, which had just completed twenty-five years. TCS said that it recruited able graduates from leading institutions and turned them into systems professionals through a demanding initial training programme. Its corporate training centre in Bombay (Mumbai since 1995) had run 6,000 programme days in the previous year, about 120,000 person-days of training, and the company said it spent 7 to 8 per cent of its revenue on training.[89] These are the company's own figures, relayed by its industry association. Hanna judged that large firms did 'a satisfactory job' of in-house training, while small and medium firms did very little, for fear that trained staff would leave for better-paid jobs.[90]
 
-The export trade also pulled people away from everything else. Hanna estimated that software exports could 'cannibalize' other sectors 'by taking almost one-half of all new computing course graduates from government-initiated courses'.[90] The World Bank's remedy was more of what the 1980s had already produced: it proposed 'recycling graduates in other disciplines into software engineering', inviting multinationals and non-resident Indians into computer education, and building 'centers of excellence in IT education on the lines of IITs'.[91]
+The export trade also pulled people away from everything else. Hanna estimated that software exports could 'cannibalize' other sectors 'by taking almost one-half of all new computing course graduates from government-initiated courses'.[91] The World Bank's remedy was more of what the 1980s had already produced: it proposed 'recycling graduates in other disciplines into software engineering', inviting multinationals and non-resident Indians into computer education, and building 'centers of excellence in IT education on the lines of IITs'.[92]
 
 ## Who paid
 
-The question of who could enter the new profession has a partial answer in the legal record, and the answer is those whose families could pay. Karnataka's notification charged an outsider thirty times what a government-seat student paid for the same medical course.[92] The Andhra colleges filled half their engineering seats at their own discretion, and the Court found it 'not possible to investigate or verify for what consideration those admissions were made'.[93] A family that wanted an engineering seat in the south or west, and could not win one on merit in a government college, could buy one. Mohini Jain's father, in the one sentence the record gives him, said that he could not.[94]
+The question of who could enter the new profession has a partial answer in the legal record, and the answer is those whose families could pay. Karnataka's notification charged an outsider thirty times what a government-seat student paid for the same medical course.[93] The Andhra colleges filled half their engineering seats at their own discretion, and the Court found it 'not possible to investigate or verify for what consideration those admissions were made'.[94] A family that wanted an engineering seat in the south or west, and could not win one on merit in a government college, could buy one. Mohini Jain's father, in the one sentence the record gives him, said that he could not.[95]
 
-The training companies offered a cheaper door. Their courses cost from a few hundred to a few thousand rupees, and in the World Bank's phrase they recycled graduates from other fields into computing.[95] They were also, on Hanna's evidence, a gamble: most institutes were below standard and few of their students found jobs.[96] The franchise spread the gamble to towns like Chandigarh, Dehradun and Ludhiana, where local entrepreneurs opened centres under the NIIT name.[97]
+The training companies offered a cheaper door. Their courses cost from a few hundred to a few thousand rupees, and in the World Bank's phrase they recycled graduates from other fields into computing.[96] They were also, on Hanna's evidence, a gamble: most institutes were below standard and few of their students found jobs.[97] The franchise spread the gamble to towns like Chandigarh, Dehradun and Ludhiana, where local entrepreneurs opened centres under the NIIT name.[98]
 
-Of the women in this story the sources say little. The only figure is from Richard Heeks of the University of Manchester, who found in research published in 1998 that 'Only some 10% of Indian software developers are female'. Women interviewed for his study nonetheless felt that software offered 'a more relaxed and less discriminatory atmosphere than many other Indian employment options'.[98] Heeks cites a 1985 study of men and women in software from SNDT Women's University in Bombay, which has not been found for this book.[99] The caste and regional background of the trainees is not recorded in any source used here. Nor, apart from Mohini Jain and the unnamed Andhra students, does any student of a private engineering college or computer institute of this period speak in the record. Their absence is the largest gap in this chapter.
+Of the women in this story the sources say little. The only figure is from Richard Heeks of the University of Manchester, who found in research published in 1998 that 'Only some 10% of Indian software developers are female'. Women interviewed for his study nonetheless felt that software offered 'a more relaxed and less discriminatory atmosphere than many other Indian employment options'.[99] Heeks cites a 1985 study of men and women in software from SNDT Women's University in Bombay, which has not been found for this book.[100] The caste and regional background of the trainees is not recorded in any source used here. Nor, apart from Mohini Jain and the unnamed Andhra students, does any student of a private engineering college or computer institute of this period speak in the record. Their absence is the largest gap in this chapter.
 
 ## The wire
 
 By the mid-1990s the training economy had made software a career that could be bought. Before 1980 the way in ran through a handful of elite institutions, IBM and the state, as earlier chapters described. By 1995 it also ran through private engineering colleges in four states, MCA courses, and franchised centres in district towns. All of them taught the skills the trade bought, from COBOL to systems analysis.
 
-What those people did depended on where the work could be done. In 1985, the same year the Sampath committee was asked to find teachers for the new colleges, the Department of Electronics negotiated with the Department of Telecommunications to let Texas Instruments set up a dedicated satellite link from its centre in Bangalore (Bengaluru since 2014) to Dallas, a story Chapter 8 tells.[100] The training economy supplied the people. The policies of the mid-1980s, and that link to Dallas, began to decide whether they would work in India or be flown to their clients.
+What those people did depended on where the work could be done. In 1985, the same year the Sampath committee was asked to find teachers for the new colleges, the Department of Electronics negotiated with the Department of Telecommunications to let Texas Instruments set up a dedicated satellite link from its centre in Bangalore (Bengaluru since 2014) to Dallas, a story Chapter 8 tells.[101] The training economy supplied the people. The policies of the mid-1980s, and that link to Dallas, began to decide whether they would work in India or be flown to their clients.
 
 
 ### Notes to Chapter 7. The training economy (1980-1995)
@@ -2745,37 +2833,39 @@ What those people did depended on where the work could be done. In 1985, the sam
 
 [84] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 684-85.
 
-[85] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
+[85] *T.M.A. Pai Foundation v. State of Karnataka* (2002), paras. 45, 56-57.
 
 [86] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
 
-[87] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+[87] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
 
-[88] Hanna, *Exploiting Information Technology for Development* (1994), p. 72.
+[88] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
 
-[89] Hanna, *Exploiting Information Technology for Development* (1994), pp. 72, 52.
+[89] Hanna, *Exploiting Information Technology for Development* (1994), p. 72.
 
-[90] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+[90] Hanna, *Exploiting Information Technology for Development* (1994), pp. 72, 52.
 
-[91] Hanna, *Exploiting Information Technology for Development* (1994), p. 73.
+[91] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
 
-[92] *Mohini Jain v. State of Karnataka* (1992), pp. 663-64.
+[92] Hanna, *Exploiting Information Technology for Development* (1994), p. 73.
 
-[93] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 692.
+[93] *Mohini Jain v. State of Karnataka* (1992), pp. 663-64.
 
-[94] *Mohini Jain v. State of Karnataka* (1992), p. 664.
+[94] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 692.
 
-[95] Hanna, *Exploiting Information Technology for Development* (1994), pp. 51, 71.
+[95] *Mohini Jain v. State of Karnataka* (1992), p. 664.
 
-[96] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+[96] Hanna, *Exploiting Information Technology for Development* (1994), pp. 51, 71.
 
-[97] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
+[97] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
 
-[98] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+[98] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
 
 [99] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
 
-[100] Rajaraman, *History of Computing in India* (2012), p. 36.
+[100] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+
+[101] Rajaraman, *History of Computing in India* (2012), p. 36.
 
 
 # Chapter 8. Satellite and permit (1984-1991)
@@ -3781,89 +3871,89 @@ Part of that growth came from the currency. In the year to March 1998, 90.0 per 
 
 To sell work that would be done ten thousand miles from the client, the firms had to show that it would be done properly. They sought two certificates. The international quality standard ISO 9001 was awarded after auditors inspected a firm's documentation, testing and project methods, and the Capability Maturity Model (CMM) of the Software Engineering Institute (SEI) at Carnegie Mellon University graded the 'maturity' of a firm's development process on five levels.[18] In the account of V. Rajaraman, the historian of Indian computing, ISO 9001 certification was 'essential for bidding for software projects in Europe whereas the CMM maturity level is valued more in the USA'.[19]
 
-The race to the top level began with a claim that is still unconfirmed. Motorola's Global Software Group, which was set up in India in 1991, says in its own press material that its Indian centre reached Level 5 in 1993 and was 'the first commercial organization in the world' to do so.[20] Rajaraman repeats the claim without a separate source.[21] A *Business Today* report, which this book has not seen, is recorded in its source notes as saying only that Motorola was the first in India, and as dating it to 1994. No record from the SEI itself has been found, so the claim is Motorola's.[22]
+The race to the top level began with a claim that is still unconfirmed. Motorola's Global Software Group, which was set up in India in 1991, says in its own press material that its Indian centre reached Level 5 in 1993 and was 'the first commercial organization in the world' to do so.[20] A timeline slide the group showed at a conference of the American National Defense Industrial Association in 2005 also places 'CMM 5: India' in 1993.[21] Rajaraman repeats the claim without a separate source.[22] A *Business Today* report of January 2003 claims less. It says that 'Motorola India Electronics was the first company in India to get a SEI CMM certification in 1994', and does not give the level.[23] Motorola's own material and the magazine differ on the year as well as the claim, and no record from the SEI itself has been found, so the world first remains Motorola's.[24]
 
-By the end of the decade Indian firms held a large share of the highest ratings, though the sources do not agree on how large. The researcher AnnaLee Saxenian, writing in 2001, said that in December 1999, 137 Indian companies had ISO 9000 or CMM Level 2 certification, 'and ten companies were certified at Level 5 (the highest level, at which only six U.S. companies are certified.)'[23] Rajaraman gives a different figure for the same year: 'In 1999, 6 out of 12 CMM level 5 certified companies in the world were in India.'[24] The two counts may cover different months or count organisations differently. Either way, a handful of Indian firms held a large share of the top grade, and the industry said so loudly. 'Quality certification', Saxenian wrote, 'serves as an important marketing device'.[25]
+By the end of the decade Indian firms held a large share of the highest ratings, though the sources do not agree on how large. The researcher AnnaLee Saxenian, writing in 2001, said that in December 1999, 137 Indian companies had ISO 9000 or CMM Level 2 certification, 'and ten companies were certified at Level 5 (the highest level, at which only six U.S. companies are certified.)'[25] Rajaraman gives a different figure for the same year: 'In 1999, 6 out of 12 CMM level 5 certified companies in the world were in India.'[26] The two counts may cover different months or count organisations differently. Either way, a handful of Indian firms held a large share of the top grade, and the industry said so loudly. 'Quality certification', Saxenian wrote, 'serves as an important marketing device'.[27] The share kept growing. By January 2003, *Business Today* reported, 54 of the 78 organisations assessed at Level 5 worldwide were Indian companies or the Indian operations of multinationals, against 19 American companies.[28] The magazine also recorded what the grade was for. At a Nasscom-Gartner summit in Mumbai in September 2002, one of the chief executives present, whom it did not name, explained how it helped: 'When you tell customers that you are a Level 5 company,' he said, 'they shut up and listen.'[29]
 
-Infosys described its own standing in the February 1999 filing: it had 'been certified at Level 4, a level achieved by only 2% of the more than 1,000 software companies tested under the Capability Maturity Model'.[26] Both the 2 per cent and the word 'certified' are the company's. The SEI's process was an appraisal, and the industry described the result as a certificate.
+Infosys described its own standing in the February 1999 filing: it had 'been certified at Level 4, a level achieved by only 2% of the more than 1,000 software companies tested under the Capability Maturity Model'.[30] Both the 2 per cent and the word 'certified' are the company's. The SEI's process was an appraisal, and the industry described the result as a certificate.
 
-Rajaraman also explained why process mattered to the firms themselves. Both certificates, he wrote, 'require emphasis on well documented processes which every software engineer in the organization is expected to follow'. And 'The process orientation allowed companies which were recruiting large numbers of employees each year to quickly train them to become productive members of a development team. Staff attrition also could be managed better due to the disciplined software development process.'[27] Rajaraman presents this as a benefit, and it was one. But it also describes what process did to the engineer. A firm that hired thousands of graduates a year, and lost many of them to rivals or to American visas, needed work broken into documented steps that any trained graduate could follow and any other could take over. The certificate reassured the client. The process underneath it made individual engineers easier to replace. That is an interpretation of Rajaraman's words rather than his own conclusion. This book carries the interpretation one step further, and labels it as its own reading: documented, standardised work is also the kind that machines can most easily learn to do. Chapter 19 sets that reading against what the firms' own filings later said about tools for coding, testing and documentation.
+Rajaraman also explained why process mattered to the firms themselves. Both certificates, he wrote, 'require emphasis on well documented processes which every software engineer in the organization is expected to follow'. And 'The process orientation allowed companies which were recruiting large numbers of employees each year to quickly train them to become productive members of a development team. Staff attrition also could be managed better due to the disciplined software development process.'[31] Rajaraman presents this as a benefit, and it was one. But it also describes what process did to the engineer. A firm that hired thousands of graduates a year, and lost many of them to rivals or to American visas, needed work broken into documented steps that any trained graduate could follow and any other could take over. The certificate reassured the client. The process underneath it made individual engineers easier to replace. That is an interpretation of Rajaraman's words rather than his own conclusion. This book carries the interpretation one step further, and labels it as its own reading: documented, standardised work is also the kind that machines can most easily learn to do. Chapter 19 sets that reading against what the firms' own filings later said about tools for coding, testing and documentation.
 
 ## The pyramid
 
-The work itself was organised as a pyramid. Infosys's 1999 filing described a typical project: a 'small team of two to five IT professionals' visited the client to set the scope, then its managers went back to India 'to supervise a much larger team of 10 to 50 IT professionals', with the client's systems 'linked via satellite' to the Indian centres.[28] A few experienced people faced the client. Many junior people did the work in India. The filing said the company did about 80 per cent of its project work in India.[29]
+The work itself was organised as a pyramid. Infosys's 1999 filing described a typical project: a 'small team of two to five IT professionals' visited the client to set the scope, then its managers went back to India 'to supervise a much larger team of 10 to 50 IT professionals', with the client's systems 'linked via satellite' to the Indian centres.[32] A few experienced people faced the client. Many junior people did the work in India. The filing said the company did about 80 per cent of its project work in India.[33]
 
-The firm described its own model as an industry practice. 'The Indian offshore development model was initiated in the mid-1980's,' the filing said (Chapter 6 tests that dating against the founders' own careers), and it listed what attracted clients: a large pool of English-speaking professionals, 'relatively low labor costs', international quality standards, the 'capability to work on specific projects on a 24-hour basis by exploiting time zone differences', and the ability to run phases of a project in parallel.[30] By 2002 the language had changed. The annual report for the year to March 2002 said that 'Our clients leverage our proprietary Global Delivery Model to achieve higher quality, rapid time-to-market and cost-effective solutions.'[31] In three years an industry practice had become a company brand.
+The firm described its own model as an industry practice. 'The Indian offshore development model was initiated in the mid-1980's,' the filing said (Chapter 6 tests that dating against the founders' own careers), and it listed what attracted clients: a large pool of English-speaking professionals, 'relatively low labor costs', international quality standards, the 'capability to work on specific projects on a 24-hour basis by exploiting time zone differences', and the ability to run phases of a project in parallel.[34] By 2002 the language had changed. The annual report for the year to March 2002 said that 'Our clients leverage our proprietary Global Delivery Model to achieve higher quality, rapid time-to-market and cost-effective solutions.'[35] In three years an industry practice had become a company brand.
 
-For the industry as a whole, the move offshore was real but slower than the brand suggests. On each of the series that Chapter 9 compares and reconciles, more than half of the industry's export work was still done at clients' sites abroad, which is why the story of the H-1B visa (Chapter 13) runs alongside this one.[32]
+For the industry as a whole, the move offshore was real but slower than the brand suggests. On each of the series that Chapter 9 compares and reconciles, more than half of the industry's export work was still done at clients' sites abroad, which is why the story of the H-1B visa (Chapter 13) runs alongside this one.[36]
 
-The pyramid was efficient at turning cheap hours into exports, but by international standards it produced little revenue per head (Chapter 10 gives Saxenian's comparison with Israel and Ireland). Saxenian saw the largest firms, such as Wipro and Infosys, trying to escape that trap: winning larger contracts 'often on a turnkey basis', charging higher rates, and turning what they learned on one project into software components they could reuse for the next.[33] The same pages record the other way out. Indian programmers, aware of what their skills earned abroad, were leaving, many of them on the American visas that Chapter 13 follows.[34]
+The pyramid was efficient at turning cheap hours into exports, but by international standards it produced little revenue per head (Chapter 10 gives Saxenian's comparison with Israel and Ireland). Saxenian saw the largest firms, such as Wipro and Infosys, trying to escape that trap: winning larger contracts 'often on a turnkey basis', charging higher rates, and turning what they learned on one project into software components they could reuse for the next.[37] The same pages record the other way out. Indian programmers, aware of what their skills earned abroad, were leaving, many of them on the American visas that Chapter 13 follows.[38]
 
-The pyramid had a consequence that a senior Infosys manager described in the *Business Today* article, published in January 2001. Sales had more than doubled in the first half of the year to March 2001, and the magazine noted that growth widened the middle and top of the organisation. 'We are growing so fast that many people with two to three years experience are getting into managerial roles,' said Hema Ravichandar, the senior vice-president for human resources.[35] Fast promotion for early recruits depended on a base that grew faster still. Not everyone wanted to climb. 'I don't have to become a project manager if I don't want to,' said Sushil, who worked in the company's mobile-commerce practice and is identified in the article only by his first name. 'I can focus on the technology and become a technical consultant to projects.'[36]
+The pyramid had a consequence that a senior Infosys manager described in the *Business Today* article, published in January 2001. Sales had more than doubled in the first half of the year to March 2001, and the magazine noted that growth widened the middle and top of the organisation. 'We are growing so fast that many people with two to three years experience are getting into managerial roles,' said Hema Ravichandar, the senior vice-president for human resources.[39] Fast promotion for early recruits depended on a base that grew faster still. Not everyone wanted to climb. 'I don't have to become a project manager if I don't want to,' said Sushil, who worked in the company's mobile-commerce practice and is identified in the article only by his first name. 'I can focus on the technology and become a technical consultant to projects.'[40]
 
 ## The millennium bug
 
-The work that filled the base of the pyramid in the late 1990s was Y2K. Rajaraman explains the problem simply. Programs written in the 1970s and 1980s, 'mostly in COBOL', stored the year as two digits to save memory, on the assumption that the first two were 19. When the year became 2000 they would give wrong results, and every such program had to be found and corrected. 'This bug fix was labour intensive. There were not enough software engineers in the USA and Europe to fix the bug and it had to be outsourced. This was a godsend opportunity to many fledgling software services companies in India.'[37]
+The work that filled the base of the pyramid in the late 1990s was Y2K. Rajaraman explains the problem simply. Programs written in the 1970s and 1980s, 'mostly in COBOL', stored the year as two digits to save memory, on the assumption that the first two were 19. When the year became 2000 they would give wrong results, and every such program had to be found and corrected. 'This bug fix was labour intensive. There were not enough software engineers in the USA and Europe to fix the bug and it had to be outsourced. This was a godsend opportunity to many fledgling software services companies in India.'[41]
 
-At Infosys, the 1999 filing shows how quickly the work arrived. Y2K projects made up about 7.5 per cent of revenue in the year to March 1997 and 23.3 per cent in the year to March 1998.[38] In the nine months to December 1998 the share was 21.4 per cent.[39] The figure often repeated, that Y2K was 23 per cent of Infosys's revenue 'in 1997', comes from Rajaraman, who took it from an earlier history.[40] It is the same number: the company's fiscal year 1998 ran from April 1997 to March 1998. Y2K tripled as a share of the business in a single year and had already begun to shrink as a share by the end of 1998.
+At Infosys, the 1999 filing shows how quickly the work arrived. Y2K projects made up about 7.5 per cent of revenue in the year to March 1997 and 23.3 per cent in the year to March 1998.[42] In the nine months to December 1998 the share was 21.4 per cent.[43] The figure often repeated, that Y2K was 23 per cent of Infosys's revenue 'in 1997', comes from Rajaraman, who took it from an earlier history.[44] It is the same number: the company's fiscal year 1998 ran from April 1997 to March 1998. Y2K tripled as a share of the business in a single year and had already begun to shrink as a share by the end of 1998.
 
-The company was frank with American investors about what kind of work this was. 'The high demand for these time-sensitive projects results in pricing and margins that are favorable to the Company,' the filing said. It expected demand to 'begin to diminish rapidly after fiscal 1999', and it could not promise to replace the work with other work at the same margins.[41] Then came a sentence about people. 'There is an additional risk that the Company may be unable to retrain and redeploy IT professionals who are currently assigned to Year 2000 conversion projects involving legacy computer systems after such projects are completed.'[42] In a document filed under American securities law, the leading Indian firm said that a wave of demand had trained a cohort of its engineers for work that would soon end, and that it might not find other work for them.
+The company was frank with American investors about what kind of work this was. 'The high demand for these time-sensitive projects results in pricing and margins that are favorable to the Company,' the filing said. It expected demand to 'begin to diminish rapidly after fiscal 1999', and it could not promise to replace the work with other work at the same margins.[45] Then came a sentence about people. 'There is an additional risk that the Company may be unable to retrain and redeploy IT professionals who are currently assigned to Year 2000 conversion projects involving legacy computer systems after such projects are completed.'[46] In a document filed under American securities law, the leading Indian firm said that a wave of demand had trained a cohort of its engineers for work that would soon end, and that it might not find other work for them.
 
-For the industry, the figures come from the National Association of Software and Service Companies (Nasscom), the industry's lobby group, as reported by the trade newsletter *Computergram* in June 1999. Indian software exports in FY1998-99 were $2.65 billion, up 51.4 per cent, and Y2K work accounted for $560 million of that, or 21.1 per cent. Nasscom said that 203 of the Fortune 1000 companies used Indian software services, and that 25 firms earned 63 per cent of all exports.[43] Two weeks earlier the same newsletter had reported a larger Nasscom estimate: that Indian firms had earned $2.3 billion from the bug, might reach $3 billion by the end of 1999, and would earn only 'a few hundred million dollars' from it the following year.[44] The cumulative figure is hard to reconcile with $560 million in the peak year unless it spans several years and other kinds of work. The share of a single year's exports, about a fifth, is the safer number. The same report described the trap that the end of the work would set. Large companies around the world, it said, were holding back from buying new computer systems until the millennium had passed, and were no longer spending much on the bug either, because most of it had been dealt with. Indian firms that had relied on Y2K feared that their profits would fall.[45]
+For the industry, the figures come from the National Association of Software and Service Companies (Nasscom), the industry's lobby group, as reported by the trade newsletter *Computergram* in June 1999. Indian software exports in FY1998-99 were $2.65 billion, up 51.4 per cent, and Y2K work accounted for $560 million of that, or 21.1 per cent. Nasscom said that 203 of the Fortune 1000 companies used Indian software services, and that 25 firms earned 63 per cent of all exports.[47] Two weeks earlier the same newsletter had reported a larger Nasscom estimate: that Indian firms had earned $2.3 billion from the bug, might reach $3 billion by the end of 1999, and would earn only 'a few hundred million dollars' from it the following year.[48] The cumulative figure is hard to reconcile with $560 million in the peak year unless it spans several years and other kinds of work. The share of a single year's exports, about a fifth, is the safer number. The same report described the trap that the end of the work would set. Large companies around the world, it said, were holding back from buying new computer systems until the millennium had passed, and were no longer spending much on the bug either, because most of it had been dealt with. Indian firms that had relied on Y2K feared that their profits would fall.[49]
 
-Nasscom already had an answer to the end of the work. Its president, Dewang Mehta, spoke of 'three Es', electronic commerce, enterprise resource planning (ERP, the integrated software that large companies were then installing to run their accounts, stock and staff) and euro conversion, and of an export target of $50 billion by FY2007-08.[46] The euro was a second conversion job. The European Union announced in 1995 that the single currency would be used from 1 January 1999, and banks and other financial institutions had to change their programs before then. In Rajaraman's words, this 'was a labour intensive job and provided software conversion contracts to numerous Indian software companies'.[47] No figures for the value of euro work to Indian firms have been found.
+Nasscom already had an answer to the end of the work. Its president, Dewang Mehta, spoke of 'three Es', electronic commerce, enterprise resource planning (ERP, the integrated software that large companies were then installing to run their accounts, stock and staff) and euro conversion, and of an export target of $50 billion by FY2007-08.[50] The euro was a second conversion job. The European Union announced in 1995 that the single currency would be used from 1 January 1999, and banks and other financial institutions had to change their programs before then. In Rajaraman's words, this 'was a labour intensive job and provided software conversion contracts to numerous Indian software companies'.[51] No figures for the value of euro work to Indian firms have been found.
 
-The millennium arrived without a crisis. In early 2000 the news magazine *Outlook* asked in a headline whether the whole thing had been 'The Rs 1,800 Cr Hoax?'. It put the world's spending on the problem at $600 billion, about $150 billion of it in the United States. It reported Nasscom's estimate that Y2K preparations had cost India Rs 1,800 crore across government and private industry, of which Rs 600 crore was for software and services.[48] The magazine converted the total to $3.6 billion. At the 1999 average exchange rate it was about $420 million.[49] The article also recorded what the night had been like for the firms. Rajeev K. Arora, resident manager of Tata Consultancy Services (TCS), a company that by the magazine's account had written more than 650 million lines of code for Y2K correction, said TCS had bought overseas tickets and arranged visas so that it could fly its engineers to clients if anything went wrong, and had stocked diesel for its generators.[50] Mehta's own verdict, as *Outlook* quoted it, was that 'Y2K was a godsend and might prove to be the turning point for the industry.'[51]
+The millennium arrived without a crisis. In early 2000 the news magazine *Outlook* asked in a headline whether the whole thing had been 'The Rs 1,800 Cr Hoax?'. It put the world's spending on the problem at $600 billion, about $150 billion of it in the United States. It reported Nasscom's estimate that Y2K preparations had cost India Rs 1,800 crore across government and private industry, of which Rs 600 crore was for software and services.[52] The magazine converted the total to $3.6 billion. At the 1999 average exchange rate it was about $420 million.[53] The article also recorded what the night had been like for the firms. Rajeev K. Arora, resident manager of Tata Consultancy Services (TCS), a company that by the magazine's account had written more than 650 million lines of code for Y2K correction, said TCS had bought overseas tickets and arranged visas so that it could fly its engineers to clients if anything went wrong, and had stocked diesel for its generators.[54] Mehta's own verdict, as *Outlook* quoted it, was that 'Y2K was a godsend and might prove to be the turning point for the industry.'[55]
 
-Was it the turning point? The export figures say not. In the series Rajaraman reproduces, Indian software exports had grown by between about a quarter and two-thirds a year in every year from 1990-91 to 1997-98 (Chapter 9 compares it with a second series), most of that before Y2K work became large.[52] At its peak Y2K was about a fifth of the industry's exports and about a fifth of the leading firm's revenue, and that firm expected it to fade quickly. What Y2K did, on the best evidence, was open doors. Rajaraman writes that many firms 'earned the goodwill of clients by not only fixing the Y2K bug but also improving the software (when appropriate) at no extra cost', and that 'This opportunity gave many software services companies entry to the Fortune 500 companies and enabled them to get software development contracts later.'[53] He also gives part of the credit for the quiet rollover to the programmers 'working diligently in India between 1993 and 1999'.[54] That is his judgement, and the *Outlook* article shows that it was not universally shared at the time.[55] The common belief that Y2K made the Indian industry is half right. It accelerated growth that had already begun, and it put Indian engineers inside the systems of large American companies, some of which kept them on for other work.
+Was it the turning point? The export figures say not. In the series Rajaraman reproduces, Indian software exports had grown by between about a quarter and two-thirds a year in every year from 1990-91 to 1997-98 (Chapter 9 compares it with a second series), most of that before Y2K work became large.[56] At its peak Y2K was about a fifth of the industry's exports and about a fifth of the leading firm's revenue, and that firm expected it to fade quickly. What Y2K did, on the best evidence, was open doors. Rajaraman writes that many firms 'earned the goodwill of clients by not only fixing the Y2K bug but also improving the software (when appropriate) at no extra cost', and that 'This opportunity gave many software services companies entry to the Fortune 500 companies and enabled them to get software development contracts later.'[57] N. Chandrasekaran, who had joined TCS in 1987 and became its chief executive in 2009, gave a similar account to the Computer History Museum in 2020, two decades after the event. The Year 2000 work, he recalled, 'gave us scale, because everyone wanted a solution', and clients who saw it done well began to ask what else the firm could do for them.[58] He also gives part of the credit for the quiet rollover to the programmers 'working diligently in India between 1993 and 1999'.[59] That is his judgement, and the *Outlook* article shows that it was not universally shared at the time.[60] The common belief that Y2K made the Indian industry is half right. It accelerated growth that had already begun, and it put Indian engineers inside the systems of large American companies, some of which kept them on for other work.
 
-None of the engineers who did the Y2K work has left an account that this book has found. They appear in the record only as numbers in filings and as the 'IT professionals' whom Infosys feared it could not redeploy.
+None of the junior engineers who did the Y2K work has left an account that this book has found. They appear in the record only as numbers in filings and as the 'IT professionals' whom Infosys feared it could not redeploy.
 
 ## Two hundred thousand applications
 
-The engineers on the bus in 2000 had been chosen from a very large crowd. Chapter 9 followed the company's recruiting funnel in the year to March 1998, when about 70,870 applications produced about 1,300 joiners.[56] *Business Today* reported 183,966 applications in 1999 and 259,820 in 2000 up to 1 December, and 2,991 people hired in the six months from April to September 2000.[57] In the year to March 2002 the company received about 193,640 applications, interviewed about 6,730 people, made about 1,710 offers and saw about 1,550 accepted. It said it focused 'on the top 20% of students from engineering departments of Indian schools'.[58] About one applicant in 55 joined in 1997-98, and about one in 125 in 2001-02. These are the company's figures and it used them to advertise itself. They also show that the supply of engineering graduates who wanted these jobs was growing far faster than even the fastest-growing firm could take them. The national supply at the end of the decade, on the figures Saxenian took from Nasscom (Chapter 10), ran to tens of thousands of computer science graduates and hundreds of thousands of private trainees a year.[59] The leading firms did not depend on either. Infosys, which in 1991 had advertised for engineers of any discipline and promised to train them (Chapter 9), still selected by its own tests and taught its own methods.[60]
+The engineers on the bus in 2000 had been chosen from a very large crowd. Chapter 9 followed the company's recruiting funnel in the year to March 1998, when about 70,870 applications produced about 1,300 joiners.[61] *Business Today* reported 183,966 applications in 1999 and 259,820 in 2000 up to 1 December, and 2,991 people hired in the six months from April to September 2000.[62] In the year to March 2002 the company received about 193,640 applications, interviewed about 6,730 people, made about 1,710 offers and saw about 1,550 accepted. It said it focused 'on the top 20% of students from engineering departments of Indian schools'.[63] About one applicant in 55 joined in 1997-98, and about one in 125 in 2001-02. These are the company's figures and it used them to advertise itself. They also show that the supply of engineering graduates who wanted these jobs was growing far faster than even the fastest-growing firm could take them. The national supply at the end of the decade, on the figures Saxenian took from Nasscom (Chapter 10), ran to tens of thousands of computer science graduates and hundreds of thousands of private trainees a year.[64] The leading firms did not depend on either. Infosys, which in 1991 had advertised for engineers of any discipline and promised to train them (Chapter 9), still selected by its own tests and taught its own methods.[65]
 
-The firm explained its appeal in its own terms. In 1999 it told American investors that, because of its stock option plan, it had 'become one of the most sought after employers for Indian engineering graduates', with attrition 'significantly below the industry average'. It added that 'India is home to the world's second largest population of English-speaking technical talent'.[61] Both statements were the company's description of itself.
+The firm explained its appeal in its own terms. In 1999 it told American investors that, because of its stock option plan, it had 'become one of the most sought after employers for Indian engineering graduates', with attrition 'significantly below the industry average'. It added that 'India is home to the world's second largest population of English-speaking technical talent'.[66] Both statements were the company's description of itself.
 
-The education that mattered most happened after the degree, in the three-month course that every batch of new engineers took in the training centre the reporter had been shown.[62] Chapter 12 follows the company's training system as it grew, including its campus at Mysore (Mysuru since 2014). Taken with Rajaraman's account of process, this is the shape of the system that the next chapter follows at full scale. The firm selected from a vast pool, trained its recruits for three months in its own methods, and placed them into a documented process.
+The education that mattered most happened after the degree, in the three-month course that every batch of new engineers took in the training centre the reporter had been shown.[67] Chapter 12 follows the company's training system as it grew, including its campus at Mysore (Mysuru since 2014). Taken with Rajaraman's account of process, this is the shape of the system that the next chapter follows at full scale. The firm selected from a vast pool, trained its recruits for three months in its own methods, and placed them into a documented process.
 
-The people inside it were mostly engineers. The magazine counted 4,616 employees on the Bangalore campus in late 2000, and said that apart from the 840 people in the company's staff functions, such as human resources, finance, marketing and administration, everyone was an engineer.[63] The magazine noticed the strain as well as the perks. 'Every time things get a little too much for me,' said an employee who, it reported, 'not infrequently puts in 16 hours a day at work', 'I go out for a smoke, or a walk, or play a few holes of golf.' Muthamma Acharya, 'a twenty-something marketing executive', described the pace of hiring: 'You come in one morning and find the breakfast line 400-people longer'.[64] Suparna Shankar, an assistant manager in marketing for the Asia-Pacific region, summed up the place for the magazine: 'You can create a role for yourself.'[65] These were the voices a magazine chose for a story about the best employer in India. No account by an engineer who disliked the work, or left, has been found for this period.
+The people inside it were mostly engineers. The magazine counted 4,616 employees on the Bangalore campus in late 2000, and said that apart from the 840 people in the company's staff functions, such as human resources, finance, marketing and administration, everyone was an engineer.[68] The magazine noticed the strain as well as the perks. 'Every time things get a little too much for me,' said an employee who, it reported, 'not infrequently puts in 16 hours a day at work', 'I go out for a smoke, or a walk, or play a few holes of golf.' Muthamma Acharya, 'a twenty-something marketing executive', described the pace of hiring: 'You come in one morning and find the breakfast line 400-people longer'.[69] Suparna Shankar, an assistant manager in marketing for the Asia-Pacific region, summed up the place for the magazine: 'You can create a role for yourself.'[70] These were the voices a magazine chose for a story about the best employer in India. No account by an engineer who disliked the work, or left, has been found for this period.
 
 ## Nasdaq
 
-Infosys had listed in India in 1993, in an offering Murthy remembered as 'a very tough time' (Chapter 9).[66] Six years later it went to New York. The final prospectus, dated 10 March 1999 and filed the next day, offered 1.8 million American Depositary Shares (ADSs), certificates traded in the United States that each represented half an Indian share, at $34.00 each. The offering raised $61.2 million before an underwriting discount of $1.68 a share. The shares were to be quoted on the Nasdaq National Market under the symbol INFY.[67] On 10 March the equivalent price of the shares on the Mumbai exchange had been $37.18 per ADS, at Rs 42.50 to the dollar, so the American price was set a little below the Indian one. Until then, the prospectus noted, there had been no public market for the company's shares in the United States.[68] The company's press release, which this book could not obtain, is the source of the widely repeated claim that Infosys was the first Indian company to list on an American exchange, and the claim is not repeated here.
+Infosys had listed in India in 1993, in an offering Murthy remembered as 'a very tough time' (Chapter 9).[71] Six years later it went to New York. The final prospectus, dated 10 March 1999 and filed the next day, offered 1.8 million American Depositary Shares (ADSs), certificates traded in the United States that each represented half an Indian share, at $34.00 each. The offering raised $61.2 million before an underwriting discount of $1.68 a share. The shares were to be quoted on the Nasdaq National Market under the symbol INFY.[72] On 10 March the equivalent price of the shares on the Mumbai exchange had been $37.18 per ADS, at Rs 42.50 to the dollar, so the American price was set a little below the Indian one. Until then, the prospectus noted, there had been no public market for the company's shares in the United States.[73] The company's press release, which this book could not obtain, is the source of the widely repeated claim that Infosys was the first Indian company to list on an American exchange, and the claim is not repeated here.
 
-Murthy gave a specific reason for the listing. Infosys had prepared its accounts under American accounting rules voluntarily from 1995, so that clients could read them. 'Later on, we said, "Look. We have to create an employee stock option plan in the U.S. currency." Therefore, we wanted ADRs [American Depository Receipts], and that is how we got listed on NASDAQ in 1999.'[69] In his account, the listing was as much about paying staff as about raising money.
+Murthy gave a specific reason for the listing. Infosys had prepared its accounts under American accounting rules voluntarily from 1995, so that clients could read them. 'Later on, we said, "Look. We have to create an employee stock option plan in the U.S. currency." Therefore, we wanted ADRs [American Depository Receipts], and that is how we got listed on NASDAQ in 1999.'[74] In his account, the listing was as much about paying staff as about raising money.
 
-Others followed. In June 1999 Mehta of Nasscom said he expected up to ten Indian firms to list in the United States over the next twelve to eighteen months.[70] The next was not a software services firm but an internet company. Satyam Infoway, the internet subsidiary of Satyam Computer Services, priced its ADSs on 18 October 1999 at $4.50 each (the filing appears to give this on the basis it uses for its price history, after a four-for-one split of its ADSs in January 2000), and they began trading on Nasdaq the next day.[71] Satyam Computer Services owned about 52.5 per cent of it in 2002.[72] A rival Indian content provider, Rediff.com, completed its own American offering in June 2000.[73]
+Others followed. In June 1999 Mehta of Nasscom said he expected up to ten Indian firms to list in the United States over the next twelve to eighteen months.[75] The next was not a software services firm but an internet company. Satyam Infoway, the internet subsidiary of Satyam Computer Services, priced its ADSs on 18 October 1999 at $4.50 each (the filing appears to give this on the basis it uses for its price history, after a four-for-one split of its ADSs in January 2000), and they began trading on Nasdaq the next day.[76] Satyam Computer Services owned about 52.5 per cent of it in 2002.[77] A rival Indian content provider, Rediff.com, completed its own American offering in June 2000.[78]
 
 ## Rupee millionaires
 
-The listing turned paper into wealth for employees because Infosys had given them paper. 'In 1994, the Company established the ESOP, one of the first employee stock option plans in India,' the 1999 filing said. A trust set up for the purpose held warrants for shares, and employees received rights to buy shares at Rs 100 each, $2.35 at the exchange rate of February 1999, which the filing called 'substantially below the market price'. The rights vested over five years.[74] The filing explains the plan at length because under American accounting rules the discount was a cost, and under Indian rules it was not.[75] Stock options were so unusual in India that the government's information technology task force of 1998, among its 108 recommendations, proposed allowing 'sweat equity' and employee stock option plans, which Rajaraman describes as 'alien to other industries in India'. That required a change in company law.[76]
+The listing turned paper into wealth for employees because Infosys had given them paper. 'In 1994, the Company established the ESOP, one of the first employee stock option plans in India,' the 1999 filing said. A trust set up for the purpose held warrants for shares, and employees received rights to buy shares at Rs 100 each, $2.35 at the exchange rate of February 1999, which the filing called 'substantially below the market price'. The rights vested over five years.[79] The filing explains the plan at length because under American accounting rules the discount was a cost, and under Indian rules it was not.[80] Stock options were so unusual in India that the government's information technology task force of 1998, among its 108 recommendations, proposed allowing 'sweat equity' and employee stock option plans, which Rajaraman describes as 'alien to other industries in India'. That required a change in company law.[81]
 
-A rupee millionaire, in the magazine's count quoted at the start of this chapter, held at least Rs 10 lakh (Rs 1 million), about $22,000 at the 2000 exchange rate.[77] That was a large sum for an engineer in his or her twenties, but not a fortune. A dollar millionaire was another matter. Infosys's sales had grown from Rs 88.97 crore in the year to March 1996 to Rs 884.35 crore in the year to March 2000.[78] The new wealth reached the city. 'Indeed, a couple of enterprising Bangalore-based real-estate developers make a living primarily from selling apartments to people who work for Infosys,' the magazine wrote.[79] In 2020 Murthy put the scale of the programme in his own words: Infosys had distributed 19 per cent of its equity to employees through stock options, worth about $9 billion at that time's prices.[80] It is his figure.
+A rupee millionaire, in the magazine's count quoted at the start of this chapter, held at least Rs 10 lakh (Rs 1 million), about $22,000 at the 2000 exchange rate.[82] That was a large sum for an engineer in his or her twenties, but not a fortune. A dollar millionaire was another matter. Infosys's sales had grown from Rs 88.97 crore in the year to March 1996 to Rs 884.35 crore in the year to March 2000.[83] The new wealth reached the city. 'Indeed, a couple of enterprising Bangalore-based real-estate developers make a living primarily from selling apartments to people who work for Infosys,' the magazine wrote.[84] In 2020 Murthy put the scale of the programme in his own words: Infosys had distributed 19 per cent of its equity to employees through stock options, worth about $9 billion at that time's prices.[85] It is his figure.
 
 The money was very unevenly spread. It went to those who had joined early, at the leading firm, and stayed long enough to vest. A graduate who joined a smaller firm, or who joined Infosys in 2001, was in a different position.
 
 ## The bust
 
-The bust looked different depending on where one stood. For investors in Indian internet shares it was a collapse. Satyam Infoway's annual report for the year to March 2002 said that since the offering, and after the split, its ADSs had traded between 'a high of $113 per ADS' and a low of $0.87.[81] The price table in the same report shows a low of $0.72 in the quarter to September 2001.[82] On 5 November 2001 a securities class action was filed in New York on behalf of everyone who had bought its ADSs between 20 October 1999 and 6 December 2000. It named the company, some of its executives and some of the underwriters of its offering, and alleged that the underwriters had failed to disclose commissions and arrangements with investors to whom they allocated shares.[83] In October 2001 Satyam Computer Services announced that it intended to sell its shares in the company.[84] The parent's own later history belongs to Chapter 16.
+The bust looked different depending on where one stood. For investors in Indian internet shares it was a collapse. Satyam Infoway's annual report for the year to March 2002 said that since the offering, and after the split, its ADSs had traded between 'a high of $113 per ADS' and a low of $0.87.[86] The price table in the same report shows a low of $0.72 in the quarter to September 2001.[87] On 5 November 2001 a securities class action was filed in New York on behalf of everyone who had bought its ADSs between 20 October 1999 and 6 December 2000. It named the company, some of its executives and some of the underwriters of its offering, and alleged that the underwriters had failed to disclose commissions and arrangements with investors to whom they allocated shares.[88] In October 2001 Satyam Computer Services announced that it intended to sell its shares in the company.[89] The parent's own later history belongs to Chapter 16.
 
-For the largest services firm the bust was a slower line, not a fall. From the year to March 1998 to the year to March 2002, Infosys's revenue grew at a compound 68.1 per cent a year and its IT staff rose from about 2,200 to about 9,400.[85] But its outlook for the following year was cautious. 'The economic slowdown in the U.S. has impacted the growth prospects of companies that are in the insurance, banking and financial services and telecom segments,' it said, and companies 'may cut their IT spending or postpone decisions regarding new IT expenditures'.[86] The industry's exports kept rising. The Reserve Bank of India recorded software services receipts of $6.3 billion in the year to March 2001 and $7.6 billion in the year to March 2002.[87]
+For the largest services firm the bust was a slower line, not a fall. From the year to March 1998 to the year to March 2002, Infosys's revenue grew at a compound 68.1 per cent a year and its IT staff rose from about 2,200 to about 9,400.[90] But its outlook for the following year was cautious. 'The economic slowdown in the U.S. has impacted the growth prospects of companies that are in the insurance, banking and financial services and telecom segments,' it said, and companies 'may cut their IT spending or postpone decisions regarding new IT expenditures'.[91] The industry's exports kept rising. The Reserve Bank of India recorded software services receipts of $6.3 billion in the year to March 2001 and $7.6 billion in the year to March 2002.[92]
 
-For new graduates, the bust arrived on campus. In January 2002 *The Hindu Business Line* reported that Anna University had placed 'only around 320 students with various companies, down from 1,200 around the same time last year'. The year before had been a record: 65 per cent of the 70 companies that visited the university had been IT firms. This time about 35 companies came. Wipro and Satyam, which had taken 49 and 23 students the year before, did not come at all. TCS recruited 54 students against 177, Infosys 46 against 126, and Cognizant Technology Solutions 69 against 105.[88] Dr N. Baluswamy, who directed the university's Centre for University-Industry Collaboration, which ran placements, said that some of the previous year's graduates had seen their offers postponed indefinitely, and that the centre had negotiated with the companies. 'A few companies have delayed the date of joining for last year students by over a year,' he said. Some IT companies, 'except big players such as TCS, Infosys and CTS', had cut the pay promised on campus 'by 50-60 per cent'.[89]
+For new graduates, the bust arrived on campus. In January 2002 *The Hindu Business Line* reported that Anna University had placed 'only around 320 students with various companies, down from 1,200 around the same time last year'. The year before had been a record: 65 per cent of the 70 companies that visited the university had been IT firms. This time about 35 companies came. Wipro and Satyam, which had taken 49 and 23 students the year before, did not come at all. TCS recruited 54 students against 177, Infosys 46 against 126, and Cognizant Technology Solutions 69 against 105.[93] Dr N. Baluswamy, who directed the university's Centre for University-Industry Collaboration, which ran placements, said that some of the previous year's graduates had seen their offers postponed indefinitely, and that the centre had negotiated with the companies. 'A few companies have delayed the date of joining for last year students by over a year,' he said. Some IT companies, 'except big players such as TCS, Infosys and CTS', had cut the pay promised on campus 'by 50-60 per cent'.[94]
 
-At the Indian Institute of Technology (IIT) in Madras (Chennai since 1996), a little over 400 of the 719 students registered with the placement centre had been recruited by 51 companies, 30 of them in IT, with ten companies still to come, against about 750 placed the year before. About 30 per cent of students stayed away from campus interviews that year, the paper reported, because of 'shocking stories of lay-offs, delayed appointments and salary cuts' among the previous year's recruits. Most engineering students now wanted 'to consider only engineering companies, rather than shift to IT', and some said they wanted stable jobs.[90] Companies from outside IT were coming back. Maruti Udyog returned after about four years and the Gas Authority of India after fifteen, and NTPC was expected for the first time. At a management institute in Tiruchi, the highest offer came from Citibank, at Rs 6.5 lakh a year, about $13,600.[91]
+At the Indian Institute of Technology (IIT) in Madras (Chennai since 1996), a little over 400 of the 719 students registered with the placement centre had been recruited by 51 companies, 30 of them in IT, with ten companies still to come, against about 750 placed the year before. About 30 per cent of students stayed away from campus interviews that year, the paper reported, because of 'shocking stories of lay-offs, delayed appointments and salary cuts' among the previous year's recruits. Most engineering students now wanted 'to consider only engineering companies, rather than shift to IT', and some said they wanted stable jobs.[95] Companies from outside IT were coming back. Maruti Udyog returned after about four years and the Gas Authority of India after fifteen, and NTPC was expected for the first time. At a management institute in Tiruchi, the highest offer came from Citibank, at Rs 6.5 lakh a year, about $13,600.[96]
 
 The pattern matters for the rest of this book. In the placement director's account, the largest firms did not cut the pay they had promised; other firms cut salaries, and some put off joining dates by more than a year. The colleges went on producing graduates while the firms at the end of the pipeline cut their campus intake, the two largest at Anna University by more than half. No graduate whose joining was deferred in 2001-02 has been found speaking in their own words; they appear only through a placement director's account. Later chapters show the same pattern returning.
 
 ## Hours and outcomes
 
-One thread runs through the filings of these years and connects them to the end of this book. Chapter 9 showed that most of Infosys's revenue in the mid-1990s came from time-and-materials contracts, under which the client pays for the hours or months worked, and that by 1999 the company said it wanted more fixed-price work.[92] Y2K added a lesson of its own. It paid well because it was urgent: the company said that 'high demand for these time-sensitive projects' brought favourable prices and margins.[93] The risk ran the other way too: the 1999 filing counted 'the accuracy of estimates of resources and time required to complete ongoing projects, particularly projects performed under fixed-price, fixed-time frame contracts' among the causes of uneven results.[94] Under a fixed price, a project that overran cost the firm and not the client.
+One thread runs through the filings of these years and connects them to the end of this book. Chapter 9 showed that most of Infosys's revenue in the mid-1990s came from time-and-materials contracts, under which the client pays for the hours or months worked, and that by 1999 the company said it wanted more fixed-price work.[97] Y2K added a lesson of its own. It paid well because it was urgent: the company said that 'high demand for these time-sensitive projects' brought favourable prices and margins.[98] The risk ran the other way too: the 1999 filing counted 'the accuracy of estimates of resources and time required to complete ongoing projects, particularly projects performed under fixed-price, fixed-time frame contracts' among the causes of uneven results.[99] Under a fixed price, a project that overran cost the firm and not the client.
 
-By 2002 the company reported progress. 'As compare to the previous year, we have increased the proportion of projects that are undertaken on a fixed-price, fixed-timeframe, rather than a time-and-material basis, which reduce client risk, and if effectively structured and executed, provide opportunities for enhanced margins.'[95] A firm that sells hours earns less when its engineers work faster, unless it uses the saving to win more work. A firm that sells an outcome at a fixed price keeps what it saves. Before 2002 the leading Indian firm had decided that it wanted, where it could, to sell outcomes. When tools arrive that cut the hours needed for coding and testing, the work that Rajaraman says took 70 to 80 per cent of a project's time and was done in India, the way a contract is priced decides who keeps the gain.[96]
+By 2002 the company reported progress. 'As compare to the previous year, we have increased the proportion of projects that are undertaken on a fixed-price, fixed-timeframe, rather than a time-and-material basis, which reduce client risk, and if effectively structured and executed, provide opportunities for enhanced margins.'[100] A firm that sells hours earns less when its engineers work faster, unless it uses the saving to win more work. A firm that sells an outcome at a fixed price keeps what it saves. Before 2002 the leading Indian firm had decided that it wanted, where it could, to sell outcomes. When tools arrive that cut the hours needed for coding and testing, the work that Rajaraman says took 70 to 80 per cent of a project's time and was done in India, the way a contract is priced decides who keeps the gain.[101]
 
-In 2002 that question was still far off. The more immediate change was in the size of the machine. In 1991 Infosys had advertised for sixty-four engineers.[97] In 2002 it employed about 10,740 people and had received nearly 200,000 applications in a year.[98] The firms' demand for new engineers had fallen for a season. The supply had not. The next chapter follows the graduates who kept coming, and the companies that learned to hire them by the thousand.
+In 2002 that question was still far off. The more immediate change was in the size of the machine. In 1991 Infosys had advertised for sixty-four engineers.[102] In 2002 it employed about 10,740 people and had received nearly 200,000 applications in a year.[103] The firms' demand for new engineers had fallen for a season. The supply had not. The next chapter follows the graduates who kept coming, and the companies that learned to hire them by the thousand.
 
 
 ### Notes to Chapter 11. Y2K and Nasdaq (1995-2002)
@@ -3908,161 +3998,171 @@ In 2002 that question was still far off. The more immediate change was in the si
 
 [20] Motorola, Global Software Group media kit.
 
-[21] Rajaraman, *History of Computing in India* (2012), p. 45.
+[21] Liu, 'Quick Win Strategy in CMMI Transition', Motorola (2005), slide 4 (company self-description; slide image checked, the India Level 5 marker drops from the 1993 column).
 
-[22] Motorola, Global Software Group media kit, Motorola GSG media kit; the *Business Today* date has not been seen in the original.
+[22] Rajaraman, *History of Computing in India* (2012), p. 45.
 
-[23] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
+[23] Babu, 'The Quality Bug', *Business Today* (2003), para. 4.
 
-[24] Rajaraman, *History of Computing in India* (2012), p. 52.
+[24] Motorola, Global Software Group media kit, Motorola GSG media kit; Liu, 'Quick Win Strategy in CMMI Transition', Motorola (2005), slide 4; Babu, 'The Quality Bug', *Business Today* (2003), para. 4.
 
 [25] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
 
-[26] Infosys, Form F-1 (1999), p. 6.
+[26] Rajaraman, *History of Computing in India* (2012), p. 52.
 
-[27] Rajaraman, *History of Computing in India* (2012), p. 46.
+[27] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
 
-[28] Infosys, Form F-1 (1999), p. 45.
+[28] Babu, 'The Quality Bug', *Business Today* (2003), para. 1.
 
-[29] Infosys, Form F-1 (1999), p. 6.
+[29] Babu, 'The Quality Bug', *Business Today* (2003), para. 7.
 
-[30] Infosys, Form F-1 (1999), p. 45.
+[30] Infosys, Form F-1 (1999), p. 6.
 
-[31] Infosys, Form 20-F FY2002, p. 4.
+[31] Rajaraman, *History of Computing in India* (2012), p. 46.
 
-[32] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10 (Parthasarathy's series, 58 per cent at clients' sites in 1998); Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 (56 per cent on site in 2000).
+[32] Infosys, Form F-1 (1999), p. 45.
 
-[33] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+[33] Infosys, Form F-1 (1999), p. 6.
 
-[34] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+[34] Infosys, Form F-1 (1999), p. 45.
 
-[35] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[35] Infosys, Form 20-F FY2002, p. 4.
 
-[36] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[36] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10 (Parthasarathy's series, 58 per cent at clients' sites in 1998); Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 (56 per cent on site in 2000).
 
-[37] Rajaraman, *History of Computing in India* (2012), p. 46.
+[37] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
 
-[38] Infosys, Form F-1 (1999), pp. 32-33.
+[38] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
 
-[39] Infosys, Form F-1 (1999), p. 15.
+[39] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[40] Rajaraman, *History of Computing in India* (2012), p. 46.
+[40] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[41] Infosys, Form F-1 (1999), p. 15.
+[41] Rajaraman, *History of Computing in India* (2012), p. 46.
 
-[42] Infosys, Form F-1 (1999), p. 15.
+[42] Infosys, Form F-1 (1999), pp. 32-33.
 
-[43] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
+[43] Infosys, Form F-1 (1999), p. 15.
 
-[44] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
+[44] Rajaraman, *History of Computing in India* (2012), p. 46.
 
-[45] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
+[45] Infosys, Form F-1 (1999), p. 15.
 
-[46] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
+[46] Infosys, Form F-1 (1999), p. 15.
 
-[47] Rajaraman, *History of Computing in India* (2012), p. 47.
+[47] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
 
-[48] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+[48] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
 
-[49] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 1999 (Rs 43.05 per US dollar); conversion by the author.
+[49] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
 
-[50] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+[50] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
 
-[51] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+[51] Rajaraman, *History of Computing in India* (2012), p. 47.
 
-[52] Rajaraman, *History of Computing in India* (2012), p. 48.
+[52] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
 
-[53] Rajaraman, *History of Computing in India* (2012), p. 46.
+[53] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 1999 (Rs 43.05 per US dollar); conversion by the author.
 
-[54] Rajaraman, *History of Computing in India* (2012), p. 46.
+[54] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
 
 [55] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
 
-[56] Infosys, Form F-1 (1999), p. 6.
+[56] Rajaraman, *History of Computing in India* (2012), p. 48.
 
-[57] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[57] Rajaraman, *History of Computing in India* (2012), p. 46.
 
-[58] Infosys, Form 20-F FY2002, p. 16.
+[58] Computer History Museum, 'Oral History of Natarajan Chandrasekaran' (2020), PDF pp. 1, 8 (interviewer's introduction for the dates; Chandrasekaran's recollection, 2020).
 
-[59] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
+[59] Rajaraman, *History of Computing in India* (2012), p. 46.
 
-[60] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17; Infosys, Form F-1 (1999), p. 6.
+[60] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
 
 [61] Infosys, Form F-1 (1999), p. 6.
 
 [62] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[63] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[63] Infosys, Form 20-F FY2002, p. 16.
 
-[64] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[64] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
 
-[65] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[65] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17; Infosys, Form F-1 (1999), p. 6.
 
-[66] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
+[66] Infosys, Form F-1 (1999), p. 6.
 
-[67] Infosys, prospectus (Form 424B4, 1999), cover page (dated 10 March 1999; filed 11 March 1999).
+[67] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[68] Infosys, prospectus (Form 424B4, 1999), cover page.
+[68] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[69] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
+[69] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[70] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
+[70] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[71] Satyam Infoway, Form 20-F FY2002, p. 55.
+[71] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
 
-[72] Satyam Infoway, Form 20-F FY2002, p. 15.
+[72] Infosys, prospectus (Form 424B4, 1999), cover page (dated 10 March 1999; filed 11 March 1999).
 
-[73] Satyam Infoway, Form 20-F FY2002, p. 10.
+[73] Infosys, prospectus (Form 424B4, 1999), cover page.
 
-[74] Infosys, Form F-1 (1999), p. 28.
+[74] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
 
-[75] Infosys, Form F-1 (1999), p. 28.
+[75] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
 
-[76] Rajaraman, *History of Computing in India* (2012), p. 50.
+[76] Satyam Infoway, Form 20-F FY2002, p. 55.
 
-[77] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2000 (Rs 44.94 per US dollar); conversion by the author.
+[77] Satyam Infoway, Form 20-F FY2002, p. 15.
 
-[78] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[78] Satyam Infoway, Form 20-F FY2002, p. 10.
 
-[79] *Business Today*, 'Infosys: Wealth & Values' (2001).
+[79] Infosys, Form F-1 (1999), p. 28.
 
-[80] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 24.
+[80] Infosys, Form F-1 (1999), p. 28.
 
-[81] Satyam Infoway, Form 20-F FY2002, p. 18.
+[81] Rajaraman, *History of Computing in India* (2012), p. 50.
 
-[82] Satyam Infoway, Form 20-F FY2002, p. 55.
+[82] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2000 (Rs 44.94 per US dollar); conversion by the author.
 
-[83] Satyam Infoway, Form 20-F FY2002, p. 13.
+[83] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[84] Satyam Infoway, Form 20-F FY2002, p. 15.
+[84] *Business Today*, 'Infosys: Wealth & Values' (2001).
 
-[85] Infosys, Form 20-F FY2002, p. 5.
+[85] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 24.
 
-[86] Infosys, Form 20-F FY2002, p. 11.
+[86] Satyam Infoway, Form 20-F FY2002, p. 18.
 
-[87] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts ($6,341 million in FY2000-01, $7,556 million in FY2001-02), RBI Handbook edition id 10663.
+[87] Satyam Infoway, Form 20-F FY2002, p. 55.
 
-[88] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+[88] Satyam Infoway, Form 20-F FY2002, p. 13.
 
-[89] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+[89] Satyam Infoway, Form 20-F FY2002, p. 15.
 
-[90] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+[90] Infosys, Form 20-F FY2002, p. 5.
 
-[91] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, financial-year average rate for FY2001-02 (Rs 47.69 per US dollar); conversion by the author.
+[91] Infosys, Form 20-F FY2002, p. 11.
 
-[92] Infosys, Form F-1 (1999), pp. 32, 44.
+[92] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts ($6,341 million in FY2000-01, $7,556 million in FY2001-02), RBI Handbook edition id 10663.
 
-[93] Infosys, Form F-1 (1999), p. 15.
+[93] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
 
-[94] Infosys, Form F-1 (1999), p. 10.
+[94] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
 
-[95] Infosys, Form 20-F FY2002, p. 6.
+[95] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
 
-[96] Rajaraman, *History of Computing in India* (2012), p. 45.
+[96] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, financial-year average rate for FY2001-02 (Rs 47.69 per US dollar); conversion by the author.
 
-[97] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+[97] Infosys, Form F-1 (1999), pp. 32, 44.
 
-[98] Infosys, Form 20-F FY2002, p. 16.
+[98] Infosys, Form F-1 (1999), p. 15.
+
+[99] Infosys, Form F-1 (1999), p. 10.
+
+[100] Infosys, Form 20-F FY2002, p. 6.
+
+[101] Rajaraman, *History of Computing in India* (2012), p. 45.
+
+[102] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[103] Infosys, Form 20-F FY2002, p. 16.
 
 
 # Chapter 12. The engineer factory (1998-2012)
@@ -4077,111 +4177,113 @@ Raghu stands near the start of a machine that, between the late 1990s and the ea
 
 For forty years after independence India built engineering colleges slowly. The government's statistical compendium counts 31 engineering and technology colleges in 1950-51, 149 in 1980-81 and 289 in 1990-91.[4] Then the pace changed. There were 486 such colleges in 1997-98, 678 in 2000-01, 1,077 in 2001-02 and 1,562 in 2005-06.[5] The country added more engineering colleges in those eight years than in the previous five decades together. These are counts of institutions, not of students, but they show where the growth came from.
 
-V. Rajaraman, the historian of Indian computing, describes 'a rapid expansion of engineering colleges between 1998 and 2010', and 'a rapid growth of private engineering colleges and colleges offering MCA courses'.[6] The Master of Computer Applications (MCA) was the postgraduate course for graduates in science and commerce, combining computing, mathematics and management, whose origins Chapter 7 describes. The terms on which private colleges could admit students and charge fees had been worked out by the Supreme Court in 1992 and 1993, in the *Mohini Jain* and *Unni Krishnan* cases that Chapter 7 traced through the courts. Rajaraman adds that 'Private corporate bodies were allowed to set up Universities in 2002', and that under this policy private universities and private colleges 'proliferated'.[7] The supply of MCAs grew even faster than that of engineers. Rajaraman puts the number graduating at about 7,000 in 1998 and 120,000 by 2010.[8]
+V. Rajaraman, the historian of Indian computing, describes 'a rapid expansion of engineering colleges between 1998 and 2010', and 'a rapid growth of private engineering colleges and colleges offering MCA courses'.[6] The Master of Computer Applications (MCA) was the postgraduate course for graduates in science and commerce, combining computing, mathematics and management, whose origins Chapter 7 describes. The terms on which private colleges could admit students and charge fees had been worked out by the Supreme Court in 1992 and 1993, in the *Mohini Jain* and *Unni Krishnan* cases that Chapter 7 traced through the courts. That settlement did not survive the boom. On 31 October 2002 eleven judges of the Supreme Court, in *T.M.A. Pai Foundation v. State of Karnataka*, held that *Unni Krishnan*, 'insofar as it framed the scheme relating to the grant of admission and the fixing of the fee, was not correct', and overruled it.[7] The judges treated private colleges as a necessity, noting that in Karnataka 'out of 51 Engineering Colleges, only 12 have been established by the government'.[8] For a college that took no government money, 'The decision on the fee to be charged must necessarily be left to the private educational institution'. Capitation fees and profiteering stayed forbidden, but 'a reasonable revenue surplus' for development and expansion was allowed.[9] And a share of seats, its size fixed by the government 'according to the local needs', could again be filled by the management, from candidates who had passed a common entrance test.[10] Rajaraman adds that 'Private corporate bodies were allowed to set up Universities in 2002', and that under this policy private universities and private colleges 'proliferated'.[11] The supply of MCAs grew even faster than that of engineers. Rajaraman puts the number graduating at about 7,000 in 1998 and 120,000 by 2010.[12]
 
-Quality did not keep pace, and the people who said so were the employers. Rajaraman, writing around 2012, notes that graduates of the Indian Institutes of Technology (IITs) and the National Institutes of Technology, about 10,000 a year, were excellent, but that 'industry employers opine that the graduates of other institutions are not employable as soon as they graduate and need further training'.[9] The regulators tried to respond. The All India Council for Technical Education (AICTE), the statutory body that approves technical colleges, set up a National Board of Accreditation, and the University Grants Commission created an assessment council to inspect and grade institutions. Rajaraman calls these steps 'essential to control the quality of students graduating from private educational institutions which were proliferating'.[10]
+Quality did not keep pace, and the people who said so were the employers. Rajaraman, writing around 2012, notes that graduates of the Indian Institutes of Technology (IITs) and the National Institutes of Technology, about 10,000 a year, were excellent, but that 'industry employers opine that the graduates of other institutions are not employable as soon as they graduate and need further training'.[13] The regulators tried to respond. The All India Council for Technical Education (AICTE), the statutory body that approves technical colleges, set up a National Board of Accreditation, and the University Grants Commission created an assessment council to inspect and grade institutions. Rajaraman calls these steps 'essential to control the quality of students graduating from private educational institutions which were proliferating'.[14]
 
-The expansion was uneven across the map. In 2001 the Berkeley scholar of regional development AnnaLee Saxenian reported an estimate that sixty per cent of India's computer science graduates came from three southern states, Andhra Pradesh, Karnataka and Tamil Nadu.[11] The south's colleges fed the south's software cities. In Chennai, Fuller and Narasimhan found that of twenty software engineers under thirty on whom they had information, only three had studied outside Tamil Nadu. The rest could stay at home, they wrote, because 'young men and women, including Brahmans, can nowadays obtain good engineering education in the state'.[12]
+The expansion was uneven across the map. In 2001 the Berkeley scholar of regional development AnnaLee Saxenian reported an estimate that sixty per cent of India's computer science graduates came from three southern states, Andhra Pradesh, Karnataka and Tamil Nadu.[15] The south's colleges fed the south's software cities. In Chennai, Fuller and Narasimhan found that of twenty software engineers under thirty on whom they had information, only three had studied outside Tamil Nadu. The rest could stay at home, they wrote, because 'young men and women, including Brahmans, can nowadays obtain good engineering education in the state'.[16]
 
-By the early 2010s the building had outrun demand. The earliest year in the series of approved places used for this book is 2012-13. In that year AICTE had approved about 1.55 million undergraduate engineering seats, and about 37.6 per cent of them were empty, according to an analysis of the council's data by the education non-profit Avanti Fellows.[13] Approved undergraduate intake peaked at about 1.7 million in 2014-15. By 2016-17 almost half of the seats, 49.5 per cent, had no student in them.[14] The colleges had been built for a market that, as the end of this chapter shows, was already starting to change.
+By the early 2010s the building had outrun demand. The earliest year in the series of approved places used for this book is 2012-13. In that year AICTE had approved about 1.55 million undergraduate engineering seats, and about 37.6 per cent of them were empty, according to an analysis of the council's data by the education non-profit Avanti Fellows.[17] Approved undergraduate intake peaked at about 1.7 million in 2014-15. By 2016-17 almost half of the seats, 49.5 per cent, had no student in them.[18] The colleges had been built for a market that, as the end of this chapter shows, was already starting to change.
 
 ## Any branch will do
 
-The second half of the factory explains why so many colleges were worth building. The large software firms did not hire computer scientists in any great number. They hired engineers, and then made them into programmers themselves. Rajaraman sets out the logic plainly: 'The IT companies' common complaint was that there were not enough employable graduates with computer science degrees. Instead they recruited all engineering graduates with aptitude in computing; however they could not be directly placed as members of project teams.'[15] So, he continues, 'All major IT companies had in-house training programmes ranging from 12 weeks to 6 months.'[16]
+The second half of the factory explains why so many colleges were worth building. The large software firms did not hire computer scientists in any great number. They hired engineers, and then made them into programmers themselves. Rajaraman sets out the logic plainly: 'The IT companies' common complaint was that there were not enough employable graduates with computer science degrees. Instead they recruited all engineering graduates with aptitude in computing; however they could not be directly placed as members of project teams.'[19] So, he continues, 'All major IT companies had in-house training programmes ranging from 12 weeks to 6 months.'[20]
 
-A mechanical, civil or electrical engineer would do, if he or she could pass the firm's aptitude test. That made a degree in any engineering branch a ticket to the best-paid jobs open to most graduates, and it gave families a reason to pay for one. A projection by the National Association of Software and Service Companies (Nasscom), the industry's lobby group, reported by researchers at Duke University, was that 84.8 per cent of India's four-year engineering graduates in 2004 took branches it classed as IT-related, a broad category that included electrical, electronics and instrumentation engineering as well as computer science.[17]
+A mechanical, civil or electrical engineer would do, if he or she could pass the firm's aptitude test. That made a degree in any engineering branch a ticket to the best-paid jobs open to most graduates, and it gave families a reason to pay for one. A projection by the National Association of Software and Service Companies (Nasscom), the industry's lobby group, reported by researchers at Duke University, was that 84.8 per cent of India's four-year engineering graduates in 2004 took branches it classed as IT-related, a broad category that included electrical, electronics and instrumentation engineering as well as computer science.[21]
 
-The scale of recruitment is clearest in the filings of Infosys, the Bangalore (Bengaluru since 2014) company whose American share listing Chapter 11 described. Its numbers are the company's own, but they were made to American securities regulators and they use much the same categories from year to year. Chapter 9 followed the company's recruiting funnel in the year to March 1998, when it made about 1,790 offers.[18] Ten years later, in the year to March 2008, it reported screening over 885,000 applications, testing over 227,000 applicants, interviewing more than 97,000 and making about 46,300 offers.[19] Offers had grown about twenty-six times. The filings count all 'offers of employment' without separating new graduates from experienced recruits, so the growth in fresher hiring alone cannot be read from them.[20]
+The scale of recruitment is clearest in the filings of Infosys, the Bangalore (Bengaluru since 2014) company whose American share listing Chapter 11 described. Its numbers are the company's own, but they were made to American securities regulators and they use much the same categories from year to year. Chapter 9 followed the company's recruiting funnel in the year to March 1998, when it made about 1,790 offers.[22] Ten years later, in the year to March 2008, it reported screening over 885,000 applications, testing over 227,000 applicants, interviewing more than 97,000 and making about 46,300 offers.[23] Offers had grown about twenty-six times. The filings count all 'offers of employment' without separating new graduates from experienced recruits, so the growth in fresher hiring alone cannot be read from them.[24] A generation earlier the pattern had been very different. Natarajan Chandrasekaran, who joined Tata Consultancy Services (TCS) in 1986-87, recalled in a 2020 oral history for the Computer History Museum a firm of about 500 to 600 professionals that 'used to hire 20 people or 40 people a year', often by taking a whole class from IIT Bombay or IIT Delhi.[25]
 
-The number of applications behaves oddly. The year to March 2005 shows about 1,348,800, more than the 885,000 of three years later, even though offers more than tripled in between.[21] Both filings use 'screened' in one place and 'received' in another, so the change of wording does not explain the fall. Offers are the steadier measure. Headcount tells the same story. Infosys had about 9,400 IT professionals in March 2002, about 36,800 employees in March 2005, about 91,200 in March 2008 (of whom about 18,700 worked outside India) and about 150,000 in March 2012.[22]
+The number of applications behaves oddly. The year to March 2005 shows about 1,348,800, more than the 885,000 of three years later, even though offers more than tripled in between.[26] Both filings use 'screened' in one place and 'received' in another, so the change of wording does not explain the fall. Offers are the steadier measure. Headcount tells the same story. Infosys had about 9,400 IT professionals in March 2002, about 36,800 employees in March 2005, about 91,200 in March 2008 (of whom about 18,700 worked outside India) and about 150,000 in March 2012.[27]
 
-Infosys was not unusual in kind, only in what it published. Rajaraman writes that 'every major software company was recruiting around 8000 graduates each year' in the years from 1998 to 2010, and that with attrition of 15 to 20 per cent and workforces 'of the order of 120,000', 'the replacement numbers themselves were over 15,000 each year'.[23]
+Infosys was not unusual in kind, only in what it published. Rajaraman writes that 'every major software company was recruiting around 8000 graduates each year' in the years from 1998 to 2010, and that with attrition of 15 to 20 per cent and workforces 'of the order of 120,000', 'the replacement numbers themselves were over 15,000 each year'.[28]
 
-How dependent the colleges had become on this hiring was shown by the one year it faltered: after the dot-com bust, campus placements at Anna University in Chennai by January 2002 were less than a third of the year before, as Chapter 11 describes.[24] Infosys, at least, came back quickly, and on a much larger scale. In the year to March 2004 Infosys alone made about 13,600 offers of employment.[25]
+How dependent the colleges had become on this hiring was shown by the one year it faltered: after the dot-com bust, campus placements at Anna University in Chennai by January 2002 were less than a third of the year before, as Chapter 11 describes.[29] In Bangalore, many of the engineers interviewed in 2004 and 2005 by the researchers Carol Upadhya and A.R. Vasavi of the National Institute of Advanced Studies (NIAS) described the downturn of 2000-02. Some, the researchers wrote, 'who had been campus recruited were later turned down by the companies, and remained unemployed for months'.[30] Infosys, at least, came back quickly, and on a much larger scale. In the year to March 2004 Infosys alone made about 13,600 offers of employment.[31]
 
 ## Mysore
 
-Before there was a training campus, there was a training building. In 2001 the magazine *Business Today* described the Infosys headquarters campus in Bangalore, where in a three-storey chrome and glass centre 'fifty of the country's best software instructors put every batch of engineers recruited by the company through a gruelling three-month training programme'.[26] By 2002, its filing said, Infosys employed 57 faculty members, 39 of them with doctorates or master's degrees, who ran three-month training sessions for new recruits. It had also established a Leadership Institute, for leadership training of its staff, on a 200-acre campus in Mysore (Mysuru since 2014), elsewhere in Karnataka. That was not yet a campus for new graduates.[27]
+Before there was a training campus, there was a training building. In 2001 the magazine *Business Today* described the Infosys headquarters campus in Bangalore, where in a three-storey chrome and glass centre 'fifty of the country's best software instructors put every batch of engineers recruited by the company through a gruelling three-month training programme'.[32] By 2002, its filing said, Infosys employed 57 faculty members, 39 of them with doctorates or master's degrees, who ran three-month training sessions for new recruits. It had also established a Leadership Institute, for leadership training of its staff, on a 200-acre campus in Mysore (Mysuru since 2014), elsewhere in Karnataka. That was not yet a campus for new graduates.[33]
 
-The trainee campus came next, and Mysore became the factory floor. In its filing for the year to March 2005, Infosys reported that it had 'recently completed the construction of an employee training facility in Mysore'. The facility could 'house 4,500 trainees at any one time' and train about 12,000 employees a year.[28] The company said it did not fully use new employees on client work while they were in training, 'particularly during our 14-week training course for new employees'.[29] Three years later the capacity was 4,800 at a time and about 15,200 a year, and the filing now put the Mysore campus of the Leadership Institute at 336 acres.[30] By the year to March 2012 the filing had a new name for it. 'We train the new engineering graduates that join us at our Global Education Center in Mysore,' the company wrote. 'With a total built-up area of 1.44 million square feet, the Infosys Global Education Center can train approximately 14,000 employees at a time.'[31] The course had lengthened too. The same filing describes a '20-29 week training course for new employees'.[32]
+The trainee campus came next, and Mysore became the factory floor. In its filing for the year to March 2005, Infosys reported that it had 'recently completed the construction of an employee training facility in Mysore'. The facility could 'house 4,500 trainees at any one time' and train about 12,000 employees a year.[34] The company said it did not fully use new employees on client work while they were in training, 'particularly during our 14-week training course for new employees'.[35] Three years later the capacity was 4,800 at a time and about 15,200 a year, and the filing now put the Mysore campus of the Leadership Institute at 336 acres.[36] By the year to March 2012 the filing had a new name for it. 'We train the new engineering graduates that join us at our Global Education Center in Mysore,' the company wrote. 'With a total built-up area of 1.44 million square feet, the Infosys Global Education Center can train approximately 14,000 employees at a time.'[37] The course had lengthened too. The same filing describes a '20-29 week training course for new employees'.[38]
 
-The firm also reached back into the colleges. Through a programme it called Campus Connect, Infosys worked with engineering colleges so that their own teachers could give industry-related training. In the year to March 2012 it reported more than 190 workshops for more than 4,500 college teachers.[33] The boundary between the college and the company, which in 1998 had been the campus interview, was becoming harder to see.
+The firm also reached back into the colleges. Through a programme it called Campus Connect, Infosys worked with engineering colleges so that their own teachers could give industry-related training. In the year to March 2012 it reported more than 190 workshops for more than 4,500 college teachers.[39] The boundary between the college and the company, which in 1998 had been the campus interview, was becoming harder to see.
 
 What the trainees made of Mysore cannot be told from these sources. The filings give capacities and square feet, not voices, and no published account by a trainee of that period was found for this chapter. The company's own press releases about the campus's opening were not obtained.
 
 ## The pyramid and the bench
 
-The shape of the workforce followed from the shape of a project: a small team at the client's site and a much larger one in India, the pyramid that Chapter 11 described from Infosys's 1999 registration statement.[34] Its base had to be refilled every year with new graduates, and the growth of the base was what moved people upward.
+The shape of the workforce followed from the shape of a project: a small team at the client's site and a much larger one in India, the pyramid that Chapter 11 described from Infosys's 1999 registration statement.[40] Its base had to be refilled every year with new graduates, and the growth of the base was what moved people upward.
 
-The firms measured how much of the pyramid was earning money. Infosys called this utilisation. 'We define employee utilization as the proportion of total billed person months to total available person months excluding support personnel,' its filings said.[35] In the year to March 2012, utilisation of billable staff was 69.0 per cent including trainees and 75.9 per cent excluding them, down from 72.1 and 79.6 per cent the year before.[36] 'This decrease in employee utilization rates adversely affected our profitability for fiscal 2012,' the company told investors.[37]
+The firms measured how much of the pyramid was earning money. Infosys called this utilisation. 'We define employee utilization as the proportion of total billed person months to total available person months excluding support personnel,' its filings said.[41] In the year to March 2012, utilisation of billable staff was 69.0 per cent including trainees and 75.9 per cent excluding them, down from 72.1 and 79.6 per cent the year before.[42] 'This decrease in employee utilization rates adversely affected our profitability for fiscal 2012,' the company told investors.[43]
 
-Put the other way round, on average in that year nearly a third of Infosys's billable staff, counting trainees, was not billed to a client. Some were in training. Others were between projects, or waiting for one to start. The industry called this the bench. In the firms' own terms it was not waste. Most work was still billed by the time spent on it: in the year to March 2008 only 31 per cent of Infosys's services revenue came from fixed-price projects, and the rest, 69 per cent, was billed on a 'time-and-materials basis'.[38] A firm paid that way must be able to staff a new contract at once, so it keeps trained people waiting. But the bench is a cost that grows with every hiring wave, and it is the first thing cut when demand falls, as Chapter 11 showed for 2001-02 and Chapter 14 shows for 2008-09.
+Put the other way round, on average in that year nearly a third of Infosys's billable staff, counting trainees, was not billed to a client. Some were in training. Others were between projects, or waiting for one to start. The industry called this the bench. In the firms' own terms it was not waste. Most work was still billed by the time spent on it: in the year to March 2008 only 31 per cent of Infosys's services revenue came from fixed-price projects, and the rest, 69 per cent, was billed on a 'time-and-materials basis'.[44] A firm paid that way must be able to staff a new contract at once, so it keeps trained people waiting. But the bench is a cost that grows with every hiring wave, and it is the first thing cut when demand falls, as Chapter 11 showed for 2001-02 and Chapter 14 shows for 2008-09.
 
-Turnover was the other side of the pyramid. Infosys estimated the industry's attrition rate, the share of staff leaving each year, at 'approximately 20%'. Its own rate was 10.5 per cent in the year to March 2004 and 9.7 per cent a year later, rising to 13.4 per cent in the year to March 2008 and 17.0 per cent in the year to March 2011, before easing to 14.7 per cent a year later.[39] People in Chennai talked about job-hopping constantly. Fuller and Narasimhan found less of it than the talk suggested: among the more senior ICS staff they knew, at least half had spent all or most of their working lives in the company.[40]
+Billing by time also made the engineer's time the thing to be managed. In Bangalore, Upadhya and Vasavi concluded that 'extracting the maximum amount of time (and "effort") out of software engineers is key to the profitability of services companies', and one respondent described the firms' systems for tracking hours as 'a system of "time slavery"'.[45] In their survey 61 per cent said they worked nine to ten hours a day on average, and staff of large Indian companies reported an average maximum of 13.8 hours, against 12.3 in multinationals.[46] The complaints they recorded were mundane: 'They'll give out work at 5:30 in the evening and expect you to have it done by the next morning, which isn't fair'.[47] One informant explained why flexitime did not shorten the day: 'What's the point of working till late if you aren't seen working?'[48]
+
+Turnover was the other side of the pyramid. Infosys estimated the industry's attrition rate, the share of staff leaving each year, at 'approximately 20%'. Its own rate was 10.5 per cent in the year to March 2004 and 9.7 per cent a year later, rising to 13.4 per cent in the year to March 2008 and 17.0 per cent in the year to March 2011, before easing to 14.7 per cent a year later.[49] People in Chennai talked about job-hopping constantly. Fuller and Narasimhan found less of it than the talk suggested: among the more senior ICS staff they knew, at least half had spent all or most of their working lives in the company.[50]
 
 ## One in twelve
 
-Who passed through the gate? The best evidence for these years comes from the Chennai study. Between August 2003 and February 2005, Fuller, an anthropologist at the London School of Economics, and Narasimhan, who did most of the fieldwork, studied IT professionals in the city.[41] Most of their interviews were at ICS.[42] They interviewed nineteen of its staff and described their sample as 'tiny' and 'the haphazard product of the problems of access' in an industry concerned with security. 'All names used are pseudonyms,' they wrote.[43] Everyone from the study named in this chapter is a real person, given a false name by the authors, and most of their words come to us as the authors reported them.
+Who passed through the gate? The best evidence for these years comes from the Chennai study. Between August 2003 and February 2005, Fuller, an anthropologist at the London School of Economics, and Narasimhan, who did most of the fieldwork, studied IT professionals in the city.[51] Most of their interviews were at ICS.[52] They interviewed nineteen of its staff and described their sample as 'tiny' and 'the haphazard product of the problems of access' in an industry concerned with security. 'All names used are pseudonyms,' they wrote.[53] Everyone from the study named in this chapter is a real person, given a false name by the authors, and most of their words come to us as the authors reported them.
 
-At ICS the gate was a series of filters on school and college marks. Students needed 'a consistent record of high examination marks before they can sit the company's aptitude test and proceed to an interview, where only one out of twelve is offered a job'.[44] Starting salaries, in the middle of the range for large software firms, were 'around 15,000 rupees per month' for people in their early twenties (about $330), and could 'easily double within a few years'.[45] That put a new recruit's own income near the level that only about 6 per cent of Indian households reached in 2001-02, according to estimates by the National Council of Applied Economic Research cited by the authors.[46]
+At ICS the gate was a series of filters on school and college marks. Students needed 'a consistent record of high examination marks before they can sit the company's aptitude test and proceed to an interview, where only one out of twelve is offered a job'.[54] Starting salaries, in the middle of the range for large software firms, were 'around 15,000 rupees per month' for people in their early twenties (about $330), and could 'easily double within a few years'.[55] That put a new recruit's own income near the level that only about 6 per cent of Indian households reached in 2001-02, according to estimates by the National Council of Applied Economic Research cited by the authors.[56]
 
-The study also shows where these recruits came from. 'Most younger people we have interviewed have fathers (and occasionally mothers) who are or were employed in professional or managerial positions in government, or public- or private-sector firms, and the only exceptional fathers are a few small businessmen or farmers.'[47] In this sample, IT did not lift families into the middle class from below. It moved the children of the salaried middle class, many of them the children of government engineers and officials, into a richer, private-sector version of the class they were born into. That is one city and one firm. It is still the most direct evidence in this research against the claim, often made, that the software industry created India's middle class.
+The study also shows where these recruits came from. 'Most younger people we have interviewed have fathers (and occasionally mothers) who are or were employed in professional or managerial positions in government, or public- or private-sector firms, and the only exceptional fathers are a few small businessmen or farmers.'[57] In this sample, IT did not lift families into the middle class from below. It moved the children of the salaried middle class, many of them the children of government engineers and officials, into a richer, private-sector version of the class they were born into. That is one city and one firm. In Bangalore, Upadhya and Vasavi's survey of 132 software engineers found the same pattern: 84 per cent of their fathers worked in occupations 'that can be identified as solidly middle class'.[58] Together the two studies are the most direct evidence in this research against the claim, often made, that the software industry created India's middle class.
 
-Inside, the work was organised around appraisal and deadlines. Line managers appraised staff every six months. Those who beat their targets could expect quick promotion and pay rises, and those who fell short were told they would be 'let go'. Most staff worked a 40 to 50-hour, five-day week on flexitime, and when deadlines pressed, extra hours were expected from men and women alike. The work was done by teams of software engineers under project managers, from a handful of people to a hundred or so, some of them at the client's site abroad and the rest in India. The offices were modern and open-plan, and young men and women, many of them unmarried, mixed there more freely than in most social settings in Chennai.[48]
+Inside, the work was organised around appraisal and deadlines. Line managers appraised staff every six months. Those who beat their targets could expect quick promotion and pay rises, and those who fell short were told they would be 'let go'. Most staff worked a 40 to 50-hour, five-day week on flexitime, and when deadlines pressed, extra hours were expected from men and women alike. The work was done by teams of software engineers under project managers, from a handful of people to a hundred or so, some of them at the client's site abroad and the rest in India. The offices were modern and open-plan, and young men and women, many of them unmarried, mixed there more freely than in most social settings in Chennai.[59]
 
-The gate had a keeper. ICS's personnel manager, whom the authors call Ramakrishna, was in his late thirties, held an MCA, and described his job as 'tough and challenging'. In the 'war for talent' among the leading firms, it was his responsibility to make sure ICS recruited enough good people, above all by picking the best graduates from the top colleges. He earned about 70,000 rupees a month, plus stock options, and through much of 2003-04 he was negotiating for a rise while threatening to leave for a job in Bangalore.[49]
+The gate had a keeper. ICS's personnel manager, whom the authors call Ramakrishna, was in his late thirties, held an MCA, and described his job as 'tough and challenging'. In the 'war for talent' among the leading firms, it was his responsibility to make sure ICS recruited enough good people, above all by picking the best graduates from the top colleges. He earned about 70,000 rupees a month, plus stock options, and through much of 2003-04 he was negotiating for a rise while threatening to leave for a job in Bangalore.[60]
 
-A young man the anthropologists call Shoaib shows what the move felt like. He was 29, ran the company's intranet and website, and had a degree in computer science from a Muslim college in Chennai and an MCA. His father had been an engineer in the state electricity board. After his father's early death Shoaib was offered a post at the board, and turned it down. He said he would never work in the public sector, because there you always 'have to bow your head to somebody'.[50] He was also, the authors noted, more worried than most of his colleagues about the future: 'there is no security in this job'.[51]
+A young man the anthropologists call Shoaib shows what the move felt like. He was 29, ran the company's intranet and website, and had a degree in computer science from a Muslim college in Chennai and an MCA. His father had been an engineer in the state electricity board. After his father's early death Shoaib was offered a post at the board, and turned it down. He said he would never work in the public sector, because there you always 'have to bow your head to somebody'.[61] He was also, the authors noted, more worried than most of his colleagues about the future: 'there is no security in this job'.[62]
 
-Older managers in Chennai's manufacturing firms watched the move with some resentment. Sampath, the personnel manager of a bus and lorry maker the study calls Chakra Vehicles, said the IT industry had 'disturbed the social fabric', with its 'quick promotions', 'fancy designations' and 'phenomenal compensation'.[52] One of his colleagues, the authors report, said that at campus interviews by the late 1990s only the weakest men still wanted to join Chakra, because everyone better was chasing IT salaries. Sampath himself, after more than twenty years, probably earned about 60,000 rupees a month, a level a competent IT professional could expect to reach in half the time.[53]
+Older managers in Chennai's manufacturing firms watched the move with some resentment. Sampath, the personnel manager of a bus and lorry maker the study calls Chakra Vehicles, said the IT industry had 'disturbed the social fabric', with its 'quick promotions', 'fancy designations' and 'phenomenal compensation'.[63] One of his colleagues, the authors report, said that at campus interviews by the late 1990s only the weakest men still wanted to join Chakra, because everyone better was chasing IT salaries. Sampath himself, after more than twenty years, probably earned about 60,000 rupees a month, a level a competent IT professional could expect to reach in half the time.[64]
 
-Where the money went is less glamorous than the stereotypes. As far as the authors could tell, most of it went on housing, and for those with children on private schooling. Young professionals, often with loans, bought flats or houses much earlier than their parents had, so that people in Chennai said housing now came before children. The IT staff they met did not, in the authors' judgement, seem especially preoccupied with consumer goods.[54] Most of the young people they met had never even considered a government or public-sector job. One ICS assistant manager had turned down a post at the Indian Space Research Organisation because he thought it would be unchallenging and monotonous.[55] The city did not always welcome its new earners. Raghu shared a flat with two other young men in IT, and they were unpopular with their neighbours, who feared they would smoke, drink, cook meat and make a nuisance of themselves. In fact, the authors found, they never cooked at all. They ate every meal out, came home on weekdays only to sleep, and had friends round at weekends to drink beer.[56]
+Where the money went is less glamorous than the stereotypes. As far as the authors could tell, most of it went on housing, and for those with children on private schooling. Young professionals, often with loans, bought flats or houses much earlier than their parents had, so that people in Chennai said housing now came before children. The IT staff they met did not, in the authors' judgement, seem especially preoccupied with consumer goods.[65] Most of the young people they met had never even considered a government or public-sector job. One ICS assistant manager had turned down a post at the Indian Space Research Organisation because he thought it would be unchallenging and monotonous.[66] The city did not always welcome its new earners. Raghu shared a flat with two other young men in IT, and they were unpopular with their neighbours, who feared they would smoke, drink, cook meat and make a nuisance of themselves. In fact, the authors found, they never cooked at all. They ate every meal out, came home on weekdays only to sleep, and had friends round at weekends to drink beer.[67]
 
 ## Marks, English and caste
 
-The Chennai study's most discussed finding is about caste, and the authors were careful with it. ICS, like many other IT companies in the city, 'is said to be dominated by the high-status "Forward Castes"', they wrote, especially Tamil Brahmans, who made up about 2.5 per cent of the state's population, 'and it is our strong impression that this is true'. But 'no accurate figures exist', and the guesses of people in the industry varied widely.[57] In a later paper they repeated that Tamil Brahmans were 'disproportionately well represented' in south India's IT industry, and that 'no figures to confirm this assertion exist', although all the circumstantial evidence pointed that way.[58] The study's terms are the ones used here. In its usage, 'Forward Castes', Brahmans among them, are those that cannot benefit from the reservation system of quotas in education and public employment, which is operated for the 'Backward' (and 'Most Backward') and 'Scheduled' Castes.[59]
+The Chennai study's most discussed finding is about caste, and the authors were careful with it. ICS, like many other IT companies in the city, 'is said to be dominated by the high-status "Forward Castes"', they wrote, especially Tamil Brahmans, who made up about 2.5 per cent of the state's population, 'and it is our strong impression that this is true'. But 'no accurate figures exist', and the guesses of people in the industry varied widely.[68] In a later paper they repeated that Tamil Brahmans were 'disproportionately well represented' in south India's IT industry, and that 'no figures to confirm this assertion exist', although all the circumstantial evidence pointed that way.[69] The study's terms are the ones used here. In its usage, 'Forward Castes', Brahmans among them, are those that cannot benefit from the reservation system of quotas in education and public employment, which is operated for the 'Backward' (and 'Most Backward') and 'Scheduled' Castes.[70]
 
-The interest of the study lies less in the impression than in the explanation. Many people in Chennai said the reason was reservations. Tamil Nadu reserved 68 per cent of state-sector posts and college seats for the Other Backward Classes and the Scheduled Castes and Tribes, 'and many people say that this is why many private companies employ a lot of Brahmans. Yet reservations alone cannot fully explain upper-caste predominance in IT companies.'[60]
+The interest of the study lies less in the impression than in the explanation. Many people in Chennai said the reason was reservations. Tamil Nadu reserved 68 per cent of state-sector posts and college seats for the Other Backward Classes and the Scheduled Castes and Tribes, 'and many people say that this is why many private companies employ a lot of Brahmans. Yet reservations alone cannot fully explain upper-caste predominance in IT companies.'[71]
 
-The authors offered three further reasons. First, Brahmans had become an increasingly urban community, more likely than others to have 'the social skills and cultural knowledge, including fluency in English, needed to work in global IT companies and to pass their selection tests in the first place'.[61] Second, the firms' own rules did the sorting. 'Because ICS allows only candidates with consistently high marks to apply for posts, its selection policy in practice favours Forward Caste candidates who, from a tender age, have been motivated to achieve repeated scholastic success.'[62] Third, Brahman families placed a high value on education, notably in mathematics and science, and they were the best-educated community in the state. The authors dismissed as 'fanciful' the popular idea, held by many Tamil Brahmans themselves, that the caste had a special aptitude for software because of its traditional religious learning.[63]
+The authors offered three further reasons. First, Brahmans had become an increasingly urban community, more likely than others to have 'the social skills and cultural knowledge, including fluency in English, needed to work in global IT companies and to pass their selection tests in the first place'.[72] Second, the firms' own rules did the sorting. 'Because ICS allows only candidates with consistently high marks to apply for posts, its selection policy in practice favours Forward Caste candidates who, from a tender age, have been motivated to achieve repeated scholastic success.'[73] Third, Brahman families placed a high value on education, notably in mathematics and science, and they were the best-educated community in the state. The authors dismissed as 'fanciful' the popular idea, held by many Tamil Brahmans themselves, that the caste had a special aptitude for software because of its traditional religious learning.[74]
 
-A footnote shows how small the measurable differences were. In 2004 the cut-off mark for admission to electronics and communication engineering at Anna University, the most competitive course in the state, was 293.28 out of 300 for Forward Caste candidates, 290.57 for Backward Castes, 283.67 for Most Backward Castes and 276.13 for Scheduled Castes.[64] The gap at the top was less than three marks in three hundred. The authors' point was that the belief in needing exceptionally high marks shaped how children were raised, even where the arithmetic was less harsh than families thought.[65]
+A footnote shows how small the measurable differences were. In 2004 the cut-off mark for admission to electronics and communication engineering at Anna University, the most competitive course in the state, was 293.28 out of 300 for Forward Caste candidates, 290.57 for Backward Castes, 283.67 for Most Backward Castes and 276.13 for Scheduled Castes.[75] The gap at the top was less than three marks in three hundred. The authors' point was that the belief in needing exceptionally high marks shaped how children were raised, even where the arithmetic was less harsh than families thought.[76]
 
-The argument does not need the firms to have looked at caste at all. A selection system that screened on marks, then on an aptitude test, then on an interview in English, reproduced the advantages of urban, educated, upper-caste families on its own. It is one city and one firm, and national figures on the caste composition of IT employment were not verified for this book. But the mechanism the anthropologists describe is visible elsewhere. In 2014 Aspiring Minds, a company that sells employment tests to employers, argued that firms visited only certain high-ranking colleges, and that in screening applications 'the college name is a key signal, and resumes from unknown colleges aren't shortlisted'.[66] By its own estimate, more than half of the graduates who met its benchmark for IT services jobs were studying outside the top 750 colleges, and so ended up 'invisible to most employers'.[67] It also estimated that a student from a third-tier college, with the same test score and marks as a student from a first-tier one, had 24 per cent lower odds of getting a job, and if hired was paid 66,000 rupees a year less.[68] The claims come from a firm with an interest in selling another way to find such students. They point in the same direction: a filter that worked by college name fell hardest on students from the new private colleges and the smaller towns.
+The argument does not need the firms to have looked at caste at all. A selection system that screened on marks, then on an aptitude test, then on an interview in English, reproduced the advantages of urban, educated, upper-caste families on its own. The Chennai evidence is one city and one firm, and national figures on the caste composition of IT employment were not verified for this book. Bangalore points the same way. In Upadhya's account of the NIAS survey, 'Brahmins constituted 48 per cent of our sample', upper castes as a whole 71 per cent, and upper and dominant agricultural castes together 86 per cent. 'Only one respondent said that he belonged to a scheduled community.'[77] The authors warned that 132 engineers, drawn mainly from multinationals and large and medium Indian firms, were 'much too small to be representative'.[78] The mechanism the anthropologists describe is visible elsewhere. In 2014 Aspiring Minds, a company that sells employment tests to employers, argued that firms visited only certain high-ranking colleges, and that in screening applications 'the college name is a key signal, and resumes from unknown colleges aren't shortlisted'.[79] By its own estimate, more than half of the graduates who met its benchmark for IT services jobs were studying outside the top 750 colleges, and so ended up 'invisible to most employers'.[80] It also estimated that a student from a third-tier college, with the same test score and marks as a student from a first-tier one, had 24 per cent lower odds of getting a job, and if hired was paid 66,000 rupees a year less.[81] The claims come from a firm with an interest in selling another way to find such students. They point in the same direction: a filter that worked by college name fell hardest on students from the new private colleges and the smaller towns.
 
 ## Women in the factory
 
-At ICS, 'approximately one-fifth' of new recruits were women, close to the share across the industry.[69] According to Nasscom, the industry's lobby group, 79 per cent of India's software professionals were men in 2001-02, a share it expected to fall to 65 per cent by 2005.[70] In the colleges the gap was narrower. Among undergraduates enrolled in engineering and technology courses at AICTE-approved institutions in 2012, 33.7 per cent were women, according to the council's figures as compiled by the Society of Women Engineers.[71]
+At ICS, 'approximately one-fifth' of new recruits were women, close to the share across the industry.[82] According to Nasscom, the industry's lobby group, 79 per cent of India's software professionals were men in 2001-02, a share it expected to fall to 65 per cent by 2005.[83] In the colleges the gap was narrower. Among undergraduates enrolled in engineering and technology courses at AICTE-approved institutions in 2012, 33.7 per cent were women, according to the council's figures as compiled by the Society of Women Engineers.[84]
 
-What the Chennai researchers heard about women differs from what studies of Western software firms had found. Almost everyone they met, men and women alike, 'insisted to us that both sexes have equal technical skills'.[72] In an English software company another researcher had found women caught in a 'double bind', judged either insufficiently feminine or insufficiently technical. Nobody in Chennai, the authors wrote, thought female software engineers inadequately feminine.[73] The difference between men and women at ICS lay elsewhere: 'Married women professionals consistently give their families higher priority than their work.'[74] Many men wanted 'home-loving' wives who would not work. So women in IT preferred husbands in IT, and men in IT tended to prefer wives who were not.[75] One leading company, the authors reported, had started an in-house online matrimonial service to encourage its staff to marry each other, and so reduce the number of married women who resigned to follow husbands working elsewhere.[76] The managers of two small software firms, one of them a woman, 'admitted to reluctance about recruiting women, precisely because their family duties take them away from work'.[77]
+What the Chennai researchers heard about women differs from what studies of Western software firms had found. Almost everyone they met, men and women alike, 'insisted to us that both sexes have equal technical skills'.[85] In an English software company another researcher had found women caught in a 'double bind', judged either insufficiently feminine or insufficiently technical. Nobody in Chennai, the authors wrote, thought female software engineers inadequately feminine.[86] The difference between men and women at ICS lay elsewhere: 'Married women professionals consistently give their families higher priority than their work.'[87] Many men wanted 'home-loving' wives who would not work. So women in IT preferred husbands in IT, and men in IT tended to prefer wives who were not.[88] One leading company, the authors reported, had started an in-house online matrimonial service to encourage its staff to marry each other, and so reduce the number of married women who resigned to follow husbands working elsewhere.[89] The managers of two small software firms, one of them a woman, 'admitted to reluctance about recruiting women, precisely because their family duties take them away from work'.[90]
 
-The study's women show the range. A project manager in her early thirties, whom the authors call Anuradha, had made it a condition of her marriage that she and her husband return from America to Chennai. Her daughter was looked after by both sets of grandparents, and she 'firmly believes that the IT industry has helped to empower women'.[78] Jayashree, about 35, an assistant project manager with an MSc in physics from IIT Madras, had a different experience. Childcare for her two children was 'an endlessly negotiated series of arrangements' among hired help, her parents and her parents-in-law. Her husband, she complained, did not do his share at home; many chores, she joked, had been 'outsourced'. She later resigned from ICS and did contract work for it from home.[79]
+The study's women show the range. A project manager in her early thirties, whom the authors call Anuradha, had made it a condition of her marriage that she and her husband return from America to Chennai. Her daughter was looked after by both sets of grandparents, and she 'firmly believes that the IT industry has helped to empower women'.[91] Jayashree, about 35, an assistant project manager with an MSc in physics from IIT Madras, had a different experience. Childcare for her two children was 'an endlessly negotiated series of arrangements' among hired help, her parents and her parents-in-law. Her husband, she complained, did not do his share at home; many chores, she joked, had been 'outsourced'. She later resigned from ICS and did contract work for it from home.[92]
 
-Two younger engineers on Jayashree's team, called Sarojini and Parvati, were in their mid-twenties. Sarojini had an electrical and electronics degree from Coimbatore and joined ICS as a trainee in 2002. She told the researchers she found the work exciting and challenging, though her first ambition had been medicine, and she insisted that any husband would have to let her keep working. Her mother also worked, and she appeared, the authors thought, to put her determination down less to the IT industry than to her matrilineal Nayar background. Later in 2004 the company sent her to New Jersey.[80] Parvati, with a BSc in computer science and an MSc in information technology, found her work boring after six months. A year later she was a team leader, determined to get a posting in America. One of her weekly tasks was to search an internet matrimonial site for a husband for her elder sister, and the profiles asking for 'home-loving' wives increasingly irritated her.[81]
+Two younger engineers on Jayashree's team, called Sarojini and Parvati, were in their mid-twenties. Sarojini had an electrical and electronics degree from Coimbatore and joined ICS as a trainee in 2002. She told the researchers she found the work exciting and challenging, though her first ambition had been medicine, and she insisted that any husband would have to let her keep working. Her mother also worked, and she appeared, the authors thought, to put her determination down less to the IT industry than to her matrilineal Nayar background. Later in 2004 the company sent her to New Jersey.[93] Parvati, with a BSc in computer science and an MSc in information technology, found her work boring after six months. A year later she was a team leader, determined to get a posting in America. One of her weekly tasks was to search an internet matrimonial site for a husband for her elder sister, and the profiles asking for 'home-loving' wives increasingly irritated her.[94]
 
-The authors' verdict held both halves together. 'Plainly, the IT industry has not revolutionised the position of Indian women.'[82] Yet when they compared their informants with the upper-middle-class Chennai women studied by Patricia Caplan in 1974-75, for most of whom 'employment outside the home is not considered at all desirable', they judged that 'real change has occurred'.[83] Young women in IT appeared to 'command greater respect and have more bargaining power within their families', particularly over whom they married.[84]
+The authors' verdict held both halves together. 'Plainly, the IT industry has not revolutionised the position of Indian women.'[95] Yet when they compared their informants with the upper-middle-class Chennai women studied by Patricia Caplan in 1974-75, for most of whom 'employment outside the home is not considered at all desirable', they judged that 'real change has occurred'.[96] Young women in IT appeared to 'command greater respect and have more bargaining power within their families', particularly over whom they married.[97]
 
 ## Routine work
 
-What were the factory's products made for? Fuller and Narasimhan answered in a sentence that matters for the rest of this book. 'Because software engineering in companies like ICS or TCS has progressively become more routinized and reliant on standard packages, IIT graduates are over-qualified and can secure more technically demanding, better-paid jobs.'[85] Most new recruits in the major firms, they went on, 'have only a bachelor's degree in engineering', usually from one of the leading colleges in Tamil Nadu.[86]
+What were the factory's products made for? Fuller and Narasimhan answered in a sentence that matters for the rest of this book. 'Because software engineering in companies like ICS or TCS has progressively become more routinized and reliant on standard packages, IIT graduates are over-qualified and can secure more technically demanding, better-paid jobs.'[98] Most new recruits in the major firms, they went on, 'have only a bachelor's degree in engineering', usually from one of the leading colleges in Tamil Nadu.[99]
 
-The people doing the work said similar things. 'Software engineering does not demand exceptional ability, as some experienced people acknowledge,' the authors wrote. Shoaib went further and claimed that any reasonably intelligent school-leaver could learn the job. He was exaggerating, they said, 'but we have met several IT professionals who are bored because their work is too easy'.[87] Raghu, keeping a British client's system running, thought he was learning little. Parvati was bored at six months and a team leader at eighteen. Sarojini found it challenging.[88] The firms did not need all their recruits to be stretched. They needed them to be trainable, reliable and available.
+The people doing the work said similar things. 'Software engineering does not demand exceptional ability, as some experienced people acknowledge,' the authors wrote. Shoaib went further and claimed that any reasonably intelligent school-leaver could learn the job. He was exaggerating, they said, 'but we have met several IT professionals who are bored because their work is too easy'.[100] Raghu, keeping a British client's system running, thought he was learning little. Parvati was bored at six months and a team leader at eighteen. Sarojini found it challenging.[101] The firms did not need all their recruits to be stretched. They needed them to be trainable, reliable and available. Some managers said so, though not in the way Aspiring Minds' account of firms that looked only at top colleges would suggest. Several large Indian services companies, Upadhya reported, preferred graduates of lower-ranked colleges 'because the best students are not suitable for the kind of routinised work that is on offer'. As one HR manager put it, they required 'guys who can just sit and code and not ask questions'.[102]
 
-Outside observers drew the same line. The Duke University team discussed in the sidebar below divided engineering graduates into 'dynamic' engineers, capable of abstract thinking and high-level problem solving, and 'transactional' engineers, who might have the fundamentals but were 'typically responsible for rote and repetitive tasks in the workforce'.[89] It was 'the jobs of transactional engineers', the team wrote in 2005, that seemed 'easily outsourced' to relatively low-paid engineers in countries like India.[90] The phrase was American shorthand, and it was unkind to many Indian graduates who did far more than that. But it described the bulk of what the factory was designed to supply.
+Outside observers drew the same line. The Duke University team discussed in the sidebar below divided engineering graduates into 'dynamic' engineers, capable of abstract thinking and high-level problem solving, and 'transactional' engineers, who might have the fundamentals but were 'typically responsible for rote and repetitive tasks in the workforce'.[103] It was 'the jobs of transactional engineers', the team wrote in 2005, that seemed 'easily outsourced' to relatively low-paid engineers in countries like India.[104] The phrase was American shorthand, and it was unkind to many Indian graduates who did far more than that. But it described the bulk of what the factory was designed to supply.
 
 That was the factory's design, and it fitted the business that Chapter 11 described. A client abroad specified a system; a small team onsite fixed the requirements; a large team in India built, tested and maintained it, to documented methods, on standard packages, billed by time. A trained graduate of almost any engineering branch could do most of that work after three months in Mysore. The design succeeded.
 
 ## Sidebar: How many engineers does India really produce?
 
-No figure about Indian education is quoted more often, or more loosely, than the number of engineers the country turns out each year. In the mid-2000s, according to a study discussed below, typical press articles said that in 2004 India had graduated 350,000 engineers and China 600,000, against about 70,000 in the United States.[91] Later, figures of well over a million a year appeared, including in Rajaraman's own history. Neither kind was a like-for-like count of four-year engineering graduates.
+No figure about Indian education is quoted more often, or more loosely, than the number of engineers the country turns out each year. In the mid-2000s, according to a study discussed below, typical press articles said that in 2004 India had graduated 350,000 engineers and China 600,000, against about 70,000 in the United States.[105] Later, figures of well over a million a year appeared, including in Rajaraman's own history. Neither kind was a like-for-like count of four-year engineering graduates.
 
-An early attempt to check came from Duke University. In December 2005 a team of graduate students led by Gary Gereffi, a sociologist, and Vivek Wadhwa, an executive teaching engineering management, tried to compare like with like.[92] They found that the large Indian and Chinese figures 'include not only four-year degrees, but also three-year training programs and diploma holders', and that they had been set against American four-year degrees alone.[93] The figure they used for India in 2004, a Nasscom projection, was 215,000 graduates in engineering, computer science and information technology. Only 112,000 of them held four-year bachelor's degrees; the other 103,000 had three-year diplomas.[94] Per million people, they reckoned, the United States produced about 750 such graduates a year, China about 500 and India about 200.[95]
+An early attempt to check came from Duke University. In December 2005 a team of graduate students led by Gary Gereffi, a sociologist, and Vivek Wadhwa, an executive teaching engineering management, tried to compare like with like.[106] They found that the large Indian and Chinese figures 'include not only four-year degrees, but also three-year training programs and diploma holders', and that they had been set against American four-year degrees alone.[107] The figure they used for India in 2004, a Nasscom projection, was 215,000 graduates in engineering, computer science and information technology. Only 112,000 of them held four-year bachelor's degrees; the other 103,000 had three-year diplomas.[108] Per million people, they reckoned, the United States produced about 750 such graduates a year, China about 500 and India about 200.[109]
 
-The Duke team also found something more striking. Nasscom's projections rested on government data published with a 'three- to four-year lag'. And 'the most recent official Indian graduation data are from 1993'.[96] On the Duke team's account, in other words, official counts of the engineering graduates the industry was hiring were erratic and years out of date through much of the boom. The lobby group of the industry that employed them was, in the Duke report's words, the 'de facto authority'.[97]
+The Duke team also found something more striking. Nasscom's projections rested on government data published with a 'three- to four-year lag'. And 'the most recent official Indian graduation data are from 1993'.[110] On the Duke team's account, in other words, official counts of the engineering graduates the industry was hiring were erratic and years out of date through much of the boom. The lobby group of the industry that employed them was, in the Duke report's words, the 'de facto authority'.[111]
 
-Later figures do not settle the question. Rajaraman gives the best-known growth series: 'In 1998 the number of engineering students was around 135,000 and in 2010 it grew to 1,300,000, a growth of almost 10 times.'[98] Elsewhere in the same history he describes what appears to be the same figure differently: 'Currently India graduates around 1.3 million engineers per year'.[99] Neither passage defines it. A total enrolment of 135,000 in 1998 is far too small for 486 colleges teaching four-year courses, so the 1998 figure is most likely one year's intake. By the same reasoning, 1.3 million in 2010 is most likely intake or approved seats rather than graduates. This book treats it as seats.
+Later figures do not settle the question. Rajaraman gives the best-known growth series: 'In 1998 the number of engineering students was around 135,000 and in 2010 it grew to 1,300,000, a growth of almost 10 times.'[112] Elsewhere in the same history he describes what appears to be the same figure differently: 'Currently India graduates around 1.3 million engineers per year'.[113] Neither passage defines it. A total enrolment of 135,000 in 1998 is far too small for 486 colleges teaching four-year courses, so the 1998 figure is most likely one year's intake. By the same reasoning, 1.3 million in 2010 is most likely intake or approved seats rather than graduates. This book treats it as seats.
 
-Two other figures help. In 2014 Aspiring Minds wrote of 'the six hundred thousand engineers that graduate annually', without giving a source.[100] And the regulator's data, as analysed by Avanti Fellows, show about 1.55 million approved undergraduate engineering seats in 2012-13, of which 37.6 per cent were empty.[101] If the Duke and Aspiring Minds figures are roughly right, India's output of four-year engineering graduates grew about five times between 2004 and 2013, from about 112,000 to about 600,000. That is broadly in line with the more than threefold rise in college numbers between 1997-98 and 2005-06.[102]
+Two other figures help. In 2014 Aspiring Minds wrote of 'the six hundred thousand engineers that graduate annually', without giving a source.[114] And the regulator's data, as analysed by Avanti Fellows, show about 1.55 million approved undergraduate engineering seats in 2012-13, of which 37.6 per cent were empty.[115] If the Duke and Aspiring Minds figures are roughly right, India's output of four-year engineering graduates grew about five times between 2004 and 2013, from about 112,000 to about 600,000. That is broadly in line with the more than threefold rise in college numbers between 1997-98 and 2005-06.[116]
 
 The answer, then, depends on the question. If it is how many engineering places India approved each year by the early 2010s, the answer is about 1.5 million. If it is how many students took up those places, it was fewer, since a third or more stayed empty. If it is how many four-year engineering graduates India produced, the best estimates are about 112,000 in 2004 and perhaps 600,000 by 2013, neither of them an official count. The often-repeated claim that India produces 1.5 million engineers a year matches the seats, not the graduates. The real number grew very fast. It was never as large as the figure that travelled.
 
@@ -4189,19 +4291,19 @@ The answer, then, depends on the question. If it is how many engineering places 
 
 By the early 2010s a second number had joined the first. Only a quarter of Indian engineers were employable, it was said, or only a fifth. Both figures can be traced, and both come from parties with an interest.
 
-The 'quarter' comes from the McKinsey Global Institute, the research arm of the consultancy. As the Duke study reported it, 'McKinsey concluded that only 10% of Chinese engineers and 25% of Indian engineers can compete in the global outsourcing arena', citing language, the quality of education, culture and other factors.[103] The McKinsey study itself was not read for this book. As quoted, its question was not whether Indian engineers could find work, but how many could compete for outsourced work from rich countries.
+The 'quarter' comes from the McKinsey Global Institute, the research arm of the consultancy. As the Duke study reported it, 'McKinsey concluded that only 10% of Chinese engineers and 25% of Indian engineers can compete in the global outsourcing arena', citing language, the quality of education, culture and other factors.[117] The McKinsey study itself was not read for this book. As quoted, its question was not whether Indian engineers could find work, but how many could compete for outsourced work from rich countries.
 
-The 'fifth' comes from Aspiring Minds. Its 2014 report tested 'more than 1,20,000 engineering students from 520+ engineering colleges' who graduated in 2013, on the company's own test, against benchmarks it said it had built from studies at various companies; its test, it said, was used by more than 650 companies, including 'six of the top-ten IT services companies in India'.[104] It found that 'only 18.43% of them are employable for the Software Engineer-IT services role'.[105] For software jobs at product companies, among students of computer-related branches only, the figure was 3.21 per cent.[106] These are the shares of a tested sample that met the vendor's benchmark for a role. They are not measures of whether graduates found jobs, and the company that produced them sold the test.
+The 'fifth' comes from Aspiring Minds. Its 2014 report tested 'more than 1,20,000 engineering students from 520+ engineering colleges' who graduated in 2013, on the company's own test, against benchmarks it said it had built from studies at various companies; its test, it said, was used by more than 650 companies, including 'six of the top-ten IT services companies in India'.[118] It found that 'only 18.43% of them are employable for the Software Engineer-IT services role'.[119] For software jobs at product companies, among students of computer-related branches only, the figure was 3.21 per cent.[120] These are the shares of a tested sample that met the vendor's benchmark for a role. They are not measures of whether graduates found jobs, and the company that produced them sold the test.
 
-Read for what it measures, though, the report says something precise about the factory. The IT services figure, it explained, was calculated under the firms' 'current hiring philosophy', in which a recruit was not expected to have software skills already but was trained 'over a period of 3 to 6 months'. So 18.43 per cent was the share judged 'trainable into software engineers within a period of 3 to 6 months'.[107] The firms' bar was trainability, not skill. That was the bar Rajaraman described and the one the Mysore campus was built for.
+Read for what it measures, though, the report says something precise about the factory. The IT services figure, it explained, was calculated under the firms' 'current hiring philosophy', in which a recruit was not expected to have software skills already but was trained 'over a period of 3 to 6 months'. So 18.43 per cent was the share judged 'trainable into software engineers within a period of 3 to 6 months'.[121] The firms' bar was trainability, not skill. That was the bar Rajaraman described and the one the Mysore campus was built for.
 
-The same report contained an early warning. 'The IT services industry is not growing at the same pace as before and the growth of entry-level jobs is diminishing,' it said. Because firms were hiring fewer people and wanted to cut training costs, there was 'a slow but definite trend towards hiring candidates who already have decent expertise in programming'.[108] This is a vendor's observation, made by a firm that sold programming tests. It is still the first documented sign, in the sources gathered for this book, that the factory's demand curve was bending.
+The same report contained an early warning. 'The IT services industry is not growing at the same pace as before and the growth of entry-level jobs is diminishing,' it said. Because firms were hiring fewer people and wanted to cut training costs, there was 'a slow but definite trend towards hiring candidates who already have decent expertise in programming'.[122] This is a vendor's observation, made by a firm that sold programming tests. It is still the first documented sign, in the sources gathered for this book, that the factory's demand curve was bending.
 
-The price of a place in the factory points the same way. The figures are rough and measure different things. ICS's starting salary of about 15,000 rupees a month in 2003-05 came to about 180,000 rupees a year.[109] Chapter 18 gives a median starting pay at large IT firms in 2012 from a study by the news site Moneycontrol.[110] Adjusted for consumer prices, the first is worth about 660,000 rupees at 2024 prices and the second about 480,000.[111] One is a single firm and the other a median, so the comparison can only be suggestive. It suggests that as the gate widened, the price of entry fell.
+The price of a place in the factory points the same way. The figures are rough and measure different things. ICS's starting salary of about 15,000 rupees a month in 2003-05 came to about 180,000 rupees a year.[123] Chapter 18 gives a median starting pay at large IT firms in 2012 from a study by the news site Moneycontrol.[124] Adjusted for consumer prices, the first is worth about 660,000 rupees at 2024 prices and the second about 480,000.[125] One is a single firm and the other a median, so the comparison can only be suggestive. It suggests that as the gate widened, the price of entry fell.
 
 ## The other way out
 
-The factory had been built to keep the work in India. But Sarojini was in New Jersey, and Parvati was set on America.[112] For a generation of Indian engineers, the road out of the factory still ran through the United States, and through one American work visa in particular. That road is the subject of the next chapter.
+The factory had been built to keep the work in India. But Sarojini was in New Jersey, and Parvati was set on America.[126] For a generation of Indian engineers, the road out of the factory still ran through the United States, and through one American work visa in particular. That road is the subject of the next chapter.
 
 
 ### Notes to Chapter 12. The engineer factory (1998-2012)
@@ -4218,217 +4320,245 @@ The factory had been built to keep the work in India. But Sarojini was in New Je
 
 [6] Rajaraman, *History of Computing in India* (2012), p. 56.
 
-[7] Rajaraman, *History of Computing in India* (2012), p. 51.
+[7] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 45 (majority opinion of B.N. Kirpal CJI).
 
-[8] Rajaraman, *History of Computing in India* (2012), p. 56.
+[8] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 39; the judgment does not date the Karnataka figures.
 
-[9] Rajaraman, *History of Computing in India* (2012), p. 12.
+[9] *T.M.A. Pai Foundation v. State of Karnataka* (2002), paras. 56-57; see also para. 69.
 
-[10] Rajaraman, *History of Computing in India* (2012), p. 51.
+[10] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 68.
 
-[11] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14 n. 27.
+[11] Rajaraman, *History of Computing in India* (2012), p. 51.
 
-[12] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), pp. 189-190.
+[12] Rajaraman, *History of Computing in India* (2012), p. 56.
 
-[13] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
+[13] Rajaraman, *History of Computing in India* (2012), p. 12.
 
-[14] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
+[14] Rajaraman, *History of Computing in India* (2012), p. 51.
 
-[15] Rajaraman, *History of Computing in India* (2012), p. 56.
+[15] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14 n. 27.
 
-[16] Rajaraman, *History of Computing in India* (2012), p. 56.
+[16] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), pp. 189-190.
 
-[17] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
+[17] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
 
-[18] Infosys, Form F-1 (1999), p. 6.
+[18] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
 
-[19] Infosys, Form 20-F FY2008, Item 4.
+[19] Rajaraman, *History of Computing in India* (2012), p. 56.
 
-[20] Infosys, Form 20-F FY2005, Item 4; Infosys, Form 20-F FY2008, Item 4.
+[20] Rajaraman, *History of Computing in India* (2012), p. 56.
 
-[21] Infosys, Form 20-F FY2005, Item 4; Infosys, Form 20-F FY2008, Item 4.
+[21] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
 
-[22] Infosys, Form 20-F FY2002; Infosys, Form 20-F FY2005, Item 6.D; Infosys, Form 20-F FY2008, Items 3 and 6.D; Infosys, Form 20-F FY2012, Items 3 and 6.D.
+[22] Infosys, Form F-1 (1999), p. 6.
 
-[23] Rajaraman, *History of Computing in India* (2012), p. 56.
+[23] Infosys, Form 20-F FY2008, Item 4.
 
-[24] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+[24] Infosys, Form 20-F FY2005, Item 4; Infosys, Form 20-F FY2008, Item 4.
 
-[25] Infosys, Form 20-F FY2004, Items 4 and 6.D.
+[25] Computer History Museum, 'Oral History of Natarajan Chandrasekaran' (2020), PDF p. 5 (recollection in 2020; the transcript spells IIT as 'ITT').
 
-[26] *Business Today*, 'Infosys: Wealth & Values' (2001) (article by R. Sukumar).
+[26] Infosys, Form 20-F FY2005, Item 4; Infosys, Form 20-F FY2008, Item 4.
 
-[27] Infosys, Form 20-F FY2002, Items 4 and 6.D.
+[27] Infosys, Form 20-F FY2002; Infosys, Form 20-F FY2005, Item 6.D; Infosys, Form 20-F FY2008, Items 3 and 6.D; Infosys, Form 20-F FY2012, Items 3 and 6.D.
 
-[28] Infosys, Form 20-F FY2005, Item 4.
+[28] Rajaraman, *History of Computing in India* (2012), p. 56.
 
-[29] Infosys, Form 20-F FY2005, Item 5.
+[29] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
 
-[30] Infosys, Form 20-F FY2008, Items 4 and 6.D.
+[30] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 4, 57 (Bangalore fieldwork January 2004 to June 2005, p. 4; printed page numbers, PDF page minus 10).
 
-[31] Infosys, Form 20-F FY2012, Item 4.
+[31] Infosys, Form 20-F FY2004, Items 4 and 6.D.
 
-[32] Infosys, Form 20-F FY2012, Item 5.
+[32] *Business Today*, 'Infosys: Wealth & Values' (2001) (article by R. Sukumar).
 
-[33] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2012, Item 4.
+[33] Infosys, Form 20-F FY2002, Items 4 and 6.D.
 
-[34] Infosys, Form F-1 (1999), p. 45.
+[34] Infosys, Form 20-F FY2005, Item 4.
 
-[35] Infosys, Form 20-F FY2005, Item 5; Infosys, Form 20-F FY2008, Item 5.
+[35] Infosys, Form 20-F FY2005, Item 5.
 
-[36] Infosys, Form 20-F FY2012, Item 5.
+[36] Infosys, Form 20-F FY2008, Items 4 and 6.D.
 
-[37] Infosys, Form 20-F FY2012, Item 3.
+[37] Infosys, Form 20-F FY2012, Item 4.
 
-[38] Infosys, Form 20-F FY2008, Items 3 and 5.
+[38] Infosys, Form 20-F FY2012, Item 5.
 
-[39] Infosys, Form 20-F FY2005, Item 3; Infosys, Form 20-F FY2008, Item 3; Infosys, Form 20-F FY2012, Item 3.
+[39] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2012, Item 4.
 
-[40] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
+[40] Infosys, Form F-1 (1999), p. 45.
 
-[41] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
+[41] Infosys, Form 20-F FY2005, Item 5; Infosys, Form 20-F FY2008, Item 5.
 
-[42] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+[42] Infosys, Form 20-F FY2012, Item 5.
 
-[43] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 127.
+[43] Infosys, Form 20-F FY2012, Item 3.
 
-[44] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+[44] Infosys, Form 20-F FY2008, Items 3 and 5.
 
-[45] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125; dollar figure at the 2004 calendar-year average rate of Rs 45.32 per dollar, Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
+[45] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 85.
 
-[46] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125-126 and n. 9.
+[46] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 85.
 
-[47] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 141.
+[47] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 86.
 
-[48] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
+[48] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 87.
 
-[49] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 127-128.
+[49] Infosys, Form 20-F FY2005, Item 3; Infosys, Form 20-F FY2008, Item 3; Infosys, Form 20-F FY2012, Item 3.
 
-[50] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
+[50] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
 
-[51] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
+[51] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
 
-[52] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 133.
+[52] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
 
-[53] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 134.
+[53] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 127.
 
-[54] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 134, 142.
+[54] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
 
-[55] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
+[55] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125; dollar figure at the 2004 calendar-year average rate of Rs 45.32 per dollar, Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
 
-[56] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132.
+[56] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125-126 and n. 9.
 
-[57] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
+[57] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 141.
 
-[58] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
+[58] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 4, 37.
 
-[59] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143; Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 171.
+[59] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
 
-[60] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
+[60] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 127-128.
 
-[61] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
+[61] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
 
-[62] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
+[62] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
 
-[63] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143.
+[63] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 133.
 
-[64] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143 n. 13.
+[64] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 134.
 
-[65] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
+[65] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 134, 142.
 
-[66] Aspiring Minds, *National Employability Report: Engineers*, p. 8.
+[66] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
 
-[67] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+[67] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132.
 
-[68] Aspiring Minds, *National Employability Report: Engineers*, p. 8.
+[68] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
 
-[69] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125, 137.
+[69] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
 
-[70] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125 n. 8.
+[70] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143; Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 171.
 
-[71] Society of Women Engineers, 'India Tertiary Education' (2025) (citing the AICTE enrolment dashboard).
+[71] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
 
-[72] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+[72] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
 
-[73] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+[73] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
 
-[74] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+[74] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143.
 
-[75] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+[75] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143 n. 13.
 
-[76] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138 n. 12.
+[76] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
 
-[77] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 139.
+[77] Upadhya, 'Employment, Exclusion and \Merit\" in the Indian IT Industry' (2007)", p. 1864; the report gives the same survey as 71 per cent upper castes, 'about half' Brahmins, Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 38.
 
-[78] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
+[78] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 36.
 
-[79] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 130-131.
+[79] Aspiring Minds, *National Employability Report: Engineers*, p. 8.
 
-[80] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 131.
+[80] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
 
-[81] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
+[81] Aspiring Minds, *National Employability Report: Engineers*, p. 8.
 
-[82] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
+[82] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125, 137.
 
-[83] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
+[83] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125 n. 8.
 
-[84] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 140-141.
+[84] Society of Women Engineers, 'India Tertiary Education' (2025) (citing the AICTE enrolment dashboard).
 
-[85] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
+[85] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
 
-[86] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
+[86] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
 
-[87] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
+[87] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
 
-[88] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
+[88] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
 
-[89] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), pp. 3-4.
+[89] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138 n. 12.
 
-[90] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9.
+[90] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 139.
 
-[91] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 3.
+[91] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
 
-[92] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 1.
+[92] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 130-131.
 
-[93] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 2.
+[93] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 131.
 
-[94] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5.
+[94] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
 
-[95] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 6.
+[95] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
 
-[96] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
+[96] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
 
-[97] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
+[97] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 140-141.
 
-[98] Rajaraman, *History of Computing in India* (2012), p. 56.
+[98] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
 
-[99] Rajaraman, *History of Computing in India* (2012), p. 12.
+[99] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
 
-[100] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+[100] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
 
-[101] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
+[101] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
 
-[102] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5; Aspiring Minds, *National Employability Report: Engineers*, p. 7; MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19.
+[102] Upadhya, 'Employment, Exclusion and \Merit\" in the Indian IT Industry' (2007)", p. 1865; Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 35-36.
 
-[103] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9.
+[103] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), pp. 3-4.
 
-[104] Aspiring Minds, *National Employability Report: Engineers*, p. 9.
+[104] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9.
 
-[105] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+[105] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 3.
 
-[106] Aspiring Minds, *National Employability Report: Engineers*, pp. 7, 12.
+[106] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 1.
 
-[107] Aspiring Minds, *National Employability Report: Engineers*, p. 12.
+[107] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 2.
 
-[108] Aspiring Minds, *National Employability Report: Engineers*, p. 13.
+[108] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5.
 
-[109] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+[109] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 6.
 
-[110] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (reporting a Moneycontrol study; method not read).
+[110] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
 
-[111] OECD, Consumer Price Indices, India (India CPI, calendar-year average; 2004 and 2012 values multiplied by 3.659 and 1.948 to give 2024 rupees; the 2003-05 ICS figure is treated as 2004).
+[111] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
 
-[112] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
+[112] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[113] Rajaraman, *History of Computing in India* (2012), p. 12.
+
+[114] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+
+[115] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
+
+[116] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5; Aspiring Minds, *National Employability Report: Engineers*, p. 7; MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19.
+
+[117] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9.
+
+[118] Aspiring Minds, *National Employability Report: Engineers*, p. 9.
+
+[119] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+
+[120] Aspiring Minds, *National Employability Report: Engineers*, pp. 7, 12.
+
+[121] Aspiring Minds, *National Employability Report: Engineers*, p. 12.
+
+[122] Aspiring Minds, *National Employability Report: Engineers*, p. 13.
+
+[123] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+
+[124] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (reporting a Moneycontrol study; method not read).
+
+[125] OECD, Consumer Price Indices, India (India CPI, calendar-year average; 2004 and 2012 values multiplied by 3.659 and 1.948 to give 2024 rupees; the 2003-05 ICS figure is treated as 2004).
+
+[126] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
 
 
 # Chapter 13. H-1B (1990-2015)
@@ -4457,95 +4587,105 @@ The cap began to bind in the middle of the decade, as the American technology in
 
 Congress responded twice. In 1998 the American Competitiveness and Workforce Improvement Act raised the cap to 115,000 for fiscal 1999 and 2000, but 'that annual ceiling of 115,000 visas was reached months before FY1999 and FY2000 ended'.[25] The government's own counting failed under the strain. The immigration service 'admitted in autumn 1999 that thousands of H-1B visas beyond the 115,000 ceiling were approved in FY1999', and hired auditors to find out how.[26] In 2000 Congress raised the ceiling again, 'to 195,000 for three years', and expanded training programmes for American workers.[27]
 
-The 1998 law also tried to make the visa pay for its own side effects. By 2013 an employer filing a petition paid a base fee of $325, a $500 fee for fraud prevention, and could owe a further $1,500 under the 1998 Act 'to fund the training of United States citizens'.[28] Firms that relied heavily on the visa faced extra duties. An 'H-1B dependent' employer, generally one with at least 15 per cent of its workforce on H-1Bs, had to attest that it had tried to recruit American workers and had not laid any off in the 90 days before or after hiring a visa holder.[29]
+The 1998 law also tried to make the visa pay for its own side effects. By 2013 an employer filing a petition paid a base fee of $325, a $500 fee for fraud prevention, and could owe a further $1,500 under the 1998 Act 'to fund the training of United States citizens'.[28] When the Act was passed the training charge was $500 a worker, which the *Dallas Observer* reported would pay for scholarships for low-income students in mathematics, engineering and computer science, with about 5 per cent going to enforce the wage rules.[29] Firms that relied heavily on the visa faced extra duties. An 'H-1B dependent' employer, generally one with at least 15 per cent of its workforce on H-1Bs, had to attest that it had tried to recruit American workers and had not laid any off in the 90 days before or after hiring a visa holder.[30]
 
-Then the market turned. Petitions approved for H-1B workers, counting both new hires and extensions, peaked at 331,206 in fiscal 2001 and fell to 197,537 the following year.[30] The CRS observed that 'the economic downturn in the information technology sector appeared to have diminished demand'.[31] NFAP's table shows how far below the raised ceiling the new petitions fell: 163,600 in fiscal 2001, then 79,100 in 2002 and 78,000 in 2003, against a cap of 195,000.[32] For two years more than half the visas went unused.
+Then the market turned. Petitions approved for H-1B workers, counting both new hires and extensions, peaked at 331,206 in fiscal 2001 and fell to 197,537 the following year.[31] The CRS observed that 'the economic downturn in the information technology sector appeared to have diminished demand'.[32] NFAP's table shows how far below the raised ceiling the new petitions fell: 163,600 in fiscal 2001, then 79,100 in 2002 and 78,000 in 2003, against a cap of 195,000.[33] For two years more than half the visas went unused.
 
-The scarcity returned as soon as the ceiling dropped. 'When the H-1B annual numerical limits reverted to 65,000 in FY2005,' the CRS wrote, 'that limit was reached on the first day'.[33] A separate allowance of 20,000 visas for holders of American master's degrees had been added in 2004.[34] In April 2007 the immigration service received about 119,193 petitions subject to the fiscal 2008 cap on the first two days it accepted them, and chose among them by a computer-generated random draw.[35] From the mid-2000s, the visa was allocated by lottery.[36] A young engineer's chance of an American job now depended partly on luck.
+The scarcity returned as soon as the ceiling dropped. 'When the H-1B annual numerical limits reverted to 65,000 in FY2005,' the CRS wrote, 'that limit was reached on the first day'.[34] A separate allowance of 20,000 visas for holders of American master's degrees had been added in 2004.[35] In April 2007 the immigration service received about 119,193 petitions subject to the fiscal 2008 cap on the first two days it accepted them, and chose among them by a computer-generated random draw.[36] From the mid-2000s, the visa was allocated by lottery.[37] A young engineer's chance of an American job now depended partly on luck.
+
+## A body shop in Plano
+
+Miriam Rozen of the *Dallas Observer* recorded what a full cap meant on the ground. Her article of 12 November 1998 opened in the Plano office of Mali Subbiah, a 35-year-old former robotics engineer from Madras (Chennai since 1996), who ran what the trade called a body shop. He recruited engineers and programmers in India, signed them to contracts with his firm and hired them out to American companies, often through a further middleman, and took 'sometimes as much as 40 percent' of their pay, by Rozen's account.[38] The visa had been closed to new workers for almost five months after the annual quota ran out in May, she wrote, and Subbiah was 'making up for lost time'.[39] He said he had brought some 350 engineers and programmers from India since 1993.[40] By his own account, which he would not document, he paid salaries of $45,000 to $60,000; rival recruiters told Rozen he could bill a programmer at $90,000 to $200,000 a year.[41] 'I know there are workers who will tell you Mali runs a slave shop,' he said. He refused to let her speak to any of his contract workers.[42]
+
+Two engineers who did not work for him gave her another view. Reedhar Gunda, an electrical engineer from Bombay (Mumbai since 1995), had arrived about eight months earlier and found, she reported, that his body shopper was taking $22 an hour out of his pay and leaving him $28. To get out he had to find another job and have the new employer petition for his visa all over again, which took several months.[43] His friend Reddy Bandi, a 27-year-old electrical engineer from Hyderabad, the son of a rice farmer and the first in his family to go to college, had come on a student visa, taken a master's degree at Arizona State University within 18 months, and switched to an H-1B.[44] He had kept away from body shops. 'I don't like to apply to companies who get people from the outside,' he said. 'I know what their tactics are.' He blamed both sides. Of those who came on H-1Bs he said, 'Their main intention is just to get in'; once they found they were underpaid, some switched employers 'two, three times a year'.[45] Working through a large American subcontractor, he thought he earned more cash than the permanent staff beside him at the Sabre Group, though they had better benefits and more authority. His wife, a physical therapist, could not work in her field on his visa.[46]
+
+Rozen doubted that the wage promise was much enforced. An enforcement coordinator in the Labor Department's Dallas office told her he received H-1B complaints about once a month; engineers, he believed, moved on rather than pursue a case. Nationally, she reported, prosecutors had filed only eight cases in six years alleging wilful breaches of the prevailing-wage rules for temporary workers.[47]
+
+Subbiah expected the trade to change shape. He had begun sending American project specifications to his Madras office, where the work was done at Indian wages and emailed back, and he predicted that much American programming would move to Asia within a year or two. 'They are going to lose the whole business to India,' he said.[48] It was the forecast of an interested party, made in a year when the visas had run out by May.
 
 ## How Indian the visa became
 
-Indians did not dominate the visa at first. Saxenian, writing in 2001 and citing a 2000 study of the visa by Lowell, reported that the number of Indian H-1B holders grew steadily from 1989, became the largest national group in 1994, doubled by 1996 and quintupled by 1999. In 1999 Indians received 47 per cent of all H-1B visas issued, 55,047 people; the next largest groups, from Britain and China, had 6 per cent or less each.[37]
+Indians did not dominate the visa at first. Saxenian, writing in 2001 and citing a 2000 study of the visa by Lowell, reported that the number of Indian H-1B holders grew steadily from 1989, became the largest national group in 1994, doubled by 1996 and quintupled by 1999. In 1999 Indians received 47 per cent of all H-1B visas issued, 55,047 people; the next largest groups, from Britain and China, had 6 per cent or less each.[49]
 
-The share kept rising, but the published figures measure different things and must be read with their labels. For fiscal 2005 the CRS reported that India was 'the leading country of origin for newly arriving H-1B workers, comprising almost half (49.0%) of all of the new arrivals', with China a distant second at 9.16 per cent.[38] The same report repeated an undated government estimate that 'nearly three-fourths of all of the systems analysts and programmers are from India'.[39] By 2014, according to immigration service data cited by Khanna and Morales, about 70 per cent of H-1B visas went to Indians; China, the next largest, had received only 8 per cent in 2012.[40] A visa that Congress had written for any skilled foreigner had become, in its largest use, a channel between Indian engineering colleges and American information technology.
+The share kept rising, but the published figures measure different things and must be read with their labels. For fiscal 2005 the CRS reported that India was 'the leading country of origin for newly arriving H-1B workers, comprising almost half (49.0%) of all of the new arrivals', with China a distant second at 9.16 per cent.[50] The same report repeated an undated government estimate that 'nearly three-fourths of all of the systems analysts and programmers are from India'.[51] By 2014, according to immigration service data cited by Khanna and Morales, about 70 per cent of H-1B visas went to Indians; China, the next largest, had received only 8 per cent in 2012.[52] A visa that Congress had written for any skilled foreigner had become, in its largest use, a channel between Indian engineering colleges and American information technology.
 
-Who sponsored those visas is a separate question, and the answer is less simple than the common belief that the visas mostly went to Indian outsourcing firms. Khanna and Morales tabulated approvals by employer from immigration service reports for 2012 and 2013. In 2013 Infosys led with 6,298 approvals, just ahead of Tata Consultancy Services (TCS), with Cognizant third; the year before, Cognizant had topped the list with 9,281. Eight more firms had over a thousand approvals each in 2013, among them Accenture, Wipro, IBM's Indian subsidiary and Deloitte.[41]
+Who sponsored those visas is a separate question, and the answer is less simple than the common belief that the visas mostly went to Indian outsourcing firms. Khanna and Morales tabulated approvals by employer from immigration service reports for 2012 and 2013. In 2013 Infosys led with 6,298 approvals, just ahead of Tata Consultancy Services (TCS), with Cognizant third; the year before, Cognizant had topped the list with 9,281. Eight more firms had over a thousand approvals each in 2013, among them Accenture, Wipro, IBM's Indian subsidiary and Deloitte.[53]
 
-The authors drew the conclusion from the table: '10 out of the top 11 H-1B firms have Indians as their primary employment base'.[42] Three of those ten had their headquarters outside India: Cognizant and IBM in the United States, Accenture in the Bahamas. The table lists iGate under both the United States and India. Their main workforce, like that of Infosys or Wipro, was in India. Only Deloitte, tenth on the list, employed mainly Americans.[43] The largest sponsors, in other words, were firms built on the offshore services model, whoever owned them. Whether these firms took most of all H-1B approvals cannot be settled from these sources, because they give no matching totals for initial and continuing petitions in those years.
+The authors drew the conclusion from the table: '10 out of the top 11 H-1B firms have Indians as their primary employment base'.[54] Three of those ten had their headquarters outside India: Cognizant and IBM in the United States, Accenture in the Bahamas. The table lists iGate under both the United States and India. Their main workforce, like that of Infosys or Wipro, was in India. Only Deloitte, tenth on the list, employed mainly Americans.[55] The largest sponsors, in other words, were firms built on the offshore services model, whoever owned them. Whether these firms took most of all H-1B approvals cannot be settled from these sources, because they give no matching totals for initial and continuing petitions in those years.
 
-The sponsors were also only part of the visa's use. The CRS noted that since fiscal 2000 most H-1B workers had been exempt from the cap, because they were extending an existing status or worked for universities and research bodies.[44] The lottery decided who got in. Extensions, and for some a pending application for permanent residence, decided how long they stayed.[45]
+The sponsors were also only part of the visa's use. The CRS noted that since fiscal 2000 most H-1B workers had been exempt from the cap, because they were extending an existing status or worked for universities and research bodies.[56] The lottery decided who got in. Extensions, and for some a pending application for permanent residence, decided how long they stayed.[57]
 
 ## Who went, and what they had learned
 
-Most temporary visa workers had been educated before they arrived. A 2010 national survey of American college graduates, tabulated by Khanna and Morales, found that among foreign-born workers on temporary work visas whose highest degree was a bachelor's, 94 per cent had earned it abroad. Among those with a master's, 77 per cent had.[46] Since most H-1B holders were Indian, most of that education had been done in Indian colleges, without an American degree in between.
+Most temporary visa workers had been educated before they arrived. A 2010 national survey of American college graduates, tabulated by Khanna and Morales, found that among foreign-born workers on temporary work visas whose highest degree was a bachelor's, 94 per cent had earned it abroad. Among those with a master's, 77 per cent had.[58] Since most H-1B holders were Indian, most of that education had been done in Indian colleges, without an American degree in between.
 
-That was a change from the earlier generation. The Indians already in Silicon Valley in 1990, Saxenian found, had mostly come for graduate study. The 1990 census counted 28,520 Indians in the region's workforce, 98 per cent of them immigrants; 87 per cent of the Indians in its high-technology industries had arrived after 1970 and 60 per cent after 1980.[47] National Science Foundation figures she cited show that 79 per cent of Indians who received American science and engineering doctorates in 1990-91 were still working in the United States in 1995.[48] Many were graduates of 'the prestigious Indian Institutes of Technology (IITs) or Indian Institutes of Science (IISs)', she wrote, and were united by professional as well as ethnic ties; a sizable group had grown up in Africa and never lived in India.[49]
+That was a change from the earlier generation. The Indians already in Silicon Valley in 1990, Saxenian found, had mostly come for graduate study. The 1990 census counted 28,520 Indians in the region's workforce, 98 per cent of them immigrants; 87 per cent of the Indians in its high-technology industries had arrived after 1970 and 60 per cent after 1980.[59] National Science Foundation figures she cited show that 79 per cent of Indians who received American science and engineering doctorates in 1990-91 were still working in the United States in 1995.[60] Many were graduates of 'the prestigious Indian Institutes of Technology (IITs) or Indian Institutes of Science (IISs)', she wrote, and were united by professional as well as ethnic ties; a sizable group had grown up in Africa and never lived in India.[61]
 
-The IITs had been feeding America for decades; Chapter 2 gives the IIT Bombay study that found over 40 per cent of one cohort of its 1970s electrical engineering graduates abroad.[50] The pattern outlasted the period of this chapter. A study published in 2023 by Prithwiraj Choudhury, Ina Ganguli and Patrick Gaulé, which followed students who sat the IIT entrance examination, found that 'among the top 1,000 scorers on the exam, 36% have migrated abroad, rising to 62% for the top 100 scorers'.[51]
+The IITs had been feeding America for decades; Chapter 2 gives the IIT Bombay study that found over 40 per cent of one cohort of its 1970s electrical engineering graduates abroad.[62] The pattern outlasted the period of this chapter. A study published in 2023 by Prithwiraj Choudhury, Ina Ganguli and Patrick Gaulé, which followed students who sat the IIT entrance examination, found that 'among the top 1,000 scorers on the exam, 36% have migrated abroad, rising to 62% for the top 100 scorers'.[63]
 
-The H-1B also gave Indian students a reason to take an American degree first. The 2004 allowance of 20,000 extra visas for holders of American master's degrees, Khanna and Morales note, 'may incentivize students to obtain their degrees in US universities'.[52] The scale of that student route in the 1990s and 2000s is not documented in the sources for this chapter. The figures in hand begin only in 2017.
+The H-1B also gave Indian students a reason to take an American degree first. The 2004 allowance of 20,000 extra visas for holders of American master's degrees, Khanna and Morales note, 'may incentivize students to obtain their degrees in US universities'.[64] The scale of that student route in the 1990s and 2000s is not documented in the sources for this chapter. The figures in hand begin only in 2017.
 
-The two routes together supplied much of America's computing workforce. A national survey of college graduates showed that 55 per cent of foreigners working in computing fields in 2003 had arrived on a temporary work visa or a student visa, and a Department of Commerce estimate for the late 1990s was that 28 per cent of programmer jobs went to H-1B holders.[53] What the two routes added up to can also be measured over time. In 1990 immigrants (defined as people born abroad who arrived after the age of 18) made up 11.06 per cent of computer scientists in the United States with a bachelor's or master's degree. By 2000 they were 18.59 per cent, and by 2010 27.82 per cent.[54]
+The two routes together supplied much of America's computing workforce. A national survey of college graduates showed that 55 per cent of foreigners working in computing fields in 2003 had arrived on a temporary work visa or a student visa, and a Department of Commerce estimate for the late 1990s was that 28 per cent of programmer jobs went to H-1B holders.[65] What the two routes added up to can also be measured over time. In 1990 immigrants (defined as people born abroad who arrived after the age of 18) made up 11.06 per cent of computer scientists in the United States with a bachelor's or master's degree. By 2000 they were 18.59 per cent, and by 2010 27.82 per cent.[66]
 
 ## The pull on the colleges
 
-The most important effect of the visa may have been on the people who never used it. Khanna and Morales built an economic model of students and firms in both countries to test a hypothesis: 'that Indian students enrolled in engineering schools to gain employment in the rapidly growing US IT industry via the H-1B visa program. Those who could not join the US workforce, due to the H-1B cap, remained in India, enabling the growth of an Indian IT sector'.[55] Those who went and came back when their visas expired brought skills and technology with them.[56] As the authors put it, workers who could not get a visa 'or return to India after their visa expires are a ready supply of labor for firms in India'.[57]
+The most important effect of the visa may have been on the people who never used it. Khanna and Morales built an economic model of students and firms in both countries to test a hypothesis: 'that Indian students enrolled in engineering schools to gain employment in the rapidly growing US IT industry via the H-1B visa program. Those who could not join the US workforce, due to the H-1B cap, remained in India, enabling the growth of an Indian IT sector'.[67] Those who went and came back when their visas expired brought skills and technology with them.[68] As the authors put it, workers who could not get a visa 'or return to India after their visa expires are a ready supply of labor for firms in India'.[69]
 
-Their model's answer is that the visa 'induced Indians to switch to computer science (CS) occupations, increasing the CS workforce in India by 4.9% in 2010'.[58] The same model finds a cost on the other side. The visa 'induced US workers to switch to non-CS occupations, reducing the US native CS workforce by 7%'.[59] Indian IT output was 1.8 per cent higher, and the combined income of the two countries 1.5 per cent higher, than it would have been without the programme.[60] These are estimates from a calibrated model, not counts. They describe a world without the H-1B that never existed. What they offer is a mechanism: the American prospect pulled Indian students towards engineering and computing, and the cap kept most of them at home, where the Indian firms hired them.
+Their model's answer is that the visa 'induced Indians to switch to computer science (CS) occupations, increasing the CS workforce in India by 4.9% in 2010'.[70] The same model finds a cost on the other side. The visa 'induced US workers to switch to non-CS occupations, reducing the US native CS workforce by 7%'.[71] Indian IT output was 1.8 per cent higher, and the combined income of the two countries 1.5 per cent higher, than it would have been without the programme.[72] These are estimates from a calibrated model, not counts. They describe a world without the H-1B that never existed. What they offer is a mechanism: the American prospect pulled Indian students towards engineering and computing, and the cap kept most of them at home, where the Indian firms hired them.
 
-Over the same years, according to Nasscom (the National Association of Software and Service Companies), the industry's lobby group, information technology and business process outsourcing grew from 1.2 per cent of India's gross domestic product in 1998 to 7.5 per cent in 2012.[61] That mechanism fits what Chapter 12 found in the colleges. Khanna and Morales describe the workforce it produced, using industry data. In 2002 Indian software engineers had 'a median age of 26.5 years, and 58% of them had less than three years of experience', according to Nasscom. A Nasscom-Hewitt survey 'found that 88% of firms visited engineering colleges to recruit, and 47% recruited only there'.[62] In a passage drawing on a 2002 study by Arora and Athreye, Khanna and Morales report that the number of engineering doctorates in India fell from about 675 in 1987 to 375 in 1995.[63] The industry, they conclude, was attracting 'some of the brightest young graduates with little experience'.
+Over the same years, according to Nasscom (the National Association of Software and Service Companies), the industry's lobby group, information technology and business process outsourcing grew from 1.2 per cent of India's gross domestic product in 1998 to 7.5 per cent in 2012.[73] That mechanism fits what Chapter 12 found in the colleges. Khanna and Morales describe the workforce it produced, using industry data. In 2002 Indian software engineers had 'a median age of 26.5 years, and 58% of them had less than three years of experience', according to Nasscom. A Nasscom-Hewitt survey 'found that 88% of firms visited engineering colleges to recruit, and 47% recruited only there'.[74] In a passage drawing on a 2002 study by Arora and Athreye, Khanna and Morales report that the number of engineering doctorates in India fell from about 675 in 1987 to 375 in 1995.[75] The industry, they conclude, was attracting 'some of the brightest young graduates with little experience'.
 
 ## Silicon Valley's Indians
 
-By 2000, 53 per cent of Silicon Valley's scientists and engineers were foreign-born, Saxenian reported, and about 20,000 of them were Indian.[64] Many had found their careers stopped short. 'Many Indian engineers complained about a glass ceiling in the region's established companies, and responded by starting their own businesses', she wrote.[65] She quoted Prabhat Andleigh (spelled 'Prahbat' in her note), as reported by the *Los Angeles Times* in 1996: 'Why do you think there are so many Indian entrepreneurs in Silicon Valley? Because they know that sooner or later they will be held back'.[66]
+By 2000, 53 per cent of Silicon Valley's scientists and engineers were foreign-born, Saxenian reported, and about 20,000 of them were Indian.[76] Many had found their careers stopped short. 'Many Indian engineers complained about a glass ceiling in the region's established companies, and responded by starting their own businesses', she wrote.[77] She quoted Prabhat Andleigh (spelled 'Prahbat' in her note), as reported by the *Los Angeles Times* in 1996: 'Why do you think there are so many Indian entrepreneurs in Silicon Valley? Because they know that sooner or later they will be held back'.[78]
 
-The first association was a professional one. The Silicon Valley Indian Professionals Association (SIPA) was founded by Prakash Chandra, whom Saxenian described as 'a typical Silicon Valley engineer'. He started at the chipmaker Advanced Micro Devices in 1984 and worked at Intel, the start-up MIPS and Cadence.[67] According to Chandra, 'many Indians didn't see a career path beyond what they were doing', and SIPA's early meetings dealt with individual career strategy.[68] Visits by Indian government delegations in the early 1990s pushed SIPA to try to 'fill the information gap' between the two countries, and by 1999 it had about 1,000 members.[69] Chandra himself went back to India in 1992 to work for Wellfleet, which became Bay Networks.[70] TiE, the club born of the delayed flight, began the same year and turned to mentoring and, through its members, investing in younger South Asian founders.[71]
+The first association was a professional one. The Silicon Valley Indian Professionals Association (SIPA) was founded by Prakash Chandra, whom Saxenian described as 'a typical Silicon Valley engineer'. He started at the chipmaker Advanced Micro Devices in 1984 and worked at Intel, the start-up MIPS and Cadence.[79] According to Chandra, 'many Indians didn't see a career path beyond what they were doing', and SIPA's early meetings dealt with individual career strategy.[80] Visits by Indian government delegations in the early 1990s pushed SIPA to try to 'fill the information gap' between the two countries, and by 1999 it had about 1,000 members.[81] Chandra himself went back to India in 1992 to work for Wellfleet, which became Bay Networks.[82] TiE, the club born of the delayed flight, began the same year and turned to mentoring and, through its members, investing in younger South Asian founders.[83]
 
-How many companies these engineers started is one of the most repeated and least examined numbers in the story. Saxenian's 1999 count used a Dun & Bradstreet database of 11,443 technology firms founded in Silicon Valley between 1980 and 1998, and identified as 'immigrant-run' all companies whose chief executives had Chinese or Indian surnames.[72] By that measure 774 firms, 7 per cent, were run by Indians, with $3.6 billion in sales and 16,598 jobs in 1998.[73] The Indian share of new start-ups rose from 3 per cent in 1980-84 to 9 per cent in 1995-98.[74] She was explicit that this was a proxy, 'using immigrant-run businesses as a proxy for immigrant-founded businesses', which missed founders who had handed the chief executive's job to someone else.[75] Her interviews suggested that this was common, because venture capital 'has often been tied to the requirement that non-Asian senior executives be hired'.[76] A later study by Wadhwa and colleagues, with Saxenian among the authors, produced the higher and more often quoted figure of 15.5 per cent, but it counted Silicon Valley start-ups of 1995-2005 that had an Indian immigrant among their key founders, which is a different measure.[77] Any share of Indian start-ups is only as good as its definition.
+How many companies these engineers started is one of the most repeated and least examined numbers in the story. Saxenian's 1999 count used a Dun & Bradstreet database of 11,443 technology firms founded in Silicon Valley between 1980 and 1998, and identified as 'immigrant-run' all companies whose chief executives had Chinese or Indian surnames.[84] By that measure 774 firms, 7 per cent, were run by Indians, with $3.6 billion in sales and 16,598 jobs in 1998.[85] The Indian share of new start-ups rose from 3 per cent in 1980-84 to 9 per cent in 1995-98.[86] She was explicit that this was a proxy, 'using immigrant-run businesses as a proxy for immigrant-founded businesses', which missed founders who had handed the chief executive's job to someone else.[87] Her interviews suggested that this was common, because venture capital 'has often been tied to the requirement that non-Asian senior executives be hired'.[88] A later study by Wadhwa and colleagues, with Saxenian among the authors, produced the higher and more often quoted figure of 15.5 per cent, but it counted Silicon Valley start-ups of 1995-2005 that had an Indian immigrant among their key founders, which is a different measure.[89] Any share of Indian start-ups is only as good as its definition.
 
 ## Drain, then circulation
 
 Saxenian's phrase 'brain circulation' is easily read back into the 1990s. Her own evidence for India in that decade points the other way.
 
-The exception she described in detail was Radha Basu. Basu left 'her conservative South Indian family' for graduate study in computer science at the University of Southern California in the early 1970s and joined Hewlett-Packard.[78] In the mid-1980s, after the Indian government invited her to set up one of the country's first foreign subsidiaries, she spent four years building HP's centre in Bangalore (Bengaluru since 2014). When she went back to California in 1989 it employed 400 people.[79] The first office, she told Saxenian in 1997, 'consisted of a telex machine on her dining room table'.[80] Customs officials could not accept that software could be exported over a satellite link without something physical to inspect. For five years, Saxenian recorded, Basu copied HP's data onto tapes and shipped them to the United States so that the exports could be registered.[81] Doing business in India, she told Saxenian, needed patience: 'You can't just fly in and out and stay in a five-star hotel and expect to get things done like you can elsewhere'.[82] When officials talked of a 'single window of clearance' for foreign trade, she would joke: 'where is the window?'[83]
+The exception she described in detail was Radha Basu. Basu left 'her conservative South Indian family' for graduate study in computer science at the University of Southern California in the early 1970s and joined Hewlett-Packard.[90] In the mid-1980s, after the Indian government invited her to set up one of the country's first foreign subsidiaries, she spent four years building HP's centre in Bangalore (Bengaluru since 2014). When she went back to California in 1989 it employed 400 people.[91] The first office, she told Saxenian in 1997, 'consisted of a telex machine on her dining room table'.[92] Customs officials could not accept that software could be exported over a satellite link without something physical to inspect. For five years, Saxenian recorded, Basu copied HP's data onto tapes and shipped them to the United States so that the exports could be registered.[93] Doing business in India, she told Saxenian, needed patience: 'You can't just fly in and out and stay in a five-star hotel and expect to get things done like you can elsewhere'.[94] When officials talked of a 'single window of clearance' for foreign trade, she would joke: 'where is the window?'[95]
 
-Basu was unusual. Saxenian wrote in 1999 that 'few Indian engineers choose to live and work permanently in India'. Unlike the Taiwanese, Indian engineers who went home 'typically do so on a temporary basis'.[84] Young engineers in India preferred American multinationals as 'a ticket to Silicon Valley', and Bangalore software companies reported turnover of 20-30 per cent a year, 'primarily because so many workers jump at the first opportunity to emigrate'. On balance, 'the "brain drain" of skilled workers to the United States continued unabated throughout the 1990s'.[85] The engineers who stayed in America played what she called 'an important, but largely arm's-length, role', persuading their employers to send work to India.[86] The reason was cost. Programmers' wages were 'ten times lower in India', and the fully loaded cost of an engineer there was 35-40 per cent of the American figure.[87] Much of the work was still what the trade called body shopping, which Saxenian defined narrowly as programming at the customer's site on 'time and material' contracts billed by the programmer-hour. On the series by Balaji Parthasarathy that she cites, on-site services were about 90 per cent of the value of Indian software exports in 1990 and still 61 per cent in 1995; Chapter 9 sets this beside the other estimates, which measure the share differently.[88] At the end of the decade much of the work in India was on the year 2000 problem, which she described as work that 'generates significant exports but no new intellectual property'. One observer, quoted by her from *Forbes* in 1997, called it 'Grunt work by Indians and thinking by the Yankees'.[89] The big Indian firms, she judged, 'have been so profitable playing the wage gap that they have had few incentives to address higher value-added segments of the market'.[90]
+Basu was unusual. Saxenian wrote in 1999 that 'few Indian engineers choose to live and work permanently in India'. Unlike the Taiwanese, Indian engineers who went home 'typically do so on a temporary basis'.[96] Young engineers in India preferred American multinationals as 'a ticket to Silicon Valley', and Bangalore software companies reported turnover of 20-30 per cent a year, 'primarily because so many workers jump at the first opportunity to emigrate'. On balance, 'the "brain drain" of skilled workers to the United States continued unabated throughout the 1990s'.[97] The engineers who stayed in America played what she called 'an important, but largely arm's-length, role', persuading their employers to send work to India.[98] The reason was cost. Programmers' wages were 'ten times lower in India', and the fully loaded cost of an engineer there was 35-40 per cent of the American figure.[99] Much of the work was still what the trade called body shopping, which Saxenian defined narrowly as programming at the customer's site on 'time and material' contracts billed by the programmer-hour. On the series by Balaji Parthasarathy that she cites, on-site services were about 90 per cent of the value of Indian software exports in 1990 and still 61 per cent in 1995; Chapter 9 sets this beside the other estimates, which measure the share differently.[100] At the end of the decade much of the work in India was on the year 2000 problem, which she described as work that 'generates significant exports but no new intellectual property'. One observer, quoted by her from *Forbes* in 1997, called it 'Grunt work by Indians and thinking by the Yankees'.[101] The big Indian firms, she judged, 'have been so profitable playing the wage gap that they have had few incentives to address higher value-added segments of the market'.[102]
 
-Writing in 2005, she repeated the point: 'few U.S.-educated emigrants returned to either India or China during the 1980s and 1990s'. It was the technology recession that 'triggered an upsurge in cross-regional entrepreneurship'.[91] The comparison she drew was with Taiwan and Israel. There, returning immigrants had carried the Silicon Valley model of venture capital home from the early 1980s, and technologists had 'returned by the thousands'.[92] Israeli entrepreneurs, she wrote, built on the country's military research in internet security and telecommunications, while Indian entrepreneurs mobilised 'thousands of underemployed English-speaking Indian engineers to provide software development services for American corporations'.[93] On her account, India's diaspora had sent work home rather than companies. Inside India, Saxenian found, the 1990s turnover of 20-30 per cent a year did not spread ideas between firms as it did in Silicon Valley. It mainly pushed up wages, by 25-40 per cent a year. Learning happened 'primarily within the firm and through long-distance relationships', not with local universities or laboratories, even in Bangalore, home of the Indian Institute of Science.[94]
+Writing in 2005, she repeated the point: 'few U.S.-educated emigrants returned to either India or China during the 1980s and 1990s'. It was the technology recession that 'triggered an upsurge in cross-regional entrepreneurship'.[103] The comparison she drew was with Taiwan and Israel. There, returning immigrants had carried the Silicon Valley model of venture capital home from the early 1980s, and technologists had 'returned by the thousands'.[104] Israeli entrepreneurs, she wrote, built on the country's military research in internet security and telecommunications, while Indian entrepreneurs mobilised 'thousands of underemployed English-speaking Indian engineers to provide software development services for American corporations'.[105] On her account, India's diaspora had sent work home rather than companies. Inside India, Saxenian found, the 1990s turnover of 20-30 per cent a year did not spread ideas between firms as it did in Silicon Valley. It mainly pushed up wages, by 25-40 per cent a year. Learning happened 'primarily within the firm and through long-distance relationships', not with local universities or laboratories, even in Bangalore, home of the Indian Institute of Science.[106]
 
-By the mid-2000s the trade itself was changing who travelled. In Chennai, the anthropologists Chris Fuller and Haripriya Narasimhan followed a group of engineers. Of their twenty younger software engineers, seven had been or were on overseas assignments in 2005, but only two had spent more than a year in the United States; 'the rest, as is now increasingly common, were away for only a few months'.[95] They argued that 'the very logic of "offshoring"' meant that flows of people might diminish 'as the work travels to the site of labor, instead of the reverse'.[96] For many engineers the American posting became a stint in a career spent in India.
+By the mid-2000s the trade itself was changing who travelled. In Chennai, the anthropologists Chris Fuller and Haripriya Narasimhan followed a group of engineers. Of their twenty younger software engineers, seven had been or were on overseas assignments in 2005, but only two had spent more than a year in the United States; 'the rest, as is now increasingly common, were away for only a few months'.[107] They argued that 'the very logic of "offshoring"' meant that flows of people might diminish 'as the work travels to the site of labor, instead of the reverse'.[108] For many engineers the American posting became a stint in a career spent in India.
 
-At the Chennai firm they studied, which they called ICS, on-site assignments 'lasting several months or even a year or two' were 'a normal part of working life'.[97] Their individual stories show the range. Ravi (a pseudonym, as are all names in the study), a project manager of 33 at a large Chennai firm, had spent a year on-site in England, 'where he earned plenty of money and got "good exposure"', but came home to be with his elderly father and had no wish to live abroad.[98] Balaram, 37, left the same company in 1995 for Australia, worked there in information technology for eight years, and came back in 2003 because 'the work available in Chennai is far more interesting and challenging, and the industry's growth prospects are much better'.[99] Anuradha, the project manager whose return from America Chapter 12 describes, had worked for ICS in America from 2000 to 2002; with a young daughter, she now refused on-site assignments, and said she did not need any more 'exposure'.[100]
+At the Chennai firm they studied, which they called ICS, on-site assignments 'lasting several months or even a year or two' were 'a normal part of working life'.[109] Their individual stories show the range. Ravi (a pseudonym, as are all names in the study), a project manager of 33 at a large Chennai firm, had spent a year on-site in England, 'where he earned plenty of money and got "good exposure"', but came home to be with his elderly father and had no wish to live abroad.[110] Balaram, 37, left the same company in 1995 for Australia, worked there in information technology for eight years, and came back in 2003 because 'the work available in Chennai is far more interesting and challenging, and the industry's growth prospects are much better'.[111] Anuradha, the project manager whose return from America Chapter 12 describes, had worked for ICS in America from 2000 to 2002; with a young daughter, she now refused on-site assignments, and said she did not need any more 'exposure'.[112]
 
 ## The parents
 
-Migration also reached into Indian homes. Fuller and Narasimhan found that Chennai was 'said to be full of lonely old folk whose sons and daughters send them dollars, but only ever come on short visits'. Other parents visited their children so often that they became 'bored, exploited childminders marooned in American suburbia under "house arrest", to quote one elderly grandfather'.[101] One informant told them that overseas migration 'damages the proper reciprocal relationship between parents and children in a way that migration within India does not'.[102] Children abroad could send money. They could not provide the daily care that sons and daughters were expected to give their parents.[103]
+Migration also reached into Indian homes. Fuller and Narasimhan found that Chennai was 'said to be full of lonely old folk whose sons and daughters send them dollars, but only ever come on short visits'. Other parents visited their children so often that they became 'bored, exploited childminders marooned in American suburbia under "house arrest", to quote one elderly grandfather'.[113] One informant told them that overseas migration 'damages the proper reciprocal relationship between parents and children in a way that migration within India does not'.[114] Children abroad could send money. They could not provide the daily care that sons and daughters were expected to give their parents.[115]
 
 ## The B-1 channel
 
 The H-1B was not the only door. The business visitor's visa that Khanna and Morales described as giving way to the H-1B in 1993 was still in use two decades later. The clearest record of how comes from a legal settlement, and it must be read with care.
 
-On 30 October 2013 Infosys filed with the US Securities and Exchange Commission a settlement agreement with the US Attorney's Office for the Eastern District of Texas, the State Department and the Department of Homeland Security. Under it, 'Infosys agrees to pay a full settlement amount of $34,000,000'.[104] The agreement separates what both sides accepted from what the government alleged.
+On 30 October 2013 Infosys filed with the US Securities and Exchange Commission a settlement agreement with the US Attorney's Office for the Eastern District of Texas, the State Department and the Department of Homeland Security. Under it, 'Infosys agrees to pay a full settlement amount of $34,000,000'.[116] The agreement separates what both sides accepted from what the government alleged.
 
-Both sides accepted that 'Infosys failed to maintain accurate I-9 records for many of its foreign nationals in the United States in 2010 and 2011', the forms that record whether an employee may legally work. This included 'a widespread failure to update and re-verify the employment authorization status of a substantial percentage of its foreign national employees'.[105]
+Both sides accepted that 'Infosys failed to maintain accurate I-9 records for many of its foreign nationals in the United States in 2010 and 2011', the forms that record whether an employee may legally work. This included 'a widespread failure to update and re-verify the employment authorization status of a substantial percentage of its foreign national employees'.[117]
 
-The government alleged more, and Infosys denied it. The allegation was that Infosys 'knowingly and unlawfully used B-1 visa holders to perform skilled labor' in jobs that would otherwise have gone to American citizens or to legitimate H-1B holders, for purposes that included 'increasing profits, minimizing costs of securing visas, increasing flexibility of employee movement'.[106] According to the government, invitation letters described trips as 'customer discussions and related business development activities' when the work included 'coding and programming'.[107] It quoted a 'Do's and Don'ts' memorandum given to B-1 travellers: 'Do not mention activities like implementation, design & testing, consulting, etc., which sound like work.' Another line read: 'Please do not mention anything about contract rates'.[108] The government alleged that workers were told to give consular officers the destination named in the labour condition application when they were going elsewhere. In one case, it said, a worker was told to say Seattle when his real destination was Bentonville, Arkansas.[109] And it alleged that on 29 September 2009 Infosys staff were directed by email to convert a time-and-materials contract, which disclosed the names and billing rates of everyone on a project, into a fixed-price contract, which disclosed only the total, in a way that hid the B-1 holders' skilled work.[110]
+The government alleged more, and Infosys denied it. The allegation was that Infosys 'knowingly and unlawfully used B-1 visa holders to perform skilled labor' in jobs that would otherwise have gone to American citizens or to legitimate H-1B holders, for purposes that included 'increasing profits, minimizing costs of securing visas, increasing flexibility of employee movement'.[118] According to the government, invitation letters described trips as 'customer discussions and related business development activities' when the work included 'coding and programming'.[119] It quoted a 'Do's and Don'ts' memorandum given to B-1 travellers: 'Do not mention activities like implementation, design & testing, consulting, etc., which sound like work.' Another line read: 'Please do not mention anything about contract rates'.[120] The government alleged that workers were told to give consular officers the destination named in the labour condition application when they were going elsewhere. In one case, it said, a worker was told to say Seattle when his real destination was Bentonville, Arkansas.[121] And it alleged that on 29 September 2009 Infosys staff were directed by email to convert a time-and-materials contract, which disclosed the names and billing rates of everyone on a project, into a fixed-price contract, which disclosed only the total, in a way that hid the B-1 holders' skilled work.[122]
 
-Infosys's answer, in the same document, was that its use of B-1 visas 'was for legitimate business purposes and not in any way to circumvent the requirements of the H-1B program'. It said the memorandum 'was not intended to deceive U.S. officials' and had been withdrawn in 2011, and that contract changes were 'made to comply with internal Company guidelines and rules regarding billing practices'.[111] Infosys 'denies any allegations of civil or criminal wrongdoing and/or liability'.[112] The settlement resolved the claims without resolving that dispute.
+Infosys's answer, in the same document, was that its use of B-1 visas 'was for legitimate business purposes and not in any way to circumvent the requirements of the H-1B program'. It said the memorandum 'was not intended to deceive U.S. officials' and had been withdrawn in 2011, and that contract changes were 'made to comply with internal Company guidelines and rules regarding billing practices'.[123] Infosys 'denies any allegations of civil or criminal wrongdoing and/or liability'.[124] The settlement resolved the claims without resolving that dispute.
 
 Two points can be made safely. The first is that the older on-site channel had not closed when the H-1B opened, and the agreed facts show that one of the largest sponsors had not kept accurate track of whether its foreign employees in America were authorised to work. The second concerns the contract forms. Whatever happened in that 2009 email exchange, the government's description of the two forms is accurate. A time-and-materials contract names the people and their rates. A fixed-price contract names only the price. Earlier chapters showed the Indian industry growing up on the first kind. Who captures the savings under each kind of contract is a question Chapter 19 takes up.
 
 ## Ninety days in Orlando
 
-The other side of the trade has a name and a voice. Leo Perrero had a bachelor's degree in information technology and, by his account, 'twenty years of hard work' in the field.[113] He had worked for Disney in Orlando 'in some capacity for well over ten years', on the point-of-sale system through which visitors paid for food and merchandise.[114] In the holiday season of 2014 he received a meeting invitation from a senior executive and, he later told the Senate Judiciary Committee, his mind 'buzzed with thoughts of a promotion or a bonus'. He walked into a small conference room with about two dozen colleagues.[115] He recalled the executive's words: 'All of you in this room will be losing your jobs in the next 90 days. Your jobs have been given over to a foreign workforce.' Severance pay depended on training their replacements.[116] Later that day, he recalled, he had to tell his children at a church pumpkin sale that the family could not buy one.[117] Only '4 people would be directly rehired by Disney of the hundreds that were lost'.[118]
+The other side of the trade has a name and a voice. Leo Perrero had a bachelor's degree in information technology and, by his account, 'twenty years of hard work' in the field.[125] He had worked for Disney in Orlando 'in some capacity for well over ten years', on the point-of-sale system through which visitors paid for food and merchandise.[126] In the holiday season of 2014 he received a meeting invitation from a senior executive and, he later told the Senate Judiciary Committee, his mind 'buzzed with thoughts of a promotion or a bonus'. He walked into a small conference room with about two dozen colleagues.[127] He recalled the executive's words: 'All of you in this room will be losing your jobs in the next 90 days. Your jobs have been given over to a foreign workforce.' Severance pay depended on training their replacements.[128] Later that day, he recalled, he had to tell his children at a church pumpkin sale that the family could not buy one.[129] Only '4 people would be directly rehired by Disney of the hundreds that were lost'.[130]
 
-He described the handover in three stages. In the first, the newcomers sat beside the Disney staff and watched them work. 'Everything was recorded with audio and video. Then the very next day the recordings were put down on paper and read right back to us'.[119] In the second the incumbents worked 'side by side with our replacements'. In the third they watched 'the foreign workers completely take over our jobs'.[120] On 31 January 2015 they handed in their badges and laptops. His desk, chair and computer, he said, went to a worker 'who was just flown in to America weeks before'.[121] Of the severance he had accepted, he said: 'Sadly, I choose the money over America'.[122]
+He described the handover in three stages. In the first, the newcomers sat beside the Disney staff and watched them work. 'Everything was recorded with audio and video. Then the very next day the recordings were put down on paper and read right back to us'.[131] In the second the incumbents worked 'side by side with our replacements'. In the third they watched 'the foreign workers completely take over our jobs'.[132] On 31 January 2015 they handed in their badges and laptops. His desk, chair and computer, he said, went to a worker 'who was just flown in to America weeks before'.[133] Of the severance he had accepted, he said: 'Sadly, I choose the money over America'.[134]
 
 His is one witness's account, given in 2016 to a hearing on reform, and it should be read as such. He named neither the contractor that supplied the replacements nor their nationality, and this chapter does not supply them.
 
 What he described in the first stage was a transfer of knowledge in the most literal sense. The tacit work of a team, what it knew but had never written down, was recorded, transcribed and read back, so that people paid less could do it, first beside the old staff and then without them. A quarter of a century of the visa had refined a method for moving work from one set of people to another by writing it down.
 
-His complaint was aimed at two things together: visa holders 'physically being flown in from foreign countries' and 'the growing use of foreign remote offshore workers'.[123] The firms at the top of the sponsor tables earlier in this chapter ran both. To the worker in the conference room, the H-1B and the offshore centre were one system.
+His complaint was aimed at two things together: visa holders 'physically being flown in from foreign countries' and 'the growing use of foreign remote offshore workers'.[135] The firms at the top of the sponsor tables earlier in this chapter ran both. To the worker in the conference room, the H-1B and the offshore centre were one system.
 
 
 ### Notes to Chapter 13. H-1B (1990-2015)
@@ -4606,195 +4746,219 @@ His complaint was aimed at two things together: visa holders 'physically being f
 
 [28] Settlement Agreement between the United States and Infosys (2013), para. II.B.1.
 
-[29] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Temporary Foreign Professional (H-1B) Workers'.
+[29] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 69, 71 (paragraph count of the online text, newsletter boxes excluded).
 
-[30] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Trends in H-1B Entries'.
+[30] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Temporary Foreign Professional (H-1B) Workers'.
 
-[31] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Introduction'.
+[31] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Trends in H-1B Entries'.
 
-[32] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 23 (Appendix Table 1; NFAP, a pro-immigration policy group, compiling DHS data). Consulted 2026-10-12; post-cutoff material (published November 2025); live-checked 2026-10-13.
+[32] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Introduction'.
 
-[33] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Summary'.
+[33] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 23 (Appendix Table 1; NFAP, a pro-immigration policy group, compiling DHS data). Consulted 2026-10-12; post-cutoff material (published November 2025); live-checked 2026-10-13.
 
-[34] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8 n. 9.
+[34] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Summary'.
 
-[35] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Recent H-1B Capped Petitions'.
+[35] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8 n. 9.
 
-[36] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
+[36] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Recent H-1B Capped Petitions'.
 
-[37] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+[37] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
 
-[38] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
+[38] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 1, 3-5 (paragraph count of the online text, newsletter boxes excluded).
 
-[39] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
+[39] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 7 (paragraph count of the online text, newsletter boxes excluded).
 
-[40] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), pp. 1, 11 and p. 1 n. 2.
+[40] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 13 (paragraph count of the online text, newsletter boxes excluded).
 
-[41] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54. Approvals in 2013: Infosys 6,298; Tata Consultancy Services 6,258; Cognizant 5,186; Accenture 3,346; Wipro 2,644; HCL Technologies 1,766; IBM's Indian subsidiary 1,624; Mahindra Satyam 1,589; Larsen & Toubro Infotech 1,580; Deloitte 1,491; iGate, which had absorbed Patni, 1,157.
+[41] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 57 (paragraph count of the online text, newsletter boxes excluded).
 
-[42] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+[42] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 25-26 (paragraph count of the online text, newsletter boxes excluded).
 
-[43] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54.
+[43] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 29 (paragraph count of the online text, newsletter boxes excluded).
 
-[44] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
+[44] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 27, 30 (paragraph count of the online text, newsletter boxes excluded).
 
-[45] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
+[45] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 27, 30 (paragraph count of the online text, newsletter boxes excluded).
 
-[46] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 3, p. 54.
+[46] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 32, 34-35 (paragraph count of the online text, newsletter boxes excluded).
 
-[47] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 13.
+[47] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 44 (paragraph count of the online text, newsletter boxes excluded).
 
-[48] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 3 n. 3.
+[48] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 75-76 (paragraph count of the online text, newsletter boxes excluded).
 
-[49] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 43-44.
+[49] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
 
-[50] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803.
+[50] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
 
-[51] Choudhury, Ganguli and Gaulé, 'Top Talent, Elite Colleges, and Migration' (2023), abstract.
+[51] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
 
-[52] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 12.
+[52] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), pp. 1, 11 and p. 1 n. 2.
 
-[53] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
+[53] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54. Approvals in 2013: Infosys 6,298; Tata Consultancy Services 6,258; Cognizant 5,186; Accenture 3,346; Wipro 2,644; HCL Technologies 1,766; IBM's Indian subsidiary 1,624; Mahindra Satyam 1,589; Larsen & Toubro Infotech 1,580; Deloitte 1,491; iGate, which had absorbed Patni, 1,157.
 
-[54] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 2, p. 54.
+[54] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
 
-[55] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+[55] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54.
 
-[56] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+[56] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
 
-[57] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+[57] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
 
-[58] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+[58] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 3, p. 54.
 
-[59] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+[59] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 13.
 
-[60] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+[60] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 3 n. 3.
 
-[61] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 1.
+[61] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 43-44.
 
-[62] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+[62] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803.
 
-[63] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+[63] Choudhury, Ganguli and Gaulé, 'Top Talent, Elite Colleges, and Migration' (2023), abstract.
 
-[64] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 2.
+[64] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 12.
 
-[65] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43.
+[65] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
 
-[66] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 and n. 17.
+[66] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 2, p. 54.
 
-[67] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 n. 15.
+[67] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
 
-[68] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43.
+[68] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
 
-[69] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 44.
+[69] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
 
-[70] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 n. 15.
+[70] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
 
-[71] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 44-46.
+[71] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
 
-[72] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 7.
+[72] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
 
-[73] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 23.
+[73] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 1.
 
-[74] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 24.
+[74] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
 
-[75] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 8.
+[75] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
 
-[76] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 23.
+[76] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 2.
 
-[77] Wadhwa et al., *America's New Immigrant Entrepreneurs* (2007), pp. 5, 31.
+[77] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43.
 
-[78] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 62.
+[78] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 and n. 17.
 
-[79] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 62-63.
+[79] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 n. 15.
 
-[80] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
+[80] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43.
 
-[81] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64 n. 19.
+[81] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 44.
 
-[82] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
+[82] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 n. 15.
 
-[83] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
+[83] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 44-46.
 
-[84] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
+[84] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 7.
 
-[85] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 65.
+[85] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 23.
 
-[86] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 65-66.
+[86] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 24.
 
-[87] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66.
+[87] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 8.
 
-[88] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66 n. 24.
+[88] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 23.
 
-[89] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67 and n. 25.
+[89] Wadhwa et al., *America's New Immigrant Entrepreneurs* (2007), pp. 5, 31.
 
-[90] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67.
+[90] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 62.
 
-[91] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
+[91] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 62-63.
 
-[92] Saxenian, 'From Brain Drain to Brain Circulation' (2005), pp. 3, 6.
+[92] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
 
-[93] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
+[93] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64 n. 19.
 
-[94] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 17.
+[94] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
 
-[95] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
+[95] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
 
-[96] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
+[96] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
 
-[97] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
+[97] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 65.
 
-[98] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 128-129.
+[98] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 65-66.
 
-[99] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 129.
+[99] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66.
 
-[100] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
+[100] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66 n. 24.
 
-[101] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
+[101] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67 and n. 25.
 
-[102] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
+[102] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67.
 
-[103] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
+[103] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
 
-[104] Settlement Agreement between the United States and Infosys (2013), para. IV.A.
+[104] Saxenian, 'From Brain Drain to Brain Circulation' (2005), pp. 3, 6.
 
-[105] Settlement Agreement between the United States and Infosys (2013), para. II.D.
+[105] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
 
-[106] Settlement Agreement between the United States and Infosys (2013), para. II.E.2.
+[106] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 17.
 
-[107] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.a.
+[107] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
 
-[108] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.b.
+[108] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
 
-[109] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.c.
+[109] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
 
-[110] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.d.
+[110] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 128-129.
 
-[111] Settlement Agreement between the United States and Infosys (2013), para. II.G.
+[111] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 129.
 
-[112] Settlement Agreement between the United States and Infosys (2013), para. II.I.
+[112] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
 
-[113] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+[113] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
 
-[114] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+[114] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
 
-[115] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+[115] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
 
-[116] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+[116] Settlement Agreement between the United States and Infosys (2013), para. IV.A.
 
-[117] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+[117] Settlement Agreement between the United States and Infosys (2013), para. II.D.
 
-[118] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+[118] Settlement Agreement between the United States and Infosys (2013), para. II.E.2.
 
-[119] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+[119] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.a.
 
-[120] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+[120] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.b.
 
-[121] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+[121] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.c.
 
-[122] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+[122] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.d.
 
-[123] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+[123] Settlement Agreement between the United States and Infosys (2013), para. II.G.
+
+[124] Settlement Agreement between the United States and Infosys (2013), para. II.I.
+
+[125] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[126] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[127] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[128] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[129] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[130] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[131] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[132] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[133] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[134] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[135] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
 
 
 # Chapter 14. Backlash and scale (2002-2011)
@@ -4841,7 +5005,7 @@ What is not in dispute is the kind of worker the model sought. In the same inter
 
 ## The night shift
 
-The scholarly studies of Indian call centres in these years, which quote agents at length, could not be obtained for this book. The one first-hand account in hand comes from an anonymous activist, recruited through a German job centre, who spent three months in 2005-06 as a foreign call-centre agent in Gurgaon (now Gurugram), a fast-growing satellite town south of Delhi, and published a report on the libcom.org website in January 2007.[41] It is a political tract, its names cannot be checked, and its figures are the author's. It is used here because nothing better is available, and everything drawn from it is labelled.
+The fullest first-hand account of a call-centre floor in these years comes from an anonymous activist, recruited through a German job centre, who spent three months in 2005-06 as a foreign call-centre agent in Gurgaon (now Gurugram), a fast-growing satellite town south of Delhi, and published a report on the libcom.org website in January 2007.[41] It is a political tract, its names cannot be checked, and its figures are the author's. Everything drawn from it is labelled, and the scholarly studies that follow, which quote agents without names, set it beside other evidence.
 
 The author worked for a research outsourcing firm whose Gurgaon office employed about 800 people. The work was outbound calling to companies in Europe: about 100 calls in a ten-hour shift.[42] By the author's estimate there were probably about 150,000 call-centre workers in Gurgaon alone, and one building occupied by Genpact, the former GE Capital operation, held about 12,000.[43] The rules were set by the clients' world. Officially, the author wrote, 'the only language allowed for internal communication in the call centre is English'.[44] The agents, mostly in their twenties and about half of them men by the author's count, had nearly all worked in other call centres nearby.[45]
 
@@ -4855,53 +5019,61 @@ The author put the basic wage for new agents at about Rs 8,000 a month and the a
 
 Schooling was part of the bargain. The author describes the agents as students or former students, several of whom had learned a second foreign language because it paid better, at courses only the upper-middle class could afford.[57] The woman from Bhopal had learned French when she decided that 'only speaking English is not enough of a qualification, because so many people speak English'. She estimated that about 40 per cent of call-centre workers were studying by correspondence, and said that many gave up after a while.[58]
 
-The night shifts depended on cars. The report describes cab drivers 'tired after seventeen hours shifts' and a colleague killed in a car crash on her way home from work.[59] The transport of women working at night became a public issue in these years, but the legal record of the case that brought it to national attention has not been read for this book, and it is not described here.
+Sociologists recorded the employer's side of that bargain. Carol Upadhya and A.R. Vasavi of the National Institute of Advanced Studies (NIAS) in Bangalore (Bengaluru since 2014), whose fieldwork ran from 2003 to 2006 and included structured interviews with 34 BPO workers, were told by one HR officer that a candidate with a 'very good family background with high percentage of marks in their degree' would not be taken, being likely to be 'looking at call centres as a stopgap arrangement'. One of their respondents had left a postgraduate degree off his c.v. to get a call-centre job.[59] Workers on British projects at one company had to understand 'fourteen different British dialects'.[60] One respondent told them: 'Initially I felt so ashamed that I worked in a call centre that I used to tell people that I'm working for an internet service provider without mentioning any details.'[61]
+
+The pay looked different from inside. Ernesto Noronha and Premilla D'Cruz of the Indian Institute of Management Ahmedabad interviewed 18 telemarketing agents in Bangalore and Mumbai for a study published in 2007, and quote them without names. One set the pay against the alternatives: 'So repeating 10 lines a day, I will get paid 10000-12000 rupees - amazing, believe me, it is amazing.' Someone working from morning to evening 'in a garment or textile shop', the agent went on, 'wouldn't have been paid even more than 3000 rupees'.[62] Another described the targets that came with the pay: 'everyone knows that for one non-performer, there are five guys outside waiting to replace him.'[63] A third, with an engineering background, had 'got into telemarketing because typical engineering jobs did not pay'.[64]
+
+Not every agent served foreign callers. A domestic industry, much of it answering calls for mobile and other telephone companies, grew beside the export one. Phil Taylor, D'Cruz, Noronha and Dora Scholarios, who surveyed 618 of its employees in 2008, cite a 2008 estimate by the investment bank Avendus Capital of average starting salaries of $2,000 a year there, against $4,500 for agents serving international customers.[65] A team leader at a Chennai outsourcer told them: 'I cannot show that I am under pressure but I have to give this pressure to my agents'.[66]
+
+Some agents organised. UNITES, a union for BPO employees, was formed in September 2005 with backing from the global union federation UNI, and was, in the words of Taylor and his colleagues, 'the first explicit attempt to give BPO employees an independent voice'.[67] Despite attempts in several states, it managed to register only in Karnataka.[68] In 2007 the same researchers surveyed 879 of its members in six cities, a sample of union members rather than of agents at large.[69] A voice agent at a Chennai captive centre, one owned by the client company, told them that 'a technician is supposed to take at least 50-60 calls', that breaks were stopped or postponed, and that 'Once they find that the person has shouted at the customer, he is thrown out of the job.'[70] D'Cruz and Noronha, summarising eight years of fieldwork, found employers blocking the 'bank salary accounts of those absenting themselves' and refusing relieving letters to those who quit, and members who feared 'having one's name blacklisted on NASSCOM's database'.[71]
+
+The night shifts depended on cars. The report describes cab drivers 'tired after seventeen hours shifts' and a colleague killed in a car crash on her way home from work.[72] Transport became a public issue after December 2005, when, as Taylor and his colleagues record, a woman working the night shift for Hewlett-Packard in Bangalore, Prathibha Srikanth Murthy, was murdered 'by a man purporting to be her driver'. UNITES won its first tranche of recruits after campaigning for better regulation of transport.[73] The court record of the case has not been read for this book. One of Upadhya and Vasavi's informants described the other risk: 'When a girl gets a drop at some odd hour in the night, neighbours switch on the lights and gaze at her with shock and make comments'.[74] The reviewer Bob Russell writes that Reena Patel's 2010 study of women in the industry found that company transport could 'extend the length of the working day by several hours', and that the mobile phone was used 'to keep track of women who work the night shift'.[75]
 
 ## Two million
 
-The industry's own figures for 2008 come from a Nasscom presentation and must be read as the claims of an interested party. The number it put first was two million, the 'professionals employed in the sector' directly in FY2007-08, to which it added seven to eight million indirect jobs by a multiplier of its own.[60] On its estimates, industry revenue had roughly tripled in four years, to about $64bn in FY2007-08, and net additions to employment ran at 328,000 in FY2005-06 and an estimated 375,000 in FY2007-08.[61] Rajaraman gives 2.4 million directly employed in IT in 2010, and his account of the industry at that date stresses maturity.[62] The large companies had moved from low-level testing to complete applications and took fixed-price contracts. By the industry's count, which Rajaraman relays, 166 Indian IT companies had reached level 5, the top level, of the Software Engineering Institute's Capability Maturity Model (Chapter 11), and more than 400 of the Fortune 500 companies were clients.[63]
+The industry's own figures for 2008 come from a Nasscom presentation and must be read as the claims of an interested party. The number it put first was two million, the 'professionals employed in the sector' directly in FY2007-08, to which it added seven to eight million indirect jobs by a multiplier of its own.[76] On its estimates, industry revenue had roughly tripled in four years, to about $64bn in FY2007-08, and net additions to employment ran at 328,000 in FY2005-06 and an estimated 375,000 in FY2007-08.[77] Rajaraman gives 2.4 million directly employed in IT in 2010, and his account of the industry at that date stresses maturity.[78] The large companies had moved from low-level testing to complete applications and took fixed-price contracts. By the industry's count, which Rajaraman relays, 166 Indian IT companies had reached level 5, the top level, of the Software Engineering Institute's Capability Maturity Model (Chapter 11), and more than 400 of the Fortune 500 companies were clients.[79]
 
-The official record is the Reserve Bank of India's. Its balance-of-payments series for software services receipts rose from $9.6bn in FY2002-03 to $40.3bn in FY2007-08 and $53.1bn in FY2010-11.[64] The bank's separate annual survey of software and IT services exporters, which covered 760 companies in 2010-11, put exports that year at about $47.6bn, up from $38.7bn the year before.[65] The two series measure different things and should not be added or compared directly. Nor are they wholly independent of the lobby: the bank noted in its survey for 2007-08 that it compiled the balance-of-payments software figures using Nasscom's data as a controlling total.[66] Both show an industry several times larger at the end of the decade than at the start.
+The official record is the Reserve Bank of India's. Its balance-of-payments series for software services receipts rose from $9.6bn in FY2002-03 to $40.3bn in FY2007-08 and $53.1bn in FY2010-11.[80] The bank's separate annual survey of software and IT services exporters, which covered 760 companies in 2010-11, put exports that year at about $47.6bn, up from $38.7bn the year before.[81] The two series measure different things and should not be added or compared directly. Nor are they wholly independent of the lobby: the bank noted in its survey for 2007-08 that it compiled the balance-of-payments software figures using Nasscom's data as a controlling total.[82] Both show an industry several times larger at the end of the decade than at the start.
 
-The work was heavily concentrated. Nasscom's map of delivery locations in 2008 gave Bangalore (Bengaluru since 2014) 36 per cent, the New Delhi, Noida and Gurgaon region 17 per cent, Chennai 15 per cent, Mumbai and Pune 15 per cent, Hyderabad 14 per cent and all other places 5 per cent.[67] Its caption said that the industry was 'well spread across multiple locations' and that smaller 'Tier 2/3 cities' were emerging.[68] By its own figures, only 5 per cent of the work lay outside these centres (its percentages, as printed, add up to slightly more than 100). The United States took 61 per cent of exports in FY2006-07, Britain 18 per cent and continental Europe 12 per cent.[69]
+The work was heavily concentrated. Nasscom's map of delivery locations in 2008 gave Bangalore 36 per cent, the New Delhi, Noida and Gurgaon region 17 per cent, Chennai 15 per cent, Mumbai and Pune 15 per cent, Hyderabad 14 per cent and all other places 5 per cent.[83] Its caption said that the industry was 'well spread across multiple locations' and that smaller 'Tier 2/3 cities' were emerging.[84] By its own figures, only 5 per cent of the work lay outside these centres (its percentages, as printed, add up to slightly more than 100). The United States took 61 per cent of exports in FY2006-07, Britain 18 per cent and continental Europe 12 per cent.[85]
 
-The presentation is more revealing about strain than about scale. Its list of the questions clients asked began with attrition and wage inflation: 'is India's talent pool running dry?'[70] Under 'Pressure Points' it listed 'High lateral hiring leading to attrition', meaning the recruiting of experienced staff from rival firms, and 'Tier 3 colleges yields low', and its first point was that talent was trainable but the industry needed 'to make them employable'.[71] Its proposed remedies were an education programme in miniature: an entry-level assessment for BPO and IT recruits, 'finishing schools' to prepare graduates for work, a faculty development programme to make teachers more suitable, and government plans for 20 new Indian Institutes of Information Technology.[72] Nasscom's cost comparison for 2007 put India at about $28,000 against $100,000 for the United States, and projected that India would keep most of that advantage to 2015.[73]
+The presentation is more revealing about strain than about scale. Its list of the questions clients asked began with attrition and wage inflation: 'is India's talent pool running dry?'[86] Under 'Pressure Points' it listed 'High lateral hiring leading to attrition', meaning the recruiting of experienced staff from rival firms, and 'Tier 3 colleges yields low', and its first point was that talent was trainable but the industry needed 'to make them employable'.[87] Its proposed remedies were an education programme in miniature: an entry-level assessment for BPO and IT recruits, 'finishing schools' to prepare graduates for work, a faculty development programme to make teachers more suitable, and government plans for 20 new Indian Institutes of Information Technology.[88] Nasscom's cost comparison for 2007 put India at about $28,000 against $100,000 for the United States, and projected that India would keep most of that advantage to 2015.[89]
 
-The last part of the presentation dealt with a different worry. 'With increasing levels of outsourcing,' it said, 'employees were viewed as a significant weak link'. Recruitment and initial training cost about six to eight months of an employee's wages. Nasscom estimated that about 30 per cent of CVs contained false claims, and it noted that India had 'No law addressing privacy or employee rights'.[74] Its answer was the National Skills Registry, a database of employees' verified education and work histories, with photographs and fingerprints, a Nasscom initiative meant, in its words, to 'instill confidence in client about employees'.[75] The registry was a sign of how far the industry's workforce had become something its foreign customers wanted to inspect.
+The last part of the presentation dealt with a different worry. 'With increasing levels of outsourcing,' it said, 'employees were viewed as a significant weak link'. Recruitment and initial training cost about six to eight months of an employee's wages. Nasscom estimated that about 30 per cent of CVs contained false claims, and it noted that India had 'No law addressing privacy or employee rights'.[90] Its answer was the National Skills Registry, a database of employees' verified education and work histories, with photographs and fingerprints, a Nasscom initiative meant, in its words, to 'instill confidence in client about employees'.[91] The registry was a sign of how far the industry's workforce had become something its foreign customers wanted to inspect.
 
 ## The factory at full size
 
-The largest firms show what this growth meant in practice. Infosys, whose filings with the American Securities and Exchange Commission give the most consistent figures, employed about 25,700 people at the end of March 2004.[76] Its BPO subsidiary, Progeon, had about 1,900 employees then and recruited about 2,100 more, net of departures, in the following year.[77] Infosys's revenue rose from $1,062.6m in FY2003-04, 98.6 per cent of it from exports, to $4,176m in FY2007-08 and $4,663m in FY2008-09.[78] Chapter 12 describes the training campus at Mysore (Mysuru since 2014) and follows the company's hiring and attrition through the decade. Here the point is the scale. By the FY2008-09 filing the Mysore facility could house 13,500 trainees and train about 40,000 a year, and Infosys employed 476 full-time faculty, 186 of them with doctorates or master's degrees.[79] One company was running a residential college for tens of thousands of engineers a year, because, as Nasscom put it, the industry needed 'to make them employable'.[71]
+The largest firms show what this growth meant in practice. Infosys, whose filings with the American Securities and Exchange Commission give the most consistent figures, employed about 25,700 people at the end of March 2004.[92] Its BPO subsidiary, Progeon, had about 1,900 employees then and recruited about 2,100 more, net of departures, in the following year.[93] Infosys's revenue rose from $1,062.6m in FY2003-04, 98.6 per cent of it from exports, to $4,176m in FY2007-08 and $4,663m in FY2008-09.[94] Chapter 12 describes the training campus at Mysore (Mysuru since 2014) and follows the company's hiring and attrition through the decade. Here the point is the scale. By the FY2008-09 filing the Mysore facility could house 13,500 trainees and train about 40,000 a year, and Infosys employed 476 full-time faculty, 186 of them with doctorates or master's degrees.[95] One company was running a residential college for tens of thousands of engineers a year, because, as Nasscom put it, the industry needed 'to make them employable'.[87]
 
-For a firm that spent months training each recruit, every departure was a loss, and the lateral hiring that Nasscom complained of turned one firm's recruit into another's. Infosys also offered business process management, its name for the BPO services of its subsidiary, and noted that attrition in that industry was 'generally significantly higher' than in technology services.[80]
+For a firm that spent months training each recruit, every departure was a loss, and the lateral hiring that Nasscom complained of turned one firm's recruit into another's. Infosys also offered business process management, its name for the BPO services of its subsidiary, and noted that attrition in that industry was 'generally significantly higher' than in technology services.[96]
 
 ## The quarter to March 2009
 
-The financial crisis of 2008 reached the Indian firms through their largest customers, and the clearest record of it is the quarter that closed Infosys's financial year on 31 March 2009. About a third of the company's revenue, 33.9 per cent in FY2008-09, came from the financial services industry.[81] Its filing for that year described 'leading investment banks going bankrupt or being forced to sell themselves in distressed circumstances', and warned that clients might respond with 'contract terminations, deferrals of projects or delays in purchases'.[82]
+The financial crisis of 2008 reached the Indian firms through their largest customers, and the clearest record of it is the quarter that closed Infosys's financial year on 31 March 2009. About a third of the company's revenue, 33.9 per cent in FY2008-09, came from the financial services industry.[97] Its filing for that year described 'leading investment banks going bankrupt or being forced to sell themselves in distressed circumstances', and warned that clients might respond with 'contract terminations, deferrals of projects or delays in purchases'.[98]
 
-In that quarter about 66.9 per cent of Infosys's technology professionals, trainees included, were billed to clients, against 70.2 per cent a year earlier.[83] Put the other way, about a third of the technical workforce was on the bench, the pool of trained staff not assigned to paying work, and was being paid without being billed. Pay stood still. 'Until 2009, when we instituted a freeze in salary increases,' the company said, it had reviewed compensation every year.[84] The gate had narrowed. Over the year Infosys received about 488,700 applications, tested about 77,600 applicants, interviewed about 46,600 and made about 16,900 offers, against about 46,300 offers the year before (Chapter 12).[85] Fewer people left, too: its attrition rate for the year fell to 11.1 per cent, below the year before.[86] Yet the filings show no mass layoffs. Infosys added about 12,400 employees, net of departures, in the year, and its headcount rose from about 91,200 in March 2008 to about 104,900 in March 2009 and 113,800 in March 2010.[87]
+In that quarter about 66.9 per cent of Infosys's technology professionals, trainees included, were billed to clients, against 70.2 per cent a year earlier.[99] Put the other way, about a third of the technical workforce was on the bench, the pool of trained staff not assigned to paying work, and was being paid without being billed. Pay stood still. 'Until 2009, when we instituted a freeze in salary increases,' the company said, it had reviewed compensation every year.[100] The gate had narrowed. Over the year Infosys received about 488,700 applications, tested about 77,600 applicants, interviewed about 46,600 and made about 16,900 offers, against about 46,300 offers the year before (Chapter 12).[101] Fewer people left, too: its attrition rate for the year fell to 11.1 per cent, below the year before.[102] Yet the filings show no mass layoffs. Infosys added about 12,400 employees, net of departures, in the year, and its headcount rose from about 91,200 in March 2008 to about 104,900 in March 2009 and 113,800 in March 2010.[103]
 
-The cost of the crisis fell in particular places. It fell on graduates who did not receive offers in the year to March 2009, or whose offers came later; this book has not found press accounts of those deferred joiners, and their experience is a gap in the record. It fell on employees whose pay stood still. The FY2009-10 filing reported average increases that year of 8 per cent for offshore staff and 2 per cent for those working at client sites abroad, against 11-13 per cent and 4-5 per cent in FY2008-09.[88] The filing dates the increase 'with effect from October 2010', which cannot be right for a rise paid within the year to March 2010. The company's quarterly report for the three months to December 2009 shows that the annual rise, normally made in April, had been postponed to October 2009.[89] Utilisation including trainees averaged 67.5 per cent for FY2009-10, lower than the year before.[90] The training programme lengthened. The FY2008-09 filing gave the integrated training for most new student hires as about 14 weeks in one passage and about 19 in another, and the next year's filing a longer course still (Chapter 12).[91] The filings do not say why the course grew longer while billable work was scarce.
+The cost of the crisis fell in particular places. It fell on graduates who did not receive offers in the year to March 2009, or whose offers came later; this book has not found press accounts of those deferred joiners, and their experience is a gap in the record. It fell on employees whose pay stood still. The FY2009-10 filing reported average increases that year of 8 per cent for offshore staff and 2 per cent for those working at client sites abroad, against 11-13 per cent and 4-5 per cent in FY2008-09.[104] The filing dates the increase 'with effect from October 2010', which cannot be right for a rise paid within the year to March 2010. The company's quarterly report for the three months to December 2009 shows that the annual rise, normally made in April, had been postponed to October 2009.[105] Utilisation including trainees averaged 67.5 per cent for FY2009-10, lower than the year before.[106] The training programme lengthened. The FY2008-09 filing gave the integrated training for most new student hires as about 14 weeks in one passage and about 19 in another, and the next year's filing a longer course still (Chapter 12).[107] The filings do not say why the course grew longer while billable work was scarce.
 
-Clients also pushed costs onto their suppliers. In response to smaller client budgets, Infosys said, it was offering more of its work at fixed prices and on fixed timetables, and such projects rose to 35.4 per cent of services revenue in FY2008-09 from 31.0 per cent the year before.[92] The FY2008-09 filing reported 'increased demand from our clients that all risks associated with foreign exchange fluctuations be borne by us'.[93] The rupee, which had averaged about Rs 40.3 to the dollar in FY2007-08, averaged about Rs 46.0 in FY2008-09.[94] The filings described 'a growing trend among consumers of IT services towards consolidation of technology service providers in order to improve efficiency and reduce costs', and long contracts with benchmarking provisions, under which a client could commission a study comparing the supplier's prices with those of its rivals and seek lower fees.[95]
+Clients also pushed costs onto their suppliers. In response to smaller client budgets, Infosys said, it was offering more of its work at fixed prices and on fixed timetables, and such projects rose to 35.4 per cent of services revenue in FY2008-09 from 31.0 per cent the year before.[108] The FY2008-09 filing reported 'increased demand from our clients that all risks associated with foreign exchange fluctuations be borne by us'.[109] The rupee, which had averaged about Rs 40.3 to the dollar in FY2007-08, averaged about Rs 46.0 in FY2008-09.[110] The filings described 'a growing trend among consumers of IT services towards consolidation of technology service providers in order to improve efficiency and reduce costs', and long contracts with benchmarking provisions, under which a client could commission a study comparing the supplier's prices with those of its rivals and seek lower fees.[111]
 
-The pattern had appeared before. In 2004, after the dot-com bust, Infosys had said that 'declines in demand, pricing pressures for our services, appreciation of the rupee against the dollar and increased wage pressures in India' had kept it from 'historical levels of profitability'.[96] On the evidence of its filings, Infosys met the second downturn by slowing hiring, carrying a larger bench, holding down pay and absorbing pressure on prices, while its headcount kept rising. By FY2010-11 utilisation including trainees was back to 72.1 per cent, and in FY2011-12 the company made about 41,460 offers.[97] Attrition climbed back with demand (Chapter 12).
+The pattern had appeared before. In 2004, after the dot-com bust, Infosys had said that 'declines in demand, pricing pressures for our services, appreciation of the rupee against the dollar and increased wage pressures in India' had kept it from 'historical levels of profitability'.[112] On the evidence of its filings, Infosys met the second downturn by slowing hiring, carrying a larger bench, holding down pay and absorbing pressure on prices, while its headcount kept rising. By FY2010-11 utilisation including trainees was back to 72.1 per cent, and in FY2011-12 the company made about 41,460 offers.[113] Attrition climbed back with demand (Chapter 12).
 
-The crisis also showed how much of the model still depended on people abroad. At the end of March 2009 most of Infosys's technology professionals in the United States held either H-1B visas, about 8,200 people, or intra-company L-1 visas, about 1,400.[98] A year later the figures were about 8,900 and 1,800.[99] About 20,200 of its 104,900 employees worked outside India.[100] Those visa holders were the narrow top of the onsite-offshore pyramid described in Chapter 11, and the part of it most exposed to American politics (Chapter 13).
+The crisis also showed how much of the model still depended on people abroad. At the end of March 2009 most of Infosys's technology professionals in the United States held either H-1B visas, about 8,200 people, or intra-company L-1 visas, about 1,400.[114] A year later the figures were about 8,900 and 1,800.[115] About 20,200 of its 104,900 employees worked outside India.[116] Those visa holders were the narrow top of the onsite-offshore pyramid described in Chapter 11, and the part of it most exposed to American politics (Chapter 13).
 
 ## From parks to zones
 
-The state's support for the industry changed form in these years. The tax holiday of the 1990s had been tied to software technology parks (Chapters 8 and 9): export profits of units in the parks were exempt from income tax. The Finance Act of 2005 introduced a separate holiday for units in designated special economic zones (SEZs) that began providing services on or after 1 April 2005. Such units could deduct all their export profits from taxable income for five years and half of them for a further five, with more relief available on conditions.[101] The Special Economic Zones Act was passed the same year.[102] Rajaraman counts 257 software and services companies set up in SEZs by 2007, and writes that many BPO centres were placed in the zones because profits earned there were tax exempt.[103]
+The state's support for the industry changed form in these years. The tax holiday of the 1990s had been tied to software technology parks (Chapters 8 and 9): export profits of units in the parks were exempt from income tax. The Finance Act of 2005 introduced a separate holiday for units in designated special economic zones (SEZs) that began providing services on or after 1 April 2005. Such units could deduct all their export profits from taxable income for five years and half of them for a further five, with more relief available on conditions.[117] The Special Economic Zones Act was passed the same year.[118] Rajaraman counts 257 software and services companies set up in SEZs by 2007, and writes that many BPO centres were placed in the zones because profits earned there were tax exempt.[119]
 
-The park holiday was extended and then allowed to end. Infosys reported that the Finance Act of 2009 extended the holiday for park units until 31 March 2011, and that for its remaining park units it would expire by the end of that fiscal year.[104] By March 2009 its centres in Chandigarh, Chennai, Mangalore and Pune operated in SEZs; by March 2012 the list had grown to Chandigarh, Chennai, Hyderabad, Mangalore, Mysore, Pune, Trivandrum and Jaipur, and 'many of our proposed development centers are likely to operate in SEZs'.[105] The FY2011-12 filing said that the expiry of tax holidays had already hurt its profit margin.[106]
+The park holiday was extended and then allowed to end. Infosys reported that the Finance Act of 2009 extended the holiday for park units until 31 March 2011, and that for its remaining park units it would expire by the end of that fiscal year.[120] By March 2009 its centres in Chandigarh, Chennai, Mangalore and Pune operated in SEZs; by March 2012 the list had grown to Chandigarh, Chennai, Hyderabad, Mangalore, Mysore, Pune, Trivandrum and Jaipur, and 'many of our proposed development centers are likely to operate in SEZs'.[121] The FY2011-12 filing said that the expiry of tax holidays had already hurt its profit margin.[122]
 
-The change favoured firms large enough to build or lease whole zones, and it moved the industry from office towers into walled campuses. It did not remove the old frustrations. Roy, who had set up centres for three companies, said in 2003 that the government promised a 'single-window clearance', but 'there are 25 single windows you need to go to'. For one new centre in Pune he counted 119 places where he had signed.[107]
+The change favoured firms large enough to build or lease whole zones, and it moved the industry from office towers into walled campuses. It did not remove the old frustrations. Roy, who had set up centres for three companies, said in 2003 that the government promised a 'single-window clearance', but 'there are 25 single windows you need to go to'. For one new centre in Pune he counted 119 places where he had signed.[123]
 
-By the end of the period the offshore model had largely won. The Reserve Bank's survey for 2010-11 found that about four-fifths of software and IT services export revenue, 79.3 per cent, was earned from work done in India, against 74.6 per cent in 2007-08; the United States took about 63.6 per cent.[108] The same survey put IT-enabled services (ITES) and BPO at about 26.3 per cent of these exports in 2010-11, down from 31.0 per cent the year before.[109] In the 1980s most Indian software export revenue had been earned by engineers working at clients' sites (Chapter 9 sets out how that share fell). Now most of it was earned by engineers and agents in Indian cities, at desks a cab ride from home.
+By the end of the period the offshore model had largely won. The Reserve Bank's survey for 2010-11 found that about four-fifths of software and IT services export revenue, 79.3 per cent, was earned from work done in India, against 74.6 per cent in 2007-08; the United States took about 63.6 per cent.[124] The same survey put IT-enabled services (ITES) and BPO at about 26.3 per cent of these exports in 2010-11, down from 31.0 per cent the year before.[125] In the 1980s most Indian software export revenue had been earned by engineers working at clients' sites (Chapter 9 sets out how that share fell). Now most of it was earned by engineers and agents in Indian cities, at desks a cab ride from home.
 
 ## The other employers
 
-Many of the people in this chapter worked for foreign companies. Roy built his first centres inside American Express and GE, and the Gurgaon call centres in the activist's report worked for Hewlett-Packard, Citibank, American Express and Deutsche Bank, sometimes in centres those companies owned and sometimes through contractors.[110] Nasscom's own chart divided the industry between Indian providers, the captive centres of global companies and global service providers.[111] Blinder's test applied to all of them, and on how far the process would go he admitted, 'No one knows'.[112] Since 1985, when Texas Instruments began work in India, foreign companies had also been building their own engineering centres in the country.[113] The next chapter follows that second profession.
+Many of the people in this chapter worked for foreign companies. Roy built his first centres inside American Express and GE, and the Gurgaon call centres in the activist's report worked for Hewlett-Packard, Citibank, American Express and Deutsche Bank, sometimes in centres those companies owned and sometimes through contractors.[126] Nasscom's own chart divided the industry between Indian providers, the captive centres of global companies and global service providers.[127] Blinder's test applied to all of them, and on how far the process would go he admitted, 'No one knows'.[128] Since 1985, when Texas Instruments began work in India, foreign companies had also been building their own engineering centres in the country.[129] The next chapter follows that second profession.
 
 
 ### Notes to Chapter 14. Backlash and scale (2002-2011)
@@ -5022,115 +5194,147 @@ Many of the people in this chapter worked for foreign companies. Roy built his f
 
 [58] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
 
-[59] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+[59] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 129. Printed page numbers (PDF page minus 10). Anonymous HR officer and respondent reported by the researchers; fieldwork November 2003 to March 2006, 34 BPO workers interviewed (p. 4).
 
-[60] Nasscom, *Strategic Review* and fact sheets, slides 2 and 9. Nasscom self-description (industry lobby group). Slide 2 also describes Nasscom as having more than 1,200 members, including 250 global companies, which together accounted for over 90% of exports.
+[60] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 130.
 
-[61] Nasscom, *Strategic Review* and fact sheets, slides 8, 10, 13 and 18. Nasscom self-description (industry lobby group). Revenue about $21.6bn in FY2003-04 to an estimated $64bn in FY2007-08, exports 62-66% (slides 8, 10); net additions 234,000 in FY2004-05 (slide 18); BPO business an estimated $10.3bn in FY2007-08, with customer interaction and support listed first, though the figures in the copy read are hard to match to their labels (slide 13).
+[61] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 153. Anonymous respondent quoted by the researchers.
 
-[62] Rajaraman, *History of Computing in India* (2012), p. 80.
+[62] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 263. Anonymous agent quoted by the researchers; 18 agents in Bangalore and Mumbai (p. 255).
 
-[63] Rajaraman, *History of Computing in India* (2012), pp. 52, 49. Industry claims relayed by Rajaraman. He adds (p. 49) that ten Indian IT companies were listed on foreign stock exchanges, with more than 400 delivery centres outside India.
+[63] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 264. Anonymous agent quoted by the researchers.
 
-[64] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts, RBI Handbook edition ids 10663 (FY2002-03, FY2007-08) and 15930 (FY2010-11).
+[64] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 270. Anonymous agent quoted by the researchers.
 
-[65] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights' and Table 1.
+[65] Taylor et al., 'Domestic Labour' (2010), pre-publication manuscript, sections 'Indian domestic BPO and call centres' (Avendus 2008 starting salaries; Nasscom-Everest 2008, 81 per cent of domestic employment in telecoms) and 'Methods and sources' (618 questionnaires, April to June 2008, members of UNITES). Pre-publication manuscript without page numbers.
 
-[66] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin survey for 2007-08, box 'Comparison of survey results with NASSCOM and Softex data'.
+[66] Taylor et al., 'Domestic Labour' (2010), pre-publication manuscript, section 'Targets and the labour process'. Anonymous team leader quoted by the researchers. Pre-publication manuscript without page numbers.
 
-[67] Nasscom, *Strategic Review* and fact sheets, slide 14. Nasscom self-description (industry lobby group).
+[67] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 10; D'Cruz and Noronha, 'Hope to Despair' (2013), p. 480.
 
-[68] Nasscom, *Strategic Review* and fact sheets, slide 14. Nasscom self-description (industry lobby group).
+[68] D'Cruz and Noronha, 'Hope to Despair' (2013), p. 481.
 
-[69] Nasscom, *Strategic Review* and fact sheets, slide 12. Nasscom self-description (industry lobby group).
+[69] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 12 (survey April to July 2007 in Bangalore, Chennai, Hyderabad, Kochi, Mumbai and New Delhi; 45 interviews, p. 13).
 
-[70] Nasscom, *Strategic Review* and fact sheets, slide 17. Nasscom self-description (industry lobby group).
+[70] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 17. Anonymous agent quoted by the researchers.
 
-[71] Nasscom, *Strategic Review* and fact sheets, slide 18. Nasscom self-description (industry lobby group).
+[71] D'Cruz and Noronha, 'Hope to Despair' (2013), pp. 474 and 481.
 
-[72] Nasscom, *Strategic Review* and fact sheets, slide 19. Nasscom self-description (industry lobby group).
+[72] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
 
-[73] Nasscom, *Strategic Review* and fact sheets, slide 21. Nasscom self-description (industry lobby group).
+[73] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 16.
 
-[74] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
+[74] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 153. Anonymous informant quoted by the researchers.
 
-[75] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
+[75] Russell, review of Patel, *Working the Night Shift* (2010), p. 524. Reviewer's account of Patel, *Working the Night Shift* (Stanford University Press, 2010); Patel's book not seen.
 
-[76] Infosys, Form 20-F FY2004, Item 4.
+[76] Nasscom, *Strategic Review* and fact sheets, slides 2 and 9. Nasscom self-description (industry lobby group). Slide 2 also describes Nasscom as having more than 1,200 members, including 250 global companies, which together accounted for over 90% of exports.
 
-[77] Infosys, Form 20-F FY2004, Item 4; Infosys, Form 20-F FY2005, Item 4.
+[77] Nasscom, *Strategic Review* and fact sheets, slides 8, 10, 13 and 18. Nasscom self-description (industry lobby group). Revenue about $21.6bn in FY2003-04 to an estimated $64bn in FY2007-08, exports 62-66% (slides 8, 10); net additions 234,000 in FY2004-05 (slide 18); BPO business an estimated $10.3bn in FY2007-08, with customer interaction and support listed first, though the figures in the copy read are hard to match to their labels (slide 13).
 
-[78] Infosys, Form 20-F FY2004, Item 8; Infosys, Form 20-F FY2009, Item 4.
+[78] Rajaraman, *History of Computing in India* (2012), p. 80.
 
-[79] Infosys, Form 20-F FY2009, Items 4 and 6.D.
+[79] Rajaraman, *History of Computing in India* (2012), pp. 52, 49. Industry claims relayed by Rajaraman. He adds (p. 49) that ten Indian IT companies were listed on foreign stock exchanges, with more than 400 delivery centres outside India.
 
-[80] Infosys, Form 20-F FY2009, Item 3.
+[80] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts, RBI Handbook edition ids 10663 (FY2002-03, FY2007-08) and 15930 (FY2010-11).
 
-[81] Infosys, Form 20-F FY2009, Item 3.
+[81] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights' and Table 1.
 
-[82] Infosys, Form 20-F FY2009, Item 3.
+[82] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin survey for 2007-08, box 'Comparison of survey results with NASSCOM and Softex data'.
 
-[83] Infosys, Form 20-F FY2009, Item 3.
+[83] Nasscom, *Strategic Review* and fact sheets, slide 14. Nasscom self-description (industry lobby group).
 
-[84] Infosys, Form 20-F FY2009, Item 3.
+[84] Nasscom, *Strategic Review* and fact sheets, slide 14. Nasscom self-description (industry lobby group).
 
-[85] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2009, Item 4 (applications, tests, interviews, offers; about 12,400 net additions in fiscal 2009, excluding Infosys BPO and subsidiaries).
+[85] Nasscom, *Strategic Review* and fact sheets, slide 12. Nasscom self-description (industry lobby group).
 
-[86] Infosys, Form 20-F FY2009, Item 3 (attrition 11.1% for fiscal 2009, 13.4% for fiscal 2008, excluding Infosys BPO and other subsidiaries).
+[86] Nasscom, *Strategic Review* and fact sheets, slide 17. Nasscom self-description (industry lobby group).
 
-[87] Infosys, Form 20-F FY2009, Items 4 and 6.D (about 12,400 net additions in fiscal 2009; headcount); Infosys, Form 20-F FY2010, Item 3.
+[87] Nasscom, *Strategic Review* and fact sheets, slide 18. Nasscom self-description (industry lobby group).
 
-[88] Infosys, Form 20-F FY2010, Item 5.
+[88] Nasscom, *Strategic Review* and fact sheets, slide 19. Nasscom self-description (industry lobby group).
 
-[89] Infosys, Form 20-F FY2010, Item 5; Infosys, Form 6-K for the quarter ended 31 December 2009 (management's discussion of the nine months ended 31 December 2009).
+[89] Nasscom, *Strategic Review* and fact sheets, slide 21. Nasscom self-description (industry lobby group).
 
-[90] Infosys, Form 20-F FY2010, Item 3.
+[90] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
 
-[91] Infosys, Form 20-F FY2009, Items 4 and 6.D; Infosys, Form 20-F FY2010, Item 6.D.
+[91] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
 
-[92] Infosys, Form 20-F FY2009, Item 3.
+[92] Infosys, Form 20-F FY2004, Item 4.
 
-[93] Infosys, Form 20-F FY2009, Item 3.
+[93] Infosys, Form 20-F FY2004, Item 4; Infosys, Form 20-F FY2005, Item 4.
 
-[94] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, financial-year average rates, Rs 40.26 (FY2007-08) and Rs 45.99 (FY2008-09) per US dollar.
+[94] Infosys, Form 20-F FY2004, Item 8; Infosys, Form 20-F FY2009, Item 4.
 
-[95] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2010, Item 3.
+[95] Infosys, Form 20-F FY2009, Items 4 and 6.D.
 
-[96] Infosys, Form 20-F FY2004, Item 3.
+[96] Infosys, Form 20-F FY2009, Item 3.
 
-[97] Infosys, Form 20-F FY2012, Items 4 and 5.
+[97] Infosys, Form 20-F FY2009, Item 3.
 
 [98] Infosys, Form 20-F FY2009, Item 3.
 
-[99] Infosys, Form 20-F FY2010, Item 3.
+[99] Infosys, Form 20-F FY2009, Item 3.
 
 [100] Infosys, Form 20-F FY2009, Item 3.
 
-[101] Infosys, Form 20-F FY2009, Item 3.
+[101] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2009, Item 4 (applications, tests, interviews, offers; about 12,400 net additions in fiscal 2009, excluding Infosys BPO and subsidiaries).
 
-[102] Rajaraman, *History of Computing in India* (2012), p. 79.
+[102] Infosys, Form 20-F FY2009, Item 3 (attrition 11.1% for fiscal 2009, 13.4% for fiscal 2008, excluding Infosys BPO and other subsidiaries).
 
-[103] Rajaraman, *History of Computing in India* (2012), pp. 49, 53.
+[103] Infosys, Form 20-F FY2009, Items 4 and 6.D (about 12,400 net additions in fiscal 2009; headcount); Infosys, Form 20-F FY2010, Item 3.
 
 [104] Infosys, Form 20-F FY2010, Item 5.
 
-[105] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2012, Item 3.
+[105] Infosys, Form 20-F FY2010, Item 5; Infosys, Form 6-K for the quarter ended 31 December 2009 (management's discussion of the nine months ended 31 December 2009).
 
-[106] Infosys, Form 20-F FY2012, Item 3.
+[106] Infosys, Form 20-F FY2010, Item 3.
 
-[107] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+[107] Infosys, Form 20-F FY2009, Items 4 and 6.D; Infosys, Form 20-F FY2010, Item 6.D.
 
-[108] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights' and Table on type of service; Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, survey for 2007-08 (74.6% offsite).
+[108] Infosys, Form 20-F FY2009, Item 3.
 
-[109] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights'.
+[109] Infosys, Form 20-F FY2009, Item 3.
 
-[110] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview); Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability. Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+[110] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, financial-year average rates, Rs 40.26 (FY2007-08) and Rs 45.99 (FY2008-09) per US dollar.
 
-[111] Nasscom, *Strategic Review* and fact sheets, slide 10. Nasscom self-description (industry lobby group).
+[111] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2010, Item 3.
 
-[112] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+[112] Infosys, Form 20-F FY2004, Item 3.
 
-[113] Rajaraman, *History of Computing in India* (2012), pp. 53-54.
+[113] Infosys, Form 20-F FY2012, Items 4 and 5.
+
+[114] Infosys, Form 20-F FY2009, Item 3.
+
+[115] Infosys, Form 20-F FY2010, Item 3.
+
+[116] Infosys, Form 20-F FY2009, Item 3.
+
+[117] Infosys, Form 20-F FY2009, Item 3.
+
+[118] Rajaraman, *History of Computing in India* (2012), p. 79.
+
+[119] Rajaraman, *History of Computing in India* (2012), pp. 49, 53.
+
+[120] Infosys, Form 20-F FY2010, Item 5.
+
+[121] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2012, Item 3.
+
+[122] Infosys, Form 20-F FY2012, Item 3.
+
+[123] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[124] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights' and Table on type of service; Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, survey for 2007-08 (74.6% offsite).
+
+[125] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights'.
+
+[126] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview); Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability. Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[127] Nasscom, *Strategic Review* and fact sheets, slide 10. Nasscom self-description (industry lobby group).
+
+[128] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+
+[129] Rajaraman, *History of Computing in India* (2012), pp. 53-54.
 
 
 
@@ -5520,61 +5724,67 @@ In October 2018 SEBI issued a fresh order on the three officials. It recorded th
 
 The officials' own submissions, which SEBI summarised without accepting, gave their side. Srinivas said he had spent more than two years in jail. He said there had been two parts to the fraud, bogus invoices and inflated bank balances, and that he had known nothing of the deposits. In a company run by its promoters, he said, it had been hard to oppose or question their decisions.[79] SEBI found Gupta's role less serious. As head of internal audit he had raised three instances of unreconciled invoices but, the order says, 'had to abide by the instructions of Rama Raju, the Managing Director, to close the same'.[80] SEBI barred Srinivas and Ramakrishna for seven years and Gupta for four, counting time already served since 2014. It ordered them to repay about Rs 15.7 crore, Rs 11.5 crore and Rs 0.48 crore respectively, with simple interest at 12 per cent a year from 7 January 2009. Because appeals were pending, the order was to take effect only from a date the Supreme Court would direct.[81]
 
-The 2018 order also refers in passing to an order of the CBI Special Court of 9 April 2015.[82] According to a *Business Today* report that day, the court found Raju, his brother and eight others guilty and sentenced all ten to seven years' rigorous imprisonment, and they chose to appeal. The judgment itself has not been read for this book, and the book does not follow the appeals.[83]
+The 2018 order also refers in passing to an order of the CBI Special Court of 9 April 2015.[82] Later court records say what that was. The CBI had filed three charge-sheets, tried together as C.C. Nos. 1, 2 and 3 of 2010, and on 9 April 2015 the XXI Additional Chief Metropolitan Magistrate-cum-Special Sessions Judge at Nampally, in Hyderabad, convicted the accused and sentenced them to imprisonment.[83] In 2017 Jog Singh, the member in the minority on a Securities Appellate Tribunal bench, listed the ten accused: the Raju brothers; a third brother, B. Suryanarayana Raju, a director of SRSR Advisory Services; the former chief financial officer, V. Srinivas; the two former auditors, S. Gopalakrishnan and T. Srinivas; and four men from the finance department. His summary of the trial judgment, a paraphrase rather than its text, includes the finding that 'The former Statutory Auditors connived with the former management'.[84]
 
-Satyam is often called India's first great corporate-governance failure. That claim has not been tested here against earlier scandals in the Indian markets, and it is not made. What the record supports is narrower. On Raju's own figures it was a fraud of more than Rs 5,000 crore at what its filings called the fourth-largest Indian IT services company. It led to what the SEC called the largest penalty ever paid by a foreign-based accounting firm in an SEC enforcement action.[84] And within two days of the letter it led to an order suspending the board of a private, listed company and authorising the government to appoint its own directors.[85]
+Press reports of the day agree that all ten were convicted and sentenced to seven years each. They do not agree on the fines. *Business Today* reported Rs 5 crore each for Raju and his brother, *The Quint* 'a Rs 5.5-crore fine on Raju and his brother Rama Raju', and the Associated Press a fine of $806,000 on Raju. The judgment itself has not been found online or read for this book, so the figure is left open.[85] Raju and seven others appealed to the Metropolitan Sessions Court in Hyderabad within days, and the CBI, by its own later account, appealed for heavier sentences. In June 2022 the Telangana High Court recorded the CBI's statement that the appeals were still pending before the Metropolitan Sessions Judge, Nampally.[86] The book does not follow them further.
+
+Satyam is often called India's first great corporate-governance failure. That claim has not been tested here against earlier scandals in the Indian markets, and it is not made. What the record supports is narrower. On Raju's own figures it was a fraud of more than Rs 5,000 crore at what its filings called the fourth-largest Indian IT services company. It led to what the SEC called the largest penalty ever paid by a foreign-based accounting firm in an SEC enforcement action.[87] And within two days of the letter it led to an order suspending the board of a private, listed company and authorising the government to appoint its own directors.[88]
 
 ## A number for every resident
 
-On 28 January 2009, three weeks after Raju's letter, the Planning Commission issued a notification creating the Unique Identification Authority of India (UIDAI).[86] The project had a longer history, which the Supreme Court later set out from government records. In March 2006 the Department of Information Technology had approved a project called 'Unique Identification for BPL Families', for households below the poverty line, to be carried out by the National Informatics Centre, the government's own computing agency.[87] An Empowered Group of Ministers was set up on 4 December 2006 to bring that project together with the National Population Register. Through 2007 a committee worked out the details. At its meeting on 15 June 2007, the judgment records, 'The numbering format of 11 digits was approved', and the committee agreed that the authority should be created by an executive order under the Planning Commission.[88] The notification of January 2009 made it an attached office of the Commission, and the Finance Minister approved Rs 147.31 crore for the first phase of enrolment.[89]
+On 28 January 2009, three weeks after Raju's letter, the Planning Commission issued a notification creating the Unique Identification Authority of India (UIDAI).[89] The project had a longer history, which the Supreme Court later set out from government records. In March 2006 the Department of Information Technology had approved a project called 'Unique Identification for BPL Families', for households below the poverty line, to be carried out by the National Informatics Centre, the government's own computing agency.[90] An Empowered Group of Ministers was set up on 4 December 2006 to bring that project together with the National Population Register. Through 2007 a committee worked out the details. At its meeting on 15 June 2007, the judgment records, 'The numbering format of 11 digits was approved', and the committee agreed that the authority should be created by an executive order under the Planning Commission.[91] The notification of January 2009 made it an attached office of the Commission, and the Finance Minister approved Rs 147.31 crore for the first phase of enrolment.[92]
 
-Then the state hired from the industry. By a notification of 2 July 2009, 'Mr. Nandan Nilekani was appointed as the Chairman of UIDAI for an initial tenure of five years in the rank and status of a Cabinet Minister. He assumed charge on July 24, 2009.'[90] Nilekani was a co-founder of Infosys and had been a director since 1981; from 1981 to 1987 he had managed its marketing and development in the United States, the years of the body-shopping trade described in Chapter 6.[91] A Prime Minister's Council on UIDAI was set up on 30 July 2009. At its first meeting, on 12 August, the chairman presented the strategy for the project, including a proposal for a law to give it legal standing. A Cabinet Committee headed by the Prime Minister followed in October.[92]
+Then the state hired from the industry. By a notification of 2 July 2009, 'Mr. Nandan Nilekani was appointed as the Chairman of UIDAI for an initial tenure of five years in the rank and status of a Cabinet Minister. He assumed charge on July 24, 2009.'[93] Nilekani was a co-founder of Infosys and had been a director since 1981; from 1981 to 1987 he had managed its marketing and development in the United States, the years of the body-shopping trade described in Chapter 6.[94] A Prime Minister's Council on UIDAI was set up on 30 July 2009. At its first meeting, on 12 August, the chairman presented the strategy for the project, including a proposal for a law to give it legal standing. A Cabinet Committee headed by the Prime Minister followed in October.[95]
 
-The name came to carry its own argument. When the Supreme Court decided the case in 2018, Justice A.K. Sikri began the majority judgment with a line from the project's own message: 'It is better to be unique than the best.' Aadhaar, he wrote, 'means, in English, "foundation" or "base"'.[93]
+The name came to carry its own argument. When the Supreme Court decided the case in 2018, Justice A.K. Sikri began the majority judgment with a line from the project's own message: 'It is better to be unique than the best.' Aadhaar, he wrote, 'means, in English, "foundation" or "base"'.[96]
 
 ## Building it
 
-What UIDAI set out to collect is recorded in Justice D.Y. Chandrachud's opinion in the same case, drawing on the agency's strategy paper. Besides name, date of birth, gender, address and the names of parents or spouse, every resident would give 'All ten fingerprints, photograph and both iris scans'.[94] A Biometrics Standards Committee reported in December 2009. For its work, the opinion says, more than 250,000 fingerprint images had been gathered from 25,000 people in districts of Delhi, Uttar Pradesh, Bihar and Orissa (Odisha since 2011), nearly all in rural areas, using different devices and different agencies. Chandrachud observed that the report did not say on what basis those fingerprints had been collected, and that this raised concerns about privacy.[95]
+What UIDAI set out to collect is recorded in Justice D.Y. Chandrachud's opinion in the same case, drawing on the agency's strategy paper. Besides name, date of birth, gender, address and the names of parents or spouse, every resident would give 'All ten fingerprints, photograph and both iris scans'.[97] A Biometrics Standards Committee reported in December 2009. For its work, the opinion says, more than 250,000 fingerprint images had been gathered from 25,000 people in districts of Delhi, Uttar Pradesh, Bihar and Orissa (Odisha since 2011), nearly all in rural areas, using different devices and different agencies. Chandrachud observed that the report did not say on what basis those fingerprints had been collected, and that this raised concerns about privacy.[98]
 
-The scale grew quickly. The National Identification Authority of India Bill, meant to give the agency a statutory basis, was introduced in the Rajya Sabha, the upper house of Parliament, on 3 December 2010. On 13 February 2011 the one millionth Aadhaar card was delivered.[96] 'On 29 September 2011, the Aadhaar project completed one year. An announcement was made of the generation of ten crore enrolments and of more than 3.75 crore Aadhaar numbers', that is, 100 million enrolments and 37.5 million numbers.[97] For seven years the project rested on the Planning Commission's notification of 2009, which, Chandrachud pointed out, made no reference to biometrics at all.[98] The Aadhaar Act came only in 2016. It was introduced in the Lok Sabha, the lower house, as Bill No. 47 of 2016 and passed as a Money Bill, a category of legislation tied to taxation and public spending under Article 110 of the Constitution, in which the Rajya Sabha's part is limited. The petitioners argued that it was not a Money Bill at all.[99] By the time the Act was notified, according to the Press Information Bureau as cited by Chandrachud, UIDAI had generated about 100 crore (one billion) Aadhaar numbers.[100]
+The first numbers were issued in September 2010. According to the Comptroller and Auditor General (CAG), the government's auditor, the scheme was launched on 29 September 2010 at Tembhli, a village in Nandurbar district of Maharashtra, 'from where first Aadhaar was issued'.[99]
 
-By then Aadhaar held records of about a billion people, and the agency's first chairman was a man who had spent his career building an export software company. The sources in hand for this chapter do not say who else came from the private industry to UIDAI, what the engineers who built the system were paid, or how the enrolment operators who took fingerprints in villages were trained and employed. Nilekani's own account, written with Viral Shah, has not been read for this book.[101] What the record does show is the shape of the transfer. The industry had learned to run very large projects to specification for foreign clients. In 2009 the state asked one of its founders to run a very large project for Indian residents.
+The scale grew quickly. The National Identification Authority of India Bill, meant to give the agency a statutory basis, was introduced in the Rajya Sabha, the upper house of Parliament, on 3 December 2010. On 13 February 2011 the one millionth Aadhaar card was delivered.[100] 'On 29 September 2011, the Aadhaar project completed one year. An announcement was made of the generation of ten crore enrolments and of more than 3.75 crore Aadhaar numbers', that is, 100 million enrolments and 37.5 million numbers.[101] For seven years the project rested on the Planning Commission's notification of 2009, which, Chandrachud pointed out, made no reference to biometrics at all.[102] The Aadhaar Act came only in 2016. It was introduced in the Lok Sabha, the lower house, as Bill No. 47 of 2016 and passed as a Money Bill, a category of legislation tied to taxation and public spending under Article 110 of the Constitution, in which the Rajya Sabha's part is limited. The petitioners argued that it was not a Money Bill at all.[103] By the time the Act was notified, according to the Press Information Bureau as cited by Chandrachud, UIDAI had generated about 100 crore (one billion) Aadhaar numbers.[104]
+
+By then Aadhaar held records of about a billion people, and the agency's first chairman was a man who had spent his career building an export software company. The sources in hand for this chapter do not say who else came from the private industry to UIDAI, what the engineers who built the system were paid, or how the enrolment operators who took fingerprints in villages were trained and employed. Nilekani's own account, written with Viral Shah, has not been read for this book.[105] The CAG's audit of 2021 gives one fact about the agency itself. At the end of March 2021 UIDAI had 130 staff at its Delhi headquarters and 219 at its regional headquarters, and the work 'was being carried out by officers and staffs mostly either on deputation or from outsourced agencies'.[106] What the record does show is the shape of the transfer. The industry had learned to run very large projects to specification for foreign clients. In 2009 the state asked one of its founders to run a very large project for Indian residents.
 
 ## The right to privacy
 
-The challenge came early. In 2012, while Aadhaar still rested only on an executive notification, Justice K.S. Puttaswamy, a retired judge, and Pravesh Khanna filed Writ Petition (Civil) No. 494 of 2012 in the Supreme Court. They argued that the scheme violated the right to privacy of 'innumerable citizens' under Article 21 of the Constitution, which protects life and personal liberty.[102] Two older decisions of the Court, *M P Sharma* and *Kharak Singh*, had been read as holding that the Constitution did not protect a right to privacy, and the question was referred to a bench of nine judges.[103]
+The challenge came early. In 2012, while Aadhaar still rested only on an executive notification, Justice K.S. Puttaswamy, a retired judge, and Pravesh Khanna filed Writ Petition (Civil) No. 494 of 2012 in the Supreme Court. They argued that the scheme violated the right to privacy of 'innumerable citizens' under Article 21 of the Constitution, which protects life and personal liberty.[107] Two older decisions of the Court, *M P Sharma* and *Kharak Singh*, had been read as holding that the Constitution did not protect a right to privacy, and the question was referred to a bench of nine judges.[108]
 
-On 24 August 2017 the nine judges answered it unanimously. Chandrachud wrote the lead judgment for Chief Justice J.S. Khehar, Justice R.K. Agrawal, Justice S. Abdul Nazeer and himself; Justices J. Chelameswar, S.A. Bobde, Abhay Manohar Sapre, Rohinton Fali Nariman and Sanjay Kishan Kaul each wrote separately.[104] The order of the Court, signed by all nine, overruled *M P Sharma* and, to the same extent, *Kharak Singh*, and declared: 'The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution.'[105]
+On 24 August 2017 the nine judges answered it unanimously. Chandrachud wrote the lead judgment for Chief Justice J.S. Khehar, Justice R.K. Agrawal, Justice S. Abdul Nazeer and himself; Justices J. Chelameswar, S.A. Bobde, Abhay Manohar Sapre, Rohinton Fali Nariman and Sanjay Kishan Kaul each wrote separately.[109] The order of the Court, signed by all nine, overruled *M P Sharma* and, to the same extent, *Kharak Singh*, and declared: 'The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution.'[110]
 
 The judgment did not decide whether Aadhaar was lawful. It set the test that Aadhaar, and any later system that collected and processed Indians' data, would have to pass.
 
 ## Twenty-sixth of September, 2018
 
-The Aadhaar case itself was decided on 26 September 2018 by five judges. Sikri wrote for Chief Justice Dipak Misra, Justice A.M. Khanwilkar and himself. Justice Ashok Bhushan wrote a separate concurring judgment. Chandrachud dissented.[106]
+The Aadhaar case itself was decided on 26 September 2018 by five judges. Sikri wrote for Chief Justice Dipak Misra, Justice A.M. Khanwilkar and himself. Justice Ashok Bhushan wrote a separate concurring judgment. Chandrachud dissented.[111]
 
-During the hearings the agency had explained its own engineering to the judges. Dr Ajay Bhushan Pandey, UIDAI's chief executive, gave a PowerPoint presentation in court.[107] The Authority claimed that within a few seconds of collection, biometric data were sent in encrypted form to its central repository and passed 'out of the reach of the enrolling agency'; that authentication was 'purpose blind', returning only a yes or a no to the agency asking; and that the biometric system 'provides high accuracy of over 99.86%'.[108] In answer to written questions from the petitioners' lawyers, UIDAI gave national figures. Of about 616 million Aadhaar numbers that had been used for fingerprint authentication, about 37 million, or 6.00 per cent, were recorded as failed; for iris authentication the figure was 8.54 per cent. It added that 'authentication failures do not mean exclusion or denial from subsidies, benefits or services', because agencies were obliged by law to provide other ways of establishing identity.[109] These were the claims of the system's builder, made in its own defence.
+During the hearings the agency had explained its own engineering to the judges. Dr Ajay Bhushan Pandey, UIDAI's chief executive, gave a PowerPoint presentation in court.[112] The Authority claimed that within a few seconds of collection, biometric data were sent in encrypted form to its central repository and passed 'out of the reach of the enrolling agency'; that authentication was 'purpose blind', returning only a yes or a no to the agency asking; and that the biometric system 'provides high accuracy of over 99.86%'.[113] In answer to written questions from the petitioners' lawyers, UIDAI gave national figures. Of about 616 million Aadhaar numbers that had been used for fingerprint authentication, about 37 million, or 6.00 per cent, were recorded as failed; for iris authentication the figure was 8.54 per cent. It added that 'authentication failures do not mean exclusion or denial from subsidies, benefits or services', because agencies were obliged by law to provide other ways of establishing identity.[114] These were the claims of the system's builder, made in its own defence.
 
-The majority upheld the Act and its central purpose, the use of Aadhaar to deliver subsidies and benefits paid for from the Consolidated Fund of India. It held that the Act had been validly passed as a Money Bill.[110]
+The CAG later tested the promise at the root of the system, that each resident would have one number. Its audit, covering the years 2014-15 to 2018-19, found that 'nearly 4.75 Lakh duplicate Aadhaar numbers were cancelled as of November 2019', about 475,000, which it worked out as 'no less than 145 Aadhaars generated in a day during the period of nine years since 2010'.[115] It also found 'instances of issue of Aadhaars with the same biometric data to different residents indicating flaws in the de-duplication process'.[116] Against the 1.29 billion numbers generated by March 2021 the share was small; it was still a failure of the matching on which that promise rested.[117]
 
-The judgment's first limits concerned children and education. Children could be enrolled only with their parents' consent, and could opt out at adulthood. School admission could not require Aadhaar, because education for children aged six to fourteen was a fundamental right and not a 'benefit'.[111] And the examination and education bodies could not demand it either: 'CBSE, NEET, JEE, UGC etc. cannot make the requirement of Aadhaar mandatory as they are outside the purview of Section 7 and are not backed by any law.'[112] JEE is the Joint Entrance Examination for the engineering colleges, the gate through which much of the profession described in this book passed. The Court had drawn a line between the identity system and the machinery of selection for engineering school.
+The majority upheld the Act and its central purpose, the use of Aadhaar to deliver subsidies and benefits paid for from the Consolidated Fund of India. It held that the Act had been validly passed as a Money Bill.[118]
 
-Beyond education, it cut the system back in ways that mattered to anyone who would write software against it. It struck down the regulation that allowed authentication records to be archived for five years: 'Retention of data beyond the period of six months is impermissible.'[113] It struck down section 33(2), which allowed disclosure of information in the interest of national security on the order of a joint secretary, leaving Parliament free to enact a provision with a judicial officer involved.[114]
+The judgment's first limits concerned children and education. Children could be enrolled only with their parents' consent, and could opt out at adulthood. School admission could not require Aadhaar, because education for children aged six to fourteen was a fundamental right and not a 'benefit'.[119] And the examination and education bodies could not demand it either: 'CBSE, NEET, JEE, UGC etc. cannot make the requirement of Aadhaar mandatory as they are outside the purview of Section 7 and are not backed by any law.'[120] JEE is the Joint Entrance Examination for the engineering colleges, the gate through which much of the profession described in this book passed. The Court had drawn a line between the identity system and the machinery of selection for engineering school.
 
-It also struck down the part of section 57 that had allowed 'any body corporate or person' to use Aadhaar to establish identity under 'any contract'. A contract was not a law, the judges reasoned. The effect of the provision, they wrote, would be 'to enable commercial exploitation of an individual biometric and demographic information by the private entities'.[115] The rule requiring every bank account to be linked to Aadhaar 'does not meet the test of proportionality and is also violative of right to privacy of a person which extends to banking details'.[116] The telecommunications department's circular of 23 March 2017 requiring mobile numbers to be linked to Aadhaar was 'held to be illegal and unconstitutional as it is not backed by any law and is hereby quashed'.[117]
+Beyond education, it cut the system back in ways that mattered to anyone who would write software against it. It struck down the regulation that allowed authentication records to be archived for five years: 'Retention of data beyond the period of six months is impermissible.'[121] It struck down section 33(2), which allowed disclosure of information in the interest of national security on the order of a joint secretary, leaving Parliament free to enact a provision with a judicial officer involved.[122]
 
-Chandrachud would have struck the Act down. He held that a bill containing provisions outside the subjects listed in Article 110 'is not a Money Bill', and that the programme violated 'essential norms pertaining to informational privacy, self-determination and data protection'.[118] Much of his opinion is about people the system failed. He collected reports of authentication failures in which, he wrote, eligible people were denied rations, pensions and other benefits for no fault of their own. 'For persons, who are engaged in manual labour, and persons who are disabled or aged, fingerprints actually cannot be captured by biometric devices.'[119] 'Should the scholarship of a girl child or a mid- day meal for the young be made to depend on the uncertainties of biometric matches?' He concluded: 'Dignity and rights of individuals cannot be based on algorithms or probabilities. Constitutional guarantees cannot be subject to the vicissitudes of technology.'[120]
+It also struck down the part of section 57 that had allowed 'any body corporate or person' to use Aadhaar to establish identity under 'any contract'. A contract was not a law, the judges reasoned. The effect of the provision, they wrote, would be 'to enable commercial exploitation of an individual biometric and demographic information by the private entities'.[123] The rule requiring every bank account to be linked to Aadhaar 'does not meet the test of proportionality and is also violative of right to privacy of a person which extends to banking details'.[124] The telecommunications department's circular of 23 March 2017 requiring mobile numbers to be linked to Aadhaar was 'held to be illegal and unconstitutional as it is not backed by any law and is hereby quashed'.[125]
 
-The majority took a different view of the same evidence. It recorded the government's statement on affidavit that no eligible person would be deprived of a benefit because a fingerprint or iris failed to match, and that the project, being ongoing, might have 'some glitches' that would be corrected until 'it becomes foolproof over a period of time'. It treated such arguments as matters of the system's working rather than its constitutional validity.[121] It directed that no child be denied a benefit for lack of an Aadhaar number if identity could be shown by other documents.[122] Both sides accepted that the system made mistakes. They differed over whether a constitutional system could rest on a machine that was right most of the time.
+Chandrachud would have struck the Act down. He held that a bill containing provisions outside the subjects listed in Article 110 'is not a Money Bill', and that the programme violated 'essential norms pertaining to informational privacy, self-determination and data protection'.[126] Much of his opinion is about people the system failed. He collected reports of authentication failures in which, he wrote, eligible people were denied rations, pensions and other benefits for no fault of their own. 'For persons, who are engaged in manual labour, and persons who are disabled or aged, fingerprints actually cannot be captured by biometric devices.'[127] 'Should the scholarship of a girl child or a mid- day meal for the young be made to depend on the uncertainties of biometric matches?' He concluded: 'Dignity and rights of individuals cannot be based on algorithms or probabilities. Constitutional guarantees cannot be subject to the vicissitudes of technology.'[128]
+
+The majority took a different view of the same evidence. It recorded the government's statement on affidavit that no eligible person would be deprived of a benefit because a fingerprint or iris failed to match, and that the project, being ongoing, might have 'some glitches' that would be corrected until 'it becomes foolproof over a period of time'. It treated such arguments as matters of the system's working rather than its constitutional validity.[129] It directed that no child be denied a benefit for lack of an Aadhaar number if identity could be shown by other documents.[130] Both sides accepted that the system made mistakes. They differed over whether a constitutional system could rest on a machine that was right most of the time.
 
 ## Two lessons
 
 The two halves of this chapter look unconnected: a private fraud in Hyderabad, a public database in New Delhi. They are connected by what the Indian software industry had become by 2009. It was large enough that its largest failure needed the state to rescue it, and capable enough that the state turned to it for a project of national scale.
 
-Satyam showed where the industry's value lay. The books were false, but the work was not; clients stayed, a rival bid Rs 58 a share within three months, and engineers like Mastanamma expected to go on servicing the accounts.[123] What failed was oversight: promoters who controlled a company in which they held little equity, an internal auditor who, SEBI found, had to close his findings on the managing director's instructions, and outside auditors who let the client handle the bank confirmations.[124] Raju's letter claimed that every attempt had been made to pay salaries promptly. SEBI's 2018 summary of the tribunal's findings listed 'the need to show inflated results to attract customers/employees' among the matters the officials had discussed with the Raju brothers. That suggests at least one thing the fiction was for.[125]
+Satyam showed where the industry's value lay. The books were false, but the work was not; clients stayed, a rival bid Rs 58 a share within three months, and engineers like Mastanamma expected to go on servicing the accounts.[131] What failed was oversight: promoters who controlled a company in which they held little equity, an internal auditor who, SEBI found, had to close his findings on the managing director's instructions, and outside auditors who let the client handle the bank confirmations.[132] Raju's letter claimed that every attempt had been made to pay salaries promptly. SEBI's 2018 summary of the tribunal's findings listed 'the need to show inflated results to attract customers/employees' among the matters the officials had discussed with the Raju brothers. That suggests at least one thing the fiction was for.[133]
 
 Aadhaar showed something different. For thirty years Indian programmers had built systems for foreign companies, under foreign contracts and foreign law. Here was a system built in India, by Indians, for the Indian state, applied to every Indian. The Supreme Court's judgments of 2017 and 2018 were the first time Indian institutions had to decide, in detail, what Indian software could be made to do to Indian citizens: how long it could keep their data, which companies could use it, and whether a failed fingerprint match could cost someone their rations.
 
-The two stories also touched this book's other subject, the making of engineers. Satyam recruited from India's colleges, which its filing counted at 'over 1,500', and put each new technical recruit through twelve weeks of its own training.[126] The Court, ruling on the state's own system, kept Aadhaar out of the JEE, the examination through which students entered engineering college.[127] The firms trained what the colleges supplied, and the Court left the gate to those colleges outside the identity system.
+The two stories also touched this book's other subject, the making of engineers. Satyam recruited from India's colleges, which its filing counted at 'over 1,500', and put each new technical recruit through twelve weeks of its own training.[134] The Court, ruling on the state's own system, kept Aadhaar out of the JEE, the examination through which students entered engineering college.[135] The firms trained what the colleges supplied, and the Court left the gate to those colleges outside the identity system.
 
 The question the next chapter takes up follows from both. An industry that could run a client's systems so reliably that a fraud at the top did not stop them, and that could lend a founder to build a national identity platform, had still produced very few software products of its own. Aadhaar was built on the state's account. Chapter 17 asks why Indian firms so rarely built on their own.
 
@@ -5745,95 +5955,111 @@ The question the next chapter takes up follows from both. An industry that could
 
 [82] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 24.
 
-[83] *Business Today*, 'B Ramalinga Raju Found Guilty' (2015) (press report of 9 April 2015; judgment not read).
+[83] Telangana High Court, Satyam-related orders (2022) (Telangana High Court, Crl. P. No. 13332 of 2011, order of 7 January 2022, para. 2, the petitioners' own account: three charge-sheets, joint trial as C.C. Nos. 1, 2 and 3 of 2010; W.P. No. 12595 of 2019, order of 6 June 2022, para. 3: 'The XXI ACMM-cum-Special Sessions Judge Nampally convicted the accused in the above case and sentenced them to imprisonment on 09.04.2015'). Checked against the Indian Kanoon texts on 15 October 2026.
 
-[84] SEC, press release 2011-82 (2011).
+[84] Securities Appellate Tribunal, *B. Appalanarasamma v. SEBI* (2017), minority view (Jog Singh), paras. 76-77. The member's summary of the CBI report and the trial judgment, not the judgment's text, which has not been read.
 
-[85] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
+[85] *Business Today*, 'B Ramalinga Raju Found Guilty' (2015) (Rs 5 crore each for Ramalinga Raju and Rama Raju; Rs 25 lakh each for the other eight); Associated Press (*Al Jazeera*) and *The Quint* on the Satyam verdict (2015) (Associated Press via *Al Jazeera*, 9 April 2015: ten convicted, seven years each, judge B.V.L.N. Chakravarthy, 'The judge also fined Raju $806,000'; *The Quint*, 14 April 2015: 'a Rs 5.5-crore fine'). Fines conflict across reports; the judgment (C.C. Nos. 1-3 of 2010) was not found online.
 
-[86] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11, 25.
+[86] Associated Press (*Al Jazeera*) and *The Quint* on the Satyam verdict (2015) (*The Quint*, 14 April 2015: Raju 'along with seven others, filed the appeal in the Metropolitan Sessions Court'); Telangana High Court, Satyam-related orders (2022) (W.P. No. 12595 of 2019, 6 June 2022, para. 6, CBI's submission: 'The CBI filed appeal for enhancement of the sentence. The accused Nos.1 and 2 also filed appeal against the conviction', pending before the Metropolitan Sessions Judge, Nampally). Later status not checked.
 
-[87] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 8.
+[87] SEC, press release 2011-82 (2011).
 
-[88] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 8-10.
+[88] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
 
-[89] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11-12.
+[89] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11, 25; Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 1 (creation on 28 January 2009 as an attached office of the Planning Commission).
 
-[90] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 13.
+[90] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 8.
 
-[91] Infosys, prospectus (Form 424B4, 1999), p. 55.
+[91] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 8-10.
 
-[92] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 13.
+[92] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11-12.
 
-[93] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 3.
+[93] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 13.
 
-[94] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 198.
+[94] Infosys, prospectus (Form 424B4, 1999), p. 55.
 
-[95] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 199.
+[95] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 13.
 
-[96] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 198.
+[96] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 3.
 
-[97] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 199.
+[97] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 198.
 
-[98] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 415.
+[98] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 199.
 
-[99] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 94; Chandrachud J., p. 100.
+[99] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 2.
 
-[100] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 416.
+[100] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 198.
 
-[101] Nilekani and Shah, *Rebooting India* (2015) (not read; cited only to record the gap).
+[101] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 199.
 
-[102] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 7.
+[102] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 415.
 
-[103] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 2.
+[103] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 94; Chandrachud J., p. 100.
 
-[104] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 1.
+[104] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 416.
 
-[105] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 2.
+[105] Nilekani and Shah, *Rebooting India* (2015) (not read; cited only to record the gap).
 
-[106] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 3, 567; Bhushan J., paras 392-393.
+[106] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), Executive Summary, p. v.
 
-[107] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 56.
+[107] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 7.
 
-[108] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 55, 57, 60.
+[108] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 2.
 
-[109] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 63.
+[109] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 1.
 
-[110] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 565.
+[110] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 2.
 
-[111] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 555-556.
+[111] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 3, 567; Bhushan J., paras 392-393.
 
-[112] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 555.
+[112] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 56.
 
-[113] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 558.
+[113] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 55, 57, 60.
 
-[114] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 559.
+[114] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 63.
 
-[115] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 559-560.
+[115] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 19, para. 3.2.2 (audit period 2014-15 to 2018-19, p. 7, para. 2.1). The figure is UIDAI's own, 'As per information provided by UIDAI Tech Centre'.
 
-[116] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 512.
+[116] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), Executive Summary, p. vi.
 
-[117] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 567.
+[117] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 14, para. 3.1.2 ('129.04 Crore Aadhaar numbers as of March 2021'; also p. 2).
 
-[118] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 154, 469.
+[118] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 565.
 
-[119] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 375-376, para. 269.
+[119] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 555-556.
 
-[120] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 376, para. 269.
+[120] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 555.
 
-[121] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 105-106.
+[121] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 558.
 
-[122] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 556.
+[122] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 559.
 
-[123] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2; Sharma, 'When Your Boss Does You In' (2009).
+[123] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 559-560.
 
-[124] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4; SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 26; SEC, press release 2011-82 (2011).
+[124] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 512.
 
-[125] Raju, letter to the Satyam board (2009); SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 15.
+[125] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 567.
 
-[126] Satyam Computer Services, Form 20-F FY2008, pp. 24, 32.
+[126] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 154, 469.
 
-[127] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 555.
+[127] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 375-376, para. 269.
+
+[128] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 376, para. 269.
+
+[129] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 105-106.
+
+[130] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 556.
+
+[131] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2; Sharma, 'When Your Boss Does You In' (2009).
+
+[132] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4; SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 26; SEC, press release 2011-82 (2011).
+
+[133] Raju, letter to the Satyam board (2009); SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 15.
+
+[134] Satyam Computer Services, Form 20-F FY2008, pp. 24, 32.
+
+[135] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 555.
 
 
 # Chapter 17. The product question (1986-2024)
@@ -6182,69 +6408,69 @@ Cognizant gives the clearest numbers, because, as an American company, it report
 
 At those rates a large firm had to refill its pyramid almost from scratch every three years. Every departure meant another recruit to find, test, train and place on a project, and every replacement had to be paid more to stay. Cognizant's risk factors put the problem in the plainest terms of the business model: 'While we strive to adjust pricing to reduce the impact of compensation increases on our operating margin, we may not be successful in recovering these increases'.[35] Wipro's filing for FY2021-22 listed the same pressures on its margins: 'strong demand for digital and other niche skills are expected to result in wage inflation', 'Increased hiring and training costs due to higher attrition rates', and a 'Limited ability of the market to accept increase in prices for our offerings'.[36] This was the time-and-materials model under stress (Chapters 9 and 11). A firm that sells hours at an agreed rate makes money only while the hours cost it less than the rate. When engineers' pay rose faster than clients would pay, the margin was squeezed from both sides.
 
-The equivalent attrition rates for Tata Consultancy Services (TCS) and Infosys appear in their quarterly fact sheets, which could not be obtained for this book.[37] Cognizant's are the only primary series in hand, and they come from a firm whose junior staff are mostly in India but whose definitions are its own.
+Infosys gave its rates to investors on its quarterly results calls, whose transcripts it filed with the SEC, and they tell the same story with one caution: the company changed its measure partway through. In the quarter to March 2020 its executives reported voluntary attrition of 15.1 per cent, or 18.2 per cent counting dismissals. A year later voluntary attrition, 'calculated on annualized basis', was 15.2 per cent, and had risen, they said, 'as demand for talent increased'.[37] From FY2021-22 the company reported voluntary attrition over the previous twelve months instead, a measure that moves more slowly. On that basis it was 27.7 per cent in the year to March 2022, 20.9 per cent in the year to March 2023 and 12.6 per cent in the year to March 2024.[38] The first two figures are not strictly comparable with the last three, but the peak is not in doubt: in the year to March 2022 more than one Infosys employee in four chose to leave. The equivalent rates for Tata Consultancy Services (TCS) appear in its quarterly fact sheets, which could not be obtained for this book.[39] Both firms' series are their own, with their own definitions.
 
-The gains were not evenly shared. The demand for talent after the pandemic, *HR Katha* observed, had firms luring people with attractive packages and perks. Starting pay was another matter. A study by the business website Moneycontrol, relayed by the trade site *HR Katha*, put the median annual pay of freshers at large IT firms at about Rs 245,000 in 2012 and Rs 355,000 in 2022, a rise of 45 per cent in ten years.[38] At each year's average exchange rate that is about $4,600 and $4,500.[39] Adjusted for Indian consumer prices, the 2022 figure was worth nearly a fifth less than the 2012 one.[40] The same report noted that the median pay of chief executives at the large firms had risen by 835 per cent over the same decade.[41] Whatever the boom did for engineers who changed jobs, on these figures it did not raise the real price of a new one.
+The gains were not evenly shared. The demand for talent after the pandemic, *HR Katha* observed, had firms luring people with attractive packages and perks. Starting pay was another matter. A study by the business website Moneycontrol, relayed by the trade site *HR Katha*, put the median annual pay of freshers at large IT firms at about Rs 245,000 in 2012 and Rs 355,000 in 2022, a rise of 45 per cent in ten years.[40] At each year's average exchange rate that is about $4,600 and $4,500.[41] Adjusted for Indian consumer prices, the 2022 figure was worth nearly a fifth less than the 2012 one.[42] The same report noted that the median pay of chief executives at the large firms had risen by 835 per cent over the same decade.[43] Whatever the boom did for engineers who changed jobs, on these figures it did not raise the real price of a new one.
 
-Women's share of the workforce held steady through the churn, at least at the firms that report it. Cognizant said women made up 36 per cent of its workforce at the end of 2020 and 38 per cent at the end of 2021, the share it reported again for 2023.[42] Infosys said in its annual report for FY2023-24 that women made up 'nearly 40% of our workforce'.[43] Neither firm's filings, as read for this chapter, say whether women left or returned at different rates from men during the pandemic.
+Women's share of the workforce held steady through the churn, at least at the firms that report it. Cognizant said women made up 36 per cent of its workforce at the end of 2020 and 38 per cent at the end of 2021, the share it reported again for 2023.[44] Infosys said in its annual report for FY2023-24 that women made up 'nearly 40% of our workforce'.[45] Neither firm's filings, as read for this chapter, say whether women left or returned at different rates from men during the pandemic.
 
 ## Two employers, one laptop
 
 Home working made a second job easy to hide. An engineer whose office was a bedroom, and whose manager saw her only on a video call, could in principle work for two companies at once. In 2022 the practice, known as moonlighting, became the subject of a public argument among the industry's leaders.
 
-In August 2022 Premji wrote on Twitter that there was a lot of 'chatter about people moonlighting in the tech industry', and that 'it is cheating- plain and simple.'[44] His speech to the management association the next month, quoted at the start of this chapter, turned the complaint into dismissals. *Business Today* reported that Premji regarded the practice as a 'complete violation of integrity in its deepest form'.[2]
+In August 2022 Premji wrote on Twitter that there was a lot of 'chatter about people moonlighting in the tech industry', and that 'it is cheating- plain and simple.'[46] His speech to the management association the next month, quoted at the start of this chapter, turned the complaint into dismissals. *Business Today* reported that Premji regarded the practice as a 'complete violation of integrity in its deepest form'.[2]
 
-The industry did not speak with one voice. Infosys, the magazine reported, had told its staff the week before, in 'a strong and firm message', that moonlighting was not allowed. N. Ganapathy Subramaniam, the chief operating officer of TCS, had warned that employees chasing short-term gains in this way 'might lose out in the long term'.[45] T.V. Mohandas Pai, a former Infosys director, took the other side. 'No, moonlighting is not cheating,' he told the magazine. 'Employment is a contract between an employer who pays me for working for them for 'n' number of hours a day.' During those hours, he said, he was bound by the employer's conditions, including client confidentiality. 'Now what I do after that time is my freedom'.[46]
+The industry did not speak with one voice. Infosys, the magazine reported, had told its staff the week before, in 'a strong and firm message', that moonlighting was not allowed. N. Ganapathy Subramaniam, the chief operating officer of TCS, had warned that employees chasing short-term gains in this way 'might lose out in the long term'.[47] T.V. Mohandas Pai, a former Infosys director, took the other side. 'No, moonlighting is not cheating,' he told the magazine. 'Employment is a contract between an employer who pays me for working for them for 'n' number of hours a day.' During those hours, he said, he was bound by the employer's conditions, including client confidentiality. 'Now what I do after that time is my freedom'.[48]
 
-Infosys then wrote the problem into its annual report. From FY2022-23 its risk factors included a new line: 'Continued remote working exposes the company to the risk of some employees working for multiple employers simultaneously (moonlighting) without obtaining required prior approvals and this may result in potential conflict of interests, confidentiality breach, and reduced productivity.'[47]
+Infosys then wrote the problem into its annual report. From FY2022-23 its risk factors included a new line: 'Continued remote working exposes the company to the risk of some employees working for multiple employers simultaneously (moonlighting) without obtaining required prior approvals and this may result in potential conflict of interests, confidentiality breach, and reduced productivity.'[49]
 
-The quarrel looks like one about loyalty. It was also about the unit in which the industry sold its work. The services firms billed their clients by the hour or the person-month. Pai's defence turned the same logic around: the employer bought a fixed number of hours, and the rest belonged to the worker. Premji's answer was that an engineer working directly for a competitor was breaking faith whatever the hours. When the work was done on a client's secure floor, the question did not arise, because the office day bounded what an engineer could do. At home that boundary was gone, and both sides found how much of the employment relationship had depended on it. The firms' answer, in the end, was to bring people back. Infosys described 2022 as the year it 'transitioned into a hybrid model of work for our employees and service providers following an extended period of remote work', and from FY2022-23 listed 'Our transition to a hybrid working model' among its risks.[48]
+The quarrel looks like one about loyalty. It was also about the unit in which the industry sold its work. The services firms billed their clients by the hour or the person-month. Pai's defence turned the same logic around: the employer bought a fixed number of hours, and the rest belonged to the worker. Premji's answer was that an engineer working directly for a competitor was breaking faith whatever the hours. When the work was done on a client's secure floor, the question did not arise, because the office day bounded what an engineer could do. At home that boundary was gone, and both sides found how much of the employment relationship had depended on it. The firms' answer, in the end, was to bring people back. Infosys described 2022 as the year it 'transitioned into a hybrid model of work for our employees and service providers following an extended period of remote work', and from FY2022-23 listed 'Our transition to a hybrid working model' among its risks.[50]
 
 ## Packed bags
 
-The turn in demand came in the second half of 2022. Cognizant dated it precisely: 'The rate of attrition began to decrease in the second half of 2022'.[49] For the engineers already employed, that meant fewer outside offers. For the graduates who had been promised jobs during the boom, it meant waiting.
+The turn in demand came in the second half of 2022. Cognizant dated it precisely: 'The rate of attrition began to decrease in the second half of 2022'.[51] For the engineers already employed, that meant fewer outside offers. For the graduates who had been promised jobs during the boom, it meant waiting.
 
-On 5 October 2022 *Business Today* published complaints from new graduates whose start dates at Accenture kept moving. The magazine had already reported similar delays at Wipro, Infosys, HCLTech, Tech Mahindra and Capgemini.[50] The graduates it quoted were not named. One said: 'I was placed in Accenture as Associate Software Engineer (ASE) via campus placement in November 2021. I received my offer letter in the last week of April this year.' Since then, the start date had been 'pushed time after time'; the latest, 30 September, had now become 'somewhere in 2023'.[51] Another described a postponement two days before the joining date: 'I had packed my bags and booked all tickets to move to the new city, just two days before joining, they postponed the date again. When will they finally make me join, who will pay for my expenses in the meanwhile?'[52] A third had turned down other employers: 'I am riddled with depressive feelings because I rejected TCS, Wipro, and HCL for a job in Accenture.'[53] Others worried about the record it would leave: 'It's a year since I have been waiting to get onboarded. It is going to reflect as a gap year in my CV.'[54]
+On 5 October 2022 *Business Today* published complaints from new graduates whose start dates at Accenture kept moving. The magazine had already reported similar delays at Wipro, Infosys, HCLTech, Tech Mahindra and Capgemini.[52] The graduates it quoted were not named. One said: 'I was placed in Accenture as Associate Software Engineer (ASE) via campus placement in November 2021. I received my offer letter in the last week of April this year.' Since then, the start date had been 'pushed time after time'; the latest, 30 September, had now become 'somewhere in 2023'.[53] Another described a postponement two days before the joining date: 'I had packed my bags and booked all tickets to move to the new city, just two days before joining, they postponed the date again. When will they finally make me join, who will pay for my expenses in the meanwhile?'[54] A third had turned down other employers: 'I am riddled with depressive feelings because I rejected TCS, Wipro, and HCL for a job in Accenture.'[55] Others worried about the record it would leave: 'It's a year since I have been waiting to get onboarded. It is going to reflect as a gap year in my CV.'[56]
 
-The graduates also blamed their colleges. The placement cell, the office that had invited the companies to campus and organised the tests, was the link between the college and the factory (Chapter 12). 'The college placement cell should have helped us in this tough time,' said a graduate of CV Raman Global University in Bhubaneswar. A graduate of Galgotias University in Greater Noida said the placement office had stopped answering once students had graduated: 'they don't care for me anymore.'[55] For the colleges, a campus offer was a result to be counted at the end of the year. What happened after graduation was no longer their business.
+The graduates also blamed their colleges. The placement cell, the office that had invited the companies to campus and organised the tests, was the link between the college and the factory (Chapter 12). 'The college placement cell should have helped us in this tough time,' said a graduate of CV Raman Global University in Bhubaneswar. A graduate of Galgotias University in Greater Noida said the placement office had stopped answering once students had graduated: 'they don't care for me anymore.'[57] For the colleges, a campus offer was a result to be counted at the end of the year. What happened after graduation was no longer their business.
 
 None of this was new. The bust of 2001-02 had left recruits at Anna University waiting for deferred joining dates (Chapter 11), and the collapse of Satyam in 2009 had stranded a batch of its campus hires (Chapter 16). This was the third time in about twenty years that the factory's newest products took the first shock of a turn in demand.
 
-At Infosys the numbers turned with unusual speed. Offers of employment fell from 222,500 in FY2021-22 to 114,374 in FY2022-23, and to 26,975 in FY2023-24, a fall of about 88 per cent in two years. Applications fell from 5.9 million to 2.4 million.[56] Headcount, which had peaked at 343,234 in March 2023, fell to 317,240 a year later.[57] Wipro's rounded total fell from more than 250,000 to more than 234,000 over the same year.[58] Cognizant ended 2023 with about 347,700 employees, 7,600 fewer than a year before, and with 254,000 in India.[59] Its own measure of voluntary attrition in its technology services business fell from 25.6 per cent in 2022 to 13.8 per cent in 2023.[60] The engineers who had changed jobs freely in 2021 now stayed put.
+At Infosys the numbers turned with unusual speed. Offers of employment fell from 222,500 in FY2021-22 to 114,374 in FY2022-23, and to 26,975 in FY2023-24, a fall of about 88 per cent in two years. Applications fell from 5.9 million to 2.4 million.[58] Headcount, which had peaked at 343,234 in March 2023, fell to 317,240 a year later.[59] Wipro's rounded total fell from more than 250,000 to more than 234,000 over the same year.[60] Cognizant ended 2023 with about 347,700 employees, 7,600 fewer than a year before, and with 254,000 in India.[61] Its own measure of voluntary attrition in its technology services business fell from 25.6 per cent in 2022 to 13.8 per cent in 2023.[62] The engineers who had changed jobs freely in 2021 now stayed put.
 
 ## Outside the factory laws
 
 The people who took the delayed recruits' complaints to the government belonged to organisations that had barely existed a few years earlier. The industry had grown without unions, and partly under exemptions from the labour laws that governed factories.
 
-A note published in November 2017 by Arvind Gurumurthy of the law firm Kochhar & Co. set out the position. The Industrial Disputes Act of 1947 required employers with more than 100 workers to get the labour commissioner's approval before retrenching staff, 'but this does not cover IT industry'.[61] The Industrial Employment (Standing Orders) Act of 1946 required industrial employers to publish certified terms of employment covering hours, shifts, leave and dismissal. 'However, by a notification published on January 25, 2014 the Karnataka government exempted IT companies from applicability of Standing Orders Act for a period of five years.'[62] Some provisions of the state's shops and establishments law, on holidays and hours of work, had also been relaxed for IT companies in Karnataka and in some other states.[63] The engineer factory, in other words, was not in law a factory. The note suggested that the exemptions might have been meant to help the industry grow, and recorded that many employees' leaders saw them as giving firms room to treat layoffs as they liked.[64]
+A note published in November 2017 by Arvind Gurumurthy of the law firm Kochhar & Co. set out the position. The Industrial Disputes Act of 1947 required employers with more than 100 workers to get the labour commissioner's approval before retrenching staff, 'but this does not cover IT industry'.[63] The Industrial Employment (Standing Orders) Act of 1946 required industrial employers to publish certified terms of employment covering hours, shifts, leave and dismissal. 'However, by a notification published on January 25, 2014 the Karnataka government exempted IT companies from applicability of Standing Orders Act for a period of five years.'[64] Some provisions of the state's shops and establishments law, on holidays and hours of work, had also been relaxed for IT companies in Karnataka and in some other states.[65] The engineer factory, in other words, was not in law a factory. The note suggested that the exemptions might have been meant to help the industry grow, and recorded that many employees' leaders saw them as giving firms room to treat layoffs as they liked.[66]
 
-On Sunday 20 August 2017 close to 200 IT workers gathered at the YWCA Hall in Koramangala, Bengaluru, to found the Karnataka State IT/ITeS Employees Union (ITeS stands for IT-enabled services), known as KITU. *The News Minute* reported that the meeting came amid 'reports of large-scale layoffs in the IT sector'.[65] The union's general secretary was Vineeth, a testing lead at the Bengaluru software firm MindTree. He was also part of the IT Employees Centre, an association that had worked for IT employees' rights in Bengaluru for eight years and had received complaints about layoffs and maternity leave, but had never been registered as a union. 'What is currently happening is that if an employee is facing a problem, they have to fight in their individual capacity and the companies may not listen to them,' he told the reporter. 'The trade union will help them negotiate and bargain with the management, and even fight.'[66]
+On Sunday 20 August 2017 close to 200 IT workers gathered at the YWCA Hall in Koramangala, Bengaluru, to found the Karnataka State IT/ITeS Employees Union (ITeS stands for IT-enabled services), known as KITU. *The News Minute* reported that the meeting came amid 'reports of large-scale layoffs in the IT sector'.[67] The union's general secretary was Vineeth, a testing lead at the Bengaluru software firm MindTree. He was also part of the IT Employees Centre, an association that had worked for IT employees' rights in Bengaluru for eight years and had received complaints about layoffs and maternity leave, but had never been registered as a union. 'What is currently happening is that if an employee is facing a problem, they have to fight in their individual capacity and the companies may not listen to them,' he told the reporter. 'The trade union will help them negotiate and bargain with the management, and even fight.'[68]
 
-Others at the meeting spoke in the same terms. Sethumadhavan, a Wipro employee, said: 'As per our Constitution, we have the right to join a union.' The industry, he said, was facing many challenges, among them layoffs and automation, and 'This is the right time to form an organisation'.[67] Akshaya, an IBM employee on the union's executive committee, described the hours: 'sometimes we are given a project that requires us to work 15 hours a day and we are paid just Rs 25 per extra hour.'[68] The union's president, Amanullah Khan, answered the charge that unions held the country back: 'Trade unions are generally seen as anti-social or anti-national.' He said that neither the National Association of Software and Service Companies (Nasscom), the industry's lobby group, nor the government would be pleased. 'But we are not individuals anymore.'[69] The report noted that Mohandas Pai, among others, had opposed unions in the IT sector, on the grounds that they would harm a service industry.[70] It added that the Forum for IT Employees in Chennai had also applied to form a union.[71]
+Others at the meeting spoke in the same terms. Sethumadhavan, a Wipro employee, said: 'As per our Constitution, we have the right to join a union.' The industry, he said, was facing many challenges, among them layoffs and automation, and 'This is the right time to form an organisation'.[69] Akshaya, an IBM employee on the union's executive committee, described the hours: 'sometimes we are given a project that requires us to work 15 hours a day and we are paid just Rs 25 per extra hour.'[70] The union's president, Amanullah Khan, answered the charge that unions held the country back: 'Trade unions are generally seen as anti-social or anti-national.' He said that neither the National Association of Software and Service Companies (Nasscom), the industry's lobby group, nor the government would be pleased. 'But we are not individuals anymore.'[71] The report noted that Mohandas Pai, among others, had opposed unions in the IT sector, on the grounds that they would harm a service industry.[72] It added that the Forum for IT Employees in Chennai had also applied to form a union.[73]
 
-On 7 November 2017 the Karnataka labour commissioner certified KITU's formation under the Trade Unions Act of 1926.[72] Kochhar & Co. called it 'the first trade union in India, officially registered and recognised by the labour department, which is dedicated to the information technology ("IT") sector', with about 250 members by its own claim.[73] The word 'first' needs care. The same note acknowledged that 'unrecognised groups' had already existed, and the IT Employees Centre had been working for eight years before KITU was founded.[74] What is documented is narrower: KITU was the first IT employees' union registered in Karnataka, home to the city the reporter called India's Silicon Valley.
+On 7 November 2017 the Karnataka labour commissioner certified KITU's formation under the Trade Unions Act of 1926.[74] Kochhar & Co. called it 'the first trade union in India, officially registered and recognised by the labour department, which is dedicated to the information technology ("IT") sector', with about 250 members by its own claim.[75] The word 'first' needs care. The same note acknowledged that 'unrecognised groups' had already existed, and the IT Employees Centre had been working for eight years before KITU was founded.[76] What is documented is narrower: KITU was the first IT employees' union registered in Karnataka, home to the city the reporter called India's Silicon Valley.
 
-The pandemic gave such organisations work: a second body, the Nascent Information Technology Employees Senate (NITES), based in Pune, took up the cause of more than 2,000 graduates whom Infosys had recruited on campus in 2022 but not yet brought in, and, as the prologue describes, complained to the Union Ministry of Labour and Employment on 20 August 2024, after which the ministry wrote to the Karnataka government on 3 September and, by the union's account, Infosys issued about 2,000 offer letters with October joining dates on 2 and 3 September.[75] *The News Minute*'s report on the August complaints put the number still waiting for joining dates at about 700, and by the start of October *Deccan Herald* put it at about 500.[76]
+The pandemic gave such organisations work: a second body, the Nascent Information Technology Employees Senate (NITES), based in Pune, took up the cause of more than 2,000 graduates whom Infosys had recruited on campus in 2022 but not yet brought in, and, as the prologue describes, complained to the Union Ministry of Labour and Employment on 20 August 2024, after which the ministry wrote to the Karnataka government on 3 September and, by the union's account, Infosys issued about 2,000 offer letters with October joining dates on 2 and 3 September.[77] *The News Minute*'s report on the August complaints put the number still waiting for joining dates at about 700, and by the start of October *Deccan Herald* put it at about 500.[78]
 
 Neither union's membership in these years is documented in the sources used for this chapter. Their influence is easier to see than their size: complaints that would once have been one graduate's grievance against one company were now reaching a ministry in Delhi.
 
 ## The gate at Mysuru
 
-Recruits who did join went where Infosys recruits had always gone, to the training campus at Mysuru. In February 2025 several hundred of the delayed 2022 batch were let go there: over 300 by Infosys's count, 700 by NITES's.[77] The prologue tells that story, with the company's account, the union's and the dispute over the numbers. Recruits who had waited two years, while the market that had hired them disappeared, met the old gate at a moment when the company needed fewer of them. The training campus had been built to turn graduates into billable engineers. In 2025 it also served as the way out.
+Recruits who did join went where Infosys recruits had always gone, to the training campus at Mysuru. In February 2025 several hundred of the delayed 2022 batch were let go there: over 300 by Infosys's count, 700 by NITES's.[79] The prologue tells that story, with the company's account, the union's and the dispute over the numbers. Recruits who had waited two years, while the market that had hired them disappeared, met the old gate at a moment when the company needed fewer of them. The training campus had been built to turn graduates into billable engineers. In 2025 it also served as the way out.
 
 ## Offices, and the people in them
 
-The bust brought restructuring as well as slower hiring. In the second quarter of 2023 Cognizant began what it called its NextGen programme, 'aimed at simplifying our operating model, optimizing corporate functions and consolidating and realigning office space to reflect the post-pandemic hybrid work environment'.[78] In 2023 the programme cost $115 million in employee separation costs and $114 million in facility exit and other costs, $229 million in all.[79] The company warned that 'Our NextGen program and the associated reductions in headcount and consolidation of office space could disrupt our business'.[80]
+The bust brought restructuring as well as slower hiring. In the second quarter of 2023 Cognizant began what it called its NextGen programme, 'aimed at simplifying our operating model, optimizing corporate functions and consolidating and realigning office space to reflect the post-pandemic hybrid work environment'.[80] In 2023 the programme cost $115 million in employee separation costs and $114 million in facility exit and other costs, $229 million in all.[81] The company warned that 'Our NextGen program and the associated reductions in headcount and consolidation of office space could disrupt our business'.[82]
 
-The pandemic's lesson about place had come round again. In 2020 the firms had learned that the work could leave the campus. In 2023 one of them was giving up offices because hybrid working meant it needed fewer of them, and was cutting staff in the same programme. Infosys, for its part, listed among the risks of its own hybrid model the costs of keeping offices 'safe and hygienic' for those who came back.[81]
+The pandemic's lesson about place had come round again. In 2020 the firms had learned that the work could leave the campus. In 2023 one of them was giving up offices because hybrid working meant it needed fewer of them, and was cutting staff in the same programme. Infosys, for its part, listed among the risks of its own hybrid model the costs of keeping offices 'safe and hygienic' for those who came back.[83]
 
 ## The sentence in the risk factors
 
-The most important single sentence of these years for the rest of this book appeared in Infosys's annual report for FY2023-24, filed in June 2024. In its risk factors, among the familiar warnings about competition and pricing, the company repeated a line it had carried in each annual report since 2020: 'due to competitive market conditions and pricing pressures, we are committing to higher productivity improvements in our contracts with our clients.' Then it added a new one: 'Due to the attention created by the code generation capabilities of AI technologies, clients have demanded higher commitments around productivity improvements.'[82] If those promised gains did not materialise, the filing said, the company's profitability could suffer.[83]
+The most important single sentence of these years for the rest of this book appeared in Infosys's annual report for FY2023-24, filed in June 2024. In its risk factors, among the familiar warnings about competition and pricing, the company repeated a line it had carried in each annual report since 2020: 'due to competitive market conditions and pricing pressures, we are committing to higher productivity improvements in our contracts with our clients.' Then it added a new one: 'Due to the attention created by the code generation capabilities of AI technologies, clients have demanded higher commitments around productivity improvements.'[84] If those promised gains did not materialise, the filing said, the company's profitability could suffer.[85]
 
-The sentence is short, and it is easy to read too much into it. It does not say that artificial intelligence had cut Infosys's hiring, and the same filing pointed elsewhere when it described pressure on demand, warning that clients 'may become cautious and reduce their discretionary spending in the short term or delay their decision-making process'.[84] Whether the fall in offers from 222,500 to 26,975 owed anything to AI is weighed in Chapter 19, which also follows how the sentence changed in later reports.
+The sentence is short, and it is easy to read too much into it. It does not say that artificial intelligence had cut Infosys's hiring, and the same filing pointed elsewhere when it described pressure on demand, warning that clients 'may become cautious and reduce their discretionary spending in the short term or delay their decision-making process'.[86] Whether the fall in offers from 222,500 to 26,975 owed anything to AI is weighed in Chapter 19, which also follows how the sentence changed in later reports.
 
-What the sentence does show is narrower and, for the book's argument, sharper. Clients had read about software that writes code. They had asked their Indian suppliers to commit, in contract, to doing the same work with less effort, and the supplier bore the risk if the gains did not come. Under time-and-materials billing, a productivity gain that the client captures means fewer billable hours. Under a fixed-price contract, it means a lower price for the same result. Either way the first share of the gain goes to the client, and the firm keeps something only if it beats its own promise. The same filing said that Infosys had 'made significant investments in building our capabilities and training our employees in emerging technologies like Artificial Intelligence (AI), generative AI and cloud technologies', and noted that many larger competitors had done the same.[85]
+What the sentence does show is narrower and, for the book's argument, sharper. Clients had read about software that writes code. They had asked their Indian suppliers to commit, in contract, to doing the same work with less effort, and the supplier bore the risk if the gains did not come. Under time-and-materials billing, a productivity gain that the client captures means fewer billable hours. Under a fixed-price contract, it means a lower price for the same result. Either way the first share of the gain goes to the client, and the firm keeps something only if it beats its own promise. The same filing said that Infosys had 'made significant investments in building our capabilities and training our employees in emerging technologies like Artificial Intelligence (AI), generative AI and cloud technologies', and noted that many larger competitors had done the same.[87]
 
 The pandemic years had shown three things about the engineer factory. Its intake was set by clients' discretionary spending, not by the number of graduates: offers at one firm had risen four and a half times in a year and then fallen by nearly nine-tenths in two. Its workers, for a brief period, had the upper hand, and used it by leaving, by moonlighting and, in small numbers, by organising. And its work no longer needed a particular place. By 2024 the clients were asking whether it needed the same number of hours. For forty years the Indian services firms had grown by selling their engineers' time. Now they were being asked, in writing, to promise that the time would shrink.
 
@@ -6323,35 +6549,35 @@ The pandemic years had shown three things about the engineer factory. Its intake
 
 [36] Wipro, 20-F FY2022, Item 5.
 
-[37] Tata Consultancy Services, fact sheets and annual reports; Infosys, annual reports and fact sheets (quarterly fact sheets not obtained).
+[37] Infosys, Forms 6-K, Q4 results filings (2020-2024), Form 6-K, Ex. 99.5, transcript of the Q4 FY2020 earnings call, 20 April 2020 (accession 0001067491-20-000029): 'Attrition on a standalone basis was slightly higher at 18.2%; however, voluntary attrition reduced further to 15.1% from 15.6% last quarter'; Ex. 99.5, Q4 FY2021 call, 14 April 2021 (0001067491-21-000030): 'Voluntary attrition for IT services calculated on annualized basis increased to 15.2% as demand for talent increased.' Company statements to investors; transcripts unpaginated.
 
-[38] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (pandemic demand for talent; Moneycontrol study as relayed by *HR Katha*, 1 June 2022; study method not read).
+[38] Infosys, Forms 6-K, Q4 results filings (2020-2024), Ex. 99.5, Q4 FY2022 call, 13 April 2022 (0001067491-22-000020): 'Voluntary LTM attrition increased to 27.7%'; Ex. 99.5, Q4 FY2023 call, 13 April 2023 (0001067491-23-000027): 'LTM voluntary attrition declined to 20.9%'; Ex. 99.4, Fact Sheet Q4 FY2024, 18 April 2024 (0001067491-24-000016), row 'Voluntary Attrition % (LTM - IT Services)': 12.6% (March 2024), 20.9% (March 2023). LTM = last twelve months. The basis changes between FY2021 (quarterly, annualised) and FY2022 (LTM). Earlier fact sheets are filed as images only. The series is in the data appendix.
 
-[39] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (conversion at calendar-year average rates, Rs 53.44 per dollar in 2012 and Rs 78.60 in 2022).
+[39] Tata Consultancy Services, fact sheets and annual reports (TCS quarterly fact sheets for FY2019-20 to FY2023-24 not obtained).
 
-[40] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); OECD, Consumer Price Indices, India (deflated by the India CPI series: Rs 4.77 lakh and Rs 3.89 lakh in 2024 rupees; calculation by the author).
+[40] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (pandemic demand for talent; Moneycontrol study as relayed by *HR Katha*, 1 June 2022; study method not read).
 
-[41] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (Moneycontrol study as relayed by *HR Katha*, 1 June 2022; study method not read).
+[41] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (conversion at calendar-year average rates, Rs 53.44 per dollar in 2012 and Rs 78.60 in 2022).
 
-[42] Cognizant, 10-K FY2021, Item 1; 10-K FY2023, Item 1.
+[42] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); OECD, Consumer Price Indices, India (deflated by the India CPI series: Rs 4.77 lakh and Rs 3.89 lakh in 2024 rupees; calculation by the author).
 
-[43] Infosys, Form 20-F FY2024, Item 6.
+[43] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (Moneycontrol study as relayed by *HR Katha*, 1 June 2022; study method not read).
 
-[44] *Business Today*, 'Wipro Fires 300 Employees' (2022).
+[44] Cognizant, 10-K FY2021, Item 1; 10-K FY2023, Item 1.
 
-[45] *Business Today*, 'Wipro Fires 300 Employees' (2022).
+[45] Infosys, Form 20-F FY2024, Item 6.
 
 [46] *Business Today*, 'Wipro Fires 300 Employees' (2022).
 
-[47] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
+[47] *Business Today*, 'Wipro Fires 300 Employees' (2022).
 
-[48] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
+[48] *Business Today*, 'Wipro Fires 300 Employees' (2022).
 
-[49] Cognizant, 10-K FY2022, Item 1A.
+[49] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
 
-[50] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+[50] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
 
-[51] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+[51] Cognizant, 10-K FY2022, Item 1A.
 
 [52] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
 
@@ -6361,65 +6587,69 @@ The pandemic years had shown three things about the engineer factory. Its intake
 
 [55] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
 
-[56] Infosys, Form 20-F FY2022, Item 6; Infosys, Form 20-F FY2023, Item 6; Infosys, Form 20-F FY2024, Items 4 and 6.
+[56] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
 
-[57] Infosys, Form 20-F FY2024, Item 6.
+[57] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
 
-[58] Wipro, 20-F FY2024, Item 6.
+[58] Infosys, Form 20-F FY2022, Item 6; Infosys, Form 20-F FY2023, Item 6; Infosys, Form 20-F FY2024, Items 4 and 6.
 
-[59] Cognizant, 10-K FY2023, Item 1.
+[59] Infosys, Form 20-F FY2024, Item 6.
 
-[60] Cognizant, 10-K FY2023, Item 7.
+[60] Wipro, 20-F FY2024, Item 6.
 
-[61] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+[61] Cognizant, 10-K FY2023, Item 1.
 
-[62] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+[62] Cognizant, 10-K FY2023, Item 7.
 
 [63] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
 
 [64] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
 
-[65] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+[65] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
 
-[66] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+[66] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
 
 [67] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
 
 [68] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
 
-[69] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017); Hanna, *Exploiting Information Technology for Development* (1994), p. 105 (Nasscom's full name).
+[69] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
 
 [70] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
 
-[71] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+[71] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017); Hanna, *Exploiting Information Technology for Development* (1994), p. 105 (Nasscom's full name).
 
-[72] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+[72] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
 
-[73] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+[73] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
 
-[74] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024); Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017) (IT Employees Centre; 'India's Silicon Valley').
+[74] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
 
-[75] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (*The News Minute*, 6 September 2024: complaints of 20 August, ministry directive of 3 September); Ganeshan, '"Thrown on the Road"' (2025) (offer letters on 2 and 3 September 2024, according to NITES).
+[75] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
 
-[76] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (about 700 still waiting); Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (*Deccan Herald*, 2 October 2024: 'the remaining 500').
+[76] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024); Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017) (IT Employees Centre; 'India's Silicon Valley').
 
-[77] Press reports on the NITES complaint against Infosys (2024-2025) (*Deccan Herald*, February 2025: Infosys's 'over 300', NITES's 700).
+[77] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (*The News Minute*, 6 September 2024: complaints of 20 August, ministry directive of 3 September); Ganeshan, '"Thrown on the Road"' (2025) (offer letters on 2 and 3 September 2024, according to NITES).
 
-[78] Cognizant, 10-K FY2023, Item 1A.
+[78] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (about 700 still waiting); Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (*Deccan Herald*, 2 October 2024: 'the remaining 500').
 
-[79] Cognizant, 10-K FY2023, Items 1A and 7.
+[79] Press reports on the NITES complaint against Infosys (2024-2025) (*Deccan Herald*, February 2025: Infosys's 'over 300', NITES's 700).
 
 [80] Cognizant, 10-K FY2023, Item 1A.
 
-[81] Infosys, Form 20-F FY2023, Item 3.
+[81] Cognizant, 10-K FY2023, Items 1A and 7.
 
-[82] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2020, Item 3; Infosys, Form 20-F FY2021, Item 3; Infosys, Form 20-F FY2022, Item 3; Infosys, Form 20-F FY2023, Item 3 (earlier appearances of the 'committing to higher productivity improvements' sentence).
+[82] Cognizant, 10-K FY2023, Item 1A.
 
-[83] Infosys, Form 20-F FY2024, Item 3.
+[83] Infosys, Form 20-F FY2023, Item 3.
 
-[84] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2023, Item 3 (the same risk, there following a passage on clients' Russian operations and the conflict in Eastern Europe).
+[84] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2020, Item 3; Infosys, Form 20-F FY2021, Item 3; Infosys, Form 20-F FY2022, Item 3; Infosys, Form 20-F FY2023, Item 3 (earlier appearances of the 'committing to higher productivity improvements' sentence).
 
 [85] Infosys, Form 20-F FY2024, Item 3.
+
+[86] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2023, Item 3 (the same risk, there following a passage on clients' Russian operations and the conflict in Eastern Europe).
+
+[87] Infosys, Form 20-F FY2024, Item 3.
 
 
 
@@ -6539,17 +6769,19 @@ The traffic was already falling before the fee. The National Foundation for Amer
 
 On 18 September 2026 a second proclamation, 11069, extended the restriction to 21 September 2027.[115] Its preamble gave the administration's account of the first year. The $100,000 payment had been made for 'over 700 petitions'.[116] A new rule had weighted the H-1B lottery towards higher-paid workers for the 2027 season.[117] And 'the largest IT staffing and outsourcing firms' had cut 'their combined H-1B registrations from 24,946 to 2,055, a 92 percent decrease'.[118] The firms were not named, and the years compared are not stated in that sentence; the next sentence, on a different measure, compares the 2025 and 2027 application seasons.[119] These are a party's figures, offered to justify the policy. If they are right, the route that carried Indian engineers to American client sites for three decades had nearly closed for the outsourcing firms within a year.
 
-Then the courts intervened, and here precision matters, because the sources disagree. On 8 June 2026 Judge Leo T. Sorokin of the US District Court for the District of Massachusetts ruled in a suit brought by a coalition of states. According to a summary by the law firm Clark Hill, he held that the $100,000 fee was unlawful: in effect a tax that only Congress could impose, and a breach of the Administrative Procedure Act and of the separation of powers. Clark Hill described the decision as vacating the proclamation itself.[120] A later summary by DiRaimondo & Schroeder, another immigration law firm, described the same ruling as vacating 'the implementing policies', the agencies' rules for collecting the fee, and said the appeals court had refused to let the fee take effect while the government appealed.[121] On 30 September 2026, in *Global Nurse Force v. Trump*, Judge Haywood S. Gilliam Jr. of the Northern District of California in an early-stage ruling vacated the agency policies implementing both proclamations, because they had been issued without the public notice and comment the law requires. That firm wrote: 'The Court did not strike down the President's orders themselves.'[122] The court orders were not read for this book. The two firms agree that the Massachusetts court held the fee unlawful; they differ on whether it vacated the proclamation or only the agencies' policies. The later summary is the only source read for the position in October: by then, it said, two federal courts had blocked the collection of the fee, and the government was appealing the Massachusetts ruling. Separately, the Department of Homeland Security had proposed a fee of about $103,000 for certain H-1B petitions, through the formal rule-making process that the courts said had been skipped.[123] The matter was unsettled when this chapter was written.
+Then the courts intervened. Early summaries by law firms disagreed about what the first ruling had done; the court orders themselves, checked for this book in October 2026, settle the point. On 8 June 2026 Judge Leo T. Sorokin of the US District Court for the District of Massachusetts decided a suit brought by twenty states against federal departments and officials 'for their role in implementing the Proclamation'.[120] He found that the agencies' policy 'imposes a tax on H-1B petitions without the requisite delegation by Congress', a breach of the separation of powers. He also found that it broke the Administrative Procedure Act (APA), the law that governs how federal agencies make rules, in three ways: it had been issued without public notice and comment, it exceeded the fee-setting authority Congress had given the agencies, and it was arbitrary and capricious.[121] His remedy was aimed at the agencies, not the President: 'The Policy implementing the Proclamation is declared unlawful and is VACATED in its entirety.'[122] The judgment listed ten agency documents, among them memoranda of 20 September 2025, the agencies' question-and-answer pages, a fee schedule and the website for paying the fee, each vacated 'insofar as they impose a $100,000 payment obligation on H-1B petitions'.[123] Proclamation 10973 itself was not vacated, and one early summary which said that it was, by the law firm Clark Hill, was wrong on that point.[124] The government appealed, and the Court of Appeals for the First Circuit refused its request to suspend the order in the meantime.[125]
+
+The courts did not all agree. In 2025 the federal district court in Washington, DC, in a case brought by the Chamber of Commerce, had upheld the proclamation and its fee, and that decision was itself on appeal.[126] On 30 September 2026, in *Global Nurse Force v. Trump*, Judge Haywood S. Gilliam Jr. of the Northern District of California granted preliminary relief, the interim protection a court can give before a case is decided. He began by saying the case was 'not about whether the challenged Proclamation is good or bad'.[127] He found the challengers likely to show that the agency policies were arbitrary and capricious and had been adopted without notice and comment. He vacated the policies, sent them back to the agencies, and barred the agencies from enforcing policies made under Proclamations 10973 and 11069 'until notice-and-comment rulemaking under the APA and regulatory flexibility analyses' had been carried out. In his words, after the Massachusetts ruling 'the $100,000 fee is no longer in effect'.[128] The government appealed this order too, to the Ninth Circuit.[129] By mid-October 2026, then, the fee could not be collected, while both proclamations stood and three appeals were pending. Separately, according to the immigration law firm DiRaimondo & Schroeder, the Department of Homeland Security had proposed a fee of about $103,000 for certain H-1B petitions, through the formal rule-making process that the courts said had been skipped.[130] The matter was unsettled when this chapter was written.
 
 ## The state builds a model
 
-The Indian state answered the AI question as it had answered identity and payments (Chapters 16 and 17), by building. The IndiaAI Mission was launched in March 2024 with an outlay of Rs 10,372 crore (Rs 103.7 billion, about $1.25 billion at the year's average rate), for computing capacity, data, models and research.[124] It selected twelve organisations and consortia to build foundation models, the large general-purpose models on which applications are built.[125] The first was Sarvam AI, founded in August 2023 by Vivek Raghavan and Pratyush Kumar, both graduates of the IITs.[126] On 26 April 2025, according to the trade journal *tele.net*, Sarvam was chosen to build 'an open source 120 billion parameter' model (parameters are the adjustable values in a model, a rough measure of its size), out of 506 proposals received by the end of that month; three more start-ups, Soket AI, Gnani AI and Gan AI, were chosen later.[127] The minister for electronics and information technology, Ashwini Vaishnaw, said: 'We are confident that Sarvam's models will be competitive with global models.'[128]
+The Indian state answered the AI question as it had answered identity and payments (Chapters 16 and 17), by building. The IndiaAI Mission was launched in March 2024 with an outlay of Rs 10,372 crore (Rs 103.7 billion, about $1.25 billion at the year's average rate), for computing capacity, data, models and research.[131] It selected twelve organisations and consortia to build foundation models, the large general-purpose models on which applications are built.[132] The first was Sarvam AI, founded in August 2023 by Vivek Raghavan and Pratyush Kumar, both graduates of the IITs.[133] On 26 April 2025, according to the trade journal *tele.net*, Sarvam was chosen to build 'an open source 120 billion parameter' model (parameters are the adjustable values in a model, a rough measure of its size), out of 506 proposals received by the end of that month; three more start-ups, Soket AI, Gnani AI and Gan AI, were chosen later.[134] The minister for electronics and information technology, Ashwini Vaishnaw, said: 'We are confident that Sarvam's models will be competitive with global models.'[135]
 
-At the India AI Impact Summit in February 2026 Sarvam unveiled two models, Sarvam-30B and Sarvam-105B.[129] The second is smaller than the 120 billion parameters announced in 2025, and the government's own release would be needed to know what was contracted. Debarghya Sil of *Inc42* judged the models competitive in their size class and strong on Indian languages, but behind the frontier models of OpenAI, Anthropic, Google and Meta in 'raw reasoning depth'.[130] Raghavan called the launches a 'significant first step'.[131] The state was not trying to replace the services industry with a model of its own. It was trying to make sure that the country that had supplied so much of the world's programming labour owned some of the machines that were starting to do it.
+At the India AI Impact Summit in February 2026 Sarvam unveiled two models, Sarvam-30B and Sarvam-105B.[136] The second is smaller than the 120 billion parameters announced in 2025, and the government's own release would be needed to know what was contracted. Debarghya Sil of *Inc42* judged the models competitive in their size class and strong on Indian languages, but behind the frontier models of OpenAI, Anthropic, Google and Meta in 'raw reasoning depth'.[137] Raghavan called the launches a 'significant first step'.[138] The state was not trying to replace the services industry with a model of its own. It was trying to make sure that the country that had supplied so much of the world's programming labour owned some of the machines that were starting to do it.
 
 ## More coders than ever
 
-In October 2025 GitHub, the code-hosting service, published its annual *Octoverse* report. As reported by Joe Fay in *The Register*, it projected that India would add more than 35.6 million developers on the platform by 2030, reaching 57.5 million or more and overtaking the United States, projected at 54.7 million.[132] It also said that 80 per cent of new users began using its AI coding assistant, Copilot, in their first week, which GitHub described as 'part of the default developer experience'.[133] These are a company's figures about its own platform. A GitHub account is not a job, and the projection is not a count of engineers.
+In October 2025 GitHub, the code-hosting service, published its annual *Octoverse* report. As reported by Joe Fay in *The Register*, it projected that India would add more than 35.6 million developers on the platform by 2030, reaching 57.5 million or more and overtaking the United States, projected at 54.7 million.[139] It also said that 80 per cent of new users began using its AI coding assistant, Copilot, in their first week, which GitHub described as 'part of the default developer experience'.[140] These are a company's figures about its own platform. A GitHub account is not a job, and the projection is not a count of engineers.
 
 Even so, the two numbers belong together. More Indians were writing code than at any point in the history this book has traced, and most of the newest of them were writing it with a machine at their elbow. The industry that had been built on selling their hours was telling its regulators that clients would buy fewer of them. The colleges were still producing graduates on the scale set in Chapter 12, and the regulator was promising to teach them AI. Washington had tried to price the old route to America out of reach, and the courts had so far stopped it. The state was building models of its own. None of these lines had reached an end by the autumn of 2026. Where they might lead by 2035 is not a matter of record, and the epilogue sets out several possible answers as scenarios, each tied to the evidence of the chapters before it.
 
@@ -6794,33 +7026,47 @@ Even so, the two numbers belong together. More Indians were writing code than at
 
 [119] Proclamation 11069 (2026), p. 60498; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[120] Law-firm summaries of the H-1B fee litigation (2026) (Clark Hill, 9 June 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[120] *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 1 (*State of California v. Mullin*, Civ. No. 25-13829-LTS, D. Mass., Memorandum and Order, Doc. 106, 8 June 2026); checked against the court record on 15 October 2026; post-cutoff material.
 
-[121] Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[121] *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 26 (tax; separation of powers, Count IV), p. 32 (no notice and comment, Count I), p. 33 (excess of statutory authority, Count II), p. 36 (arbitrary and capricious, Count III); checked against the court record on 15 October 2026; post-cutoff material.
 
-[122] Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[122] *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 42; also p. 41 ('the Court VACATES the Policy materials implementing the Proclamation's $100,000 payment requirement'); checked against the court record on 15 October 2026; post-cutoff material.
 
-[123] Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[123] *California v. Mullin*, D. Mass., Judgment (8 June 2026), pp. 1-2 (Judgment, Doc. 107, 8 June 2026, para. 3, items (i)-(x)); *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 6 (the CBP and USCIS memoranda of 20 September 2025); checked against the court record on 15 October 2026; post-cutoff material.
 
-[124] Sil, 'Sarvam and the Sovereign AI Dream' (2026); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[124] Law-firm summaries of the H-1B fee litigation (2026) (Clark Hill, 9 June 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[125] Sil, 'Sarvam and the Sovereign AI Dream' (2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[125] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 2 (*Global Nurse Force v. Trump*, No. 25-cv-08454-HSG, N.D. Cal., Order, Dkt. 130, 30 September 2026, citing *California v. Mullin*, 183 F.4th 42, 46-52 (1st Cir. 2026), stay pending appeal denied); checked against the court record on 15 October 2026; post-cutoff material.
 
-[126] Sil, 'Sarvam and the Sovereign AI Dream' (2026); tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[126] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 2 (citing *Chamber of Commerce v. DHS*, 815 F. Supp. 3d 73, 79 (D.D.C. 2025), 'currently on appeal' in the D.C. Circuit); checked against the court record on 15 October 2026; post-cutoff material.
 
-[127] tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025).
+[127] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 33 (preliminary injunction granted in part 'to the extent they seek vacatur of the Agency Policies'); checked against the court record on 15 October 2026; post-cutoff material.
 
-[128] *Business Today*, 'India Selects Sarvam to Build Sovereign AI Model' (2025).
+[128] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 34 (Conclusion; 'no longer in effect' in the class-certification ruling on the same page); merits at pp. 26-30 (arbitrary and capricious, p. 27; notice and comment, pp. 27-30); checked against the court record on 15 October 2026; post-cutoff material.
 
-[129] Sil, 'Sarvam and the Sovereign AI Dream' (2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[129] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026) (Ninth Circuit preliminary injunction time schedule notice, Dkt. 138, filed 9 October 2026: appeal no. 26-6667, Donald J. Trump et al. as appellants); checked against the court record on 15 October 2026; post-cutoff material.
 
-[130] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (the magazine's assessment, based partly on the company's own evaluations); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[130] Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[131] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (as reported); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[131] Sil, 'Sarvam and the Sovereign AI Dream' (2026); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[132] GitHub, *Octoverse 2025*; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[132] Sil, 'Sarvam and the Sovereign AI Dream' (2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[133] GitHub, *Octoverse 2025*; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[133] Sil, 'Sarvam and the Sovereign AI Dream' (2026); tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+
+[134] tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025).
+
+[135] *Business Today*, 'India Selects Sarvam to Build Sovereign AI Model' (2025).
+
+[136] Sil, 'Sarvam and the Sovereign AI Dream' (2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+
+[137] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (the magazine's assessment, based partly on the company's own evaluations); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+
+[138] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (as reported); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+
+[139] GitHub, *Octoverse 2025*; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+
+[140] GitHub, *Octoverse 2025*; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
 
 # Epilogue. India in 2035
@@ -6901,7 +7147,7 @@ The counter-evidence is about the numbers themselves. Every GCC figure comes fro
 
 The fourth scenario supposes that barriers abroad and ambitions at home turn the industry inward, with the Indian state as builder and buyer.
 
-The route that carried Indian engineers to American client sites since the 1990s was the H-1B visa, the subject of Chapter 13. Chapter 19 told how a presidential proclamation of September 2025 put a price of $100,000 on new petitions, how the administration claimed a 92 per cent fall in the largest outsourcing firms' registrations, and how by early October 2026 two federal courts had ruled against the fee or its implementing policies, so that the route was contested rather than closed.[46] The Indian firms' approved petitions had begun to fall before the fee, by the count of the National Foundation for American Policy, a pro-immigration research group.[47]
+The route that carried Indian engineers to American client sites since the 1990s was the H-1B visa, the subject of Chapter 13. Chapter 19 told how a presidential proclamation of September 2025 put a price of $100,000 on new petitions, how the administration claimed a 92 per cent fall in the largest outsourcing firms' registrations, and how by October 2026 two federal courts had vacated the agencies' policies for collecting the fee, though not the proclamations themselves, while a third court had upheld it, so that the route was contested rather than closed.[46] The Indian firms' approved petitions had begun to fall before the fee, by the count of the National Foundation for American Policy, a pro-immigration research group.[47]
 
 At home, the state has a record of building at population scale. Chapters 16 and 17 told how it built Aadhaar, the biometric identity system, and UPI, the payments network, and asked why India's largest platforms came from the state rather than from private product firms. Chapter 19 followed the IndiaAI Mission of 2024 and the start-up Sarvam's first foundation models, the large general-purpose AI systems on which applications are built.[48] The NITI roadmap proposes an 'India Open-Source AI Commons' and a 'federated national compute and innovation grid'.[49] Nasscom reported that domestic revenue was set to grow 7.9 per cent in the year to March 2026, faster than the industry as a whole.[50]
 
@@ -7024,7 +7270,7 @@ None of the evidence in this book says which future will come. It says that the 
 
 [45] Nasscom, Strategic Review 2025 press release (2025) (note to editors); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
-[46] Proclamation 10973 (2025), p. 46027; Proclamation 11069 (2026), p. 60498; Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[46] Proclamation 10973 (2025), p. 46027; Proclamation 11069 (2026), p. 60498; *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 42; *California v. Mullin*, D. Mass., Judgment (8 June 2026); *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 34; checked against the court record on 15 October 2026; post-cutoff material.
 
 [47] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 5 (Table 1); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
 
@@ -7758,9 +8004,9 @@ Full file: `book/research/data/fresher_pay.csv`.
 
 **Definition and unit.** Per cent. Each row states the firm's own definition: total or voluntary attrition, with or without subsidiaries, IT services only, trailing twelve months.
 
-**Coverage.** Infosys attrition FY2005-06 to FY2011-12 and women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and the quarter to September 2026.
+**Coverage.** Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and the quarter to September 2026.
 
-**Sources.** Infosys 20-F (S0265, S0271, S0272, S0266, S0291); Cognizant 10-K (S0293, S0192, S0299); TCS (S0160, S0310).
+**Sources.** Infosys 20-F (S0265, S0271, S0272, S0266, S0291) and 6-K results filings (S0381); Cognizant 10-K (S0293, S0192, S0299); TCS (S0160, S0310).
 
 **Caveats.** Definitions differ between firms and change over time; rows with different definitions must not be compared. Cognizant switched its headline measure in its 10-K for 2023 from total to voluntary attrition in technology services, so 2022 appears on both bases. The Infosys women's figure is 'nearly 40%'.
 
@@ -7770,7 +8016,11 @@ Full file: `book/research/data/fresher_pay.csv`.
 | Infosys | FY2007-08 | 13.4% | Comparable, excluding BPO and subsidiaries | |
 | Infosys | FY2010-11 | 17.0% | Twelve months to 31 March | |
 | Infosys | FY2011-12 | 14.7% | Twelve months to 31 March | |
-| Infosys | FY2023-24 | | | nearly 40% |
+| Infosys | FY2019-20 | 15.1% | Voluntary, standalone, fourth quarter | |
+| Infosys | FY2020-21 | 15.2% | Voluntary, IT services, fourth quarter annualised | |
+| Infosys | FY2021-22 | 27.7% | Voluntary, last twelve months | |
+| Infosys | FY2022-23 | 20.9% | Voluntary, last twelve months, IT services | |
+| Infosys | FY2023-24 | 12.6% | Voluntary, last twelve months, IT services | 39.3% |
 | Cognizant | 2020 | 20.6% | Total | 36% |
 | Cognizant | 2021 | 30.8% | Total | 38% |
 | Cognizant | 2022 | 31.7% | Total | 38% |
@@ -7972,6 +8222,7 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 
 ## Primary sources
 
+- '(ee).' 'ICL und Ostblockrechner stoßen in eine Lücke: IBMs provozierter Rückzug bringt Indien nichts als Ungemach.' *Computerwoche*, 14 April 1978. https://www.computerwoche.de/article/2885076/icl-und-ostblockrechner-stossen-in-eine-luecke-ibms-provozierter-rueckzug-bringt-indien-nichts-als-ungemach.html. [S0361]
 - AICTE. Model curricula for B.Tech CSE (AI&ML) and CSE (AI&DS); 2025 'Year of AI' announcements on integrating AI into core branches. https://www.aicte.gov.in/education/model-syllabus; https://digitallearning.eletsonline.com/2025/01/aicte-to-revolutionise-engineering-education-by-embedding-ai-across-core-disciplines-in-2025/. [S0145]
 - Amazon. 'Owned and loving it.' Amazon India blog, August 2019. https://www.aboutamazon.in/news/job-creation-investment/owned-and-loving-it. [S0201]
 - Anonymous. 'Working life, interviews and leaflets in Delhi's call centre cluster, 2006.' prol-position report, posted on libcom.org 5 January 2007. https://libcom.org/article/working-life-interviews-and-leaflets-delhis-call-centre-cluster-2006. [S0273]
@@ -7987,8 +8238,14 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Cognizant Technology Solutions Corp. Form 10-K for fiscal year 2012 (accession 0001193125-13-077271). https://www.sec.gov/Archives/edgar/data/1058290/000119312513077271/d450416d10k.htm. [S0277]
 - Cognizant Technology Solutions Corp. Form 10-K for FY2024, US SEC (filed 2025). https://www.sec.gov/Archives/edgar/data/1058290/000105829025000017/ctsh-20241231.htm. [S0192]
 - Cognizant Technology Solutions Corp. Forms 10-K for fiscal years 2021, 2022 and 2023 (accessions 0001058290-22-000023; 0001058290-23-000027; 0001058290-24-000017). https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001058290&type=10-K. [S0293]
+- Comptroller and Auditor General of India. *Performance Audit on Functioning of Unique Identification Authority of India*, Report No. 24 of 2021 (MeitY), 108 pp. https://d7i5wg8xwe4hf.cloudfront.net/uploads/download_audit_report/2021/24%20of%202021_UIDAI-0624d8136a02d72.65885742.pdf. [S0128]
+- Computer History Museum. 'Oral History of Arjun Malhotra.' Interviewed by Uday Kapoor and Douglas Fairbairn, Mountain View, 15 November 2018. CHM Ref. X8840.2019; transcript cat. 102740453 (video 102740454). 37 pp. https://s3.us-west-1.wasabisys.com/chm-cms-media/media-live/_file/import/102740453-05-01-acc.pdf. [S0358]
 - Computer History Museum. 'Oral History of FC Kohli.' Interviewed by Uday Kapoor, audio recorded Mumbai, 15 January 2020. CHM Ref. X9237.2020, catalogue 102792004. 8 pp. (transcript pages cited by order). https://s3.us-west-1.wasabisys.com/chm-cms-media/media-live/_file/import/102792004-05-01-acc.pdf. [S0036]
+- Computer History Museum. 'Oral History of Harry Huskey.' Interviewed by William Aspray, 7 February 2006. Transcript, 46 pp. CHM cat. 102657983. https://archive.computerhistory.org/resources/access/text/2013/05/102657983-05-01-acc.pdf. [S0033]
+- Computer History Museum. 'Oral History of N. R. Narayana Murthy' [Part 1]. Interviewed by David C. Brock and Uday Kapoor, Mountain View, 13 May 2018. CHM Ref. X8632.2018; cat. 102740329. 16 pp. https://archive.computerhistory.org/resources/access/text/2019/03/102740329-05-01-acc.pdf. [S0035]
 - Computer History Museum. 'Oral History of N.R. Narayana Murthy, Part 2 of 2.' Interviewed by David C. Brock and Uday Kapoor, Bangalore, 8 January 2020. CHM ref. X8632.2018. 25 pp. https://archive.computerhistory.org/resources/access/text/2020/09/102791998-05-01-acc.pdf. [S0034]
+- Computer History Museum. 'Oral History of Nandan Nilekani.' Interviewed by David C. Brock and Uday Kapoor, Bangalore, 8 January 2020 [title page says 2019; ref. X9234.2020]. Cat. 102791996. 24 pp. https://archive.computerhistory.org/resources/access/text/2021/06/102791996-05-01-acc.pdf. [S0360]
+- Computer History Museum. 'Oral History of Natarajan Chandrasekaran.' Interviewed by Uday Kapoor, Mumbai, 15 January 2020. CHM Ref. X9236.2020; cat. 102792002. 19 pp. (footer misprints 'Page 17 of 17'; cite PDF page). https://s3.us-west-1.wasabisys.com/chm-cms-media/media-live/_file/import/102792002-05-01-acc.pdf. [S0359]
 - Congressional Research Service. 'The H-1B Visa for Specialty Occupation Workers.' In Focus IF12912, 2025; and RL30498 (2003 version, Immigration: Legislative Issues on Nonimmigrant Professional Specialty (H-1B) Workers). https://www.congress.gov/crs_external_products/IF/PDF/IF12912/IF12912.2.pdf; https://www.everycrsreport.com/files/20030617_RL30498_bfa33250f0605d88be5e5aa4b10c7ba2a72b4312.pdf. [S0105]
 - Dobbs, Lou. *Exporting America: Why Corporate Greed Is Shipping American Jobs Overseas*. New York: Warner Business Books, 2004. https://www.cioinsight.com/?p=23651. [S0112]
 - EPAM Systems, Inc. Form 10-K for FY2024 (filed 2025) and FY2021 (filed February 2022), US SEC. https://www.sec.gov/Archives/edgar/data/1352010/000135201025000007/epam-20241231.htm; https://www.sec.gov/Archives/edgar/data/1352010/000135201022000017/epam-20220224.htm. [S0170]
@@ -7997,6 +8254,7 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Freshworks Inc. Final prospectus (Form 424B4), 22 September 2021. https://www.sec.gov/Archives/edgar/data/1544522/000162828021019055/freshworks424b4.htm. [S0284]
 - Freshworks Inc. Form S-1 Registration Statement, US SEC, filed 27 August 2021. https://www.sec.gov/Archives/edgar/data/1544522/000162828021017717/freshworkss-1.htm. [S0173]
 - GitHub. *Octoverse 2025* report (October 2025); coverage by *The Register*, 29 October 2025. https://www.theregister.com/2025/10/29/india_devs_github/. [S0146]
+- *Global Nurse Force v. Trump*, No. 25-cv-08454-HSG (N.D. Cal.), Order granting in part PI motion, denying class certification and motion to dismiss (Dkt. 130), Gilliam J., 30 September 2026, 35 pp.; plus Ninth Circuit notice, appeal no. 26-6667 (Dkt. 138, 9 Oct 2026). https://storage.courtlistener.com/recap/gov.uscourts.cand.457426/gov.uscourts.cand.457426.130.0.pdf. [S0377]
 - Gopalakrishnan, P. and K.S. Narayanan. *Computers in India: An Overview*. Bombay: Popular Prakashan for the Administrative Staff College of India, 1975. c. 159 pp. https://discovery.nypl.org/research/research-catalog/bib/b10396050. [S0041]
 - Government of India, Ministry of Human Resource Development. *National Policy on Education 1986: Programme of Action 1992*. New Delhi, 1992. 144 pp. (PDF). https://dbuniversity.ac.in/pdfs/ncte/14-poa1986.pdf. [S0243]
 - Government of India, Ministry of Labour and Rehabilitation. *Report of the Committee on Automation*. Delhi: Manager of Publications, 1972. 168 pp. Signed 18 May 1972. Committee set up by Resolution 31/7/68 LRIV of 19 July 1969 under R. Venkataraman; chaired from 24 July 1971 by V.M. Dandekar. https://dspace.gipe.ac.in/xmlui/bitstream/handle/10973/52077/GIPE-146834.pdf. [S0020]
@@ -8017,7 +8275,7 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Infosys Ltd. Annual Report on Form 20-F for fiscal year 2025 (filed 1 July 2025; acc. 0000950170-25-091925). https://www.sec.gov/Archives/edgar/data/1067491/000095017025091925/. [S0296]
 - Infosys Ltd. Annual Report on Form 20-F for fiscal year 2026 (filed 15 June 2026; acc. 0001193125-26-270520). https://www.sec.gov/Archives/edgar/data/1067491/000119312526270520/. [S0297]
 - Infosys Ltd. Annual Report on Form 20-F for fiscal year ended 31 March 2012 (accession 0001067491-12-000015). https://www.sec.gov/Archives/edgar/data/1067491/000106749112000015/form20f.htm. [S0266]
-- Infosys Ltd. Annual reports and Form 20-F filings, FY1999-FY2026; quarterly fact sheets. https://www.infosys.com/investors/reports-filings/annual-report.html; SEC EDGAR CIK 0001067491. [S0161]
+- Infosys Ltd. Forms 6-K, Q4 results filings: Ex. 99.5 earnings-call transcripts (20 Apr 2020, 14 Apr 2021, 13 Apr 2022, 13 Apr 2023, 18 Apr 2024) and Ex. 99.4 Fact Sheet Q4 FY2024. Accessions 0001067491-20-000029, -21-000030, -22-000020, -23-000027, -24-000016. https://www.sec.gov/Archives/edgar/data/1067491/000106749124000016/exv99w04.htm. [S0381]
 - Infosys Technologies Ltd. Annual Report on Form 20-F for fiscal year ended 31 March 2002, filed 8 May 2002. https://www.sec.gov/Archives/edgar/data/1067491/000089161802002223/f81400e20-f.txt. [S0260]
 - Infosys Technologies Ltd. Annual Report on Form 20-F for fiscal year ended 31 March 2004 (accession 0000950134-04-006973). https://www.sec.gov/Archives/edgar/data/1067491/000095013404006973/f98645e20vf.htm. [S0270]
 - Infosys Technologies Ltd. Annual Report on Form 20-F for fiscal year ended 31 March 2005 (accession 0001193125-05-084187). https://www.sec.gov/Archives/edgar/data/1067491/000119312505084187/d20f.htm. [S0264]
@@ -8028,8 +8286,10 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Infosys Technologies Ltd. Form F-1 Registration Statement, US Securities and Exchange Commission, filed February 1999 (accession 0001012870-99-000409). https://www.sec.gov/Archives/edgar/data/0001067491/000101287099000409/0001012870-99-000409.txt. [S0089]
 - Infosys Technologies Ltd. Prospectus, Form 424B4, filed with the SEC 11 March 1999 (accession 0001012870-99-000740): 1,800,000 ADSs at $34.00. https://www.sec.gov/Archives/edgar/data/1067491/0001012870-99-000740.txt. [S0259]
 - Intel Corporation. Press release, 3 February 2000 (Bangalore development centre announced 1999); and NBC/AP 'Intel to invest $1 billion in India', December 2005. https://www.intel.com/pressroom/archive/releases/2000/aw020300.htm; https://www.nbcnews.com/news/amp/wbna10335951. [S0198]
+- Jayshankar, Siddharth. 'Interview with Dr Rajaraman.' *Vox Populi* (IIT Kanpur), 7 June 2018 (upd. 15 May 2021). https://voxiitk.com/?p=3284. [S0382]
 - Knowledge at Wharton. 'The little start-up that could: a conversation with Raman Roy, "father of Indian BPO"', n.d.; and Business Today year-1996 round-up / Dataquest 35 years 'Rise and rise of the Indian BPO' (Voice&Data). https://knowledge.wharton.upenn.edu/article/the-little-start-up-that-could-a-conversation-with-raman-roy-father-of-indian-bpo/; https://www.voicendata.com/dataquest-35-years-rise-rise-indian-bpo. [S0206]
 - Kohli, F.C. *Towards Inclusive Information Technology Revolution in India*. Mumbai: Forum of Free Enterprise, 2009 (booklet reproducing Bombay Management Association Lifetime Achievement Award acceptance speech, 2008-09; file dated 4 August 2009). 11 pp. PDF. https://indianliberals.in/forum-of-free-enterprise/towards-inclusive-information-technology-revolution-in-india-f-c-kohli-august-4-2009.pdf. [S0231]
+- Liu, Angel. 'Quick Win Strategy in CMMI Transition.' Motorola Software Group, NDIA CMMI conference presentation, 2005. https://ndia.dtic.mil/wp-content/uploads/2006/cmmi/tuesday/2D4_Liu.pdf. [S0371]
 - Lok Sabha Debates, 3rd Lok Sabha, 24 November 1966, pp. 69-81 (questions on LIC computerisation and proposed employees' strike). https://eparlib.nic.in/bitstream/123456789/880754/1/03_XVI_24-11-1966_p69_p81_PII.pdf. [S0227]
 - Lok Sabha Debates, 4th Lok Sabha, 23 March 1967: question on installation of computers in the Life Insurance Corporation; reply by Finance Minister Morarji Desai. https://eparlib.sansad.in/bitstream/123456789/1233/1/lsd_04_01_23-03-1967.pdf. [S0019]
 - Lok Sabha, written answer, 8 May 1985: CMC's turnkey on-line passenger reservation system for Northern Railway. https://eparlib.nic.in/bitstream/123456789/2237752/1/08_II_08-05-1985_p78_p78_u5648.pdf. [S0067]
@@ -8056,23 +8316,29 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Rao, P.V.S. 'TIFRAC, India's First Computer: A Retrospective.' *Resonance* 13, no. 5 (2008): 420-429. DOI 10.1007/s12045-008-0049-2. https://doi.org/10.1007/s12045-008-0049-2. [S0219]
 - Reserve Bank of India. *Survey on Computer Software and Information Technology Services Exports*, annual, from 2002-03 (published in *RBI Bulletin*). https://website.rbi.org.in/web/rbi/-/publications/rbi-bulletin/survey-on-computer-software-amp-information-technology-services-exports-2007-08*-10520. [S0106]
 - Roye, Janardhan. 'Revolution on a Bullock Cart.' *Little India*, 23 August 2013. https://littleindia.com/revolution-on-a-bullock-cart/. [S0249]
+- Rozen, Miriam. 'Invasion of the bodyshoppers.' *Dallas Observer*, 12 November 1998. https://www.dallasobserver.com/news/invasion-of-the-bodyshoppers-6401366/. [S0356]
 - Satyam Computer Services Ltd. Annual Report on Form 20-F for fiscal year ended 31 March 2008 (filed August 2008; accession 0001145549-08-001441). https://www.sec.gov/Archives/edgar/data/1106056/000114554908001441/u93288e20vf.htm. [S0283]
 - Satyam Computer Services Ltd. Forms 6-K, January-April 2009, US SEC: 7 January 2009 (Ex. 99.1 press release; Ex. 99.2 letter of B. Ramalinga Raju; Ex. 99.3 DSP Merrill Lynch letter to SEBI); 9 January 2009 (SEBI investigation order; Special Judge search-and-seize order of 8 January; press release on government-nominated directors; Company Law Board order CP 001/2009); 13 April 2009 (Tech Mahindra/Venturbay highest bidder; bids). https://www.sec.gov/Archives/edgar/data/1106056/000114554909000025/; https://www.sec.gov/Archives/edgar/data/1106056/000114554909000039/; https://www.sec.gov/Archives/edgar/data/1106056/000114554909000597/. [S0279]
 - Satyam Infoway Ltd (Sify). Annual Report on Form 20-F for fiscal year ended 31 March 2002. https://www.sec.gov/Archives/edgar/data/0001094324/000089161802003057/f82667e20vf.htm. [S0261]
 - Securities and Exchange Board of India. Final order in the matter of Satyam Computer Services Ltd, 15 July 2014; Securities Appellate Tribunal order, May 2017; SEBI fresh order, October 2018. https://www.sebi.gov.in/sebi_data/attachdocs/oct-2018/1539701235947.pdf. [S0123]
+- Securities Appellate Tribunal. *B. Appalanarasamma v. SEBI* and connected Appeals 451-463 of 2015, 11 August 2017 (majority Devadhar; minority Jog Singh). https://indiankanoon.org/doc/105757332/. [S0379]
 - Sethi, Ravi (B.Tech ME, 1963-68). 'Our Experiences on the 1620.' *The Spark* (IIT Kanpur alumni newsletter), issue 1, October 2021. https://iitk.ac.in/dora/spark/issue-1/. [S0223]
 - Settlement Agreement between the United States (US Attorney's Office, Eastern District of Texas; Department of State; Department of Homeland Security) and Infosys Limited. Filed as Exhibit 99.2 to Infosys Form 6-K, 30 October 2013 (accession 0001067491-13-000061). https://www.sec.gov/Archives/edgar/data/1067491/000106749113000061/exv99w02.htm. [S0268]
 - Singh, Manmohan. *Budget 1991-92: Speech of Shri Manmohan Singh, Minister of Finance*, 24 July 1991. Lok Sabha Debates, 24 July 1991, cc. 271-330. https://www.indiabudget.gov.in/doc/bspeech/bs199192.pdf; https://eparlib.sansad.in/bitstream/123456789/111/1/Budget_Speech_Final_1991-92.pdf. [S0088]
 - Software Technology Parks of India. 'Background' page (STPI Hyderabad and other centres). https://hyderabad.stpi.in/stpi-hyderabad-background. [S0091]
 - Sona Group. 'Satellite Dish for India's First IT Company Arrived on a Bullock Cart at Sona Towers, Bangalore.' Company news page, n.d. (c. 2021). https://www.thesonagroup.com/news-and-events/satellite-dish-for-indias-first-it-company-arrived-on-a-bullock-cart-at-sona-towers-bangalore.html. [S0250]
+- *State of California et al. v. Markwayne Mullin et al.*, Civ. No. 25-13829-LTS (D. Mass.), Memorandum and Order on cross-motions for summary judgment (Doc. 106), Sorokin J., 8 June 2026, 42 pp.; 833 F. Supp. 3d 50. https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/172282.pdf. [S0375]
+- *State of California v. Mullin*, Judgment (Doc. 107), D. Mass., 8 June 2026, 2 pp. https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/172283.pdf. [S0376]
 - Supreme Court of India. *Justice K.S. Puttaswamy (Retd.) v. Union of India*, W.P. (C) 494 of 2012: privacy judgment, 24 August 2017 (nine judges); Aadhaar judgment, 26 September 2018 (five judges; majority A.K. Sikri J.; dissent D.Y. Chandrachud J.). https://ruralindiaonline.org/en/library/resource/justice-ks-puttaswamy-retd-and-another-versus-union-of-india-and-others/. [S0127]
 - Supreme Court of India. *Miss Mohini Jain v. State of Karnataka*, judgment 30 July 1992 (Kuldip Singh and R.M. Sahai JJ.); AIR 1992 SC 1858; (1992) 3 SCC 666; (1992) 3 SCR 658. W.P. (C) 456 of 1991. https://indiankanoon.org/doc/40715/. [S0064]
 - Supreme Court of India. *Unni Krishnan, J.P. v. State of Andhra Pradesh*, judgment 4 February 1993; (1993) 1 SCC 645; AIR 1993 SC 2178; (1993) 1 SCR 594. Five-judge bench (L.M. Sharma CJ, S.P. Bharucha, S.R. Pandian, B.P. Jeevan Reddy, S. Mohan). https://indiankanoon.org/doc/1775396/. [S0063]
+- *T.M.A. Pai Foundation & Ors. v. State of Karnataka & Ors.*, W.P. (C) 317 of 1993, Supreme Court of India (11 judges; lead opinion Kirpal CJI), 31 October 2002; (2002) 8 SCC 481. https://indiankanoon.org/doc/512761/. [S0374]
 - Tally Solutions. 'About us' / company history pages; Bharat Goenka profile. https://tallysolutions.com/about-us/. [S0178]
 - Tata Consultancy Services. Quarterly fact sheets and annual reports (Q4 FY2024-25 fact sheet). https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2024-25/q4/Presentations/Q4%202024-25%20Fact%20Sheet.pdf. [S0160]
 - Tata Group. 'Tata Consultancy Services (TCS) timeline, 1968-' and 'Five decades of transformation: TCS' (Tata heritage pages, 2021). https://www.tata.com/newsroom/heritage/tata-consultancy-services-tcs-timeline-1968; https://tata.com/newsroom/heritage/five-decades-transformation-tcs. [S0039]
 - Tata Group. 'The IT Revolutionary: Remembering Padma Bhushan Faqir Chand Kohli, on his 100th birth anniversary.' Tata heritage page, May 2024. https://www.tata.com/newsroom/heritage/fc-kohli-tcs-information-technology. [S0235]
 - Tata Institute of Fundamental Research Archives (compiled by Bhavya Ramakrishnan). 'India's First Digital Computer.' Google Arts & Culture online exhibit, n.d. https://artsandculture.google.com/story/NQVhslS0jrdXLA. [S0216]
+- Telangana High Court. *B. Appalanarasamma v. CBI*, W.P. No. 12595 of 2019, G. Radha Rani J., 6 June 2022; and *Byrraju Ramalinga Raju v. CBI*, Crl. P. No. 13332 of 2011, 7 January 2022. https://indiankanoon.org/doc/147950143/; https://indiankanoon.org/doc/118964546/. [S0378]
 - Texas Instruments. 'TI Celebrates 20 Years as a Technology Innovator in India.' Press release, Bangalore, 8 August 2005. https://ti.com/ww/in/news_detail/2008_2005/news_detail_sc05161.html. [S0061]
 - TiE. 'The Founding of TiE' (chapter websites) and TiE Silicon Valley history. https://ahmedabad.tie.org/?p=89. [S0116]
 - Tracxn and Inc42 annual startup funding reports, 2021-2025 (via *The Week*, 14 January 2025; *Business Standard*, 26 September 2025). https://www.theweek.in/news/biz-tech/2025/01/14/quick-commerce-to-gen-ai-startup-funding-is-expected-to-get-better-in-2025.amp.html; https://www.business-standard.com/amp/industry/news/india-tech-ecosystem-funding-declines-to-7-7-bn-in-2025-125092601169_1.html. [S0147]
@@ -8099,9 +8365,12 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - 'After Infosys, Wipro, HCL Tech, Accenture delays onboarding, distressed techies worry about future.' *Business Today*, 5 October 2022; and 'IT giants Infosys, Wipro, TCS postpone onboarding of over 10,000 graduates', *Outlook Business*. https://www.businesstoday.in/jobs/story/after-infosys-wipro-hcl-tech-accenture-delays-onboarding-distressed-techies-worry-about-future-349043-2022-10-05. [S0134]
 - Agarwal, Palak. 'The big boom: How India's GCC story hits 2030 target 4 years early.' *Business Today*, 7 May 2026. https://www.businesstoday.in/amp/technology/news/story/the-big-boom-how-indias-gcc-story-hits-2030-target-4-years-early-530265-2026-05-07. [S0318]
 - Aspray, William. 'The Role of Policy in the Rise of the Indian Software and IT-Enabled Services Industry.' *The Rutherford Journal* 3 (2010), article 030101. https://rutherfordjournal.org/article030101.html. [S0230]
+- Associated Press. 'Indian corporate mogul convicted in largest fraud case.' *Al Jazeera*, 9 April 2015; and 'Ramalinga Raju challenges verdict in Satyam scam', *The Quint*, 14 April 2015. https://www.aljazeera.com/economy/2015/4/9/indian-corporate-mogul-convicted-in-largest-fraud-case; https://www.thequint.com/amp/story/news/india/ramalinga-raju-challenges-verdict-in-satyam-scam. [S0380]
 - Avanti Fellows. 'Technical seats: how many India approves, and how many go empty.' Analysis of AICTE approved intake (2012-13 to 2021-22) and AISHE enrolment, dated August 2026. No named author. https://docs.avantifellows.org/analyses/aicte-aishe-capacity/. [S0267]
 - 'B Ramalinga Raju found guilty in Satyam Computers fraud case.' *Business Today*, 9 April 2015. https://www.businesstoday.in/current/corporate/b-ramalinga-raju-found-guilty-in-satyam-computers-fraud-case/story/217920.html. [S0124]
+- Babu, Venkatesha. 'The Quality Bug.' *Business Today*, 19 January 2003. https://archives.digitaltoday.in/businesstoday/20030119/india15.html. [S0370]
 - Banerjee, Dwaipayan (Dwai). *Computing in the Age of Decolonization: India's Lost Technological Revolution*. Princeton: Princeton University Press (Princeton Modern Knowledge), 24 February 2026. 296 pp. ISBN 9780691268217. DOI 10.1515/9780691268446. https://press.princeton.edu/books/hardcover/9780691268217/computing-in-the-age-of-decolonization. [S0221]
+- Bansal, Rashmi. 'Take A Techie Like That!' Review of S. Ramadorai, *The TCS Story*. *Outlook* (archive page 5 February 2022; original c. 2011, unconfirmed). https://www.outlookindia.com/books/take-a-techie-like-that-news-278482. [S0368]
 - Bassett, Ross. 'Aligning India in the Cold War Era: Indian Technical Elites, the Indian Institute of Technology at Kanpur, and Computing in India and the United States.' *Technology and Culture* 50, no. 4 (October 2009): 783-810. DOI 10.1353/tech.0.0354. https://casi.sas.upenn.edu/sites/default/files/iit/Ross%20Bassett%20-%20Oct%202009.pdf. [S0003]
 - Blinder, Alan S. 'Offshoring: The Next Industrial Revolution?' *Foreign Affairs* 85, no. 2 (March/April 2006): 113-128. https://www.cde.org.py/imd/nim/wp-content/uploads/2014/03/OffshoringBlinder.pdf. [S0113]
 - Bose, Shritama, and Ujjaini Dutta. 'India's new IT playbook begins with layoffs.' Reuters Breakingviews, 28 July 2025 (with Reuters context note), via TradingView. https://de.tradingview.com/news/reuters.com%2C2025%3Anewsml_L6N3TQ0HJ%3A0-india-s-new-it-playbook-begins-with-layoffs. [S0301]
@@ -8115,9 +8384,11 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Das, Avik. 'Top 5 IT cos' net hiring down for FY26; uncertainties to continue.' *Business Standard*, 23 April 2026. https://www.business-standard.com/companies/news/top-5-it-cos-net-hiring-down-for-fy26-uncertainties-to-continue-126042301290_1.html. [S0139]
 - Das, Monalisa. 'Nearly 200 IT employees gather in India's Silicon Valley to form a trade union.' *The News Minute*, 20 August 2017. https://www.thenewsminute.com/karnataka/nearly-200-it-employees-gather-india-s-silicon-valley-form-trade-union-67110. [S0294]
 - DC Correspondent. 'Indian ex-IBMers reunite again in Mumbai after 40 years.' *Deccan Chronicle*, 5 May 2018. https://www.deccanchronicle.com/technology/in-other-news/050518/indian-ex-ibmers-reunite-again-in-mumbai-after-40-years.html. [S0236]
+- D'Cruz, Premilla and Ernesto Noronha. 'Hope to Despair: The Experience of Organizing Indian Call Centre Employees.' *Indian Journal of Industrial Relations* 48, no. 3 (Jan 2013): 471-86. https://www.publishingindia.com/storage/PDFBrochures/1602.pdf. [S0351]
 - Dizikes, Peter. 'The tech revolution that wasn't.' *MIT News*, 4-5 May 2026 (republished by Global MIT). https://news.mit.edu/2026/tech-revolution-that-wasnt-dwai-banerjee-book-0505; https://global.mit.edu/news-stories/the-tech-revolution-that-wasnt/. [S0222]
 - DQI Bureau. '1976-1985: The Big Blue Impact.' *Dataquest*, 30 December 2006 (retrospective timeline). https://www.dqindia.com/1976-1985-the-big-blue-impact. [S0237]
 - Energy and Wetlands Research Group, Centre for Ecological Sciences, Indian Institute of Science. 'Demography and economy' (Bangalore web page, n.d., c. 2007-08; authors not shown). https://wgbis.ces.iisc.ac.in/energy/water/paper/bangalore/economy.htm. [S0258]
+- Farrell, Tracie. Review of Dwaipayan Banerjee, *Computing in the Age of Decolonization*. *International Journal of Asian Studies* (2026): 1-4. DOI 10.1017/S1479591426100631. CC BY 4.0. https://doi.org/10.1017/S1479591426100631. [S0363]
 - Fuller, C.J. and Haripriya Narasimhan. 'From Landlords to Software Engineers: Migration and Urbanization among Tamil Brahmans.' *Comparative Studies in Society and History* 50, no. 1 (2008): 170-196. https://eprints.lse.ac.uk/4138. [S0118]
 - Fuller, C.J. and Haripriya Narasimhan. 'Information Technology Professionals and the New-Rich Middle Class in Chennai (Madras).' *Modern Asian Studies* 41, no. 1 (2007): 121-150. https://eprints.lse.ac.uk/2614/. [S0117]
 - Ganeshan, Balakrishna. '"Thrown on the road": Terminated Infosys employees describe forced resignations.' *Newslaundry*, 12 February 2025. https://www.newslaundry.com/2025/02/12/thrown-on-the-road-terminated-infosys-employees-describe-forced-resignations. [S0311]
@@ -8144,10 +8415,12 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Manuel, Thomas. 'India's Engineering Education Story, With an Eye on Tamil Nadu's Colleges.' *The Wire*, 21 October 2015 (first published by the Urban History Project). https://thewire.in/education/indias-engineering-education-story-with-an-eye-on-tamil-nadus-colleges. [S0247]
 - Menon, Nikhil. 'Chasing the Machine.' *The Caravan* ('The Lede'), 1 April 2018. https://caravanmagazine.in/lede/india-first-computers-cold-war. [S0007]
 - Menon, Nikhil. '"Fancy Calculating Machine": Computers and Planning in Independent India.' *Modern Asian Studies* 52, no. 2 (2018): 421-457 (online October 2017). DOI 10.1017/S0026749X16000135. Winner of the 2019 SIGCIS Mahoney Prize. https://www.cambridge.org/core/journals/modern-asian-studies/article/fancy-calculating-machine-computers-and-planning-in-independent-india/AE97E3E18914EDF1378E29CAE1579BB2. [S0217]
+- Menon, Nikhil. 'India's Pursuit of Tech Self-Reliance.' *Issues in Science and Technology* 42, no. 4 (Summer 2026): 98-100. Review of Dwaipayan Banerjee, *Computing in the Age of Decolonization*. https://issues.org/india-computing-self-reliance-review-menon/. [S0365]
 - Mukherjee, Arindam. 'The Rs 1,800 Cr Hoax?' *Outlook*, c. January 2000 (archive page dated 5 February 2022). https://www.outlookindia.com/business/the-rs-1800-cr-hoax-news-208816. [S0108]
 - Narayan, Rajeev. 'The Men Behind NIIT.' *Dataquest*, 24 October 2002. https://www.dqindia.com/the-men-behind-niit/. [S0245]
 - National Foundation for American Policy. 'H-1B Petitions and Denial Rates in FY 2025', NFAP Policy Brief, November 2025. https://nfap.com/wp-content/uploads/2025/11/H-1B-Petitions-and-Denial-Rates-For-FY-2025.NFAP-Policy-Brief.2025.pdf. [S0338]
 - 'New law will curb offshoring of federal IT work' and 'Senate approves restrictions on offshore outsourcing.' *Government Executive / Route Fifty*, January-March 2004. https://www.route-fifty.com/management/2004/02/new-law-will-curb-offshoring-of-federal-it-work/313871/; https://www.govexec.com/management/2004/03/senate-approves-restrictions-on-offshore-outsourcing/16172. [S0111]
+- Noronha, Ernesto and Premilla D'Cruz. 'Reconciling Dichotomous Demands: Telemarketing Agents in Bangalore and Mumbai, India.' *The Qualitative Report* 12, no. 2 (June 2007): 255-80. https://files.eric.ed.gov/fulltext/EJ800182.pdf. [S0352]
 - 'Oracle chooses India for key overseas site.' *Computerworld* (IDG), c. 2002-04. https://itworldcanada.com/?p=25255; https://www2.computerworld.com.au/article/28872/oracle_chooses_india_key_overseas_site/. [S0196]
 - 'The original IT man.' *Business Standard*, 5 November 2007. https://business-standard.com/article/technology/the-original-it-man-107110501023_1.html. [S0044]
 - Panchal, Salil. 'Economic Milestone: Exit of the MNCs (1977).' *Forbes India*, 14 August 2014. https://www.forbesindia.com/article/independence-day-special/economic-milestone-exit-of-the-mncs-(1977)/38431/1. [S0238]
@@ -8155,10 +8428,13 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Raja Simhan, T.E. 'It's a Real Slowdown at Campuses.' *The Hindu Business Line*, 17 January 2002 (reprinted on YaleGlobal Online). https://archive-yaleglobal.yale.edu/content/its-real-slowdown-campuses; http://www.hinduonnet.com/bline/stories/2002011701910100.htm. [S0263]
 - Rajaraman, V. *History of Computing in India (1955-2010)*. Bangalore: Supercomputer Education and Research Centre, IISc, for the IEEE Computer Society History Committee, 2012. 65 pp. https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ethw/8/87/Rajaraman%2C_V._History_of_Computing_in_India%2C_1955-2010.pdf; https://ethw.org/File:2012-12-rajaraman-india-computing-history.pdf. [S0001]
 - Rajput, Gunjan. 'Hired, Trained, Terminated: End of Road For 370 Freshers At Infosys.' *Republic Business*, 18 April 2025. https://www.republicworld.com/business/infosys-mysore-layoffs-hired-trained-terminated-end-of-road-for-370-freshers-at-infosys. [S0313]
+- 'Ram drive: The career of Subramanian Ramadorai of Tata Consultancy Services parallels the rise of India's software industry.' *The Economist*, 21 August 2008. https://webpage.pace.edu/pviswanath/articles/aeg4e43/india/ramadorai_tcs.html. [S0367]
 - Reddy, Anisha. 'Forced resignations, unfair bench policy: TCS' mass layoff pushes employees to unions.' *South First*, 2 August 2025 (updated 20 August 2025). https://thesouthfirst.com/karnataka/forced-resignations-unfair-bench-policy-tcs-mass-layoffs-pushes-employees-to-unions. [S0302]
 - Reports on NITES complaint over Infosys delayed onboarding and fresher terminations, 2024-2025: *Deccan Herald* (Centre tells Karnataka to act on Infosys layoffs, 2025); *HR Katha* ('10,000 freshers continue to wait for joining dates', June 2024). https://www.deccanherald.com/amp/story/india%2Fkarnataka%2Fcentre-tells-k-taka-govt-to-take-action-on-infosys-layoffs-3405012; https://www.hrkatha.com/news/injustice/10000-freshers-continue-to-wait-for-joining-dates/. [S0133]
 - RoyChowdhury, Supriya. 'Livelihood and Income: Informality and Poverty in Bangalore's Slums.' Work in Progress Paper 10, Contemporary South Asian Studies Programme, University of Oxford, n.d. (PDF created June 2011). 41 pp. https://www.southasia.ox.ac.uk/sites/default/files/southasia/documents/media/oxford_university_csasp_-_work_in_progress_paper_10_supriya_roychowdhury.pdf. [S0257]
+- Russell, Bob. Review of Reena Patel, *Working the Night Shift* (2010). *Canadian Journal of Sociology* 35, no. 3 (2010): 523-25. https://journals.library.ualberta.ca/cjs/index.php/CJS/article/download/9231/7361/22490. [S0354]
 - Saha, Pradip K. 'How the controversial ed-tech company Byju's exploited the Indian "rat race" mentality.' *Scroll.in*, 28 December 2023 (excerpt from Saha, *The Learning Trap: How Byju's Took Indian Edtech For a Ride*, Juggernaut). https://scroll.in/article/1060045/how-the-controversial-ed-tech-company-byjus-exploited-the-indian-rat-race-mentality. [S0246]
+- Saini, Angela. 'Why Didn't India Build Its Own Silicon Valley?' *Los Angeles Review of Books*, 5 August 2026. Review of Dwaipayan Banerjee, *Computing in the Age of Decolonization*. https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/. [S0364]
 - Saxenian, AnnaLee. 'Bangalore: The Silicon Valley of Asia?' Working Paper No. 91, Center for Research on Economic Development and Policy Reform, Stanford University, February 2001. 32 pp. https://kingcenter.stanford.edu/sites/g/files/sbiybj16611/files/media/file/91wp_0.pdf. [S0255]
 - Saxenian, AnnaLee. 'From Brain Drain to Brain Circulation: Transnational Communities and Regional Upgrading in India and China.' *Studies in Comparative International Development* 40, no. 2 (2005): 35-61. DOI 10.1007/BF02686293. https://people.ischool.berkeley.edu/~anno/Papers/scid-2005.pdf. [S0256]
 - Saxenian, AnnaLee. *Silicon Valley's New Immigrant Entrepreneurs*. San Francisco: Public Policy Institute of California, 1999. [S0097]
@@ -8176,6 +8452,8 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - Society of Women Engineers (SWE) Research. 'India Tertiary Education' (Global research series), 2025. https://swe.org/research/2025/india-tertiary-education/. [S0325]
 - Sukhatme, S.P. *The Real Brain Drain*. Bombay, 1994. [S0047]
 - Suresh, Haripriya. 'India's global centre market to grow to $105 billion by 2030, says Nasscom-Zinnov report.' Reuters, 11 September 2024 (via ThePrint). https://theprint.in/india/indias-global-centre-market-to-grow-to-105-billion-by-2030-says-nasscom-zinnov-report/2263317/. [S0317]
+- Taylor, Phil, Premilla D'Cruz, Ernesto Noronha and Dora Scholarios. 'Domestic Labour: The Experience of Work in India's Other Call Centre Industry.' In Howcroft and Richardson, eds, *Work and Life in the Global Economy* (Palgrave, 2010), ch. 6. https://strathprints.strath.ac.uk/15323/1/Taylor_et_al_for_Howcroft_and_Richardson.doc. [S0350]
+- Taylor, Phil, Premilla D'Cruz, Ernesto Noronha and Dora Scholarios. 'Indian Call Centres and Business Process Outsourcing: A Study in Union Formation.' *New Technology, Work and Employment* 24, no. 1 (2009): 19-42. https://strathprints.strath.ac.uk/15272/. [S0349]
 - 'TCS to cut 12,000 jobs amid industry transformation.' *Moneylife*, July 2025; and K. Krithivasan interview with *Moneycontrol*, July 2025 ('not because AI is giving us a 20% productivity boost'). https://moneylife.in/article/tcs-to-cut-12000-jobs-amid-industry-transformation/77792.html; https://www.outlookbusiness.com/amp/story/corporate/skill-mismatch-not-ai-tcs-ceo-clarifies-reason-behind-sudden-layoffs. [S0135]
 - tele.net. 'IndiaAI Mission selects three new start-ups for building India's own Foundation Model.' 2 June 2025. https://tele.net.in/indiaai-mission-selects-three-new-start-ups-for-building-indias-own-foundation-model/. [S0308]
 - Thapliyal, Aseem. 'TCS adds 4,258 employees in Q2, marks third quarter of headcount addition.' *Business Today*, 8-9 October 2026. https://www.businesstoday.in/markets/stocks/story/tcs-adds-4258-employees-in-q2-marks-third-quarter-of-headcount-addition-560460-2026-10-08. [S0310]
@@ -8183,6 +8461,9 @@ Every source cited in the notes appears once below. The bracketed identifier at 
 - TNM Staff. 'Infosys to face govt probe over delayed recruitment of over 2,000 graduates.' *The News Minute*, 6 September 2024. https://www.thenewsminute.com/news/infosys-to-face-govt-probe-over-delayed-recruitment-of-over-2000-graduates. [S0295]
 - 'Took risk when I gave Narayana Rs 10,000 to start Infosys: Sudha Murty.' *Business Standard*, 15 March 2024; and *Business Today*, 4 January 2024 (Murthy: 'I was wrongly idealistic' in keeping her out). https://www.business-standard.com/india-news/took-risk-when-i-gave-narayana-rs-10-000-to-start-infosys-sudha-murty-124031500782_1.html; https://www.businesstoday.in/amp/industry/it/story/i-was-wrongly-idealistic-narayana-murthy-says-he-was-wrong-in-not-allowing-his-wife-sudha-murty-to-join-infosys-411923-2024-01-04. [S0210]
 - Tripathi, Vikash. 'Why Infosys "Forcibly" Laid Off a Batch of Recruits from Its Mysore Campus.' *Outlook Business*, 11 February 2025. https://www.outlookbusiness.com/corporate/why-infosys-forcibly-laid-off-a-batch-of-recruits-from-its-mysore-campus. [S0312]
+- Upadhya, Carol and A.R. Vasavi. *Work, Culture, and Sociality in the Indian IT Industry: A Sociological Study.* Final Report to IDPAD. Bangalore: NIAS, August 2006. 195 pp. http://eprints.nias.res.in/107/2/idpadfinalreport.pdf. [S0346]
+- Upadhya, Carol. 'A New Transnational Capitalist Class? Capital Flows, Business Networks and Entrepreneurs in the Indian Software Industry.' *EPW* 39, no. 48 (27 Nov 2004): 5141-51. http://eprints.nias.res.in/53/1/2004-cu-epw.pdf. [S0348]
+- Upadhya, Carol. 'Employment, Exclusion and "Merit" in the Indian IT Industry.' *EPW* 42, no. 20 (19 May 2007): 1863-68. http://eprints.nias.res.in/92/2/EPW_employment_exclusion.pdf. [S0347]
 - 'UPI transactions surge to record 16.73 bn in Dec: NPCI.' All India Radio News (newsonair.gov.in), 2 January 2025. https://newsonair.gov.in/upi-transactions-surge-to-record-16-73-bn-in-dec-npci. [S0286]
 - Venkatraman, Vijaysree. 'India's IT Guy.' *MIT Technology Review*, January/February 2013 (online 2 January 2013). https://www.technologyreview.com/2013/01/02/180827/indias-it-guy/. [S0038]
 - Wadhwa, Vivek, AnnaLee Saxenian, Ben Rissing and Gary Gereffi. *America's New Immigrant Entrepreneurs*. Duke University / UC Berkeley, January 2007 (Kauffman Foundation). https://www.ischool.berkeley.edu/news/2007/skilled-educated-immigrants-contribute-significantly-us-economy. [S0098]

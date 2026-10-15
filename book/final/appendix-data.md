@@ -529,9 +529,9 @@ Full file: `book/research/data/fresher_pay.csv`.
 
 **Definition and unit.** Per cent. Each row states the firm's own definition: total or voluntary attrition, with or without subsidiaries, IT services only, trailing twelve months.
 
-**Coverage.** Infosys attrition FY2005-06 to FY2011-12 and women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and the quarter to September 2026.
+**Coverage.** Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and the quarter to September 2026.
 
-**Sources.** Infosys 20-F (S0265, S0271, S0272, S0266, S0291); Cognizant 10-K (S0293, S0192, S0299); TCS (S0160, S0310).
+**Sources.** Infosys 20-F (S0265, S0271, S0272, S0266, S0291) and 6-K results filings (S0381); Cognizant 10-K (S0293, S0192, S0299); TCS (S0160, S0310).
 
 **Caveats.** Definitions differ between firms and change over time; rows with different definitions must not be compared. Cognizant switched its headline measure in its 10-K for 2023 from total to voluntary attrition in technology services, so 2022 appears on both bases. The Infosys women's figure is 'nearly 40%'.
 
@@ -541,7 +541,11 @@ Full file: `book/research/data/fresher_pay.csv`.
 | Infosys | FY2007-08 | 13.4% | Comparable, excluding BPO and subsidiaries | |
 | Infosys | FY2010-11 | 17.0% | Twelve months to 31 March | |
 | Infosys | FY2011-12 | 14.7% | Twelve months to 31 March | |
-| Infosys | FY2023-24 | | | nearly 40% |
+| Infosys | FY2019-20 | 15.1% | Voluntary, standalone, fourth quarter | |
+| Infosys | FY2020-21 | 15.2% | Voluntary, IT services, fourth quarter annualised | |
+| Infosys | FY2021-22 | 27.7% | Voluntary, last twelve months | |
+| Infosys | FY2022-23 | 20.9% | Voluntary, last twelve months, IT services | |
+| Infosys | FY2023-24 | 12.6% | Voluntary, last twelve months, IT services | 39.3% |
 | Cognizant | 2020 | 20.6% | Total | 36% |
 | Cognizant | 2021 | 30.8% | Total | 38% |
 | Cognizant | 2022 | 31.7% | Total | 38% |

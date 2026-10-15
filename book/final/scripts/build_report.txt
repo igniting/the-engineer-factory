@@ -1,33 +1,39 @@
 prologue  markers  56  notes  56  OK
-ch01      markers 105  notes 105  OK
-ch02      markers 145  notes 145  OK
-ch03      markers 132  notes 132  OK
-ch04      markers  93  notes  93  OK
-ch05      markers 120  notes 120  OK
-ch06      markers 109  notes 109  OK
-ch07      markers 100  notes 100  OK
+ch01      markers 107  notes 107  OK
+ch02      markers 155  notes 155  OK
+ch03      markers 134  notes 134  OK
+ch04      markers 101  notes 101  OK
+ch05      markers 128  notes 128  OK
+ch06      markers 118  notes 118  OK
+ch07      markers 101  notes 101  OK
 ch08      markers 109  notes 109  OK
 ch09      markers  90  notes  90  OK
 ch10      markers 102  notes 102  OK
-ch11      markers  98  notes  98  OK
-ch12      markers 112  notes 112  OK
-ch13      markers 123  notes 123  OK
-ch14      markers 113  notes 113  OK
+ch11      markers 103  notes 103  OK
+ch12      markers 126  notes 126  OK
+ch13      markers 135  notes 135  OK
+ch14      markers 129  notes 129  OK
 ch15      markers  94  notes  94  OK
-ch16      markers 127  notes 127  OK
+ch16      markers 135  notes 135  OK
 ch17      markers  92  notes  92  OK
-ch18      markers  85  notes  85  OK
-ch19      markers 133  notes 133  OK
+ch18      markers  87  notes  87  OK
+ch19      markers 140  notes 140  OK
 epilogue  markers  61  notes  61  OK
 
-Total markers 2199, total converted notes 2199
-Distinct S-IDs cited: 212 (P 110, D 6, S 96)
-Bibliography entries: 212; duplicates: none
+Total markers 2303, total converted notes 2303
+Distinct S-IDs cited: 243 (P 126, D 6, S 111)
+Bibliography entries: 243; duplicates: none
 IDs in notes missing from bibliography: none
 Unknown IDs (not in register): none
 Withdrawn IDs cited: none
 IDs without curated short form (parser fallback): none
-Note overrides applied: 26; stale overrides: none
+Note overrides applied: 25; stale overrides: none
 Raw S-IDs left in converted notes: none
-Notes with possible internal remarks: 0
+Notes with possible internal remarks: 6
+  ch01 [94] S0364 (the phrase is quoted there from the book, no page given). Reviewer's report only; post-cutoff material, checked against the live page in October 2026.
+  ch01 [101] S0363, pp. 2-3 (the 'peers' phrase is cited there to p. 153 of the book). Reviewer's report only; post-cutoff material, checked in October 2026.
+  ch03 [17] S0364 (inner phrase quoted from the book, no page given); S0363, p. 2. Reviewers' reports only; post-cutoff material, checked in October 2026.
+  ch04 [98] S0368, para. 2 (the reviewer's summary, not Ramadorai's words).
+  ch05 [38] S0363, p. 3 (the reviewer's summary, not Banerjee's words). Post-cutoff material; checked against the live source in October 2026.
+  ch14 [75] S0354, p. 524. Reviewer's account of Patel, *Working the Night Shift* (Stanford University Press, 2010); Patel's book not seen.
 Bibliography lines with possible internal text: 0

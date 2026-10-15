@@ -2,12 +2,12 @@
 
 **Read this first every session.** Then read `plan/instructions.md` (the brief) and `plan/style.md`. Do the task under "Next task". After each task: update this file, commit, push, report in three lines.
 
-- **Current phase:** Complete (v1 published)
-- **Last updated:** 2026-10-12 (session 8)
-- **Book status:** In progress
+- **Current phase:** Complete (v2 published: Phase 8 source integration)
+- **Last updated:** 2026-10-15 (session 9)
+- **Book status:** Complete; body c. 114,650 words
 
 ## Next task
-**Book complete.** Optional next steps if the author wants them: (1) acquire the unread sources listed in the verify logs (memoirs, Lok Sabha answers, Bassett 2016, Breznitz, call-centre ethnographies) to lift the body above 110,000 words and restore the omitted sidebars; (2) a copy-edit pass on the assembled manuscript; (3) rebuild with `python3 book/final/scripts/build_notes.py` then `python3 book/final/scripts/build_site.py` and pandoc after any change.
+**Book complete (v2).** Phase 8 (2026-10-15) added 38 openly available sources (S0346-S0383; S0033, S0035, S0128 upgraded; see `research/acquisitions/` and `plan/wanted-sources.md`) and integrated them into the prologue-free chapters 1-7, 11-14, 16, 18, 19 and the epilogue, each with a log in `verify/chNN-integration.md`. Settled: (u) Microcomp not renamed HCL; (aaa) H-1B fee orders. Optional next: (1) a copy-edit pass; (2) charts on the site; (3) the Wired 2004 piece (S0357) for Ch. 14; Nilekani on Sona Towers (S0360 p. 10) for Ch. 8; (4) books still unread (Sharma, Ramadorai, Banerjee, Xiang). Rebuild after any change: `python3 book/final/scripts/build_notes.py`, `python3 book/final/scripts/build_site.py`, pandoc docx/epub from `book/final/manuscript.md`, then build_site again. Note overrides are keyed by note number: re-check `note_overrides.csv` after any renumbering.
 
 
 ## Author decisions (2026-10-14)
