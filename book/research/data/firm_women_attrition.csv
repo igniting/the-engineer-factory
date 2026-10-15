@@ -1,10 +1,10 @@
 # title: Attrition rate and women's share of workforce, by firm
 # definition: each row states the firm's own attrition definition (total vs voluntary; with or without subsidiaries; IT services only) and women's-share basis
 # unit: percent
-# coverage: Infosys attrition FY2005-06 to FY2011-12 and women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and Q2 FY2026-27
-# source_ids: S0265, S0271, S0272, S0266, S0291 (Infosys 20-F); S0293, S0192, S0299 (Cognizant 10-K); S0160, S0310 (TCS)
+# coverage: Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and Q2 FY2026-27
+# source_ids: S0265, S0271, S0272, S0266, S0291 (Infosys 20-F); S0381 (Infosys 6-K call transcripts and Q4 FY2024 fact sheet); S0293, S0192, S0299 (Cognizant 10-K); S0160, S0310 (TCS)
 # method: transcribed as published; two Cognizant 2022 rows because the 10-K changed its headline metric from total to voluntary (tech services) attrition
-# breaks: definitions differ between firms and over time; do not compare across rows with different attrition_definition
+# breaks: definitions differ between firms and over time (Infosys moves from quarterly or annualised voluntary attrition in FY2019-20 and FY2020-21 to LTM voluntary attrition from FY2021-22); do not compare across rows with different attrition_definition
 firm,period,attrition_pct,attrition_definition,women_pct,women_definition,source_id,confidence
 Infosys,FY2005-06,11.2,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265 (20-F FY2008),high
 Infosys,FY2006-07,13.7,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265,high
@@ -14,6 +14,11 @@ Infosys,FY2009-10,13.4,attrition (as stated),,,S0272 (20-F FY2010),high
 Infosys,FY2010-11,17.0,"attrition, twelve months to 31 March",,,S0266 (20-F FY2012),high
 Infosys,FY2011-12,14.7,"attrition, twelve months to 31 March",,,S0266,high
 Infosys,FY2023-24,,,40,'nearly 40%' of workforce (quoted statement in 20-F),S0291 (20-F FY2024),medium
+Infosys,FY2019-20,15.1,"voluntary attrition, standalone, Q4 (quarter to 31 Mar 2020); total 18.2",,,S0381 (6-K Ex. 99.5 call 20 Apr 2020),medium
+Infosys,FY2020-21,15.2,"voluntary attrition, IT services, Q4 annualised",,,S0381 (6-K Ex. 99.5 call 14 Apr 2021),medium
+Infosys,FY2021-22,27.7,"voluntary attrition, LTM to 31 Mar",,,S0381 (6-K Ex. 99.5 call 13 Apr 2022),high
+Infosys,FY2022-23,20.9,"voluntary attrition, LTM to 31 Mar (IT services per Q4 FY2024 fact sheet)",,,S0381 (6-K Ex. 99.5 call 13 Apr 2023; Ex. 99.4 18 Apr 2024),high
+Infosys,FY2023-24,12.6,"voluntary attrition, LTM, IT services",39.3,women share of employees at 31 Mar 2024 (fact sheet),S0381 (6-K Ex. 99.4 Fact Sheet Q4 FY2024),high
 Cognizant,2020,20.6,total attrition (voluntary and involuntary),36,women share of workforce at 31 Dec,S0293 (10-K FY2021),high
 Cognizant,2021,30.8,total attrition (voluntary and involuntary),38,"women share at 31 Dec (c. 123,000 women)",S0293,high
 Cognizant,2022,31.7,total attrition (voluntary and involuntary),38,"women share at 31 Dec (c. 134,000 women)",S0293,high
