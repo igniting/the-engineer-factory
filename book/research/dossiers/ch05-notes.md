@@ -284,3 +284,6 @@ From 'insignificant' in 1978 to USD 131 million in 1990.
 - (u) HCL starting capital: Rs 1.75 lakh (Microcomp, S0237) against Rs 20 lakh (HCL, S0081).
   - Probably two companies: the calculator-marketing firm and HCL proper. Provisionally reconciled.
 - Minor: Indira Gandhi's return, 1980 (correct) against '1981' (S0001, p. 30). Rajaraman's error.
+
+
+**Phase 8 correction (2026-10-15):** Microcomp was not renamed HCL. Per Malhotra (S0358, pp. 13-14), Microcomp (1975) was the founders' calculator firm and held 49 per cent of HCL, incorporated separately in August 1976. Dispute (u) settled; see ch05 draft.
