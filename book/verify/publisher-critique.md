@@ -43,7 +43,7 @@ None of this means starting again. Ch. 2, 6, 9, 11 and 15 are close to publishab
   - Two named TCS HR managers in the 2025 retrenchment dispute (Ch. 19). Remove these names.
   - Ramadorai threading customs-seal wires back before inspection (Ch. 4, *The Economist*).
   - For each: anonymise, reduce, or add an explicit "the claims were the reporter's and untested".
-- **Murder of Prathibha Srikanth Murthy (Ch. 14).** "The court record of the case has not been read for this book" cannot stand. Read the judgment, state the outcome, and check family-privacy aspects.
+- **Murder of the victim (Ch. 14).** "The court record of the case has not been read for this book" cannot stand. Read the judgment, state the outcome, and check family-privacy aspects.
 - **Allegations against named companies without outcome or response.**
   - Zoho v. Freshworks (Ch. 17): find and state the outcome.
   - The TCS coercion allegations (Ch. 19): put TCS's own statement beside them.

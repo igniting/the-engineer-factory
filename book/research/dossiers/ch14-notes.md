@@ -92,7 +92,7 @@ Note: the RBI and NASSCOM series differ in definition. RBI is the official balan
 
 Use only with the label 'an anonymous activist who worked in a Gurgaon call centre in 2005-06 wrote ...'. Do not treat first names as verified identities.
 
-**Night shifts and transport.** The December 2005 murder of HP Globalsoft employee Pratibha Srikanth Murthy by a company cab driver in Bangalore led to scrutiny of night-shift transport for women. The trial court convicted in October 2010; the High Court upheld. Sources found are press only (News Minute, Oneindia). Handle with restraint; a court record is needed before drafting. Not registered yet.
+**Night shifts and transport.** The December 2005 murder of HP Globalsoft employee the victim by a company cab driver in Bangalore led to scrutiny of night-shift transport for women. The trial court convicted in October 2010; the High Court upheld. Sources found are press only (News Minute, Oneindia). Handle with restraint; a court record is needed before drafting. Not registered yet.
 
 ## 3. Scale, the pyramid and the crisis (Infosys filings)
 
