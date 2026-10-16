@@ -39,7 +39,7 @@ Applications reached 5.9 million in both FY2021-22 and FY2025-26.
 - **Change of metric:** from the 10-K for 2023 the headline is 'Voluntary Attrition - Tech Services': 25.6% in 2022, 13.8% in 2023, 15.9% in 2024, 13.9% in 2025.
 - **Women's share:** 36% (2020), 38% (2021-24), 39% (2025).
 
-**TCS.** FY2024-25: attrition 13.3% and women 35.2% (fact sheet, S0160, medium). 30 September 2026: attrition 13.3% (S0310).
+**TCS.** FY2019-20 to FY2023-24, as reported in the press (S0384, S0385; Phase 9, 2026-10-16): 12.1%, 7.2%, 17.4%, 20.1%, 12.5% (basis stated as last twelve months only for FY2021-22 and FY2022-23; FY2020-21, FY2022-23 and FY2023-24 rest on *HR Katha* alone; not voluntary-only). **TCS.** FY2024-25: attrition 13.3% and women 35.2% (fact sheet, S0160, medium). 30 September 2026: attrition 13.3% (S0310).
 
 **Gaps:**
 - Infosys attrition from FY2012-13 onwards (quarterly fact sheets, S0161, site blocked);

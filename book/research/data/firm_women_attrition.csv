@@ -1,10 +1,10 @@
 # title: Attrition rate and women's share of workforce, by firm
 # definition: each row states the firm's own attrition definition (total vs voluntary; with or without subsidiaries; IT services only) and women's-share basis
 # unit: percent
-# coverage: Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and Q2 FY2026-27
-# source_ids: S0265, S0271, S0272, S0266, S0291 (Infosys 20-F); S0381 (Infosys 6-K call transcripts and Q4 FY2024 fact sheet); S0293, S0192, S0299 (Cognizant 10-K); S0160, S0310 (TCS)
+# coverage: Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2019-20 to FY2024-25 and Q2 FY2026-27
+# source_ids: S0265, S0271, S0272, S0266, S0291 (Infosys 20-F); S0381 (Infosys 6-K call transcripts and Q4 FY2024 fact sheet); S0293, S0192, S0299 (Cognizant 10-K); S0160, S0310 (TCS); S0384, S0385 (TCS FY2019-20 to FY2023-24, press reports of quarterly results)
 # method: transcribed as published; two Cognizant 2022 rows because the 10-K changed its headline metric from total to voluntary (tech services) attrition
-# breaks: definitions differ between firms and over time (Infosys moves from quarterly or annualised voluntary attrition in FY2019-20 and FY2020-21 to LTM voluntary attrition from FY2021-22); do not compare across rows with different attrition_definition
+# breaks: definitions differ between firms and over time (Infosys moves from quarterly or annualised voluntary attrition in FY2019-20 and FY2020-21 to LTM voluntary attrition from FY2021-22; TCS FY2019-20 to FY2023-24 are press-reported, with the LTM basis stated only for FY2021-22 and FY2022-23, and are not voluntary-only measures); do not compare across rows with different attrition_definition
 firm,period,attrition_pct,attrition_definition,women_pct,women_definition,source_id,confidence
 Infosys,FY2005-06,11.2,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265 (20-F FY2008),high
 Infosys,FY2006-07,13.7,"comparable attrition, excl. Infosys BPO and subsidiaries",,,S0265,high
@@ -26,5 +26,10 @@ Cognizant,2022,25.6,Voluntary Attrition - Tech Services,,,S0293 (10-K FY2023),hi
 Cognizant,2023,13.8,Voluntary Attrition - Tech Services,38,women share 'approximately 38%',S0293,high
 Cognizant,2024,15.9,Voluntary Attrition - Tech Services,38,women share 'approximately 38%',S0192 (10-K FY2024),high
 Cognizant,2025,13.9,Voluntary Attrition - Tech Services,39,women share 'approximately 39%',S0299 (10-K FY2025),high
+TCS,FY2019-20,12.1,attrition at 31 Mar 2020 as reported (basis not stated in the reports; press reports of Q4 results),,,S0384 (HR Katha 17 Apr 2020); S0385 (Communications Today 17 Apr 2020),medium
+TCS,FY2020-21,7.2,attrition for FY2020-21 as reported (basis not stated; one outlet),,,S0384 (HR Katha 13 Apr 2021),low
+TCS,FY2021-22,17.4,"attrition, trailing 12 months to 31 Mar 2022, as reported",,,S0385 (The News Minute with PTI 11 Apr 2022),medium
+TCS,FY2022-23,20.1,"attrition, LTM to 31 Mar 2023, as reported (one outlet)",,,S0384 (HR Katha 21 Apr 2023),low
+TCS,FY2023-24,12.5,"attrition at 31 Mar 2024 (Q4), as reported (basis not stated; one outlet)",,,S0384 (HR Katha 12 Apr 2024),low
 TCS,FY2024-25,13.3,"LTM attrition, IT services",35.2,women share of workforce,S0160 (Q4 FY2024-25 fact sheet),medium
 TCS,Q2 FY2026-27,13.3,12-month trailing attrition (to 30 Sep 2026),,,S0310,medium

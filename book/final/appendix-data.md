@@ -531,11 +531,11 @@ Full file: `book/research/data/fresher_pay.csv`.
 
 **Definition and unit.** Per cent. Each row states the firm's own definition: total or voluntary attrition, with or without subsidiaries, IT services only, trailing twelve months.
 
-**Coverage.** Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2024-25 and the quarter to September 2026.
+**Coverage.** Infosys attrition FY2005-06 to FY2011-12 and FY2019-20 to FY2023-24, women FY2023-24; Cognizant 2020-2025; TCS FY2019-20 to FY2024-25 and the quarter to September 2026.
 
-**Sources.** Infosys 20-F (S0265, S0271, S0272, S0266, S0291) and 6-K results filings (S0381); Cognizant 10-K (S0293, S0192, S0299); TCS (S0160, S0310).
+**Sources.** Infosys 20-F (S0265, S0271, S0272, S0266, S0291) and 6-K results filings (S0381); Cognizant 10-K (S0293, S0192, S0299); TCS (S0160, S0310), and for FY2019-20 to FY2023-24 press reports of TCS's quarterly results (S0384, S0385).
 
-**Caveats.** Definitions differ between firms and change over time; rows with different definitions must not be compared. Cognizant switched its headline measure in its 10-K for 2023 from total to voluntary attrition in technology services, so 2022 appears on both bases. The Infosys women's figure is 'nearly 40%'.
+**Caveats.** Definitions differ between firms and change over time; rows with different definitions must not be compared. Cognizant switched its headline measure in its 10-K for 2023 from total to voluntary attrition in technology services, so 2022 appears on both bases. The Infosys women's figure is 'nearly 40%'. The TCS figures for FY2019-20 to FY2023-24 are as reported in the press, not taken from the company's fact sheets; those for FY2020-21, FY2022-23 and FY2023-24 rest on one trade publication (*HR Katha*). The reports give the basis as the last twelve months only for FY2021-22 and FY2022-23. They are not voluntary-only rates and should not be set against Infosys's voluntary series.
 
 | Firm | Period | Attrition | Definition | Women |
 |---|---|---|---|---|
@@ -554,6 +554,11 @@ Full file: `book/research/data/fresher_pay.csv`.
 | Cognizant | 2022 | 25.6% | Voluntary, technology services | |
 | Cognizant | 2023 | 13.8% | Voluntary, technology services | 38% |
 | Cognizant | 2025 | 13.9% | Voluntary, technology services | 39% |
+| TCS | FY2019-20 | 12.1% | As reported; basis not stated | |
+| TCS | FY2020-21 | 7.2% | As reported (one outlet); basis not stated | |
+| TCS | FY2021-22 | 17.4% | As reported; trailing twelve months | |
+| TCS | FY2022-23 | 20.1% | As reported (one outlet); last twelve months | |
+| TCS | FY2023-24 | 12.5% | As reported (one outlet); basis not stated | |
 | TCS | FY2024-25 | 13.3% | Last twelve months, IT services | 35.2% |
 
 Full file: `book/research/data/firm_women_attrition.csv`.
