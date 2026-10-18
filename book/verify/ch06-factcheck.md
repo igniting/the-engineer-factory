@@ -93,7 +93,7 @@ Disputes: (v) start of body shopping: still open, now with Aspray's 1974 TCS-Bur
 | 83 | Ahuja B1/B2 | 82 | S0242 | confirmed |  |
 | 84 | Sharma: hire, train, send, come back | 83 | S0240 | confirmed | Verbatim |
 | 85 | Temptations to remain abroad; training costs vs margins | 84 | S0241 | confirmed | p. 31 verbatim (quote); paraphrase accurate |
-| 86 | Sivasubramanian; $30,000; 16 suits; judgment for TCS | 85 | S0242 | rests-on-one-source | Verbatim; only Chatterjee; case undated (text says so) |
+| 86 | [the programmer, not named]; $30,000; 16 suits; judgment for TCS | 85 | S0242 | rests-on-one-source | Verbatim; only Chatterjee; case undated (text says so) |
 | 87 | Ahuja $800/month earliest pay figure | 86 | S0242 | confirmed |  |
 | 88 | DoL: $15,000 plus housing vs $70,000 plus benefits | 87 | S0242 | confirmed | Verbatim |
 | 89 | $100,000 California vs $10,000 India | 88 | S0242 | confirmed |  |

@@ -66,7 +66,7 @@ Only real, documented people. No composites.
 | Hirendra Nath Mukherjee | 1907-2004 (confirm) | MP; PAC chairman | PAC enquiry into IBM, 1975 | none | S0056 | 5 |
 | Mantosh Sondhi | n.d. | Chair, 1978 review committee on electronics | Recommended private manufacture | none | S0001 | 5 |
 | 'Rajesh Ahuja' (pseudonym used by source) | n.d. | Bombay programmer sent by HCL to Palo Alto, 1990 | Rank-and-file voice for Ch. 6; $50/hour billing case | Multinational Monitor 1995 | S0242 | 6 |
-| Kala Sivasubramanian | n.d. | TCS programmer in San Francisco | Sued by TCS for leaving ($30,000 clause) | none | S0242 | 6, 11 |
+| [the programmer, not named] | n.d. | TCS programmer in San Francisco | Sued by TCS for leaving ($30,000 clause) | none | S0242 | 6, 11 |
 | K.R. Trilokekar | n.d. | Engineer, ORG Systems from 1978 | Systems software for Sperry | Note to Sharma 2006 (via S0240) | S0240 | 5, 6 |
 | Rajesh Hukku | n.d. | TCS (c. 1979-89; FALCON LAN 1984), COSL 1989, founder of CITIL/i-flex | Engineer to product founder | none | S0240 | 6, 17 |
 | Nagy Hanna | n.d. | World Bank author of 1994 India IT study | Contemporary description of body shopping | | S0241 | 6 |

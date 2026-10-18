@@ -39,7 +39,7 @@ None of this means starting again. Ch. 2, 6, 9, 11 and 15 are close to publishab
   - The second-hand B. Rama Raju email ("warning of sacking or demotion") should be dropped, or tied squarely to *Business Today*.
 - **Living private individuals shown unflatteringly on a single source.**
   - Mali Subbiah, the Plano body-shop owner (Ch. 13, *Dallas Observer* 1998).
-  - Kala Sivasubramanian, sued by TCS (Ch. 6).
+  - [the programmer, not named], sued by TCS (Ch. 6).
   - Two named TCS HR managers in the 2025 retrenchment dispute (Ch. 19). Remove these names.
   - Ramadorai threading customs-seal wires back before inspection (Ch. 4, *The Economist*).
   - For each: anonymise, reduce, or add an explicit "the claims were the reporter's and untested".
@@ -142,7 +142,7 @@ Each recurrence is short. Read in sequence, the chapters feel like overlapping d
 | 3 | Structural | The 1968 automation meeting (link it to 2026); repainted 1401s | Close the Lok Sabha check; cut the committee membership lists | 1,300-1,600 |
 | 4 | Structural | "A few of them can be heard": half-hour slots, postbags, customs seal | Lead with the people; move date disputes to the notes; dramatise the export obligation | 1,200-1,500 |
 | 5 | Line edit | "You get out"; the attic in Delhi; the truck battery | Don't undercut the opening scene; cut the 800/150 reconciliation | c. 700 |
-| 6 | Line edit | Ahuja's $50 an hour; "Selling hours"; the World Bank warning | Cut the dating paragraph and "Making programmers"; decide on naming Kala Sivasubramanian | c. 800 |
+| 6 | Line edit | Ahuja's $50 an hour; "Selling hours"; the World Bank warning | Cut the dating paragraph and "Making programmers"; decide on naming [the programmer, not named] | c. 800 |
 | 7 | Structural | Three prices for one seat; Hyderabad 1992 | Make capitation explicitly a bet on future billable hours; move Mohini Jain to the courts half | c. 600 |
 | 8 | Line edit | "Fifty counters" (productivity absorbed by demand) | Fix the dangling "happy"; delete "not yet checked"; trim "Laboratories as schools" | c. 700 |
 | 9 | Line edit | The Infosys advertisement; GE's hotel rooms | Move "Counting the boom" to the data appendix; rename the colliding heading | c. 600 |

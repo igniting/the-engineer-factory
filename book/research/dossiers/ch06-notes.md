@@ -148,9 +148,9 @@ This is contemporary investigative journalism from a critical, labour-oriented m
 
 ### TCS and the lawsuits
 
-- Kala Sivasubramanian, brought to San Francisco by TCS. When she tried to leave, TCS 'sued to enforce her contract, which called for her to pay more than $30,000 to the company if she quit'.
+- [the programmer, not named], brought to San Francisco by TCS. When she tried to leave, TCS 'sued to enforce her contract, which called for her to pay more than $30,000 to the company if she quit'.
 - TCS's lawyer (D.S. Fastri [sic]) says TCS 'has sued 16 former employees successfully'.
-- Date of the Sivasubramanian case is not stated (early 1990s).
+- Date of the [the programmer, not named] case is not stated (early 1990s).
 
 ### Wages and enforcement
 
