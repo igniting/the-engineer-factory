@@ -27,7 +27,6 @@ p { margin: 0; text-align: justify; hyphens: auto; orphans: 2; widows: 2; }
 p + p { text-indent: 1.4em; }
 h1 { font-size: 19pt; line-height: 1.2; font-weight: normal; margin: 1.6in 0 0.5in; break-before: page; text-align: left; }
 h2 { font-size: 12pt; font-weight: bold; margin: 1.4em 0 0.5em; break-after: avoid; }
-h3 { font-size: 11pt; font-weight: bold; margin: 1.6em 0 0.6em; break-before: page; }
 h3 + p, h2 + p, h1 + p { text-indent: 0; }
 sup { font-size: 0.7em; line-height: 0; }
 a { color: inherit; text-decoration: none; }
@@ -37,6 +36,7 @@ tr { break-inside: avoid; }
 ul, ol { margin: 0.4em 0 0.4em 1.2em; padding: 0; }
 li { margin: 0.1em 0; text-align: left; }
 hr { border: 0; break-after: page; }
+.notes-block h2 { font-size: 10pt; margin: 1.2em 0 0.4em; }
 .notes-block p { font-size: 8.5pt; line-height: 1.35; text-indent: 0; text-align: left; margin: 0 0 0.25em; }
 .titlepage { break-after: page; text-align: center; padding-top: 2.2in; }
 .titlepage .t { font-size: 26pt; line-height: 1.15; }
@@ -78,23 +78,33 @@ def main():
         a = body.index('\n## Contents\n')
         b = body.index('\n# ', a)
         body = body[:a] + body[b:]
-    # Wrap each 'Notes to ...' section so its notes print smaller.
-    out, in_notes = [], False
+    # Chapters keep their text; the notes sit in one '# Notes' section near the back, with a '## heading'
+    # per chapter. Link each marker to its note and each note back to its marker, keyed by chapter order.
+    is_piece = lambda h: re.match(r'^(Prologue|Chapter \d+|Epilogue)\b', h)
+    out, k, in_notes = [], 0, False
     for l in body.split('\n'):
-        if l.startswith('### Notes to '):
+        if l.startswith('# '):
             if in_notes:
-                out.append('</div>')
-            out += [l, '', '<div class="notes-block">', '']
-            in_notes = True
-        elif l.startswith('# ') and in_notes:
-            out += ['', '</div>', '', l]
-            in_notes = False
+                out += ['', '</div>', '']
+                in_notes = False
+            if l == '# Notes':
+                out += [l, '', '<div class="notes-block">', '']
+                in_notes, k = True, 0
+                continue
+            if is_piece(l[2:]):
+                k += 1
+            out.append(l)
+        elif in_notes and l.startswith('## ') and is_piece(l[3:]):
+            k += 1
+            out.append(l)
+        elif in_notes and re.match(r'^\[\d+\] ', l):
+            out.append(re.sub(r'^\[(\d+)\] ', lambda m: f'<a id="n{k}-{m.group(1)}" href="#r{k}-{m.group(1)}">{m.group(1)}.</a> ', l))
+        elif not in_notes:
+            out.append(re.sub(r'\[(\d+)\]', lambda m: f'<sup id="r{k}-{m.group(1)}"><a href="#n{k}-{m.group(1)}">{m.group(1)}</a></sup>', l))
         else:
             out.append(l)
     if in_notes:
         out.append('</div>')
-    # Superscript note markers in running text; a note line itself starts with its [n].
-    out = [l if re.match(r'^\[\d+\] ', l) else re.sub(r'\[(\d+)\]', r'<sup>\1</sup>', l) for l in out]
     page = '\n'.join(out)
     epub_md = os.path.join(BUILD, 'epub.md')
     with open(epub_md, 'w', encoding='utf-8') as f:

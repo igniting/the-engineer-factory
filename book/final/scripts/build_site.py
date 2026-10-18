@@ -3,7 +3,8 @@
 Usage: python3 book/final/scripts/build_site.py  (run from the repository root)
 
 Outputs:
-  book/final/manuscript.md   one Markdown file: front matter, chapters with notes, back matter
+  book/final/manuscript.md   one Markdown file: front matter, chapters, back matter (notes collected
+                             in one 'Notes' section at the back, grouped by chapter)
   docs/                      static HTML site (GitHub Pages), one page per part of the book
                              (the EPUB and PDF are built by build_downloads.py and copied here)
 Requires pandoc on PATH. Drafting notes are never published.
@@ -20,7 +21,7 @@ PIECES = ['prologue'] + [f'ch{i:02d}' for i in range(1, 20)] + ['epilogue']
 PARTS = {'ch01': 'Part I: Before software (1940s-1977)', 'ch05': 'Part II: Bodies and wires (1977-1991)',
          'ch09': 'Part III: The export machine (1991-2008)', 'ch15': 'Part IV: Beyond services? (1985-2024)',
          'ch19': 'Part V: The break (2022-2026)'}
-BACK = [('appendix-timeline', 'Timeline'), ('appendix-data', 'Data appendix'),
+BACK = [('appendix-timeline', 'Timeline'), ('appendix-data', 'Data appendix'), ('notes', 'Notes'),
         ('bibliography', 'Bibliography'), ('index-terms', 'Index of terms')]
 
 
@@ -51,12 +52,13 @@ def heading(name):
 
 
 def link_markers(text, name):
-    # turn [n] markers into superscript links to the notes
-    return re.sub(r'\[(\d+)\]', lambda m: f'<sup id="r{m.group(1)}"><a href="#n{m.group(1)}">{m.group(1)}</a></sup>', text)
+    # turn [n] markers into superscript links to the chapter's notes on the Notes page
+    return re.sub(r'\[(\d+)\]', lambda m: f'<sup id="r{m.group(1)}"><a href="notes.html#{name}-{m.group(1)}">{m.group(1)}</a></sup>', text)
 
 
-def anchor_notes(notes):
-    return re.sub(r'^\[(\d+)\]', lambda m: f'<a id="n{m.group(1)}" href="#r{m.group(1)}">{m.group(1)}.</a>', notes, flags=re.M)
+def anchor_notes(notes, name):
+    # number each note as a link back to its marker in the chapter page
+    return re.sub(r'^\[(\d+)\]', lambda m: f'<a id="{name}-{m.group(1)}" href="{name}.html#r{m.group(1)}">{m.group(1)}.</a>', notes, flags=re.M)
 
 
 def md2html(md):
@@ -75,7 +77,7 @@ header.site{border-bottom:1px solid var(--rule);padding:.8rem 1rem;font:15px/1.4
 header.site a{color:var(--fg);text-decoration:none;font-weight:600}
 nav.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;padding-top:1rem;border-top:1px solid var(--rule);font:15px/1.4 system-ui,sans-serif}
 a{color:var(--accent)}h1{font-size:1.9rem;line-height:1.25;margin:1rem 0 1.5rem}h2{font-size:1.3rem;margin-top:2.2rem}
-sup a{text-decoration:none;font-size:.75em}.notes{font-size:.88rem;color:var(--muted);border-top:1px solid var(--rule);margin-top:3rem}
+sup a{text-decoration:none;font-size:.75em}.notes{font-size:.9rem}.notes h2{font-size:1.05rem;margin-top:2rem}.notes h2 a{color:var(--fg);text-decoration:none}
 .notes p{margin:.35rem 0}table{border-collapse:collapse;width:100%;font-size:.85rem;display:block;overflow-x:auto}
 td,th{border-bottom:1px solid var(--rule);padding:.3rem .5rem;text-align:left;vertical-align:top}
 .toc li{margin:.3rem 0}.part{font:600 .85rem/1.4 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-top:1.5rem}
@@ -103,7 +105,7 @@ def main():
     with open(os.path.join(DOCS, '.nojekyll'), 'w') as f:
         f.write('')
     order = [(n, heading(n)) for n in PIECES]
-    back = [(n, t) for n, t in BACK if os.path.exists(os.path.join(F, n + '.md'))]
+    back = [(n, t) for n, t in BACK if n == 'notes' or os.path.exists(os.path.join(F, n + '.md'))]
     seq = [('about', 'About this book')] + order + back
 
     # manuscript
@@ -111,9 +113,14 @@ def main():
     for n, h in order:
         if n in PARTS:
             ms += ['', f'# {PARTS[n]}', '']
-        ms += [body_of(n), '', f'### Notes to {h}', '', notes_of(n), '']
+        ms += [body_of(n), '']
     for n, t in back:
-        ms += ['', read(os.path.join(F, n + '.md')).strip(), '']
+        if n == 'notes':
+            ms += ['', '# Notes', '']
+            for p, h in order:
+                ms += [f'## {h}', '', notes_of(p), '']
+        else:
+            ms += ['', read(os.path.join(F, n + '.md')).strip(), '']
     with open(os.path.join(F, 'manuscript.md'), 'w') as f:
         f.write('\n'.join(ms) + '\n')
 
@@ -130,7 +137,11 @@ def main():
             inner = '<h1>About this book</h1>' + md2html(fm)
         elif n in PIECES:
             inner = md2html(link_markers(body_of(n), n))
-            inner += '<section class="notes"><h2>Notes</h2>' + md2html(anchor_notes(notes_of(n))) + '</section>'
+        elif n == 'notes':
+            inner = '<h1>Notes</h1><div class="notes">'
+            for p, h in order:
+                inner += f'<h2 id="{p}"><a href="{p}.html">{html.escape(h)}</a></h2>' + md2html(anchor_notes(notes_of(p), p))
+            inner += '</div>'
         else:
             inner = md2html(read(os.path.join(F, n + '.md')))
         with open(os.path.join(DOCS, fname(n)), 'w') as f:

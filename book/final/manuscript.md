@@ -113,97 +113,6 @@ The question this book asks is how India came to build software engineering, as 
 The chain starts long before there was an industry, in two research institutes where computers were scientific instruments and nobody yet thought of programming as a job. In 1955, the computer scientist V. Rajaraman records in his history of Indian computing, only a few dozen scientists and engineers in India knew about computers; by 2010 more than 2.4 million people were employed in computer-related jobs.[44] Between those two numbers lies a bargain that held for half a century: India came to train its engineers by the hundred thousand and sold their time to the world. Gayatri's offer letter was a promise that the selling would go on. Whether it does, now that machines can shorten the hours themselves, will decide what the next offer letter is worth, and whether a joining date comes with it.
 
 
-### Notes to Prologue. The joining date (2026)
-
-[1] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter). The report is Balakrishna Ganeshan's for *The News Minute*, republished by *Newslaundry*. Gayatri is the reporter's pseudonym, not her real name, and everything known about her comes from this one report.
-
-[2] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[3] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[4] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[5] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[6] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[7] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter). A *Deccan Herald* headline gave the deadline as 6 pm: Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated).
-
-[8] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[9] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[10] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[11] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[12] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[13] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[14] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[15] Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (online, unpaginated).
-
-[16] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[17] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[18] Press reports on delayed onboarding of graduates (2022) (Business Today, 5 October 2022, online, unpaginated).
-
-[19] Press reports on delayed onboarding of graduates (2022) (Business Today, 5 October 2022, online, unpaginated; the graduates in this reporting are anonymous).
-
-[20] Press reports on the NITES complaint against Infosys (2024-2025) (HR Katha, 13 June 2024, online, unpaginated; union's figure); *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) and Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (online, unpaginated; NITES as 'Pune-based').
-
-[21] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (online, unpaginated).
-
-[22] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[23] Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (online, unpaginated).
-
-[24] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter), which gives the joining date as 7 October; a trainee quoted by *Republic Business* gave 21 October, and there may have been two batches: Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
-
-[25] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
-
-[26] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter); Tripathi, 'Why Infosys "Forcibly" Laid Off a Batch of Recruits' (2025) (*Outlook Business*, online, unpaginated; reports the same changes, with 200 hours of material).
-
-[27] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[28] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter). The report gives the count in its own voice, apparently drawn from the trainees, for the batch that joined on 7 October.
-
-[29] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter); Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated).
-
-[30] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated); *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; relaying Moneycontrol).
-
-[31] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated); *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; relaying Moneycontrol).
-
-[32] Tripathi, 'Why Infosys "Forcibly" Laid Off a Batch of Recruits' (2025) (online, unpaginated; *Outlook Business* cites Moneycontrol for the termination rates).
-
-[33] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[34] Tripathi, 'Why Infosys "Forcibly" Laid Off a Batch of Recruits' (2025) (online, unpaginated); Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated); Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
-
-[35] *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; *Business Today* relaying Moneycontrol's count). *Republic Business* put the 18 April figure at 370: Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
-
-[36] Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated).
-
-[37] *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; relaying Moneycontrol). No written order of the Karnataka department has been located.
-
-[38] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
-
-[39] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (PTI wire report of Nasscom's figures, online, unpaginated; post-cutoff material, checked in October 2026.); Rajaraman, *History of Computing in India* (2012), p. 75 (Nasscom's full name, in the chronology).
-
-[40] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (PTI wire report of Nasscom's figures, online, unpaginated; post-cutoff material, checked in October 2026.).
-
-[41] *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.). Krithivasan told the Press Trust of India: 'We have made 25,000 offers for freshers in FY27. Clarity on demand will lead to more hiring.' *Business Standard* framed the 25,000 as the year's target against a usual figure of about 40,000: Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.). *Business Today* reported it as the offers made so far, with more to depend on demand, which is closer to his words: *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026). Freshers joined: about 14,000 in the first quarter of the year and 10,000 in the second: Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.); Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.; the paper's 'June 30, 2026' headcount date is an error, see Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026)).
-
-[42] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; 'The 2022 lull'); Press reports on delayed onboarding of graduates (2022) (Business Today, 5 October 2022, online, unpaginated).
-
-[43] Infosys, Form 20-F FY2024 (Infosys Form 20-F for fiscal 2024, Item 3.D risk factors, filed 24 June 2024); Infosys, Form 20-F FY2022 and Infosys, Form 20-F FY2023 (Forms 20-F for fiscal 2022 and 2023: AI and generative AI mentioned, AI code generation not mentioned; full texts searched 2026-10-14).
-
-[44] Rajaraman, *History of Computing in India* (2012), p. 7.
-
-
 
 # Part I: Before software (1940s-1977)
 
@@ -288,157 +197,6 @@ Why did these beginnings not lead to an Indian computer industry? Narasimhan's a
 By 1966 the experiment of the 1950s had reached its end. ISI's own machine had failed, TIFRAC had been retired, and the best computer in the country was American. What remained was the people who had learned their trade on TIFRAC and the URAL, and the users who had learned to write their own programs on the CDC 3600. The resolution of 1958 had spoken of skills that could be exported in return for what India lacked. In 1966 nothing was being exported, but the one thing India's first computers had reliably produced was exactly those skills. The country had learned that it could make computer people more easily than it could make computers.
 
 The next step was to train more of them, in classrooms rather than workshops. Chapter 2 tells how a new campus at Kanpur, in Uttar Pradesh, became the place where India first taught computing as a subject, and where the engineer factory began.
-
-
-### Notes to Chapter 1. The statistician's machines (1931-1966)
-
-[1] Narasimhan, 'On the System and Engineering Design' (1960), p. 48 (tubes and power; the machine also held 1,700 germanium diodes and about 12,500 resistors); Narasimhan, 'On the System and Engineering Design' (1960), p. 47 (work since 1955; no suitably air-conditioned room).
-
-[2] Narasimhan, 'On the System and Engineering Design' (1960), p. 47.
-
-[3] Narasimhan, 'On the System and Engineering Design' (1960), p. 47; Narasimhan, 'Men, Machines and Ideas' (1999), p. 448 agrees on February 1960; TIFR Archives, 'India's First Digital Computer' likewise.
-
-[4] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
-
-[5] Narasimhan, 'Men, Machines and Ideas' (1999), p. 447.
-
-[6] *Scientific Policy Resolution* (1958), Resolution No. 131/CF/57, 4 March 1958, para. 5 and list of aims (text at nstmis-dst.org/SPResolution.aspx, consulted 2026-10-13); also quoted in Rajaraman, *History of Computing in India* (2012), p. 15.
-
-[7] Rajaraman, *History of Computing in India* (2012), p. 18.
-
-[8] Rajaraman, *History of Computing in India* (2012), p. 15; Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
-
-[9] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
-
-[10] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022), quoting the first general report of the National Sample Survey (1953).
-
-[11] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
-
-[12] Menon, '"Fancy Calculating Machine"' (2018), abstract; Rajaraman, *History of Computing in India* (2012), p. 13.
-
-[13] Menon, 'Chasing the Machine' (2018); Menon, '"Fancy Calculating Machine"' (2018) (SIGCIS Mahoney Prize citation, 2019).
-
-[14] Menon, 'Chasing the Machine' (2018).
-
-[15] Menon, 'Chasing the Machine' (2018); Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) calls it 'India's first electrical analogue computing machine'.
-
-[16] Menon, 'Chasing the Machine' (2018).
-
-[17] Menon, 'Chasing the Machine' (2018).
-
-[18] Menon, 'Chasing the Machine' (2018), which quotes the 1953 dispatch.
-
-[19] Menon, 'Chasing the Machine' (2018), which quotes Mahalanobis's words; Menon's original source not identified, so paraphrased here.
-
-[20] Menon, '"Fancy Calculating Machine"' (2018), nn. 46-69 (letters to Pant of 12 April, 23 and 27 June, and 7 and 17 July 1954, sent from Geneva, London, Prague and Moscow; Pitambar Pant Papers, Nehru Memorial Museum and Library).
-
-[21] Menon, 'Chasing the Machine' (2018).
-
-[22] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
-
-[23] Rajaraman, *History of Computing in India* (2012), p. 15, drawing on the memoir of Mohi Mukherjee, one of the engineers involved (Mukherjee, 'The First Computer in India').
-
-[24] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022), quoting Rajaraman in Gopalakrishnan, Dayasindhu and Narayanan, *Against All Odds* (2022).
-
-[25] Rajaraman, *History of Computing in India* (2012), p. 15.
-
-[26] Menon, 'Chasing the Machine' (2018).
-
-[27] Rajaraman, *History of Computing in India* (2012), pp. 15-16, following Mukherjee's memoir, gives July 1955 and has the machine working in August 1955. Menon, working from archival sources, writes that it arrived in two crates in early 1956 (Menon, 'Chasing the Machine' (2018)).
-
-[28] Rajaraman, *History of Computing in India* (2012), p. 16.
-
-[29] Rajaraman, *History of Computing in India* (2012), p. 16.
-
-[30] Menon, 'Chasing the Machine' (2018); Rajaraman, *History of Computing in India* (2012), p. 16.
-
-[31] Rajaraman, *History of Computing in India* (2012), p. 7.
-
-[32] Rajaraman, *History of Computing in India* (2012), p. 16.
-
-[33] Rajaraman, *History of Computing in India* (2012), p. 16; Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) names the United Nations Technical Assistance Administration.
-
-[34] Rajaraman, *History of Computing in India* (2012), p. 16 (Russian engineers); Menon, 'Chasing the Machine' (2018) and Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) for the number eight.
-
-[35] Rajaraman, *History of Computing in India* (2012), p. 16.
-
-[36] Menon, 'Chasing the Machine' (2018), quoting the *Times of India*; date and page of the original not identified.
-
-[37] Rajaraman, *History of Computing in India* (2012), p. 16.
-
-[38] Rajaraman, *History of Computing in India* (2012), p. 16; Menon, '"Fancy Calculating Machine"' (2018), n. 92.
-
-[39] Menon, 'Chasing the Machine' (2018).
-
-[40] Menon, 'Chasing the Machine' (2018), which also records his loss of a radio-engineering job in Chicago over his politics and his move to Prague in 1948. Menon describes his disillusionment with communism; Nadler's autobiography, as Menon cites it, names the Soviet suppression of the Hungarian uprising in 1956 as the final straw.
-
-[41] Menon, '"Fancy Calculating Machine"' (2018), n. 27.
-
-[42] Rajaraman, *History of Computing in India* (2012), p. 15.
-
-[43] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
-
-[44] Narasimhan, 'Men, Machines and Ideas' (1999), p. 447.
-
-[45] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
-
-[46] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
-
-[47] Narasimhan, 'On the System and Engineering Design' (1960), p. 47 (completed September 1956). Narasimhan's 1999 memoir gives October or November 1956 (Narasimhan, 'Men, Machines and Ideas' (1999), pp. 448-449); the date here follows the paper he wrote in 1960.
-
-[48] Narasimhan, 'On the System and Engineering Design' (1960), p. 47.
-
-[49] Narasimhan, 'On the System and Engineering Design' (1960), p. 47 (stored program; parallel, binary and asynchronous, with single-address instructions; ferrite-core memory of 1,024 words); Narasimhan, 'On the System and Engineering Design' (1960), pp. 47-48 (40-bit words; punched paper tape for input, printed or punched output); Narasimhan, 'On the System and Engineering Design' (1960), p. 48 (apart from two bias supplies, no circuit used a transistor); Narasimhan, 'Men, Machines and Ideas' (1999), p. 449, table (addition in 45 microseconds, multiplication in about 500); TIFR Archives, 'India's First Digital Computer' (memory later doubled to 2,048 words).
-
-[50] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022) (*Against All Odds*), quoting P.V.S. Rao; on Rao's membership of the group, Rajaraman, *History of Computing in India* (2012), p. 17 and ref. 25. Rao's own account was probably first published as Rao, 'TIFRAC, India's First Computer' (2008).
-
-[51] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[52] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448; TIFR Archives, 'India's First Digital Computer'; Rajaraman, *History of Computing in India* (2012), p. 16. TIFR's archive and Rajaraman expand the name as 'TIFR Automatic Calculator'; Narasimhan, writing in 1999, gave it as 'TIFR Automatic Computer' (TIFR Archives, 'India's First Digital Computer'; Rajaraman, *History of Computing in India* (2012), p. 16; Narasimhan, 'Men, Machines and Ideas' (1999), p. 447).
-
-[53] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449; TIFR Archives, 'India's First Digital Computer'.
-
-[54] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[55] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
-
-[56] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[57] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[58] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 449-450.
-
-[59] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[60] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
-
-[61] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450 (1961-1964); Rajaraman, *History of Computing in India* (2012), p. 17 gives 1961 to 1963.
-
-[62] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
-
-[63] Rajaraman, *History of Computing in India* (2012), p. 17.
-
-[64] Rajaraman, *History of Computing in India* (2012), p. 17; Menon, '"Fancy Calculating Machine"' (2018), n. 124.
-
-[65] Rajaraman, *History of Computing in India* (2012), p. 17 ('mid 1964'); Narasimhan, 'Men, Machines and Ideas' (1999), p. 450 (mid-June 1964; National Computation Centre from October 1964; maintained by TIFR staff); Menon, '"Fancy Calculating Machine"' (2018), n. 124 gives May 1964. Control Data assisted with installation and early maintenance; later maintenance was done in-house by TIFR (Rajaraman, *History of Computing in India* (2012), p. 17).
-
-[66] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022).
-
-[67] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 449-450.
-
-[68] Rajaraman, *History of Computing in India* (2012), pp. 16-17. Start: 1960 (Rajaraman, *History of Computing in India* (2012)), 1961 (Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022)), 1962 (Menon, '"Fancy Calculating Machine"' (2018), n. 122). Completion year: Rajaraman, *History of Computing in India* (2012) and Menon, '"Fancy Calculating Machine"' (2018), n. 122 (1966); Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) gives 1965-66.
-
-[69] Menon, 'Chasing the Machine' (2018).
-
-[70] Rajaraman, *History of Computing in India* (2012), p. 3 (Bhabha Committee, 1963); p. 21 (after the 1962 border war with China). Chapter 3 tells the committee's story.
-
-[71] Menon, 'Chasing the Machine' (2018) for Rs 23 lakh; Menon, '"Fancy Calculating Machine"' (2018), n. 129 for $462,000, the opening (*Times of India*, 24 September 1965) and operating terms (open to outside users on a no-profit, no-loss basis, one shift a day until 1968).
-
-[72] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[73] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description); Dizikes, 'The Tech Revolution That Wasn't' (2026) (MIT News, May 2026; also for Banerjee's post, 'associate professor of science, technology, and society', and for his description of the argument as 'very much an external constraint story'); Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026) (Angela Saini, *Los Angeles Review of Books*, 5 August 2026; the 'nearly absolute' phrase is quoted there from the book, no page given); Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026) (Tracie Farrell, *International Journal of Asian Studies*); Menon, 'India's Pursuit of Tech Self-Reliance' (2026) (Nikhil Menon, *Issues in Science and Technology* 42, no. 4, Summer 2026, pp. 98-100). The book's argument is given here as these accounts summarise it. Among the constraints they name are limits on the flow of American designs, a foreign-exchange crisis in 1958 that made larger memories unaffordable, and rescue loans led by the World Bank that were conditional on opening markets to Western capital. Post-cutoff material: Banerjee, *Computing in the Age of Decolonization* (2026) and Dizikes, 'The Tech Revolution That Wasn't' (2026) live-checked 2026-10-13, the reviews 2026-10-15.
-
-[74] Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), pp. 2-3 (the 'peers' phrase is cited there to p. 153 of the book). Reviewer's report only; post-cutoff material, checked in October 2026.
 
 
 # Chapter 2. Kanpur, 1963 (1946-1978)
@@ -552,257 +310,6 @@ The third large firm of the period has no Kanpur connection at all. Wipro was bu
 ## Coda: from the classroom to the state
 
 In 1972 the American programme ended, and Kanpur's computer was already old. Kelkar had left two years earlier to direct IIT Bombay.[123] The government in Delhi had created a Department of Electronics in 1970 and was setting out to have India's computers designed and built in India by a public-sector company.[124] The state wanted machines made at home. Kanpur had already made the thing India would one day sell to the world: an engineer trained in English, to an American standard, on American machines. For now, many of the best of them left.
-
-
-### Notes to Chapter 2. Kanpur, 1963 (1946-1978)
-
-[1] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783 and p. 792 n. 15; Fay, 'Report from Kanpur' (1966), p. 11. Bassett (Bassett, 'Aligning India in the Cold War Era' (2009), p. 783) gives a DC-7. Harry Huskey, who was waiting for the machine, remembered the aircraft as a chartered DC-8, and recalled that it reached Delhi without a manifest, so that a customs officer sent it on to the military airfield at Kanpur (Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 41: Oral History of Harry Huskey, interviewed by William Aspray, 7 February 2006). The two accounts cannot be reconciled on the aircraft.
-
-[2] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
-
-[3] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
-
-[4] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
-
-[5] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42.
-
-[6] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42 (60-cycle and 50-cycle power, telegrams, converter from Germany, 'in about three weeks we had the machine up and running').
-
-[7] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
-
-[8] Rajaraman, *History of Computing in India* (2012), p. 17; Bassett, 'Aligning India in the Cold War Era' (2009), pp. 783, 792, and p. 794 n. 23 (definition of a compiler). Rajaraman dates the installation to August 1963. The crate arrived in July (Bassett, 'Aligning India in the Cold War Era' (2009), p. 783), and Huskey recalled the machine running 'in about three weeks' (Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42): the two dates describe two moments, the arrival and the first running.
-
-[9] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
-
-[10] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42.
-
-[11] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
-
-[12] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
-
-[13] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787; *Interim Report of the Sarker Committee* (1946).
-
-[14] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
-
-[15] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
-
-[16] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797. Bassett calls the Madras curriculum in some ways the antithesis of Kanpur's; the analogue machine had been built by Bell Labs.
-
-[17] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
-
-[18] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 787, 796-798.
-
-[19] Bassett, 'Aligning India in the Cold War Era' (2009), p. 788.
-
-[20] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
-
-[21] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
-
-[22] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
-
-[23] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790 (Bassett calls it an epiphany).
-
-[24] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
-
-[25] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
-
-[26] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
-
-[27] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
-
-[28] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
-
-[29] Fay, 'Report from Kanpur' (1966), p. 11.
-
-[30] Bhushan, 'Vignettes of History' (2014), Part I.
-
-[31] Bhushan, 'Vignettes of History' (2014), Part I; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
-
-[32] Bhushan, 'Vignettes of History' (2014), Part II.
-
-[33] Bhushan, 'Vignettes of History' (2014), Part III.
-
-[34] Bhushan, 'Vignettes of History' (2014), Parts I and III. No record has been located of when the first woman was admitted to Kanpur, or to its computing courses.
-
-[35] Fay, 'Report from Kanpur' (1966), p. 13.
-
-[36] Fay, 'Report from Kanpur' (1966), p. 11.
-
-[37] Fay, 'Report from Kanpur' (1966), p. 15.
-
-[38] Bhushan, 'Vignettes of History' (2014), Part I.
-
-[39] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
-
-[40] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790 n. 12; Fay, 'Report from Kanpur' (1966), p. 11. The nine were MIT, Caltech, the Carnegie Institute of Technology, Case, Princeton, the University of California at Berkeley, Michigan, Ohio State and Purdue.
-
-[41] Fay, 'Report from Kanpur' (1966), p. 11. The agent was Educational Services Incorporated.
-
-[42] Fay, 'Report from Kanpur' (1966), p. 16.
-
-[43] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
-
-[44] Fay, 'Report from Kanpur' (1966), pp. 11-12.
-
-[45] Fay, 'Report from Kanpur' (1966), p. 12.
-
-[46] Fay, 'Report from Kanpur' (1966), p. 13.
-
-[47] Fay, 'Report from Kanpur' (1966), p. 13 (the article appeared in June 1966, p. 11, so 'last September' is September 1965); Rajaraman, *History of Computing in India* (2012), p. 81 (the 1965 war with Pakistan).
-
-[48] Fay, 'Report from Kanpur' (1966), p. 13.
-
-[49] Fay, 'Report from Kanpur' (1966), p. 16.
-
-[50] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795 and n. 25.
-
-[51] Fay, 'Report from Kanpur' (1966), p. 16.
-
-[52] Fay, 'Report from Kanpur' (1966), p. 13; Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
-
-[53] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
-
-[54] Fay, 'Report from Kanpur' (1966), p. 14.
-
-[55] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792. Kesavan also held a master's degree from Illinois; Mahabala and Viswanathan both had doctorates from Saskatchewan.
-
-[56] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
-
-[57] Sethi, 'Our Experiences on the 1620' (2021).
-
-[58] Sethi, 'Our Experiences on the 1620' (2021).
-
-[59] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (same issue of *The Spark*, A. Shukla, 'The IBM 1620'); Rajaraman, *History of Computing in India* (2012), p. 18; Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
-
-[60] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793 n. 18.
-
-[61] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
-
-[62] Rajaraman, *History of Computing in India* (2012), p. 18.
-
-[63] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795.
-
-[64] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793 (plans for a master's concentration in computer science in place by 1965); Rajaraman, *History of Computing in India* (2012), p. 70 (Rajaraman's chronology dates the M.Tech programme in computers to 1966); IIT Kanpur, obituary of V. Rajaraman (2025), post-cutoff material, checked in October 2026. (IIT Kanpur's account of Rajaraman's career dates it to 1965 and calls it the first time computer science was offered as an academic discipline in India).
-
-[65] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
-
-[66] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 793-794 and n. 20.
-
-[67] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799. The others were the University of Roorkee, the University of Bombay and the Physical Research Laboratory in Ahmedabad.
-
-[68] Rajaraman, *History of Computing in India* (2012), pp. 17-18.
-
-[69] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
-
-[70] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Rajaraman, *History of Computing in India* (2012), p. 18.
-
-[71] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 799-800.
-
-[72] Rajaraman, *History of Computing in India* (2012), p. 18.
-
-[73] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 and n. 41.
-
-[74] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
-
-[75] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5; Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[76] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
-
-[77] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
-
-[78] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
-
-[79] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 n. 21.
-
-[80] Rajaraman, *History of Computing in India* (2012), p. 18.
-
-[81] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 and n. 21.
-
-[82] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
-
-[83] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
-
-[84] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797 and n. 32. KIAP ended during what Bassett describes as the worst years of relations between India and the United States. The 7044 was replaced in 1979 by a Digital Equipment Corporation DEC-10.
-
-[85] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796. The Soviet technicians arrived in July 1967 and repaired the damage done in storage; the machine was the only one of its kind in India.
-
-[86] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 797-798; Gopalakrishnan and Narayanan, *Computers in India* (1975), p. 25, as quoted in Bassett, 'Aligning India in the Cold War Era' (2009), p. 798 n. 33.
-
-[87] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799. Bassett adds that the computer, imported and labour-saving, was 'a problematic technology in a country that had a surplus of labor, prized self-sufficiency, and put little stock in international trade' (Bassett, 'Aligning India in the Cold War Era' (2009), p. 798). The government's inquiry into automation is the subject of Chapter 3.
-
-[88] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[89] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[90] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
-
-[91] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
-
-[92] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 802-803.
-
-[93] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 49.
-
-[94] Fay, 'Report from Kanpur' (1966), p. 11.
-
-[95] Bhushan, 'Vignettes of History' (2014), Part III.
-
-[96] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 803-804 n. 50 (the list was obtained by Bassett).
-
-[97] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 50, citing Sukhatme, *The Real Brain Drain* (1994), pp. 17-18.
-
-[98] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803. Bassett expects the Kanpur figure was similar, and notes that whatever an IIT's foreign patron, those who left went overwhelmingly to America (Bassett, 'Aligning India in the Cold War Era' (2009), p. 807).
-
-[99] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
-
-[100] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
-
-[101] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806. The thirty-eight were eleven from IIT Madras, ten from IIT Kanpur, five from IIT Delhi and four from IIT Bombay, with the rest from other Indian colleges.
-
-[102] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806; Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[103] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[104] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[105] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806.
-
-[106] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), p. 4 (Oral History of Arjun Malhotra, recorded 15 November 2018; he left school in December 1964, p. 4).
-
-[107] Jayshankar, 'Interview with Dr Rajaraman', *Vox Populi* (2018) (Rajaraman's interview with *Vox Populi*, an IIT Kanpur student magazine, 7 June 2018, updated 15 May 2021; consulted 2026-10-15); Rajaraman, *History of Computing in India* (2012), p. 34; Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 and n. 53. Rajaraman's own history also gives rank 40 for the last student admitted (Rajaraman, *History of Computing in India* (2012), p. 34). Bassett, citing an interview with Rajaraman, gives rank 44, so that close to half of the top forty students in India had chosen the course (Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 and n. 53). All three accounts rest on memory, recorded decades later. No copy of the institute's annual report for 1978-79, which would settle the figure, has been located.
-
-[108] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[109] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 n. 53.
-
-[110] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
-
-[111] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
-
-[112] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
-
-[113] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[114] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801.
-
-[115] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[116] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
-
-[117] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
-
-[118] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 7-8.
-
-[119] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 8-9 (Oral History of N.R. Narayana Murthy, Part 1, recorded 13 May 2018; founder's recollection). Krishnayya was installing a Hewlett-Packard computer bought with Ford Foundation money (Bassett, 'Aligning India in the Cold War Era' (2009), p. 801).
-
-[120] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801. After a brief spell in France, Murthy worked for Krishnayya again, at a research institute modelled on the RAND Corporation, before joining Patni. The founding of Infosys is told in Chapter 6.
-
-[121] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802 (Bassett's summary of the Kanpur, Patni and Kohli connections).
-
-[122] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801 n. 44.
-
-[123] Bassett, 'Aligning India in the Cold War Era' (2009), p. 798.
-
-[124] Rajaraman, *History of Computing in India* (2012), p. 3.
 
 
 # Chapter 3. Self-reliance and its limits (1962-1977)
@@ -920,229 +427,6 @@ The change reached computer policy quickly. M.G.K. Menon was replaced as secreta
 The self-reliance programme had produced fewer than a hundred commercial computers and more than a thousand trained engineers. The labour settlement had made the office computer something a firm had to justify to its workers. And the import rules had left one opening. In the summer of 1970, when the Committee on Automation took evidence in Bombay, one of the delegations in front of it came from a small Tata unit that called itself a consultancy, and among its members was F.C. Kohli.[110] The clerks' unions had made the computer hard to justify at home. Kohli's unit would justify it by selling the work abroad.
 
 
-### Notes to Chapter 3. Self-reliance and its limits (1962-1977)
-
-[1] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 3, 5.
-
-[2] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5.
-
-[3] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
-
-[4] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5.
-
-[5] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 5-6.
-
-[6] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 6.
-
-[7] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 6.
-
-[8] Rajaraman, *History of Computing in India* (2012), pp. 15, 18.
-
-[9] Rajaraman, *History of Computing in India* (2012), p. 18.
-
-[10] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
-
-[11] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
-
-[12] Rajaraman, *History of Computing in India* (2012), pp. 18-19.
-
-[13] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
-
-[14] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
-
-[15] Rajaraman, *History of Computing in India* (2012), p. 19.
-
-[16] Rajaraman, *History of Computing in India* (2012), p. 19.
-
-[17] Rajaraman, *History of Computing in India* (2012), p. 19; Penn World Table 11.0, exchange rate series (1970 annual average, Rs 7.50 per dollar). Rajaraman converts the rental to $190,000 'at the prevailing exchange rate' (Rajaraman, *History of Computing in India* (2012), p. 19), which roughly matches the rate before the rupee was devalued in 1966 (Rajaraman, *History of Computing in India* (2012), p. 70; Penn World Table 11.0, exchange rate series: 1965, Rs 4.76 per dollar).
-
-[18] Rajaraman, *History of Computing in India* (2012), p. 70.
-
-[19] Rajaraman, *History of Computing in India* (2012), p. 19.
-
-[20] Rajaraman, *History of Computing in India* (2012), p. 19.
-
-[21] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 34.
-
-[22] Rajaraman, *History of Computing in India* (2012), p. 21.
-
-[23] Rajaraman, *History of Computing in India* (2012), p. 21.
-
-[24] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022) (Kris Gopalakrishnan, N. Dayasindhu and Krishnan Narayanan; web extract, unpaginated).
-
-[25] Rajaraman, *History of Computing in India* (2012), p. 21.
-
-[26] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450. Narasimhan's earlier work on TIFRAC is described in Chapter 1.
-
-[27] Rajaraman, *History of Computing in India* (2012), p. 21.
-
-[28] Rajaraman, *History of Computing in India* (2012), p. 24.
-
-[29] Rajaraman, *History of Computing in India* (2012), p. 21.
-
-[30] Rajaraman, *History of Computing in India* (2012), pp. 21-22; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
-
-[31] Rajaraman, *History of Computing in India* (2012), p. 22.
-
-[32] Rajaraman, *History of Computing in India* (2012), p. 22.
-
-[33] Rajaraman, *History of Computing in India* (2012), pp. 24, 70; Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022).
-
-[34] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
-
-[35] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[36] Rajaraman, *History of Computing in India* (2012), p. 22.
-
-[37] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[38] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[39] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[40] Rajaraman, *History of Computing in India* (2012), p. 24. A DoE panel on minicomputers, chaired by P.V.S. Rao of TIFR, reported in 1973 that minicomputers could be made in India without foreign collaboration and projected demand for about 1,400 of them between 1974 and 1979 (Rajaraman, *History of Computing in India* (2012), pp. 24, 71). The policy itself, announced in 1978, is described in Chapter 5.
-
-[41] Rajaraman, *History of Computing in India* (2012), p. 27.
-
-[42] Rajaraman, *History of Computing in India* (2012), pp. 25, 70.
-
-[43] Rajaraman, *History of Computing in India* (2012), p. 25.
-
-[44] Rajaraman, *History of Computing in India* (2012), p. 25.
-
-[45] Rajaraman, *History of Computing in India* (2012), p. 25.
-
-[46] Rajaraman, *History of Computing in India* (2012), p. 25; Federal Reserve, G.5A Foreign Exchange Rates (1975 annual average, Rs 8.41 per dollar).
-
-[47] Rajaraman, *History of Computing in India* (2012), pp. 25-26. ECIL's 98 sales were 21 TDC-12s, 32 TDC-312s, 35 TDC-316s and 10 Micro 78s; a TDC-12 typically cost Rs 600,000 and a TDC-312 Rs 1 million (Rajaraman, *History of Computing in India* (2012), p. 25). ECIL's share of the installed base in 1974 (11 per cent) is given in Chapter 2 (Bassett, 'Aligning India in the Cold War Era' (2009), p. 800).
-
-[48] Rajaraman, *History of Computing in India* (2012), p. 26. The work at TIFR was led by P.V.S. Rao. ECIL machines also logged data for atomic energy, monitored satellite launches, tested gas turbines and controlled the cutting of billets in steel mills, all places where export controls made imports difficult; the DoE gave ECIL grants and loans of Rs 37.44 million (Rajaraman, *History of Computing in India* (2012), p. 26).
-
-[49] Rajaraman, *History of Computing in India* (2012), p. 25.
-
-[50] Rajaraman, *History of Computing in India* (2012), p. 26.
-
-[51] Rajaraman, *History of Computing in India* (2012), p. 26. No private Indian company was then allowed to make computers (Rajaraman, *History of Computing in India* (2012), p. 27). What ECIL's engineers were paid is not recorded in the published histories.
-
-[52] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 1-2.
-
-[53] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2.
-
-[54] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2; pp. 62-63. The OCR text of the committee's report garbles the year of LIC's decision; elsewhere the committee says that until 1965 computers had aroused little opposition, and that serious opposition developed 'since 1965' after a big public-sector undertaking decided to install a computer in one of its offices without consulting its workers. The Lok Sabha record dates the decision to 1964 and the first installation to November 1965 (*Lok Sabha Debates*, 24 November 1966, col. 5287). A short biographical note on Ajoy Dasgupta, a leader of the insurance employees, dates the insurance workers' 'struggles against computerisation' earlier, to 1959-61, and says that 'the computers were installed step by step and the agitation died down' (Indian Labour Archives, 'Ajoy Dasgupta', p. 2). The two dates may describe two waves of protest, one against earlier office machinery and one against the computer itself; the record does not settle which.
-
-[55] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-3. Bassett records that Indian unions called computers 'job eaters' (Bassett, 'Aligning India in the Cold War Era' (2009), p. 799; see Chapter 2).
-
-[56] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 3.
-
-[57] *Lok Sabha Debates*, 24 November 1966, cols. 5286-88 (Lok Sabha Debates, Third Series, 24 November 1966, calling-attention statement on the proposed strike by LIC employees; read in the printed record via the archive.org mirror of the Parliament Digital Library, 2026-10-15). The quotation is at cols. 5287-88; the strike, called by the All-India Insurance Employees' Association for 25 November, is at col. 5286; the comparison with 'the 1500 or so new jobs created in the L.I.C. every year' and the assurance that none of the employees whose jobs became redundant would be retrenched are at col. 5288.
-
-[58] *Lok Sabha Debates*, 23 March 1967, cols. 675-76 (Lok Sabha Debates, Fourth Series, 23 March 1967, oral question *40, 'Computers in LIC'). Pant gave the Bombay system's purchase price as about Rs 42 lakh (Rs 4.2 million), excluding import charges and sales tax, paid for under a 'blocked rupee' arrangement; a second computer, from International Computers and Tabulators of Britain, was contracted for Calcutta. His answer to the question how many employees had lost their jobs was 'None'.
-
-[59] *Lok Sabha Debates*, 23 March 1967, col. 678. The question was put by Bal Raj Madhok.
-
-[60] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 3-4.
-
-[61] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
-
-[62] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
-
-[63] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 24-25.
-
-[64] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 25.
-
-[65] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
-
-[66] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 30.
-
-[67] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 29.
-
-[68] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
-
-[69] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 40.
-
-[70] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52, 55.
-
-[71] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 56.
-
-[72] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52-53.
-
-[73] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 53, 160.
-
-[74] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 54.
-
-[75] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 63-64.
-
-[76] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 65.
-
-[77] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 7, 89. Venkataraman resigned on 22 March 1971 and Dandekar, director of the Gokhale Institute of Economics and Politics in Poona, became chairman on 24 July 1971 (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 7); Rajaraman therefore calls it the Dandekar Committee and notes that it was set up under Venkataraman (Rajaraman, *History of Computing in India* (2012), p. 22). The members included G. Ramanujam and Satish Loomba, the industrialists Naval H. Tata, B.D. Somani and Babubhai M. Chinai, the economist V.M. Dandekar and V.R. Rao of the Computer Centre in Delhi. Its witnesses included LIC's management, the State Bank of India, the railways, IBM, ICL, the Computer Society of India, the main union federations and three representatives of the All India Insurance Employees' Association (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 136-140).
-
-[78] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 35. Since planning and installing a computer took about two years and full use two or three more, the committee thought most installations were still in their early phases (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 36-37).
-
-[79] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 75.
-
-[80] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 67.
-
-[81] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 67-68.
-
-[82] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 69.
-
-[83] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 70.
-
-[84] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 70-72.
-
-[85] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 73-74.
-
-[86] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 79-80.
-
-[87] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 81-82.
-
-[88] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 83-85. Their arithmetic: if half of India's 445 companies with paid-up capital of Rs 10 million or more installed computers (129 more than the 94 already in place), and each new computer affected about 16 employees, some 2,064 people would be affected over a decade or more.
-
-[89] Rajaraman, *History of Computing in India* (2012), pp. 22-23. No record of how far the committee's recommendations were applied in practice has been located.
-
-[90] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[91] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[92] Rajaraman, *History of Computing in India* (2012), p. 19 (IBM); p. 26 (ECIL); Rajaraman, *History of Computing in India* (2012), p. 18 (Kanpur, three times a year), Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (four times a year); see Chapter 2.
-
-[93] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 450-451; Rajaraman, *History of Computing in India* (2012), p. 27. The founding date differs between the accounts. Rajaraman dates the centre to 1972, with Rs 2.85 million from the DoE and $2 million from UNDP (Rajaraman, *History of Computing in India* (2012), pp. 27, 71). Narasimhan says a UNDP mission in May 1973 recommended placing it at TIFR, which had run the National Computation Centre on its CDC 3600 since 1964; the centre began working informally in late 1974 and was formally launched in 1975, when a DEC 1077 system was installed (Narasimhan, 'Men, Machines and Ideas' (1999), p. 450). At full strength it had a research staff of about 30 (Narasimhan, 'Men, Machines and Ideas' (1999), p. 451). Narasimhan's account does not give the year of the first evening course.
-
-[94] Narasimhan, 'Men, Machines and Ideas' (1999), p. 451.
-
-[95] Rajaraman, *History of Computing in India* (2012), p. 27 (Rs 31.72 million from the DoE and $4.4 million from UNDP).
-
-[96] Rajaraman, *History of Computing in India* (2012), pp. 28, 71.
-
-[97] Rajaraman, *History of Computing in India* (2012), p. 28 (at a cost of Rs 53 million); Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
-
-[98] Rajaraman, *History of Computing in India* (2012), p. 27.
-
-[99] Rajaraman, *History of Computing in India* (2012), p. 28.
-
-[100] Rajaraman, *History of Computing in India* (2012), p. 28. Chapter 4 tells the story.
-
-[101] Rajaraman, *History of Computing in India* (2012), p. 59.
-
-[102] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
-
-[103] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description); Dizikes, 'The Tech Revolution That Wasn't' (2026) (MIT News report, May 2026); Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026); Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026); Menon, 'India's Pursuit of Tech Self-Reliance' (2026), pp. 98-100 (Menon, review in *Issues in Science and Technology* 42, no. 4, Summer 2026). The summary follows the publisher's description and the reviews, not the book itself. Menon's fuller sentence is his own: 'India locked itself into cheap, skilled, backend service provision: reliance, not self-reliance.' Post-cutoff material, checked against the live pages 2026-10-13 and 2026-10-15.
-
-[104] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-4, 63.
-
-[105] Rajaraman, *History of Computing in India* (2012), pp. 27-28.
-
-[106] Rajaraman, *History of Computing in India* (2012), p. 82.
-
-[107] *Lok Sabha Debates*, 23 March 1967, col. 678.
-
-[108] Rajaraman, *History of Computing in India* (2012), p. 24. The policy is described in Chapter 5.
-
-[109] Rajaraman, *History of Computing in India* (2012), p. 24.
-
-[110] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 136-139.
-
-
 # Chapter 4. Tata's experiment (1968-1978)
 
 In January 1975 the Computer Society of India held its annual convention at Ahmedabad. Its president that year was F.C. Kohli, a power engineer who ran Tata Consultancy Services (TCS), a small computer-services company in Bombay (Mumbai since 1995) owned by the Tata group. In his presidential address, as he quoted it himself more than thirty years later, Kohli told the delegates: 'Many years ago, there was an industrial revolution. We missed it due to reasons over which we had no control.'[1] The new revolution, in information technology, was one 'which requires the capability to think clearly. This we have in abundance.' He went on: 'We have an opportunity to participate in this revolution on an equal footing; we even have the opportunity to be leaders.'[2]
@@ -1236,171 +520,6 @@ The rule was not watertight. Aspray concludes that by 1980 most of the hardware 
 ## 1978
 
 The decade closed with a break. The Tata group dates the end of TCS's partnership with Burroughs to 1978.[77] The reviewer Rashmi Bansal writes that Ramadorai's history of the company presents that year as the gravest test TCS had faced, because Tata Sons formed a formal joint venture with Burroughs and left TCS to fend for itself.[78] The same year IBM, which had installed most of India's computers and trained many of its programmers, left the country, and the government at last let private Indian companies make minicomputers (Chapter 5).[79] India had fewer than 1,000 computers.[80] In 1979 TCS sent Ramadorai to the United States to open its first overseas office. Free now to work with other computer makers, it had to find its own customers.[81] What it offered them was what the export licence had already taught it to sell: the time of its programmers.
-
-
-### Notes to Chapter 4. Tata's experiment (1968-1978)
-
-[1] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4.
-
-[2] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4. No text of the 1975 address has been located. The wording here is Kohli's own quotation of it in a speech of 2008-09 (Kohli, *Towards Inclusive Information Technology Revolution in India* (2009)); later writers' versions differ. Dinesh Sharma retells the speech in his obituary of Kohli, 'F.C. Kohli and the Eureka Moment of India's Software Industry', though the 'Eureka moment' of his title is TCS's breakthrough with Burroughs in 1974, not the address (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)); a Tata group tribute of 2024 quotes yet another wording (Tata Group, 'The IT Revolutionary' (2024)).
-
-[3] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[4] Rajaraman, *History of Computing in India* (2012), p. 23.
-
-[5] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
-
-[6] *The Economist*, 'Ram Drive' (2008), para. 1 ('Ram drive', *The Economist*, 21 August 2008, course-page mirror); para. 6 (chief executive in 1996).
-
-[7] *The Economist*, 'Ram Drive' (2008), para. 3. The paragraph says 'the computer'; the preceding paragraph concerns the Burroughs machine TCS bought in 1974.
-
-[8] *The Economist*, 'Ram Drive' (2008), para. 5.
-
-[9] *The Economist*, 'Ram Drive' (2008), paras 4-5.
-
-[10] Sharma, 'When Patni Experienced the Eureka Moment' (2011) (Sharma). The living-room test rests on Sharma's account alone; a *Business Standard* profile of 2007 confirms only that the Patnis began from their apartment in 1972 (*Business Standard*, 'The Original IT Man' (2007)).
-
-[11] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 7 (Nilekani, Computer History Museum oral history; title page dated 8 January 2019; CHM reference X9234.2020). He joined Patni in January 1979, and part of his job was teaching the customers who had bought the machine.
-
-[12] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Bassett, 'Aligning India in the Cold War Era' (2009), p. 800; Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024); Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4; Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145. The founding is dated differently. Sharma writes that the unit was established in 1967 as the Tata Computer Centre, to handle the data processing of all the Tata companies (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)). Bassett says the group 'established a computing enterprise in 1967', which by 1969 was called Tata Consultancy Services (Bassett, 'Aligning India in the Cold War Era' (2009), p. 800). The Tata group's own histories give 1968 for the company, though one dates the group's shared computer centre to 1966 (Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024)). Kohli said in 2009: 'TCS was set up in 1968 to partake in the new technology' (Kohli, *Towards Inclusive Information Technology Revolution in India* (2009)). The Committee on Automation's list of computers in India as of August 1971 has two Bombay entries for 'Tata Computer Centre Consultancy Services': an IBM 1401 installed in September 1967 and an ICL 1903 installed in 1971 (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145). On this reading both dates are right about different things.
-
-[13] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
-
-[14] Tata Group, 'The IT Revolutionary' (2024).
-
-[15] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024).
-
-[16] Venkatraman, 'India's IT Guy' (2013).
-
-[17] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 29.
-
-[18] Rajaraman, *History of Computing in India* (2012), pp. 18-19. IBM's rental business is described in Chapter 3.
-
-[19] Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 2-3.
-
-[20] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3.
-
-[21] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3.
-
-[22] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
-
-[23] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801 (Kanpur; see Chapter 2); Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 3 (Kohli dates Tata Electric's digital computers for system control and load dispatching to 1968); Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3 (in 2020 he gave 1969).
-
-[24] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801 n. 43.
-
-[25] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3.
-
-[26] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Venkatraman, 'India's IT Guy' (2013); Bassett, 'Aligning India in the Cold War Era' (2009), p. 800. All sources agree on 1969; Sharma says he succeeded Kanodia (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)).
-
-[27] Venkatraman, 'India's IT Guy' (2013). The profile does not name the director, and no other source records the 1974 succession.
-
-[28] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 (Bassett: Kohli led TCS for decades); Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 3 (eighteen years at Tata Electric and more than thirty at TCS, as he put it in 2009); Computer History Museum, 'Oral History of FC Kohli' (2020), p. 5. Rajaraman has S. Ramadorai succeeding Kohli as chief executive in 1996 (Rajaraman, *History of Computing in India* (2012), p. 28).
-
-[29] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145; Venkatraman, 'India's IT Guy' (2013); Rajaraman, *History of Computing in India* (2012), p. 19. Rajaraman says the company's first computer was an IBM 1401 (Rajaraman, *History of Computing in India* (2012), p. 19). The *Technology Review* profile, drawing on Kohli, says its first mainframe was an ICL 1903, supplemented by two leased IBM machines (Venkatraman, 'India's IT Guy' (2013)). The Committee on Automation's list settles the order: the 1401 from September 1967, the ICL from 1971 (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972)). The accounts agree if the IBMs were rented and the ICL was the first machine the company bought.
-
-[30] Venkatraman, 'India's IT Guy' (2013). The profile does not name the insurer, and no other source identifies it; the Committee on Automation's 1971 list does not say where the Tata centre's ICL came from (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145).
-
-[31] Rajaraman, *History of Computing in India* (2012), pp. 22-23. The licensing system is described in Chapter 3.
-
-[32] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
-
-[33] Venkatraman, 'India's IT Guy' (2013) (the quotation is Kohli's, as the profile reports it).
-
-[34] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 5.
-
-[35] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 4.
-
-[36] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024). In the same interview Kohli corrected the interviewer's dates more than once (Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 2, 5).
-
-[37] Sharma, 'F.C. Kohli and the Eureka Moment' (2020). Rests on one source.
-
-[38] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 3-4. The firm was called Softronics; Murthy closed it in less than a year. Chapter 6 tells how he went on to Patni and Infosys.
-
-[39] Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 4-5 (Kohli: built up while he was in the United States; not a legal partnership); Sharma, 'F.C. Kohli and the Eureka Moment' (2020) (Sharma: Kohli decided to work with IBM's closest rival).
-
-[40] Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy'; *The Economist*, 'Ram Drive' (2008), para. 4 (Burroughs sold its machines in India through TCS). The Tata group dates the partnership to 1973 (Tata Group, TCS timeline and 'Five Decades of Transformation' (2021)); the *Technology Review* profile places the first contract in 1974 (Venkatraman, 'India's IT Guy' (2013)).
-
-[41] Venkatraman, 'India's IT Guy' (2013).
-
-[42] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Rajaraman, *History of Computing in India* (2012), p. 28.
-
-[43] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021). Sharma credits a group of young engineers with the filter that made ICL software work on the Burroughs platform (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)); Rajaraman says TCS imported a Burroughs B6700 and that Burroughs outsourced many conversion jobs to TCS (Rajaraman, *History of Computing in India* (2012), p. 28). The versions may describe a sequence, conversion first, then application packages, then systems software; no contract has been located to settle it.
-
-[44] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
-
-[45] Rajaraman, *History of Computing in India* (2012), p. 28 (the manufacturing company, which failed and closed after four years); Sharma, 'F.C. Kohli and the Eureka Moment' (2020) (peripherals and Tata Burroughs Limited). Whether Rajaraman's manufacturing company and Sharma's peripherals venture were the same is not clear.
-
-[46] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
-
-[47] Rajaraman, *History of Computing in India* (2012), p. 28.
-
-[48] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
-
-[49] Tata Group, 'The IT Revolutionary' (2024).
-
-[50] Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy' (the online journal has no page numbers).
-
-[51] Aspray, 'The Role of Policy' (2010), same section; Rajaraman, *History of Computing in India* (2012), p. 29. Body shopping is described in Chapter 6.
-
-[52] No contract, rate card or first-hand account showing how TCS priced its work in the 1970s has been located.
-
-[53] Ramadorai, *The TCS Story ... and Beyond* (2011), as summarised in a published review (*Deccan Herald*, 29 October 2011).
-
-[54] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802 n. 45.
-
-[55] Sharma, 'When Patni Experienced the Eureka Moment' (2011).
-
-[56] Sharma, 'When Patni Experienced the Eureka Moment' (2011) (two dozen); *Business Standard*, 'The Original IT Man' (2007) (*Business Standard*, 2007: the Poona office was started by Poonam Patni with twenty people).
-
-[57] Sharma, 'When Patni Experienced the Eureka Moment' (2011); *Business Standard*, 'The Original IT Man' (2007); Bassett, 'Aligning India in the Cold War Era' (2009), p. 801. Sharma dates the firm to 1976 (Sharma, 'When Patni Experienced the Eureka Moment' (2011)); the *Business Standard* profile gives 1978 (*Business Standard*, 'The Original IT Man' (2007)). Murthy's recollection that the export business had begun by 1977 (Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 14-15) fits 1976 better, though it does not show when the company was constituted. Bassett calls the firm Patni Data Systems and describes it as one of the first Indian firms to get computing work from American companies (Bassett, 'Aligning India in the Cold War Era' (2009), p. 801).
-
-[58] Sharma, 'When Patni Experienced the Eureka Moment' (2011) (August 1977); Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 14-15 (Murthy, Computer History Museum oral history, 2018).
-
-[59] Sharma, 'When Patni Experienced the Eureka Moment' (2011); Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 7 (Nilekani, January 1979); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5; Bassett, 'Aligning India in the Cold War Era' (2009), p. 801. The founding of Infosys is told in Chapter 6.
-
-[60] Tata Group, 'The IT Revolutionary' (2024); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
-
-[61] Rajaraman, *History of Computing in India* (2012), pp. 18-19, 26-27. These training routes are described in Chapter 3.
-
-[62] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4.
-
-[63] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 2.
-
-[64] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4; Tata Group, 'The IT Revolutionary' (2024).
-
-[65] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 7.
-
-[66] Rajaraman, *History of Computing in India* (2012), pp. 23, 28; Aspray, 'The Role of Policy' (2010). Aspray's finding that most imported hardware went to domestic use (see 'Twice the value' below) is a reminder that the rule was not a clean success.
-
-[67] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 801-802. Bassett notes that no IT industry grew up in Kanpur itself; its graduates found work in firms such as TCS (Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801).
-
-[68] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Sharma, 'When Patni Experienced the Eureka Moment' (2011); Rajaraman, *History of Computing in India* (2012), p. 19. Patni's Data Conversion was exporting data-entry work from 1972 (Sharma, 'When Patni Experienced the Eureka Moment' (2011)).
-
-[69] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Venkatraman, 'India's IT Guy' (2013); Sharma, 'When Patni Experienced the Eureka Moment' (2011). The Texas Instruments claim is examined in Chapter 8.
-
-[70] Rajaraman, *History of Computing in India* (2012), pp. 21-22, 28; Aspray, 'The Role of Policy' (2010). The date of the rule differs between the sources. Rajaraman writes that the DoE 'allowed import of computers exclusively meant for software export. The first policy paper on this was published in 1974' (Rajaraman, *History of Computing in India* (2012), p. 28). William Aspray dates a Software Export Scheme to a 1972 bill sponsored by the DoE that eased hardware imports for companies that would use them to produce software for export (Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy'). No primary text of either has been located; the two dates may describe an announcement and a formal policy.
-
-[71] Venkatraman, 'India's IT Guy' (2013) (the profile rests on Kohli's own account).
-
-[72] *The Economist*, 'Ram Drive' (2008), para. 2. The magazine states the condition in the same terms: 'The government required TCS to earn twice as much from exports as it spent on its imported machines' (para. 4). Its 1974 date dates TCS's own licence, not the general rule.
-
-[73] Venkatraman, 'India's IT Guy' (2013). Neither account makes clear whether the duty counted towards the sum to be earned back; no copy of the import licence has been located. The figures in the next paragraph are this book's arithmetic on the profile's price.
-
-[74] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), paras 1 and 9 (*Computerwoche*, April 1978; paragraphs numbered in the online text; translated from the German, 'dürfte... rd. 10 Millionen indische Rupien erreicht haben'); Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1977 (Federal Reserve G.5A, Rs 8.7683), at the year's average rate. Rajaraman judges India's software exports insignificant in 1978 (Rajaraman, *History of Computing in India* (2012), p. 29).
-
-[75] Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy' (*The Rutherford Journal* 3, 2010). Aspray adds that TCS and Tata Infotech held 63 per cent of the market. Richard Heeks also estimated gross software exports at $4 million in 1980 (Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2; see Chapter 6).
-
-[76] Aspray, 'The Role of Policy' (2010), same section.
-
-[77] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
-
-[78] Bansal, 'Take A Techie Like That!', *Outlook*, para. 2 (the reviewer's summary, not Ramadorai's words).
-
-[79] Rajaraman, *History of Computing in India* (2012), pp. 24, 29; Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
-
-[80] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-[81] *The Economist*, 'Ram Drive' (2008), para. 6.
 
 
 
@@ -1522,235 +641,6 @@ He found one failure larger than the rest. 'The only major failing was not inves
 What India kept was the skill of making computers work. The engineers who had written operating systems and compilers because software could not be imported, and the graduates trained to design business systems, were about to find a market abroad. The same 1984 policy that ended board-making recognised software as an industry, cut the customs duty on computers imported for software export, which had been over 100 per cent, and made one more change that would shape the next decade. 'Sending engineers abroad to develop and maintain software for clients at their sites and profits earned thereby was recognized as "software export"'.[111] By FY1990-91 software exports, insignificant when IBM left, had reached $131.2 million on the estimate of Richard Heeks of the University of Manchester.[112] Rajaraman dates the start of that trade to these years and gives it the name the industry used, 'body shopping'.[113] India had tried to make its own computers and was now assembling other people's. What it would sell instead was an engineer's time, and from 1984 an Indian engineer's hours at a client's desk abroad counted as an Indian export.
 
 
-### Notes to Chapter 5. The year IBM left (1973-1984)
-
-[1] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[2] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[3] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019). Fernandes's recollection, given to Sharma in an interview in 2006, nearly thirty years after the event, is the only account of what was said. Whether the de Gaulle exchange happened as he told it cannot be checked: it is a politician's recollection of an episode that brought him credit. Sharma's text adds '(to dilute their equity)' inside the quotation; that part is paraphrased here.
-
-[4] *Dataquest*, '1976-1985: The Big Blue Impact' (2006); Sharma, 'Rise, Fall and Rise of IBM in India' (2011). The date of 1 June 1978 is from Dataquest's later chronology (*Dataquest*, '1976-1985: The Big Blue Impact' (2006)); a contemporary report (*Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 1) confirms that IBM was winding up its Indian activities in 1978.
-
-[5] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33 (para. 2.54).
-
-[6] Rajaraman, *History of Computing in India* (2012), pp. 18-19.
-
-[7] Rajaraman, *History of Computing in India* (2012), p. 19.
-
-[8] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 (the 1974 survey; see Chapter 2); Sharma, 'Rise, Fall and Rise of IBM in India' (2011) (Sharma, 2011, on the 80 per cent share).
-
-[9] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[10] Sharma, 'Rise, Fall and Rise of IBM in India' (2011).
-
-[11] Rajaraman, *History of Computing in India* (2012), p. 29; Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[12] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[13] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[14] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019). No copy of the committee's report has been located; its finding is quoted as Sharma gives it.
-
-[15] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019). IBM's own reply at the time, as reported in April 1978, was that it had offered to replace its 1400 series in 1970 and again in 1972 and that the government had taken up neither plan (*Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 2).
-
-[16] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-[17] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[18] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-[19] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[20] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[21] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[22] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[23] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[24] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[25] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[26] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[27] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[28] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[29] Panchal, 'Economic Milestone: Exit of the MNCs (1977)' (2014).
-
-[30] Rajaraman, *History of Computing in India* (2012), p. 29; *Dataquest*, '1976-1985: The Big Blue Impact' (2006) (Dataquest's 2006 retrospective says much the same: that IBM left because it could not agree to the FERA rules).
-
-[31] Sharma, 'Rise, Fall and Rise of IBM in India' (2011).
-
-[32] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 2 (paragraphs numbered in the online text; translated from the German).
-
-[33] Aron, 'HCL's Shiv Nadar' (2006).
-
-[34] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019) (Coca-Cola's formula). Nadar's source-code rule rests on his 2006 interview alone (Aron, 'HCL's Shiv Nadar' (2006)).
-
-[35] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description, not the book); Dizikes, 'The Tech Revolution That Wasn't' (2026). Post-cutoff material, checked in October 2026. Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), p. 3 (Tracie Farrell's review; the reviewer's summary, not Banerjee's words; post-cutoff material, checked against the live source in October 2026). The review gives 1977, the year of the Fernandes meeting; the contemporary record places the closure itself in 1978 (*Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978); *Dataquest*, '1976-1985: The Big Blue Impact' (2006)).
-
-[36] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
-
-[37] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 1 (translated from the German).
-
-[38] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-[39] Rajaraman, *History of Computing in India* (2012), pp. 29-30.
-
-[40] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[41] Rajaraman, *History of Computing in India* (2012), p. 28.
-
-[42] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
-
-[43] Rajaraman, *History of Computing in India* (2012), p. 30 (spare parts); *Dataquest*, '1976-1985: The Big Blue Impact' (2006) (Dataquest: CMC took over 'maintenance of 800 IBM installations'); Rajaraman, *History of Computing in India* (2012), p. 29 ('over 150' installations); *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 5 ('der 150 IBM-1400', translated from the German). Dataquest's 800 is far above Rajaraman's 'over 150'. The contemporary *Computerwoche* figure of 150 IBM 1400-series machines that would need replacing suggests that Rajaraman's figure counts those computers. Dataquest's larger number may count every piece of IBM equipment, including older punched-card machines, but it does not explain its count.
-
-[44] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), paras 1 and 3 (translated from the German).
-
-[45] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[46] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
-
-[47] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018). The Deccan Chronicle's background paragraphs closely follow Sharma's 2011 article (Sharma, 'Rise, Fall and Rise of IBM in India' (2011)), so it is not a fully independent witness. The employee numbers in these accounts cannot be reconciled.
-
-[48] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018) (Kamlaksha Rama Naik; in the paper's paraphrase, the former staff still shared a strong bond and affection for IBM); Rajaraman, *History of Computing in India* (2012), p. 40 (ORG Systems among the makers under the post-1978 policy).
-
-[49] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-[50] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[51] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[52] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[53] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1978 (Federal Reserve G.5A), at the year's average rate.
-
-[54] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[55] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[56] Rajaraman, *History of Computing in India* (2012), pp. 39-40.
-
-[57] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[58] Aron, 'HCL's Shiv Nadar' (2006).
-
-[59] Aron, 'HCL's Shiv Nadar' (2006).
-
-[60] Aron, 'HCL's Shiv Nadar' (2006).
-
-[61] Aron, 'HCL's Shiv Nadar' (2006) (the founders' own savings; HCL's capital of Rs 2 million, a quarter from the Uttar Pradesh government); Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate; Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 9-10, 13 (Malhotra, recorded 15 November 2018; a founder's recollection: the Rs 175,000, the Bombay office, Microcomp named after the programmable calculator the founders had designed at DCM, and the 49 per cent). Dataquest's chronology (*Dataquest*, '1976-1985: The Big Blue Impact' (2006)) says Nadar started Microcomp with six friends and Rs 175,000 and that it was renamed Hindustan Computers. Malhotra's account shows instead that Microcomp was the founders' first firm and HCL's largest shareholder.
-
-[62] Aron, 'HCL's Shiv Nadar' (2006).
-
-[63] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
-
-[64] Aron, 'HCL's Shiv Nadar' (2006).
-
-[65] Aron, 'HCL's Shiv Nadar' (2006).
-
-[66] Aron, 'HCL's Shiv Nadar' (2006).
-
-[67] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 13-14 (Malhotra, Computer History Museum oral history, 2018).
-
-[68] Aron, 'HCL's Shiv Nadar' (2006).
-
-[69] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[70] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[71] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1979 (Federal Reserve G.5A), at the year's average rate.
-
-[72] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[73] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[74] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[75] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[76] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[77] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[78] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1981 (Federal Reserve G.5A), at the year's average rate.
-
-[79] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[80] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[81] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[82] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[83] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[84] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[85] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[86] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[87] Rajaraman, *History of Computing in India* (2012), pp. 36, 40.
-
-[88] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[89] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[90] Rajaraman, *History of Computing in India* (2012), pp. 40, 66 (ref. 73). No count has been located of how many Unix or C programmers the hardware firms trained, and no study has been found that follows individual engineers from these firms into the export trade. HCL's Genesis database (Aron, 'HCL's Shiv Nadar' (2006)) is a founder's example, not a census.
-
-[91] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), p. 16.
-
-[92] Rajaraman, *History of Computing in India* (2012), p. 26.
-
-[93] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[94] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[95] Rajaraman, *History of Computing in India* (2012), p. 34 (Kanpur's degree, 1978, and the other IITs following); pp. 34-35 (the 1980 Panel on Computer Manpower Development under Rajaraman; the MCA), 42 (NIIT).
-
-[96] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5 (the transcript prints this answer under the label 'Brock:', but its content, 'we founded Infosys in 1981', shows it is Murthy's). Chapter 9 gives his fuller account of the licence.
-
-[97] Rajaraman, *History of Computing in India* (2012), p. 35.
-
-[98] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (Table 1). Richard Heeks estimated India's gross software export earnings at $4 million in 1980 and $25 million in 1984 (gross foreign-exchange earnings, calendar years; net earnings estimated at about 40% of gross).
-
-[99] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[100] Rajaraman, *History of Computing in India* (2012), pp. 30-31.
-
-[101] Rajaraman, *History of Computing in India* (2012), p. 31. Locally made DCM computers served as terminals at the venues, connected to a Hewlett-Packard server, and engineers of the National Informatics Centre wrote the whole software system in six months; the Games brought N. Seshagiri, the centre's director general, close to Rajiv Gandhi. Chapter 8 tells the story.
-
-[102] *Dataquest*, '1976-1985: The Big Blue Impact' (2006) (Dataquest's chronology gives the date).
-
-[103] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[104] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[105] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[106] Rajaraman, *History of Computing in India* (2012), p. 40.
-
-[107] Rajaraman, *History of Computing in India* (2012), p. 41.
-
-[108] Rajaraman, *History of Computing in India* (2012), p. 41. The Bhabha Committee's report is discussed in Chapter 3.
-
-[109] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[110] Rajaraman, *History of Computing in India* (2012), p. 28.
-
-[111] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[112] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (gross export earnings, FY1990-91). Other series give different figures; Chapter 9 and the data appendix compare them.
-
-[113] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-
 # Chapter 6. Body shopping (1978-1991)
 
 In 1990 a computer programmer from Bombay (Mumbai since 1995) went to California on a B1/B2 visa. He had been hired by the Indian computer company Hindustan Computers Limited (HCL) and sent to its offices in Palo Alto. In 1995 the American magazine *Multinational Monitor* told his story under a name it made up, 'Rajesh Ahuja (not his real name)', and that pseudonym is the only name the record gives him.[1] The magazine described the visa he travelled on as one 'intended for foreign consultants to work in the United States for relatively short stints'.[2]
@@ -1870,209 +760,6 @@ Body shopping changed what a software education in India was for. Heeks found th
 The 1980s had shown that India could sell its programmers' time abroad, and that the time sold best when there was plenty of it. The next chapter asks who made those programmers: the new degrees, the private institutes that sold computer courses to anyone who could pay, and the private engineering colleges whose fees became a political fight.
 
 
-### Notes to Chapter 6. Body shopping (1978-1991)
-
-[1] Chatterjee, 'Invasion of the "Body Shoppers"' (1995); Rajaraman, *History of Computing in India* (2012), p. 40 (HCL's full name).
-
-[2] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[3] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[4] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[5] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[6] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[7] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[8] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[9] Rajaraman, *History of Computing in India* (2012), p. 29 (Rajaraman's definition); Aspray, 'The Role of Policy' (2010) (Aspray, paraphrased).
-
-[10] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
-
-[11] Upadhya, 'A New Transnational Capitalist Class?' (2004), p. 5141 (Upadhya 2004: the software industry as a whole 'was established mainly on the basis of labour contract services, a system known as "body shopping"'); Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 21 (Upadhya and Vasavi 2006, who use the term for the lowest end of the trade in the 2000s: agencies in India that recruited engineers and placed them with clients abroad, 'taking a large cut of their salaries as their fee', paying a basic allowance while an engineer was between assignments ('on the bench') and the contracted rate only for time actually worked). The 1980s sources use the word in Heeks's wider sense, for onsite programming of any kind.
-
-[12] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[13] Aspray, 'The Role of Policy' (2010).
-
-[14] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
-
-[15] Pratap Chatterjee of *Multinational Monitor* wrote in 1995 that 'The first "body shoppers" arrived in Silicon Valley in 1987', citing no source (Chatterjee, 'Invasion of the "Body Shoppers"' (1995)). Sharma puts TCS and Patni staff at customer sites in the 1970s (Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009)), and Aspray dates TCS's first programmers in the United States, sent to install systems software for Burroughs customers (Chapter 4), to 1974 (Aspray, 'The Role of Policy' (2010)). Chatterjee's date and the earlier ones can both be true only if he meant Silicon Valley alone, which he does not say. Nandan Nilekani, who joined Patni in January 1979 and left in July 1981, recalled that Patni 'did a lot of work for clients in the U.S.', and that he spent almost a year at Data General, living in Cambridge, Massachusetts, and taking the bus to its offices in Westborough to work on the company's own software (Computer History Museum, 'Oral History of Nandan Nilekani' (2020), pp. 7-8; title page dated 8 January 2019; CHM reference X9234.2020). Upadhya and Vasavi, citing Balaji Parthasarathy, call bodyshopping 'the primary form of outsourcing in the 1980s' (Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 10, n. 12, citing Parthasarathy 2005, p. 208). None of these sources names a first contract.
-
-[16] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12. In Heeks's account the industry began around Nariman Point in the late 1970s, spread north to SEEPZ, and kept Bombay as its centre until at least the mid-1980s. Chapter 10 follows the later move to Bangalore.
-
-[17] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
-
-[18] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[19] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
-
-[20] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
-
-[21] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 5, 9 (Murthy, who remembered the wait for a telephone as about seven years, and the Reserve Bank rule on travel); Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 8 (Nilekani remembered a two-year wait); Rajaraman, *History of Computing in India* (2012), p. 33 (Rajaraman gives over two years for 1982).
-
-[22] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[23] Rajaraman, *History of Computing in India* (2012), p. 29.
-
-[24] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
-
-[25] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
-
-[26] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[27] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
-
-[28] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[29] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 60.
-
-[30] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 61.
-
-[31] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[32] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[33] Hanna, *Exploiting Information Technology for Development* (1994), p. 32. The table does not state its year; it is probably FY1991-92, so the rupee figures are not converted.
-
-[34] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
-
-[35] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 11.
-
-[36] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 4-5.
-
-[37] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 14.
-
-[38] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
-
-[39] Infosys, Form F-1 (1999), p. 7.
-
-[40] Infosys, Form F-1 (1999), pp. 40, 54.
-
-[41] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 15.
-
-[42] *Business Standard*, 'Took Risk When I Gave Narayana Rs 10,000' (2024).
-
-[43] Federal Reserve, G.5A Foreign Exchange Rates.
-
-[44] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 6.
-
-[45] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
-
-[46] Infosys, Form F-1 (1999), p. 55.
-
-[47] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), pp. 9-10.
-
-[48] Infosys, Form F-1 (1999), p. 45.
-
-[49] Hanna, *Exploiting Information Technology for Development* (1994), p. 32.
-
-[50] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 7.
-
-[51] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
-
-[52] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
-
-[53] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
-
-[54] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[55] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 20-21, 23.
-
-[56] Hanna, *Exploiting Information Technology for Development* (1994), p. 31; Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7; Chatterjee, 'Invasion of the "Body Shoppers"' (1995). One scholar describes the trade differently. AnnaLee Saxenian wrote in 2001 that in body-shopping contracts 'the amount of software code is specified in advance and revenue is earned per line of code' (Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10). She cited no source for that sentence, and it disagrees with the direct evidence of the World Bank and Heeks cited above.
-
-[57] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 3.
-
-[58] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 3-4.
-
-[59] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 14-15.
-
-[60] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
-
-[61] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
-
-[62] Infosys, Form F-1 (1999), p. 30.
-
-[63] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[64] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[65] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[66] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009) (Citibank set up the SEEPZ unit in 1984 with capital spending of Rs 2 crore, Rs 20 million or about $1.8 million at the 1984 average rate, Federal Reserve, G.5A Foreign Exchange Rates; a senior vice-president, Paul Glaser, hoped it could write much of the $250 million of software the bank bought each year; COSL was inaugurated on 28 October 1985 and by the year to March 1990 was the third-largest software exporter, behind TCS and Tata Unisys; its MicroBanker branch-banking software was priced at $120,000 for ten terminals and $200,000 for twenty); Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13 (TI). Heeks also credits TI with strengthening Bangalore's reputation for software (Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13).
-
-[67] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
-
-[68] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 19, citing Basant and Rani 2004, p. 5318.
-
-[69] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 7-8. Heeks adds the managers' own taste for quick returns, and puts the threshold for offshore work at about $100,000 a project.
-
-[70] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
-
-[71] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[72] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7. Heeks cites a 1985 comparative study of men and women in software from SNDT Women's University in Bombay (Jayanthi and Madhavan 1985); no copy of it has been located. No count of women working onsite in the 1980s has been located.
-
-[73] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 9.
-
-[74] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[75] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[76] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
-
-[77] Chatterjee, 'Invasion of the "Body Shoppers"' (1995). The report names the programmer, a private individual; she is not named here. Her own words are not recorded. The article, published in 1995, does not date the case, which may fall in the early 1990s rather than the 1980s. The claims about the lawsuits are the firm's lawyer's, as reported.
-
-[78] Chatterjee, 'Invasion of the "Body Shoppers"' (1995). No figure for an Indian programmer's salary in the 1980s has been located.
-
-[79] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[80] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
-
-[81] Infosys, Form F-1 (1999), p. 42.
-
-[82] Hanna, *Exploiting Information Technology for Development* (1994), pp. 74, 98.
-
-[83] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
-
-[84] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2. The same series gives $25.3 million for 1984 and $54.1 million for 1987. Other series for these years differ; Chapter 9 and the data appendix compare them.
-
-[85] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
-
-[86] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
-
-[87] Infosys, Form F-1 (1999), pp. 54-55.
-
-[88] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
-
-[89] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
-
-[90] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
-
-[91] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 15-16.
-
-[92] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 8, 14.
-
-[93] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
-
-[94] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
-
-[95] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
-
-[96] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
-
-[97] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
-
-[98] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
-
-[99] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
-
-[100] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
-
-
 # Chapter 7. The training economy (1980-1995)
 
 In 1971 Vinod Kumar Bansal, a newly qualified mechanical engineer from Banaras Hindu University, went to work for JK Synthetics in Kota, an industrial town in Rajasthan. He was already helping neighbourhood students prepare for the entrance tests for engineering courses. In the early 1980s, according to a 2023 book by Pradip K. Saha about the education company Byju's, he began teaching eight students sitting around his dining table, and in 1983, when his company shut down, he started teaching full-time.[1] Some of his students got into the Indian Institutes of Technology (IITs), and, as Saha tells it, word spread that '"Bansal sir" had a magic touch'. Parents in Kota sought his help, and then parents from outside Rajasthan. Bansal Classes, as a named institution, dates from 1991.[2] By 2023, on Saha's figures, Kota had more than 150 coaching institutes and about 200,000 students, and more than 1.1 million candidates competed for 17,385 IIT places.[3]
@@ -2190,197 +877,6 @@ The training companies offered a cheaper door. Their courses cost from a few hun
 By the mid-1990s the training economy had made software a career that could be bought, at every price from a two-month course at a franchised centre to a payment seat in a private engineering college. Each purchase was a bet that the hours a graduate would one day sell would repay the hours bought to make the graduate. *Unni Krishnan* had settled who could place the larger bet, and on what terms. Whether it paid would be settled by the trade.
 
 
-### Notes to Chapter 7. The training economy (1980-1995)
-
-[1] Saha, 'How Byju's Exploited the Indian "Rat Race" Mentality' (2023); live-checked 2026-10-13.
-
-[2] Saha, 'How Byju's Exploited the Indian "Rat Race" Mentality' (2023); live-checked 2026-10-13. Saha's account is the only one of Bansal's beginnings used here.
-
-[3] Saha, 'How Byju's Exploited the Indian "Rat Race" Mentality' (2023); live-checked 2026-10-13.
-
-[4] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[5] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[6] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[7] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[8] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[9] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[10] Rajaraman, *History of Computing in India* (2012), p. 35.
-
-[11] Rajaraman, *History of Computing in India* (2012), pp. 35, 66.
-
-[12] Rajaraman, *History of Computing in India* (2012), p. 35.
-
-[13] Rajaraman, *History of Computing in India* (2012), p. 56. No copy of the 1980 panel's report has been located, and no series of MCA admissions for the 1980s.
-
-[14] Rajaraman, *History of Computing in India* (2012), p. 34.
-
-[15] Rajaraman, *History of Computing in India* (2012), p. 34; Hanna, *Exploiting Information Technology for Development* (1994), p. 74.
-
-[16] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
-
-[17] Manuel, 'India's Engineering Education Story' (2015); live-checked 2026-10-13.
-
-[18] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17.
-
-[19] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17; Manuel, 'India's Engineering Education Story' (2015); live-checked 2026-10-13. The national series is not broken down by state, so it cannot show how much of the surge came from the four states the NUEPA paper names.
-
-[20] Ministry of Human Resource Development, *National Policy on Education 1986: Programme of Action 1992*, p. 77; MoSPI, 'Number of Recognised Educational Institutions', Table 1.17. The government's own figure for seats is uncertain. The Programme of Action that accompanied the education policy, published in 1992, said there were 'over 200' recognised technical institutions at degree level with an annual admission capacity of 40,000, yet the official series already counted 289 engineering colleges in 1990-91 and 300 in 1992-93. The Programme's numbers match the mid-1980s count better and probably repeat older data. No reliable series of engineering admissions by year and state for this period has been located.
-
-[21] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[22] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
-
-[23] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
-
-[24] Rajaraman, *History of Computing in India* (2012), p. 42; Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48; NIIT University, 'Founders' (Thadani as co-founder).
-
-[25] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48. Pawar was speaking some forty years after the founding.
-
-[26] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
-
-[27] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
-
-[28] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
-
-[29] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
-
-[30] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[31] Rajguru, 'Taking Computer Education to the Masses' (2022), pp. 48-49. No copy of the *Far Eastern Economic Review* article has been located. *Dataquest* dates the comparison to November 2000 and gives it as 'McDonald's of Software Business' (Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13).
-
-[32] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
-
-[33] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
-
-[34] Mahalingam, 'Why Aptech Is a Good Bet' (2014); live-checked 2026-10-13.
-
-[35] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[36] Hanna, *Exploiting Information Technology for Development* (1994), p. 51; Reserve Bank of India, *Handbook of Statistics on Indian Economy*, 1993 calendar-year average rate (Rs 31.45 per US dollar); Hanna does not state the survey year.
-
-[37] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
-
-[38] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
-
-[39] Hanna, *Exploiting Information Technology for Development* (1994), p. 71.
-
-[40] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
-
-[41] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
-
-[42] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
-
-[43] Hanna, *Exploiting Information Technology for Development* (1994), p. 72.
-
-[44] Hanna, *Exploiting Information Technology for Development* (1994), pp. 72, 52.
-
-[45] Hanna, *Exploiting Information Technology for Development* (1994), p. 73.
-
-[46] *Mohini Jain v. State of Karnataka* (1992), p. 664.
-
-[47] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, 1991 calendar-year average rate (Rs 22.69 per US dollar).
-
-[48] *Mohini Jain v. State of Karnataka* (1992), p. 664.
-
-[49] *Mohini Jain v. State of Karnataka* (1992), p. 664.
-
-[50] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 623-24.
-
-[51] *Mohini Jain v. State of Karnataka* (1992), p. 663.
-
-[52] *Maharashtra Educational Institutions (Prohibition of Capitation Fee) Act, 1987*.
-
-[53] *Maharashtra Educational Institutions (Prohibition of Capitation Fee) Act, 1987*.
-
-[54] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 686, 633.
-
-[55] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 673.
-
-[56] *Maharashtra Educational Institutions (Prohibition of Capitation Fee) Act, 1987*.
-
-[57] Ministry of Human Resource Development, *National Policy on Education 1986: Programme of Action 1992*, p. 77.
-
-[58] *All India Council for Technical Education Act, 1987*, s. 10.
-
-[59] *All India Council for Technical Education Act, 1987*, ss. 2(g), 2(h). Section 2(g) defines technical education as 'programmes of education, research and training in engineering, technology, architecture, town planning, management, pharmacy and applied art and crafts', with any other field the central government adds by notification. How such courses were treated in practice is not recorded; the reading of the statute is supported by Hanna (Hanna, *Exploiting Information Technology for Development* (1994), p. 51).
-
-[60] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
-
-[61] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17; *All India Council for Technical Education Act, 1987*.
-
-[62] Ministry of Human Resource Development, *National Policy on Education 1986: Programme of Action 1992*, pp. 77-78.
-
-[63] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 673.
-
-[64] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 639; Reserve Bank of India, *Handbook of Statistics on Indian Economy*, 1991 calendar-year average rate (Rs 22.69 per US dollar).
-
-[65] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 691. No contemporary figure for capitation payments in engineering has been located.
-
-[66] *Mohini Jain v. State of Karnataka* (1992), pp. 663-64.
-
-[67] *Mohini Jain v. State of Karnataka* (1992), pp. 664-65.
-
-[68] *Mohini Jain v. State of Karnataka* (1992), p. 670.
-
-[69] *Mohini Jain v. State of Karnataka* (1992), p. 672.
-
-[70] *Mohini Jain v. State of Karnataka* (1992), p. 673.
-
-[71] *Mohini Jain v. State of Karnataka* (1992), pp. 669, 680-81.
-
-[72] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 636.
-
-[73] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 636.
-
-[74] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 636.
-
-[75] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 636-37.
-
-[76] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 691.
-
-[77] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 691.
-
-[78] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 692. The judgment does not spell out which half it meant by 'free students'.
-
-[79] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 623-24.
-
-[80] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), headnote, p. 597.
-
-[81] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), headnote, p. 599.
-
-[82] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 673.
-
-[83] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 654-55.
-
-[84] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), headnote, p. 594.
-
-[85] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 682.
-
-[86] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 683-84.
-
-[87] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 684-85.
-
-[88] *T.M.A. Pai Foundation v. State of Karnataka* (2002), paras. 45, 56-57.
-
-[89] *Mohini Jain v. State of Karnataka* (1992), pp. 663-64.
-
-[90] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 692.
-
-[91] *Mohini Jain v. State of Karnataka* (1992), p. 664.
-
-[92] Hanna, *Exploiting Information Technology for Development* (1994), pp. 51, 71.
-
-[93] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
-
-[94] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
-
-
 # Chapter 8. Satellite and permit (1984-1991)
 
 On a day in 1985 that he called memorable when he wrote about it in 2013, the journalist Janardhan Roye found his Ambassador car stuck behind a bullock cart outside his office on Miller Road in Bangalore (Bengaluru since 2014). The cart was heavily laden, and it was struggling up the steep slope at the gate of an office block called Sona Towers. Traffic piled up and horns blared until security staff came to the aid of the cart's driver.[1] The people in the neighbouring offices, he recalled, were less interested in the traffic than in the wooden boxes being unloaded.[2]
@@ -2490,213 +986,6 @@ The case against is also documented. The export trade had begun in the 1970s, an
 A third reading, which the evidence here supports best, puts the weight on infrastructure. The decisive changes were the ones that let work stay in India: TI's private link, negotiated in 1985, VSNL in 1986, the parks in 1990 and 1991. They came in pieces, across several governments, pushed by a technocratic department and then by a generalist one.[99] Rajiv Gandhi's government began that process. It did not finish it.
 
 The permit, the old system of licences and obligations, was loosened between 1984 and 1986 but not abolished; a computer imported duty-free still had to earn back two and a half times its cost in dollars. The satellite, which could make an Indian office part of a foreign company's network, was in 1990 still a privilege granted case by case. By the time the first parks were registered, Rajiv Gandhi was out of office. His party lost the election of 1989, and the coalition that replaced it fell in 1990.[100] He was assassinated during the campaign for the election of 1991.[101] The government that took office after that election inherited a country, in Rajaraman's words, in 'a near default economic situation'.[102]
-
-
-### Notes to Chapter 8. Satellite and permit (1984-1991)
-
-[1] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[2] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[3] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[4] Roye, 'Revolution on a Bullock Cart' (2013); Rajaraman, *History of Computing in India* (2012), p. 33. Roye wrote in 2013, nearly three decades after the event.
-
-[5] Sona Group, 'Satellite Dish for India's First IT Company Arrived on a Bullock Cart' (company self-description).
-
-[6] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[7] Rajaraman, *History of Computing in India* (2012), pp. 33, 36.
-
-[8] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[9] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[10] Rajaraman, *History of Computing in India* (2012), p. 31.
-
-[11] Rajaraman, *History of Computing in India* (2012), pp. 29, 37.
-
-[12] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
-
-[13] Rajaraman, *History of Computing in India* (2012), pp. 31-32, 40 (any firm could now build 32-bit machines, the limits on numbers were removed, and populated circuit boards could be imported; the manufacture of superminicomputers and mainframes stayed reserved for the Electronics Corporation of India, and imported computers had to be maintained by CMC or by their users, not by their makers); Rajaraman, *History of Computing in India* (2012), p. 32 (software as an industry, the duty cut and onsite work counted as exports). Chapter 5 tells the policy's effect on the manufacturers.
-
-[14] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[15] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[16] Hanna, *Exploiting Information Technology for Development* (1994), p. 106.
-
-[17] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[18] Rajaraman, *History of Computing in India* (2012), pp. 32-33.
-
-[19] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
-
-[20] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[21] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[22] Rajaraman, *History of Computing in India* (2012), pp. 34-36.
-
-[23] Rajaraman, *History of Computing in India* (2012), pp. 33, 42.
-
-[24] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[25] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
-
-[26] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
-
-[27] Texas Instruments, 'TI Celebrates 20 Years in India' (2005) (TI's milestone list, published for its twentieth anniversary in 2005: began operating in India in 1985); Rajaraman, *History of Computing in India* (2012), p. 36 (negotiation of the link, 1985); Roye, 'Revolution on a Bullock Cart' (2013) (the dish, 1985); Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13 (TI's arrival and the start of its operations, 1986). A primary record of the earth station's licence would settle the date.
-
-[28] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
-
-[29] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009). Chapter 6 gives COSL's later standing among the exporters. Indian firms had also done some work for foreign clients from India since the 1970s (Chapter 4).
-
-[30] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[31] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
-
-[32] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[33] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13.
-
-[34] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[35] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[36] Rajaraman, *History of Computing in India* (2012), p. 33.
-
-[37] Rajaraman, *History of Computing in India* (2012), p. 33.
-
-[38] Rajaraman, *History of Computing in India* (2012), p. 33.
-
-[39] Rajaraman, *History of Computing in India* (2012), p. 33.
-
-[40] Software Technology Parks of India, 'Background' (agency self-description).
-
-[41] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[42] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
-
-[43] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6. Chapter 6 gives his fuller figures.
-
-[44] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[45] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[46] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
-
-[47] Indian Labour Archives, 'Suresh Dhopeshwarkar'. The union's name is garbled in the scanned note, and the terms of the agreement are not given.
-
-[48] Rajaraman, *History of Computing in India* (2012), pp. 31, 39.
-
-[49] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[50] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[51] Comptroller and Auditor General, Report No. 11 of 2007 (Railways), para 1.3, p. 4 (the full sentence: 'The pilot project of PRS was launched on 15 November 1985, over Northern Railway with the installation of the Integrated Multiple Train Passenger Reservation System (IMPRESS)', developed by the railways with CMC at New Delhi). Rajaraman, *History of Computing in India* (2012), p. 38 (the project began in 1984; the New Delhi system was working by 1986). The two fit: the pilot ran at New Delhi from late 1985, and the system was in service there by 1986. *Dataquest*, 'Happy Journey!' (2009), and PIB backgrounder (2026): *Dataquest* (2009) says the pilot covered 'a few popular trains' and that the whole New Delhi reservation system was computerised in May 1987; the Press Information Bureau's backgrounder of 6 August 2026 says the reservation system was 'Introduced in 1986' and gives no day or month (post-cutoff material, checked against the live source on 15 October 2026). A Lok Sabha answer of 8 May 1985 on CMC's turnkey system for Northern Railway (Lok Sabha, written answer, 8 May 1985) bears on the contract; no copy of its text has been located.
-
-[52] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[53] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[54] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[55] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[56] Rajaraman, *History of Computing in India* (2012), p. 38. No independent confirmation of the claim has been found.
-
-[57] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[58] Rajaraman, *History of Computing in India* (2012), p. 39.
-
-[59] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[60] Rajaraman, *History of Computing in India* (2012), p. 36.
-
-[61] Rajaraman, *History of Computing in India* (2012), p. 37.
-
-[62] Rajaraman, *History of Computing in India* (2012), p. 37.
-
-[63] Rajaraman, *History of Computing in India* (2012), p. 37.
-
-[64] Churchill, 'Monsoon Hunters' (1987).
-
-[65] Rajya Sabha written answer, 12 November 1987, and Lok Sabha written answer, 12 May 1993, a parliamentary answer of 1993, is reported to record the import of a Cray X-MP/14 in October 1988 for the centre. No copy of the answer has been located; the model and the date rest on that report.
-
-[66] Rajaraman, *History of Computing in India* (2012), p. 37.
-
-[67] Rajaraman, *History of Computing in India* (2012), p. 37; Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
-
-[68] Rajaraman, *History of Computing in India* (2012), pp. 37-38.
-
-[69] *The Better India*, 'Who Made India's First Supercomputer?' (2017) (Sanchari Pal, 13 January 2017). Low reliability; cited only as an example of the popular version.
-
-[70] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[71] Rajaraman, *History of Computing in India* (2012), p. 37.
-
-[72] Rajaraman, *History of Computing in India* (2012), p. 35 (funding: $1.5 million from the UNDP and Rs 340 million from the DoE).
-
-[73] Rajaraman, *History of Computing in India* (2012), p. 36 (funding: $5.2 million from the UNDP and Rs 140 million from the DoE; the five institutions were IISc, IIT Madras, the Indian Statistical Institute, the Tata Institute of Fundamental Research and NCST; 'A large number of scientists' went abroad).
-
-[74] Rajaraman, *History of Computing in India* (2012), pp. 38-39 (funding: $6 million over four years from the UNDP, with Rs 41 million from the government).
-
-[75] Rajaraman, *History of Computing in India* (2012), p. 39.
-
-[76] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[77] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19. Chapter 7 tells the growth of the colleges.
-
-[78] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[79] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[80] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[81] Rajaraman, *History of Computing in India* (2012), p. 42.
-
-[82] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[83] Rajaraman, *History of Computing in India* (2012), p. 39.
-
-[84] Hanna, *Exploiting Information Technology for Development* (1994), p. 106.
-
-[85] Rajaraman, *History of Computing in India* (2012), p. 39.
-
-[86] Rajaraman, *History of Computing in India* (2012), p. 39.
-
-[87] Hanna, *Exploiting Information Technology for Development* (1994), p. 97. Rajaraman (Rajaraman, *History of Computing in India* (2012), p. 39) names Bangalore as the first park; by the Bank's dates Pune preceded it by two months.
-
-[88] Software Technology Parks of India, 'Background' (agency self-description). The agency says three parks, at Pune, Bangalore and Bhubaneswar, were set up as autonomous societies in 1990.
-
-[89] Hanna, *Exploiting Information Technology for Development* (1994), p. 97.
-
-[90] Rajaraman, *History of Computing in India* (2012), p. 41.
-
-[91] Hanna, *Exploiting Information Technology for Development* (1994), p. 100 (the table also gives $52 million for FY1987-88). Other series give slightly different figures; the data appendix compares them.
-
-[92] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2. Chapter 6 gives Heeks's estimate of net earnings.
-
-[93] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[94] Rajaraman, *History of Computing in India* (2012), pp. 29, 31, 33.
-
-[95] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[96] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
-
-[97] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
-
-[98] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[99] Rajaraman, *History of Computing in India* (2012), pp. 33, 36, 39, 42; Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
-
-[100] Rajaraman, *History of Computing in India* (2012), p. 30.
-
-[101] Rajaraman, *History of Computing in India* (2012), p. 43.
-
-[102] Rajaraman, *History of Computing in India* (2012), p. 43.
 
 
 
@@ -2823,173 +1112,6 @@ The third reading looks to America. Khanna and Morales argue, using an economic 
 What none of the readings disputes is the change in who did the work. In 1991 a firm of 400 people advertised for sixty-four engineers of any discipline, promised to make them programmers, and paid them about $2,000 a year. By 1998 the same firm was testing more than twenty thousand applicants a year and hiring fewer than one applicant in fifty. Its recruits were trained in a company faculty, worked to documented processes, and spent most of their time in India while their clients slept. The advertisement of 1991 had told them where they would start. 'Say cheers to Bangalore', it said.[82] The next chapter follows them there.
 
 
-### Notes to Chapter 9. 1991 (1990-1997)
-
-[1] Singh, *Budget 1991-92* speech (1991), p. 1; Rajaraman, *History of Computing in India* (2012), p. 43.
-
-[2] Singh, *Budget 1991-92* speech (1991), p. 1.
-
-[3] Singh, *Budget 1991-92* speech (1991), p. 1.
-
-[4] Singh, *Budget 1991-92* speech (1991), p. 2.
-
-[5] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 1991 (Rs 22.69 per US dollar); conversion by the author.
-
-[6] Singh, *Budget 1991-92* speech (1991), p. 20.
-
-[7] Singh, *Budget 1991-92* speech (1991), p. 31.
-
-[8] Rajaraman, *History of Computing in India* (2012), pp. 44, 48.
-
-[9] Singh, *Budget 1991-92* speech (1991), p. 2.
-
-[10] Rajaraman, *History of Computing in India* (2012), p. 43.
-
-[11] Singh, *Budget 1991-92* speech (1991), p. 4.
-
-[12] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rates: Rs 17.50 per US dollar (1990), Rs 25.92 (1992).
-
-[13] Singh, *Budget 1991-92* speech (1991), p. 4.
-
-[14] Singh, *Budget 1991-92* speech (1991), p. 6.
-
-[15] Singh, *Budget 1991-92* speech (1991), p. 20.
-
-[16] Software Technology Parks of India, 'Background' (agency self-description); Hanna, *Exploiting Information Technology for Development* (1994), p. 97.
-
-[17] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
-
-[18] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
-
-[19] Rajaraman, *History of Computing in India* (2012), p. 48.
-
-[20] Rajaraman, *History of Computing in India* (2012), p. 44.
-
-[21] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
-
-[22] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
-
-[23] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
-
-[24] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 9-10.
-
-[25] Rajaraman, *History of Computing in India* (2012), p. 44.
-
-[26] Rajaraman, *History of Computing in India* (2012), p. 44.
-
-[27] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[28] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[29] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[30] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[31] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17; Reserve Bank of India, *Handbook of Statistics on Indian Economy*, converted at the 1991 calendar-year average rate (Rs 22.69 per US dollar).
-
-[32] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[33] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[34] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[35] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[36] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[37] *OfficeChai*, 'This Infosys Job Advertisement from 1991' (2017).
-
-[38] Infosys, Form F-1 (1999), p. 50.
-
-[39] Infosys, Form F-1 (1999), p. 42.
-
-[40] Rajaraman, *History of Computing in India* (2012), p. 43 (160,000 software engineers by about 1997); Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 6 (Nasscom's figures as Khanna and Morales report them: about 160,000 software professionals in 1996 and about 340,000 in 2000).
-
-[41] Infosys, Form F-1 (1999), p. 40.
-
-[42] Rajaraman, *History of Computing in India* (2012), p. 45.
-
-[43] Infosys, Form F-1 (1999), p. 42.
-
-[44] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 n. 5, quoting Subramanian (1992); the 1992 study is cited here through Khanna and Morales.
-
-[45] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 17-18.
-
-[46] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
-
-[47] Infosys, Form F-1 (1999), pp. 36, 40.
-
-[48] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
-
-[49] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 19.
-
-[50] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 19-20.
-
-[51] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 20.
-
-[52] Infosys, Form F-1 (1999), p. 14.
-
-[53] Infosys, Form F-1 (1999), p. 33. Murthy's 'about 25 percent' (Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 19) and the filing's 21.5 per cent, which is for the year to March 1996, probably refer to different periods.
-
-[54] Infosys, Form F-1 (1999), p. 33.
-
-[55] Infosys, Form F-1 (1999), p. 44.
-
-[56] Infosys, Form F-1 (1999), p. 44.
-
-[57] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
-
-[58] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
-
-[59] AnnaLee Saxenian, citing a study by Balaji Parthasarathy, gives onsite production as 90 per cent of exports in 1990 and 58 per cent in 1998 (Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10), and 61 per cent for 1995 in an earlier report (Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66 n. 24). Heeks measured development effort rather than revenue and found the same pattern for 1988 (Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6). The series start in different years and measure revenue, exports or effort, which is why they differ by a few points.
-
-[60] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), pp. 7-8.
-
-[61] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 9.
-
-[62] Rajaraman, *History of Computing in India* (2012), pp. 44-45.
-
-[63] Rajaraman, *History of Computing in India* (2012), p. 45.
-
-[64] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 16-17.
-
-[65] Infosys, Form F-1 (1999), p. 45.
-
-[66] Infosys, Form F-1 (1999), p. 50.
-
-[67] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6; Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
-
-[68] Rajaraman, *History of Computing in India* (2012), p. 45 (ISO 9001 and the five levels of the Software Engineering Institute's Capability Maturity Model); Infosys, Form F-1 (1999), p. 46.
-
-[69] Rajaraman, *History of Computing in India* (2012), p. 48 (Bhatnagar's series as reproduced by Rajaraman: $128 million in 1990-91, $164 million in 1991-92, $330 million in 1993-94, $734 million in 1995-96, $1,759 million in 1997-98); Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (Heeks, from his own research and Dataquest: $131.2 million, $173.9 million, $480.9 million in 1994-95, $1,650 million in 1997-98). Heeks's series shows growth of 29 to 51 per cent a year in the late 1980s and 24 to 33 per cent in 1990-93.
-
-[70] Rajaraman, *History of Computing in India* (2012), p. 43.
-
-[71] Infosys, Form F-1 (1999), pp. 15, 33.
-
-[72] Rajaraman, *History of Computing in India* (2012), pp. 46-47.
-
-[73] Rajaraman, *History of Computing in India* (2012), p. 47; Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 n. 3.
-
-[74] Rajaraman, *History of Computing in India* (2012), pp. 47-48.
-
-[75] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 11.
-
-[76] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
-
-[77] Rajaraman, *History of Computing in India* (2012), p. 47.
-
-[78] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9; Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2; Rajaraman, *History of Computing in India* (2012), p. 48.
-
-[79] Singh, *Budget 1991-92* speech (1991), p. 20; Hanna, *Exploiting Information Technology for Development* (1994), p. 97.
-
-[80] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
-
-[81] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[82] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-
 # Chapter 10. Bangalore (1947-2010)
 
 In the early 1970s the journalist Janardhan Roye used to see a young engineer named Vinay Deshpande working long hours in a basement. The basement belonged to the Classic Building on Richmond Road in Bangalore (Bengaluru since 2014), and the firm that occupied it was called, in Roye's spelling, Processors Systems India. One evening Roye went down to see him. Deshpande was holding a soldering iron over a circuit board. He looked up, smiled, and explained that he was putting together 'hi-tech firmware, bound for the US'.[1]
@@ -3107,195 +1229,6 @@ Roye's article of 2013 names two individuals, both young women from the villages
 Roye recorded what the corridors had replaced. The campuses of Whitefield, Electronic City and the Outer Ring Road stood largely on what had been farmland or swamp; many farmers on the city's edge had sold their land; the city had fewer trees, lakes and open spaces, and was by his account the third most expensive in India.[92] He ended the article in a bar on Lavelle Road, where a young software worker from Thanisandra told him: 'Seriously uncle, the city has arrived!'[93]
 
 
-### Notes to Chapter 10. Bangalore (1947-2010)
-
-[1] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[2] Roye, 'Revolution on a Bullock Cart' (2013). The scene rests on Roye's own memory, written about forty years after the event. The bullock-cart arrival at Sona Towers opens Chapter 8.
-
-[3] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17. The advertisement, published on 26 November 1991, is described in Chapter 9.
-
-[4] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7 n. 10. The rule is discussed below, in 'The parks and the bargain'.
-
-[5] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
-
-[6] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
-
-[7] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11.
-
-[8] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 1.
-
-[9] Energy and Wetlands Research Group, IISc, 'Demography and Economy' (live-checked 2026-10-13). These are the research group's figures as published on its website, not the census tables themselves.
-
-[10] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[11] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[12] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
-
-[13] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
-
-[14] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
-
-[15] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
-
-[16] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
-
-[17] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
-
-[18] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11. Murthy gives no year for the move to Bangalore, and no primary record of the date has been located.
-
-[19] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14 n. 27.
-
-[20] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13.
-
-[21] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
-
-[22] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
-
-[23] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
-
-[24] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
-
-[25] Roye, 'Revolution on a Bullock Cart' (2013); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 24. Murali's list begins with a liberalised economy, friendly state policies, a skilled English-speaking workforce and the public-sector giants. Murthy's earlier account of why Infosys itself moved to Bangalore does not mention the weather (Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11). Heeks's interviews and Murthy's account of the move both put engineers first; the climate was a real and perceived amenity that made the city easier to sell to engineers and managers.
-
-[26] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 7.
-
-[27] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13. The sources date the link to 1985 or 1986; Chapter 8 tells how it was negotiated and weighs the dates.
-
-[28] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 6.
-
-[29] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 6.
-
-[30] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11. The employer is anonymous and speaks through two layers of citation, so the words are evidence of what managers said rather than of what the work was. A second passage on the same page, quoted in Chapter 15, has the chief executive of an offshore development centre claiming parity with his company's headquarters in Silicon Valley; Saxenian's footnotes trace both passages to the same interview of July 1996, so they may be one man.
-
-[31] Rajaraman, *History of Computing in India* (2012), p. 48.
-
-[32] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11 n. 21.
-
-[33] Rajaraman, *History of Computing in India* (2012), p. 48.
-
-[34] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
-
-[35] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
-
-[36] Hanna, *Exploiting Information Technology for Development* (1994), p. 97. The origins of the scheme are told in Chapter 8.
-
-[37] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 6-7.
-
-[38] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7 n. 10.
-
-[39] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7 n. 10.
-
-[40] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7.
-
-[41] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10. Chapter 9 sets out and compares the series for the onsite share.
-
-[42] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10 n. 19.
-
-[43] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 9 (citing the Karnataka Development Report 2007); dollar figures converted at the calendar-year average rates for 1991 (Rs 22.69) and 2003 (Rs 46.58) from Reserve Bank of India, *Handbook of Statistics on Indian Economy*; the source does not say whether its years are calendar or fiscal.
-
-[44] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 9.
-
-[45] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 9.
-
-[46] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12. Other counts of the workforce differ; Chapter 9 compares them.
-
-[47] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 13.
-
-[48] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 13.
-
-[49] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
-
-[50] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
-
-[51] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
-
-[52] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12. Chapter 13 takes up the visa.
-
-[53] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
-
-[54] Roye, 'Revolution on a Bullock Cart' (2013). Roye gives no source for the figure.
-
-[55] *Business Today*, 'A Cyber View' (1998).
-
-[56] *Business Today*, 'A Cyber View' (1998).
-
-[57] *Business Today*, 'A Cyber View' (1998).
-
-[58] *Business Today*, 'A Cyber View' (1998). The Microsoft decision is given as the magazine reported it; Microsoft's own announcement has not been located.
-
-[59] *Business Today*, 'A Cyber View' (1998).
-
-[60] *Business Today*, 'A Cyber View' (1998).
-
-[61] *Business Today*, 'A Cyber View' (1998).
-
-[62] *Business Today*, 'A Cyber View' (1998).
-
-[63] *Business Today*, 'A Cyber View' (1998).
-
-[64] *Business Today*, 'A Cyber View' (1998).
-
-[65] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 13.
-
-[66] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14.
-
-[67] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20.
-
-[68] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 2.
-
-[69] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 20-21.
-
-[70] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 16.
-
-[71] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20.
-
-[72] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20.
-
-[73] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 24.
-
-[74] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 23-24.
-
-[75] Rajaraman, *History of Computing in India* (2012), p. 55; Roye, 'Revolution on a Bullock Cart' (2013).
-
-[76] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 23.
-
-[77] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13; Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11.
-
-[78] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 2, 12, 19.
-
-[79] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 10-11.
-
-[80] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20; RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 8, 26. Two urban histories bear most directly on this reading: Janaki Nair's history of twentieth-century Bangalore (Nair, *The Promise of the Metropolis* (2005)) and James Heitzman's study of the city's planning in the IT era (Heitzman, *Network City* (2004)). Neither is drawn on here, and no ethnography of Bangalore's software workers is used in this chapter, so the professionals' own account of their city is absent from it.
-
-[81] RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 3, 17. The paper, published by Oxford University's Contemporary South Asian Studies Programme, is undated but was released around 2011.
-
-[82] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 1.
-
-[83] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 8.
-
-[84] RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 8-9.
-
-[85] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 12.
-
-[86] RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 24-25.
-
-[87] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 25.
-
-[88] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 26.
-
-[89] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 26.
-
-[90] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[91] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[92] Roye, 'Revolution on a Bullock Cart' (2013).
-
-[93] Roye, 'Revolution on a Bullock Cart' (2013).
-
-
 # Chapter 11. Y2K and Nasdaq (1995-2002)
 
 At twenty past six on a Tuesday morning in late 2000, a correspondent for *Business Today*, R. Sukumar, stood on a street in BTM Layout, a growing neighbourhood in south Bangalore (Bengaluru since 2014), opposite a restaurant called Udipi Garden. He was waiting for a company bus. It was one of the buses that carried close to 4,000 people a day to the campus of Infosys Technologies on Hosur Road, and he had been told that many of its staff lived nearby. Staff from outside the south, he learned later, often clubbed together in threes or fours to sub-let a flat or house in neighbourhoods like this one.[1] On the bus, almost everyone was young and almost nobody talked. People read newspapers, one young woman read what looked like a technical book, and a few at the front fell asleep. The company discouraged its junior staff from riding motorcycles to work, because Hosur Road was so dangerous.[2] The crowd was more mixed than he had expected: many from the south of India, as he had assumed, but also faces from the west, the north and the north-east.[3]
@@ -3401,203 +1334,6 @@ One thread runs through the filings of these years and connects them to the end 
 By 2002 the company reported progress. 'As compare [sic] to the previous year, we have increased the proportion of projects that are undertaken on a fixed-price, fixed-timeframe, rather than a time-and-material basis, which reduce client risk, and if effectively structured and executed, provide opportunities for enhanced margins.'[94] A firm that sells hours earns less when its engineers work faster, unless it uses the saving to win more work. A firm that sells an outcome at a fixed price keeps what it saves. Before 2002 the leading Indian firm had decided that it wanted, where it could, to sell outcomes. When tools arrive that cut the hours needed for coding and testing, the work that Rajaraman says took 70 to 80 per cent of a project's time and was done in India, the way a contract is priced decides who keeps the gain.[95]
 
 In 2002 that question was still far off. The more immediate change was in the size of the machine. In 1991 Infosys had advertised for sixty-four engineers.[96] In 2002 it employed about 10,740 people and had received nearly 200,000 applications in a year.[97] The firms' demand for new engineers had fallen for a season. The supply had not. The next chapter follows the graduates who kept coming, and the companies that learned to hire them by the thousand.
-
-
-### Notes to Chapter 11. Y2K and Nasdaq (1995-2002)
-
-[1] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[2] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[3] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[4] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[5] *Business Today*, 'Infosys: Wealth & Values' (2001); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2000 (Rs 44.94 per US dollar); conversions by the author.
-
-[6] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[7] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[8] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[9] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 19-20. As Murthy recalled it in 2020, a cut for GE would have meant cuts for every other client, and less money for pay, tools and training.
-
-[10] Infosys, Form F-1 (1999), p. 5.
-
-[11] Infosys, Form F-1 (1999), p. 10.
-
-[12] Infosys, Form 20-F FY2002, p. 5; Infosys, Form F-1 (1999), p. 6.
-
-[13] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 16.
-
-[14] Infosys, Form F-1 (1999), p. 8.
-
-[15] Infosys, Form F-1 (1999), p. 27.
-
-[16] Infosys, Form F-1 (1999), p. 5.
-
-[17] Infosys, Form F-1 (1999), p. 12.
-
-[18] Rajaraman, *History of Computing in India* (2012), p. 45.
-
-[19] Rajaraman, *History of Computing in India* (2012), pp. 45-46.
-
-[20] Motorola, Global Software Group media kit, Motorola GSG media kit (company self-description); Liu, 'Quick Win Strategy in CMMI Transition', Motorola (2005), slide 4 (a timeline slide the group showed at a conference of the American National Defense Industrial Association in 2005, which also places 'CMM 5: India' in 1993; slide image checked, the India Level 5 marker drops from the 1993 column); Rajaraman, *History of Computing in India* (2012), p. 45 (Rajaraman repeats the claim without a separate source).
-
-[21] Babu, 'The Quality Bug', *Business Today* (2003), para. 4: 'Motorola India Electronics was the first company in India to get a SEI CMM certification in 1994'; the level is not given. Motorola's own material and the magazine differ on the year as well as the claim, and no record from the Software Engineering Institute itself has been located.
-
-[22] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11. The two counts may cover different months or count organisations differently.
-
-[23] Rajaraman, *History of Computing in India* (2012), p. 52.
-
-[24] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
-
-[25] Babu, 'The Quality Bug', *Business Today* (2003), para. 1.
-
-[26] Babu, 'The Quality Bug', *Business Today* (2003), para. 7.
-
-[27] Infosys, Form F-1 (1999), p. 6.
-
-[28] Rajaraman, *History of Computing in India* (2012), p. 46.
-
-[29] Infosys, Form F-1 (1999), p. 45.
-
-[30] Infosys, Form F-1 (1999), p. 6.
-
-[31] Infosys, Form F-1 (1999), p. 45.
-
-[32] Infosys, Form 20-F FY2002, p. 4.
-
-[33] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10 (Parthasarathy's series, 58 per cent at clients' sites in 1998); Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 (56 per cent on site in 2000).
-
-[34] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
-
-[35] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
-
-[36] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[37] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[38] Rajaraman, *History of Computing in India* (2012), p. 46.
-
-[39] Infosys, Form F-1 (1999), pp. 32-33.
-
-[40] Infosys, Form F-1 (1999), p. 15.
-
-[41] Rajaraman, *History of Computing in India* (2012), p. 46. Rajaraman took the figure from an earlier history.
-
-[42] Infosys, Form F-1 (1999), p. 15.
-
-[43] Infosys, Form F-1 (1999), p. 15.
-
-[44] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
-
-[45] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
-
-[46] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
-
-[47] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
-
-[48] Rajaraman, *History of Computing in India* (2012), p. 47.
-
-[49] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
-
-[50] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 1999 (Rs 43.05 per US dollar); conversion by the author.
-
-[51] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
-
-[52] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
-
-[53] Rajaraman, *History of Computing in India* (2012), p. 48.
-
-[54] Rajaraman, *History of Computing in India* (2012), p. 46.
-
-[55] Computer History Museum, 'Oral History of Natarajan Chandrasekaran' (2020), PDF pp. 1, 8 (interviewer's introduction for the dates; Chandrasekaran's recollection, 2020).
-
-[56] Rajaraman, *History of Computing in India* (2012), p. 46.
-
-[57] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
-
-[58] Infosys, Form 20-F FY2002, p. 16 (year to March 2002: about 193,640 applications, about 6,730 interviewed, about 1,710 offers and about 1,550 accepted; recruiting focused 'on the top 20% of students from engineering departments of Indian schools'); Infosys, Form F-1 (1999), p. 6 (year to March 1998: about 70,870 applications and about 1,300 acceptances); *Business Today*, 'Infosys: Wealth & Values' (2001) (*Business Today*: 183,966 applications in 1999, 259,820 in 2000 up to 1 December, and 2,991 people hired from April to September 2000). Ratios calculated by the author.
-
-[59] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17 (the 1991 advertisement, for engineers of any discipline, with training promised); Infosys, Form F-1 (1999), p. 6.
-
-[60] Infosys, Form F-1 (1999), p. 6.
-
-[61] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[62] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[63] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[64] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[65] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
-
-[66] Infosys, prospectus (Form 424B4, 1999), cover page (dated 10 March 1999; filed 11 March 1999).
-
-[67] Infosys, prospectus (Form 424B4, 1999), cover page: the equivalent price on the Mumbai exchange on 10 March 1999 was $37.18 per ADS, at Rs 42.50 to the dollar.
-
-[68] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
-
-[69] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
-
-[70] Satyam Infoway, Form 20-F FY2002, p. 55. The filing appears to give the $4.50 on the basis it uses for its price history, which is stated after a four-for-one split of the ADSs in January 2000.
-
-[71] Satyam Infoway, Form 20-F FY2002, p. 15.
-
-[72] Satyam Infoway, Form 20-F FY2002, p. 10.
-
-[73] Infosys, Form F-1 (1999), p. 28.
-
-[74] Infosys, Form F-1 (1999), p. 28.
-
-[75] Rajaraman, *History of Computing in India* (2012), p. 50.
-
-[76] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2000 (Rs 44.94 per US dollar); conversion by the author.
-
-[77] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[78] *Business Today*, 'Infosys: Wealth & Values' (2001).
-
-[79] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 24.
-
-[80] Satyam Infoway, Form 20-F FY2002, p. 18 (prices after the January 2000 split).
-
-[81] Satyam Infoway, Form 20-F FY2002, p. 55.
-
-[82] Satyam Infoway, Form 20-F FY2002, p. 13.
-
-[83] Satyam Infoway, Form 20-F FY2002, p. 15.
-
-[84] Infosys, Form 20-F FY2002, p. 5.
-
-[85] Infosys, Form 20-F FY2002, p. 11.
-
-[86] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts ($6,341 million in FY2000-01, $7,556 million in FY2001-02), RBI Handbook edition id 10663.
-
-[87] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
-
-[88] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
-
-[89] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
-
-[90] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, financial-year average rate for FY2001-02 (Rs 47.69 per US dollar); conversion by the author.
-
-[91] Infosys, Form F-1 (1999), pp. 32, 44.
-
-[92] Infosys, Form F-1 (1999), p. 15.
-
-[93] Infosys, Form F-1 (1999), p. 10.
-
-[94] Infosys, Form 20-F FY2002, p. 6.
-
-[95] Rajaraman, *History of Computing in India* (2012), p. 45.
-
-[96] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
-
-[97] Infosys, Form 20-F FY2002, p. 16.
 
 
 # Chapter 12. The engineer factory (1998-2012)
@@ -3733,249 +1469,6 @@ Outside observers drew the same line. The Duke team divided engineering graduate
 That was the factory's design, and it fitted the business the Indian firms had built. A client abroad specified a system; a small team onsite fixed the requirements; a large team in India built, tested and maintained it, to documented methods, on standard packages, billed by time. A trained graduate of almost any engineering branch could do most of that work after three months in Mysore, and every graduate the factory turned out was more time to sell. The design succeeded.
 
 
-### Notes to Chapter 12. The engineer factory (1998-2012)
-
-[1] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132; dollar figure at the 2004 calendar-year average rate of Rs 45.32 per dollar, Reserve Bank of India, *Handbook of Statistics on Indian Economy*; the interview year is not stated, 2003-05.
-
-[2] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 124-126, 132.
-
-[3] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132.
-
-[4] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19 (Table 1.17).
-
-[5] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19 (Table 1.17).
-
-[6] Rajaraman, *History of Computing in India* (2012), p. 56.
-
-[7] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 45 (majority opinion of B.N. Kirpal CJI).
-
-[8] *T.M.A. Pai Foundation v. State of Karnataka* (2002), paras. 56-57; see also para. 69.
-
-[9] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 68.
-
-[10] Rajaraman, *History of Computing in India* (2012), p. 51.
-
-[11] Rajaraman, *History of Computing in India* (2012), p. 56.
-
-[12] Rajaraman, *History of Computing in India* (2012), p. 12.
-
-[13] Rajaraman, *History of Computing in India* (2012), p. 51.
-
-[14] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14 n. 27. Saxenian reported an estimate that 60 per cent of India's computer science graduates came from Andhra Pradesh, Karnataka and Tamil Nadu; see Chapter 10.
-
-[15] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), pp. 189-190.
-
-[16] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13). The Avanti Fellows series of approved places begins in 2012-13.
-
-[17] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
-
-[18] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 3.
-
-[19] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), pp. 1-2.
-
-[20] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5.
-
-[21] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 6.
-
-[22] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
-
-[23] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
-
-[24] Rajaraman, *History of Computing in India* (2012), p. 56.
-
-[25] Rajaraman, *History of Computing in India* (2012), p. 12.
-
-[26] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
-
-[27] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5; Aspiring Minds, *National Employability Report: Engineers*, p. 7; MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19.
-
-[28] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
-
-[29] Rajaraman, *History of Computing in India* (2012), p. 56.
-
-[30] Rajaraman, *History of Computing in India* (2012), p. 56.
-
-[31] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
-
-[32] Infosys, Form F-1 (1999), p. 6.
-
-[33] Infosys, Form 20-F FY2008, Item 4.
-
-[34] Infosys, Form 20-F FY2005, Item 4; Infosys, Form 20-F FY2008, Item 4. The filings count all 'offers of employment' without separating new graduates from experienced recruits, so the growth in fresher hiring alone cannot be read from them. Offers are the steadier measure. The number of applications behaves oddly: the year to March 2005 shows about 1,348,800, more than the 885,000 of three years later, even though offers more than tripled in between. Both filings use 'screened' in one place and 'received' in another for the same figure, so the change of wording does not explain the fall.
-
-[35] Infosys, Form 20-F FY2002; Infosys, Form 20-F FY2005, Item 6.D; Infosys, Form 20-F FY2008, Items 3 and 6.D; Infosys, Form 20-F FY2012, Items 3 and 6.D.
-
-[36] Computer History Museum, 'Oral History of Natarajan Chandrasekaran' (2020), PDF p. 5 (recollection in 2020; the transcript spells IIT as 'ITT').
-
-[37] Rajaraman, *History of Computing in India* (2012), p. 56.
-
-[38] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
-
-[39] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 4, 57 (Bangalore fieldwork January 2004 to June 2005, p. 4; printed page numbers, PDF page minus 10).
-
-[40] Infosys, Form 20-F FY2004, Items 4 and 6.D.
-
-[41] *Business Today*, 'Infosys: Wealth & Values' (2001) (article by R. Sukumar).
-
-[42] Infosys, Form 20-F FY2002, Items 4 and 6.D.
-
-[43] Infosys, Form 20-F FY2005, Item 4.
-
-[44] Infosys, Form 20-F FY2005, Item 5.
-
-[45] Infosys, Form 20-F FY2008, Items 4 and 6.D.
-
-[46] Infosys, Form 20-F FY2012, Item 4.
-
-[47] Infosys, Form 20-F FY2012, Item 5.
-
-[48] Infosys, Form 20-F FY2012, Item 5. No published account by a trainee at Mysore in this period has been located, and the company's press releases on the campus's opening have not been found.
-
-[49] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2012, Item 4.
-
-[50] Infosys, Form F-1 (1999), p. 45. Chapter 11 describes the pyramid in more detail.
-
-[51] Infosys, Form 20-F FY2005, Item 5; Infosys, Form 20-F FY2008, Item 5.
-
-[52] Infosys, Form 20-F FY2012, Items 3 and 5.
-
-[53] Infosys, Form 20-F FY2008, Items 3 and 5.
-
-[54] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 85.
-
-[55] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 85.
-
-[56] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 86.
-
-[57] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 87.
-
-[58] Infosys, Form 20-F FY2005, Item 3; Infosys, Form 20-F FY2008, Item 3; Infosys, Form 20-F FY2012, Item 3.
-
-[59] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
-
-[60] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
-
-[61] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
-
-[62] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 127.
-
-[63] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
-
-[64] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125; dollar figure at the 2004 calendar-year average rate of Rs 45.32 per dollar, Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
-
-[65] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125-126 and n. 9.
-
-[66] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 141.
-
-[67] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 4, 37.
-
-[68] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
-
-[69] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 127-128.
-
-[70] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
-
-[71] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
-
-[72] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 133.
-
-[73] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 134.
-
-[74] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 134, 142.
-
-[75] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
-
-[76] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132.
-
-[77] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
-
-[78] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
-
-[79] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143; Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 171.
-
-[80] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
-
-[81] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
-
-[82] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
-
-[83] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143.
-
-[84] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143 n. 13.
-
-[85] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
-
-[86] Baruah and Wankhar, 'The social gaps in India's IT workforce', NCAER (2025); Bairwa and Sofi, *International Journal of Social Economics* (2025). These national estimates of the caste composition of IT employment, drawn from labour-force survey data, could not be verified against their underlying figures and are not used.
-
-[87] Upadhya, 'Employment, Exclusion and \Merit\" in the Indian IT Industry' (2007)", p. 1864; the report gives the same survey as 71 per cent upper castes, 'about half' Brahmins, Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 38.
-
-[88] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 36.
-
-[89] Aspiring Minds, *National Employability Report: Engineers*, pp. 7-8.
-
-[90] Aspiring Minds, *National Employability Report: Engineers*, p. 8.
-
-[91] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125, 137.
-
-[92] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125 n. 8.
-
-[93] Society of Women Engineers, 'India Tertiary Education' (2025) (citing the AICTE enrolment dashboard).
-
-[94] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
-
-[95] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
-
-[96] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
-
-[97] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138 n. 12.
-
-[98] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 139.
-
-[99] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
-
-[100] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 130-131.
-
-[101] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 131.
-
-[102] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
-
-[103] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
-
-[104] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
-
-[105] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 140-141.
-
-[106] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9. The McKinsey Global Institute study is cited as the Duke team quoted it; the study itself is not drawn on directly.
-
-[107] Aspiring Minds, *National Employability Report: Engineers*, p. 9.
-
-[108] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
-
-[109] Aspiring Minds, *National Employability Report: Engineers*, p. 12.
-
-[110] Aspiring Minds, *National Employability Report: Engineers*, p. 13.
-
-[111] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
-
-[112] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (Moneycontrol study as relayed by *HR Katha*, 1 June 2022; the report gives no details of the study's method). Chapter 18 uses the same figure.
-
-[113] OECD, Consumer Price Indices, India (India CPI, calendar-year average; 2004 and 2012 values multiplied by 3.659 and 1.948 to give 2024 rupees; the 2003-05 ICS figure is treated as 2004).
-
-[114] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
-
-[115] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
-
-[116] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
-
-[117] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
-
-[118] Upadhya, 'Employment, Exclusion and \Merit\" in the Indian IT Industry' (2007)", p. 1865; Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 35-36.
-
-[119] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), pp. 3-4.
-
-[120] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9.
-
-
 # Chapter 13. H-1B (1990-2015)
 
 Reedhar Gunda, an electrical engineer from Bombay (Mumbai since 1995), came to the United States in 1998 on a temporary work visa sponsored by a body shopper, a middleman who hired Indian engineers and rented them out to American companies. When he arrived, the *Dallas Observer* reporter Miriam Rozen wrote that November, he found that the body shopper was taking $22 an hour out of his pay and leaving him $28. To get out he had to find another job and have the new employer petition for his visa all over again, which took several months.[1]
@@ -4081,253 +1574,6 @@ He described the handover in three stages. In the first, the newcomers sat besid
 What he described in the first stage was a transfer of knowledge in the most literal sense. The tacit work of a team, what it knew but had never written down, was recorded, transcribed and read back, so that people paid less could do it, first beside the old staff and then without them. A quarter of a century of the visa had refined a method for moving work from one set of people to another by writing it down.
 
 His complaint was aimed at two things together: visa holders 'physically being flown in from foreign countries' and 'the growing use of foreign remote offshore workers'.[122] The firms at the top of the sponsor tables earlier in this chapter ran both. To the worker in the conference room, the H-1B and the offshore centre were one system.
-
-
-### Notes to Chapter 13. H-1B (1990-2015)
-
-[1] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 29 (paragraph count of the online text, newsletter boxes excluded).
-
-[2] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 27, 30 (paragraph count of the online text, newsletter boxes excluded).
-
-[3] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 27, 30 (paragraph count of the online text, newsletter boxes excluded).
-
-[4] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 32, 34-35 (paragraph count of the online text, newsletter boxes excluded).
-
-[5] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 1, 3-5 (paragraph count of the online text, newsletter boxes excluded). The article names the owner and his firm. He was a private individual, and he is not named here. The account of his business is Rozen's reporting and his own statements, as the text labels them; the article cites no documents for it.
-
-[6] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 7 (paragraph count of the online text, newsletter boxes excluded).
-
-[7] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 13 (paragraph count of the online text, newsletter boxes excluded).
-
-[8] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 57 (paragraph count of the online text, newsletter boxes excluded).
-
-[9] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 26 (paragraph count of the online text, newsletter boxes excluded). He refused, Rozen wrote, when told he would not control what appeared in print.
-
-[10] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 75-76 (paragraph count of the online text, newsletter boxes excluded).
-
-[11] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 44 (paragraph count of the online text, newsletter boxes excluded).
-
-[12] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
-
-[13] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
-
-[14] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
-
-[15] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
-
-[16] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
-
-[17] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Temporary Foreign Professional (H-1B) Workers'.
-
-[18] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 23 (Appendix Table 1; NFAP, a pro-immigration policy group, compiling DHS data). Consulted 2026-10-12; post-cutoff material (published November 2025); live-checked 2026-10-13.
-
-[19] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
-
-[20] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
-
-[21] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
-
-[22] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
-
-[23] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Trends in H-1B Entries'.
-
-[24] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Summary'.
-
-[25] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Introduction'.
-
-[26] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Trends in H-1B Entries'.
-
-[27] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 69, 71 (paragraph count of the online text, newsletter boxes excluded).
-
-[28] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Temporary Foreign Professional (H-1B) Workers'.
-
-[29] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 23 (Appendix Table 1; NFAP, a pro-immigration policy group, compiling DHS data). Consulted 2026-10-12; post-cutoff material (published November 2025); live-checked 2026-10-13.
-
-[30] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Summary'.
-
-[31] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Recent H-1B Capped Petitions'.
-
-[32] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
-
-[33] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
-
-[34] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
-
-[35] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
-
-[36] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), pp. 1, 11 and p. 1 n. 2.
-
-[37] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54. Approvals in 2013: Infosys 6,298; Tata Consultancy Services 6,258; Cognizant 5,186; Accenture 3,346; Wipro 2,644; HCL Technologies 1,766; IBM's Indian subsidiary 1,624; Mahindra Satyam 1,589; Larsen & Toubro Infotech 1,580; Deloitte 1,491; iGate, which had absorbed Patni, 1,157.
-
-[38] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
-
-[39] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54.
-
-[40] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54. Khanna and Morales give no matching totals of initial and continuing petitions for 2012 and 2013, so whether these firms took most of all H-1B approvals in those years cannot be tested from their table.
-
-[41] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
-
-[42] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
-
-[43] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 3, p. 54.
-
-[44] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 13.
-
-[45] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 3 n. 3.
-
-[46] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 43-44.
-
-[47] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803.
-
-[48] Choudhury, Ganguli and Gaulé, 'Top Talent, Elite Colleges, and Migration' (2023), abstract.
-
-[49] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8 n. 9 (the 2004 allowance) and p. 12.
-
-[50] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
-
-[51] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 2, p. 54.
-
-[52] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[53] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[54] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
-
-[55] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[56] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[57] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[58] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 1.
-
-[59] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
-
-[60] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
-
-[61] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 2.
-
-[62] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43.
-
-[63] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 and n. 17, citing Patrick J. McDonnel and Julie Pitta, ''Brain Gain' or Threat to US Jobs?', *Los Angeles Times*, 15 July 1996. Saxenian's note spells the first name 'Prahbat'; the text uses 'Prabhat'. His occupation is not given.
-
-[64] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45.
-
-[65] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 44-45.
-
-[66] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45.
-
-[67] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45 and n. 19, citing Julie Winokur, 'A Network for Sharing Success', *San Jose Mercury News*, 21 March 1994. Saxenian's main text gives the sentence to 'another local entrepreneur who subsequently organized the first meeting of TiE'; her note attributes it to Suhas Patil.
-
-[68] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45.
-
-[69] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 46.
-
-[70] TiE, 'The Founding of TiE' (TiE's own history; organisation self-description).
-
-[71] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 46.
-
-[72] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 44-46.
-
-[73] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 44.
-
-[74] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 23.
-
-[75] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 24.
-
-[76] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 7-8, 23; Wadhwa et al., *America's New Immigrant Entrepreneurs* (2007), pp. 5, 31. Saxenian's count used a Dun & Bradstreet database of 11,443 technology firms founded in Silicon Valley between 1980 and 1998, and treated as Indian-run those whose chief executives had Indian surnames (p. 7). It missed founders who had handed the chief executive's job to someone else, which her interviews suggested was common because venture capital 'has often been tied to the requirement that non-Asian senior executives be hired' (pp. 8, 23). The 15.5 per cent figure is from Wadhwa, Saxenian and colleagues (2007): the share of Silicon Valley start-ups of 1995-2005 with an Indian immigrant among the key founders, a different measure.
-
-[77] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 62.
-
-[78] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 62-63.
-
-[79] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
-
-[80] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64 n. 19.
-
-[81] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
-
-[82] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
-
-[83] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
-
-[84] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 65.
-
-[85] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 65-66.
-
-[86] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66.
-
-[87] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66 n. 24. Other estimates of the on-site share, which measure it differently, are compared in Chapter 9.
-
-[88] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67.
-
-[89] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67.
-
-[90] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
-
-[91] Saxenian, 'From Brain Drain to Brain Circulation' (2005), pp. 3, 6.
-
-[92] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
-
-[93] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 17.
-
-[94] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
-
-[95] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
-
-[96] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
-
-[97] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 128-129.
-
-[98] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 129.
-
-[99] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
-
-[100] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
-
-[101] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
-
-[102] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
-
-[103] Settlement Agreement between the United States and Infosys (2013), para. IV.A.
-
-[104] Settlement Agreement between the United States and Infosys (2013), para. II.D.
-
-[105] Settlement Agreement between the United States and Infosys (2013), para. II.E.2.
-
-[106] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.a.
-
-[107] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.b.
-
-[108] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.c.
-
-[109] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.d.
-
-[110] Settlement Agreement between the United States and Infosys (2013), para. II.G.
-
-[111] Settlement Agreement between the United States and Infosys (2013), para. II.I.
-
-[112] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
-
-[113] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
-
-[114] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
-
-[115] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
-
-[116] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
-
-[117] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
-
-[118] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
-
-[119] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
-
-[120] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
-
-[121] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2. Perrero's account was written testimony to a Senate Judiciary Committee hearing on high-skilled immigration on 25 February 2016. He named neither the contractor that supplied the replacements nor their nationality, and neither is supplied here.
-
-[122] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
 
 
 # Chapter 14. Backlash and scale (2002-2011)
@@ -4443,243 +1689,6 @@ Many of the people in this chapter worked for foreign companies. Roy built his f
 Blinder's test applied to all of them, whoever owned the desk. It asked only whether the work could be sent down a wire, and in these years the list of work that could be sent kept growing. Blinder did not pretend to know where it would stop. 'No one knows how far this process will go.'[117]
 
 
-### Notes to Chapter 14. Backlash and scale (2002-2011)
-
-[1] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
-
-[2] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
-
-[3] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[4] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[5] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[6] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[7] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[8] Dobbs, *Exporting America* (2004) (bibliographic entry).
-
-[9] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[10] Pink, 'The New Face of the Silicon Age', *Wired* (2004), online text, paragraphs 8, 9, 12 and 41 (Hexaware's location, para. 12; its rank among exporters, para. 41). Journalist's account in contemporary press; *Wired*'s framing is favourable to outsourcing.
-
-[11] Pink, 'The New Face of the Silicon Age', *Wired* (2004), online text, paragraph 16.
-
-[12] *Government Executive*, reports on federal offshoring restrictions (2004).
-
-[13] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), introductory note.
-
-[14] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
-
-[15] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
-
-[16] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
-
-[17] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'The Three Industrial Revolutions'.
-
-[18] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
-
-[19] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
-
-[20] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
-
-[21] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'. The 'currently visible tip' remark is made of a 2003 Berkeley study; Blinder set his own estimate against it, against a McKinsey study (both put 11 per cent of American jobs at risk) and against Forrester Research's prediction that 3.3 million American service jobs would move offshore by 2015.
-
-[22] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'; Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'Is Forewarned Forearmed?'.
-
-[23] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'Imperfect Vision' (India 'is learning to exploit its already strong comparative advantage in English').
-
-[24] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
-
-[25] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1). All of Roy's story in this section is his own account.
-
-[26] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[27] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[28] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[29] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[30] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[31] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1). The dates of this history are disputed. The *Knowledge at Wharton* introduction places Roy's work at American Express in the mid-1980s (Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview)). Rajaraman says that American Express was the first organisation to start BPO work in India, in 1994, followed by GE Capital International Services (GECIS) in 1997 (Rajaraman, *History of Computing in India* (2012), p. 53). Other accounts date GECIS to October 1996 and credit its founding both to Roy and to Pramod Bhasin, who headed it (William Davidson Institute, 'IT-Enabled Services (C): GE Capital International Services' (2003); the case study is cited from its catalogue summary, since no full copy has been located). The accounts can be partly reconciled, since Roy's mid-1980s findings concern the cost of the existing Indian card operation, not a dedicated export centre, but who founded GECIS, and when, remains open.
-
-[32] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[33] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[34] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[35] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[36] Rajaraman, *History of Computing in India* (2012), p. 53.
-
-[37] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability. The names it gives cannot be checked, and the first names it uses are not repeated here.
-
-[38] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[39] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[40] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[41] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[42] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2006 (Rs 45.31 per US dollar), conversions by the author. Anonymous activist account; low reliability.
-
-[43] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[44] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[45] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[46] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[47] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[48] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2006 (Rs 45.31 per US dollar), conversions by the author. Anonymous activist account; low reliability.
-
-[49] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[50] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[51] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[52] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[53] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[54] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[55] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 129. Printed page numbers (PDF page minus 10). Anonymous HR officer and respondent reported by the researchers; fieldwork November 2003 to March 2006, 34 BPO workers interviewed (p. 4).
-
-[56] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 130.
-
-[57] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 153. Anonymous respondent quoted by the researchers.
-
-[58] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 263. Anonymous agent quoted by the researchers; 18 agents in Bangalore and Mumbai (p. 255).
-
-[59] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 264. Anonymous agent quoted by the researchers.
-
-[60] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 270. Anonymous agent quoted by the researchers.
-
-[61] Taylor et al., 'Domestic Labour' (2010), pre-publication manuscript, sections 'Indian domestic BPO and call centres' (Avendus 2008 starting salaries; Nasscom-Everest 2008, 81 per cent of domestic employment in telecoms) and 'Methods and sources' (618 questionnaires, April to June 2008, members of UNITES). Pre-publication manuscript without page numbers.
-
-[62] Taylor et al., 'Domestic Labour' (2010), pre-publication manuscript, section 'Targets and the labour process'. Anonymous team leader quoted by the researchers. Pre-publication manuscript without page numbers.
-
-[63] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 10; D'Cruz and Noronha, 'Hope to Despair' (2013), p. 480.
-
-[64] D'Cruz and Noronha, 'Hope to Despair' (2013), p. 481.
-
-[65] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 12 (survey April to July 2007 in Bangalore, Chennai, Hyderabad, Kochi, Mumbai and New Delhi; 45 interviews, p. 13).
-
-[66] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 17. Anonymous agent quoted by the researchers.
-
-[67] D'Cruz and Noronha, 'Hope to Despair' (2013), pp. 474 and 481.
-
-[68] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
-
-[69] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 16.
-
-[70] Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), para. 14, p. 12. The High Court records that she worked for 'Hewlett Packard (HP) BPO' (Karnataka High Court, Crl. A. No. 245/2011 (31 May 2016), para. 7, p. 5).
-
-[71] Karnataka High Court, Crl. A. No. 245/2011 (31 May 2016), paras. 1-3 and 126, pp. 3-4 and 74-75; Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), paras. 2, 15 and 17, pp. 1-2, 13 and 15. Fast Track (Sessions) Court-XI, Bengaluru, S.C. No. 523/2006, judgment of 6 October 2010: convicted under sections 366, 376 and 302 of the Indian Penal Code; for the murder, rigorous imprisonment for the rest of his life without release. Karnataka High Court, 31 May 2016 (H. Billappa and K.N. Phaneendra JJ.): conviction and sentence confirmed; his appeal and the State's appeal for the death penalty both dismissed. Supreme Court, 28 March 2023 (Abhay S. Oka and Rajesh Bindal JJ.): notice had been issued on sentence only; the trial court could not have directed that he never be released; sentence modified to imprisonment for life, with release only after thirty years of actual sentence, the appeal being partly allowed. By an order of 6 December 2023 the sentences for the other offences run concurrently (Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), M.A. No. 1752 of 2023).
-
-[72] Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), para. 15, p. 13.
-
-[73] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 153. Anonymous informant quoted by the researchers.
-
-[74] Russell, review of Patel, *Working the Night Shift* (2010), p. 524. Reviewer's account of Patel, *Working the Night Shift* (Stanford University Press, 2010); Patel's book is cited here from the review.
-
-[75] Nasscom, *Strategic Review* and fact sheets, slides 2 and 9; Infosys, prospectus (Form 424B4, 1999), p. 42. Nasscom self-description (industry lobby group). Nasscom added seven to eight million indirect jobs by a multiplier of its own. On its estimates industry revenue rose from about $21.6bn in FY2003-04 to about $64bn in FY2007-08, exports being 62-66 per cent (slides 8, 10), and net additions to employment ran at 234,000 in FY2004-05, 328,000 in FY2005-06 and an estimated 375,000 in FY2007-08 (slide 18). Slide 2 describes Nasscom as having more than 1,200 members, including 250 global companies, which together accounted for over 90 per cent of exports. Other counts of employment for FY2007-08 are lower; Chapter 9 and the data appendix compare them.
-
-[76] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts, RBI Handbook edition ids 10663 (FY2002-03; $40.3bn in FY2007-08) and 15930 (FY2010-11). The bank's separate annual survey of software and IT services exporters, which covered 760 companies in 2010-11, put exports that year at about $47.6bn, up from $38.7bn the year before (Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, 'Highlights' and Table 1). The two series measure different things and should not be added or compared directly, and neither is wholly independent of the lobby: the bank noted in its survey for 2007-08 that it compiled the balance-of-payments software figures using Nasscom's data as a controlling total (Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, box 'Comparison of survey results with NASSCOM and Softex data').
-
-[77] Rajaraman, *History of Computing in India* (2012), p. 80.
-
-[78] Rajaraman, *History of Computing in India* (2012), pp. 52, 49. Industry claims relayed by Rajaraman. He adds (p. 49) that ten Indian IT companies were listed on foreign stock exchanges, with more than 400 delivery centres outside India. The Capability Maturity Model is described in Chapter 11.
-
-[79] Nasscom, *Strategic Review* and fact sheets, slide 14. Nasscom self-description (industry lobby group). The caption also says that smaller 'Tier 2/3 cities' were emerging. The printed percentages add up to slightly more than 100.
-
-[80] Nasscom, *Strategic Review* and fact sheets, slide 12. Nasscom self-description (industry lobby group).
-
-[81] Nasscom, *Strategic Review* and fact sheets, slide 17. Nasscom self-description (industry lobby group).
-
-[82] Nasscom, *Strategic Review* and fact sheets, slide 18. Nasscom self-description (industry lobby group).
-
-[83] Nasscom, *Strategic Review* and fact sheets, slide 19. Nasscom self-description (industry lobby group).
-
-[84] Nasscom, *Strategic Review* and fact sheets, slide 21. Nasscom self-description (industry lobby group).
-
-[85] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
-
-[86] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
-
-[87] Infosys, Form 20-F FY2004, Item 4.
-
-[88] Infosys, Form 20-F FY2004, Item 8; Infosys, Form 20-F FY2009, Item 4.
-
-[89] Infosys, Form 20-F FY2009, Items 4 and 6.D.
-
-[90] Infosys, Form 20-F FY2009, Item 3.
-
-[91] Infosys, Form 20-F FY2009, Item 3.
-
-[92] Infosys, Form 20-F FY2009, Item 3.
-
-[93] Infosys, Form 20-F FY2009, Item 3.
-
-[94] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2009, Item 4. Over FY2008-09 Infosys received about 488,700 applications, tested about 77,600 applicants and interviewed about 46,600 before making its 16,900 offers; the 46,300 offers of FY2007-08 are from Infosys, Form 20-F FY2008. Chapter 12 follows the recruiting funnel.
-
-[95] Infosys, Form 20-F FY2009, Item 3 (attrition 11.1% for fiscal 2009, 13.4% for fiscal 2008, excluding Infosys BPO and other subsidiaries).
-
-[96] Infosys, Form 20-F FY2009, Items 4 and 6.D (about 12,400 net additions in fiscal 2009; headcount); Infosys, Form 20-F FY2010, Item 3.
-
-[97] Infosys, Form 20-F FY2010, Item 5; Infosys, Form 6-K for the quarter ended 31 December 2009 (management's discussion of the nine months ended 31 December 2009). The annual filing dates the increase 'with effect from October 2010', which cannot be right for a rise paid within the year to March 2010; the quarterly report for the three months to December 2009 shows that the annual rise, normally made in April, had been postponed to October 2009. Utilisation including trainees averaged 67.5 per cent for FY2009-10 (Infosys, Form 20-F FY2010, Item 3). No press account of graduates whose joining dates were deferred in 2009 has been located.
-
-[98] Infosys, Form 20-F FY2009, Item 3.
-
-[99] Infosys, Form 20-F FY2009, Item 3.
-
-[100] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2010, Item 3.
-
-[101] Infosys, Form 20-F FY2004, Item 3.
-
-[102] Infosys, Form 20-F FY2012, Items 4 and 5.
-
-[103] Infosys, Form 20-F FY2009, Item 3.
-
-[104] Infosys, Form 20-F FY2009, Item 3.
-
-[105] Infosys, Form 20-F FY2009, Item 3.
-
-[106] Rajaraman, *History of Computing in India* (2012), p. 79.
-
-[107] Rajaraman, *History of Computing in India* (2012), pp. 49, 53.
-
-[108] Infosys, Form 20-F FY2010, Item 5.
-
-[109] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2012, Item 3.
-
-[110] Infosys, Form 20-F FY2012, Item 3.
-
-[111] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[112] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights' and Table on type of service; Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, survey for 2007-08 (74.6% offsite).
-
-[113] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights'.
-
-[114] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview); Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability. Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
-
-[115] Nasscom, *Strategic Review* and fact sheets, slide 10. Nasscom self-description (industry lobby group).
-
-[116] Rajaraman, *History of Computing in India* (2012), pp. 53-54 (Texas Instruments, 1985).
-
-[117] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
-
-
 
 # Part IV: Beyond services? (1985-2024)
 
@@ -4780,193 +1789,6 @@ A company that began in 1994 as one American firm's captive centre in India now 
 This matters for the argument of the rest of the book. A services firm sells its engineers' hours, and the price of an hour is set in a contract with a client. A GCC employs engineers to build and run its parent's own products and systems, and any gain in their output belongs directly to the parent. When tools arrive that let one engineer do the work of several, the two kinds of employer face different questions. The services firm must decide who keeps the saving, and the client will ask for it. The GCC's parent simply keeps it. Chapter 19 returns to that difference.
 
 The multinational centres showed that Indian engineers could do a parent's core work, not only its maintenance; who would answer for the work when it went wrong, a question of trust and governance, is where the next chapter begins, inside the services industry itself and inside the state.
-
-
-### Notes to Chapter 15. The other employers (1985-2024)
-
-[1] Microsoft, press releases on its India development centre (1998-1999).
-
-[2] Microsoft, press releases on its India development centre (1998-1999).
-
-[3] Microsoft, press releases on its India development centre (1998-1999).
-
-[4] Microsoft, press releases on its India development centre (1998-1999).
-
-[5] Microsoft, press releases on its India development centre (1998-1999).
-
-[6] Microsoft, press releases on its India development centre (1998-1999).
-
-[7] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024).
-
-[8] Texas Instruments, 'TI Celebrates 20 Years in India' (2005) (company milestone list, 2005); Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 6 (government rules; Chapter 8 gives the full account).
-
-[9] Texas Instruments, 'TI Celebrates 20 Years in India' (2005). Milestones in the company's list: mixed-signal design centre 1989; application-specific products from 1990; hard-disk-drive signal-processing cores 1995; third-generation mobile and wireless network chipsets 2000; seven-acre Bangalore design facility 2004.
-
-[10] Texas Instruments, 'TI Celebrates 20 Years in India' (2005). The same source says several chips then being designed in India used 65- and 90-nanometre processes, which TI called the most advanced in the industry (company claim).
-
-[11] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 62-63. Basu's story is told more fully in Chapter 13.
-
-[12] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
-
-[13] Motorola, Global Software Group media kit.
-
-[14] Rajaraman, *History of Computing in India* (2012), p. 48 (Oracle, Bangalore, 1994); *Computerworld*, 'Oracle Chooses India for Key Overseas Site'; *Managing Innovation from the Land of Ideas and Talent* (2009); Intel, press release (2000), and AP, 'Intel to Invest $1 Billion in India' (2005). The SAP and Intel primary texts were not consulted, so the text says 'are reported'.
-
-[15] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview).
-
-[16] Rajaraman, *History of Computing in India* (2012), p. 53. Chapter 14 follows the back-office captives and sets out the other datings of GE Capital International Services (October 1996).
-
-[17] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
-
-[18] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
-
-[19] Cognizant, IPO prospectus (Form 424B4, 1998), p. 5.
-
-[20] Cognizant, IPO prospectus (Form 424B4, 1998), p. 5.
-
-[21] Cognizant, IPO prospectus (Form 424B4, 1998), p. 43.
-
-[22] Cognizant, IPO prospectus (Form 424B4, 1998), p. 43.
-
-[23] Cognizant, IPO prospectus (Form 424B4, 1998), p. 41.
-
-[24] Cognizant, IPO prospectus (Form 424B4, 1998), p. 8.
-
-[25] Cognizant, IPO prospectus (Form 424B4, 1998), p. 42.
-
-[26] Cognizant, IPO prospectus (Form 424B4, 1998), p. 4.
-
-[27] Cognizant, IPO prospectus (Form 424B4, 1998), p. 8.
-
-[28] Cognizant, IPO prospectus (Form 424B4, 1998), p. 41.
-
-[29] Cognizant, IPO prospectus (Form 424B4, 1998), p. 42.
-
-[30] Cognizant, Form 10-K FY2002, p. 8.
-
-[31] Cognizant, Form 10-K FY2002, p. 16.
-
-[32] Cognizant, Form 10-K FY2007, pp. 4, 13.
-
-[33] Cognizant, Form 10-K FY2012, p. 15.
-
-[34] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1 (p. 54).
-
-[35] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 14.
-
-[36] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
-
-[37] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
-
-[38] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
-
-[39] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
-
-[40] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
-
-[41] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007) (IDG News, 29 January 2007).
-
-[42] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
-
-[43] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
-
-[44] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
-
-[45] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
-
-[46] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006). IBM's 1978 exit is told in Chapter 5.
-
-[47] *EE Times*, report of Zinnov data on R&D centres (2008) (EE Times, 17 March 2008). Zinnov's clients include the multinational centres it counts. The other centres were in Pune, the Delhi area, Hyderabad and Chennai, far behind Bangalore; the largest groups worked on telecommunications and networking, semiconductors and chip-design tools, and consumer electronics. The figures are given from the paper's summary.
-
-[48] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 15.
-
-[49] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 15.
-
-[50] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
-
-[51] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
-
-[52] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
-
-[53] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 55 (table assembled from a Nasscom-Hewitt pay survey; industry-wide, in US dollars). The same table gives about $14,820 for a team leader and $63,125 for the head of a large development unit.
-
-[54] Rajaraman, *History of Computing in India* (2012), p. 53.
-
-[55] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 28, citing Cairncross (2006) for the third-tier shares. The authors add that the All India Council for Technical Education (AICTE), the regulator of technical colleges, had removed about 22,722 seats at 300 engineering colleges that lacked faculty, courses and infrastructure.
-
-[56] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 29 (manager interviewed by the authors during their 2004-07 fieldwork; firm not named).
-
-[57] Infosys, Form 20-F FY2009, Item 3 (risk factors). The same section warns that hiring by technology companies, especially in India, and worldwide competition for skilled professionals might cause a shortage of qualified staff where it hired.
-
-[58] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004); Texas Instruments, 'TI Celebrates 20 Years in India' (2005); *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
-
-[59] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
-
-[60] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 14.
-
-[61] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
-
-[62] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 21.
-
-[63] The only pay figures in Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008) (p. 55) are industry-wide medians and do not separate employer types.
-
-[64] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
-
-[65] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
-
-[66] EPAM Systems, 10-K FY2021, p. 5.
-
-[67] EPAM Systems, 10-K FY2021, p. 5.
-
-[68] EPAM Systems, 10-K FY2024, p. 5.
-
-[69] EPAM Systems, 10-K FY2024, p. 30.
-
-[70] EPAM Systems, 10-K FY2024, p. 33.
-
-[71] EPAM Systems, 10-K FY2024, p. 5.
-
-[72] EPAM Systems, 10-K FY2024, p. 5.
-
-[73] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
-
-[74] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007) (Green and Rueda, Accenture); EPAM Systems (EPAM 10-Ks). Neither source gives the graduate output or wages of Poland, Ukraine or Romania, so Rueda's point about scale and cost cannot be tested from them.
-
-[75] Amazon India, 'Owned and Loving It' (2019).
-
-[76] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024).
-
-[77] Nasscom and Zinnov, *India GCC Landscape Report* (2024) (Zinnov report page).
-
-[78] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024).
-
-[79] Agarwal, 'The Big Boom' (2026). Post-cutoff material, checked in October 2026.
-
-[80] Nasscom, Strategic Review 2025 press release (2025).
-
-[81] Nasscom and Zinnov, *India GCC Landscape Report* (2024).
-
-[82] Nasscom and Zinnov, *India GCC Landscape Report* (2024).
-
-[83] Nasscom and Zinnov, *India GCC Landscape Report* (2024); Government of Karnataka, *Karnataka GCC Policy 2024-2029* (ICAI summary confirms the 2024-29 policy; the targets are Zinnov's summary).
-
-[84] Union Budget 2025-26 speech (2025), para. 91.
-
-[85] Texas Instruments, 'TI Celebrates 20 Years in India' (2005); Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63; Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview); *EE Times*, report of Zinnov data on R&D centres (2008).
-
-[86] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024); Nasscom and Zinnov, *India GCC Landscape Report* (2024).
-
-[87] Cognizant, Form 10-K FY2024, p. 10.
-
-[88] Cognizant, Form 10-K FY2024, p. 10; Cognizant, IPO prospectus (Form 424B4, 1998), p. 42.
-
-[89] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007); *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006); EPAM Systems, 10-K FY2024, p. 5.
-
-[90] Cognizant, Form 10-K FY2024, p. 9.
-
-[91] Cognizant, Form 10-K FY2024, pp. 15-16.
-
-[92] Cognizant, IPO prospectus (Form 424B4, 1998), p. 5; Cognizant, Form 10-K FY2024, pp. 13, 15-16.
 
 
 # Chapter 16. Fraud and foundation (2008-2018)
@@ -5098,243 +1920,6 @@ Satyam showed where the value of an Indian services firm lay. By SEBI's investig
 The question the next chapter takes up follows from both. An industry that could run a client's systems so reliably that a fraud at the top did not stop them, and that could lend its people to build a national identity platform, had still produced very few software products of its own. Chapter 17 asks why.
 
 
-### Notes to Chapter 16. Fraud and foundation (2008-2018)
-
-[1] Raju, letter to the Satyam board (2009).
-
-[2] Raju, letter to the Satyam board (2009); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (calendar-year 2008 average, Rs 43.50 per US dollar).
-
-[3] Raju, letter to the Satyam board (2009); Satyam Computer Services, 6-K of 7 January 2009; 6-K of 9 January 2009, Ex. 99.3 (NYSE: SAY).
-
-[4] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
-
-[5] Satyam Computer Services, Form 20-F FY2008, p. 19.
-
-[6] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11, 13; Infosys, prospectus (Form 424B4, 1999), p. 55.
-
-[7] Satyam Computer Services, Form 20-F FY2008, p. 6.
-
-[8] Satyam Computer Services, Form 20-F FY2008, p. 19.
-
-[9] Satyam Computer Services, Form 20-F FY2008, p. 19.
-
-[10] Satyam Computer Services, Form 20-F FY2008, p. 32.
-
-[11] Satyam Computer Services, Form 20-F FY2008, p. 24.
-
-[12] Satyam Computer Services, Form 20-F FY2008, p. 44.
-
-[13] Satyam Computer Services, Form 20-F FY2008, p. 32.
-
-[14] Satyam Computer Services, Form 20-F FY2008, p. 48.
-
-[15] Raju, letter to the Satyam board (2009).
-
-[16] Raju, letter to the Satyam board (2009). Press reproductions of the letter differ from the SEC copy in small ways; the chapter quotes the SEC copy throughout.
-
-[17] Raju, letter to the Satyam board (2009).
-
-[18] Raju, letter to the Satyam board (2009).
-
-[19] Raju, letter to the Satyam board (2009).
-
-[20] Raju, letter to the Satyam board (2009).
-
-[21] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
-
-[22] Raju, letter to the Satyam board (2009).
-
-[23] Raju, letter to the Satyam board (2009).
-
-[24] SEBI, final order in the matter of Satyam Computer Services (2014-2018), pp. 1-2, 14.
-
-[25] Raju, letter to the Satyam board (2009).
-
-[26] Raju, letter to the Satyam board (2009).
-
-[27] Satyam Computer Services, 6-K of 7 January 2009, Ex. 99.3.
-
-[28] Satyam Computer Services, 6-K of 7 January 2009, Ex. 99.1.
-
-[29] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.1.
-
-[30] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.2.
-
-[31] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
-
-[32] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
-
-[33] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
-
-[34] SEC, press release 2011-82 (2011).
-
-[35] Sharma, 'When Your Boss Does You In' (2009).
-
-[36] Sharma, 'When Your Boss Does You In' (2009).
-
-[37] Sharma, 'When Your Boss Does You In' (2009).
-
-[38] Sharma, 'When Your Boss Does You In' (2009).
-
-[39] Sharma, 'When Your Boss Does You In' (2009).
-
-[40] Sharma, 'When Your Boss Does You In' (2009).
-
-[41] Sharma, 'When Your Boss Does You In' (2009).
-
-[42] Sharma, 'When Your Boss Does You In' (2009).
-
-[43] Sharma, 'When Your Boss Does You In' (2009).
-
-[44] Sharma, 'When Your Boss Does You In' (2009).
-
-[45] Sharma, 'When Your Boss Does You In' (2009).
-
-[46] Sharma, 'Operation Satyam' (2009) (factual news note only; the article is a declared composite and nothing in it is quoted or attributed to a person).
-
-[47] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2. The figure is not directly comparable with the 53,000 in Raju's letter, which was a group figure from before the departures began, and the filings do not say how many had left.
-
-[48] Sharma, 'When Your Boss Does You In' (2009); Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
-
-[49] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
-
-[50] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2.
-
-[51] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
-
-[52] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
-
-[53] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
-
-[54] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2.
-
-[55] Satyam Computer Services, Form 20-F FY2008, p. 2 (exhibit list, Ex. 15.1).
-
-[56] SEC, press release 2011-82 (2011).
-
-[57] SEC, press release 2011-82 (2011).
-
-[58] SEC, press release 2011-82 (2011).
-
-[59] SEC, press release 2011-82 (2011).
-
-[60] SEC, press release 2011-82 (2011).
-
-[61] SEC, press release 2011-82 (2011).
-
-[62] Securities Appellate Tribunal, *Price Waterhouse & Co. v. SEBI* (9 September 2019), para. 2 (summary of the SEBI order of 10 January 2018); para. 5 (Gopalakrishnan the engagement partner for 2000-07, Talluri for 2007-08); para. 133 ('nine long years' from the show-cause notices of 2009).
-
-[63] Securities Appellate Tribunal, *Price Waterhouse & Co. v. SEBI* (9 September 2019), paras. 51, 136, 139-140.
-
-[64] *LiveLaw*, 'SC Issues Notice On SEBI's Challenge' (2019) (*LiveLaw*, 22 November 2019; bench of Arun Mishra and Indira Banerjee JJ.). No later order of the Supreme Court has been found.
-
-[65] SEBI, final order in the matter of Satyam Computer Services (2014-2018), pp. 1-2.
-
-[66] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 1.
-
-[67] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 2.
-
-[68] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 15.
-
-[69] Securities Appellate Tribunal, *SRSR Holdings v. SEBI* (2 February 2023), paras. 1-2, 120 (Appeals 1-5 and 53 of 2019; the appellants were SRSR Holdings, B. Suryanarayana Raju, B. Rama Raju, B. Ramalinga Raju, V. Srinivas and G. Ramakrishna). The findings on the merits, upheld by the tribunal in 2017, were not reopened. V.S. Prabhakara Gupta was not a party to these appeals, and no later order on him has been located.
-
-[70] SEBI, order in the matter of Satyam Computer Services (30 November 2023), para. 8, p. 5 (the appeals of G. Ramakrishna, V. Srinivas and the two brothers 'pending as on date'); para. 127, Table 19, p. 87 (Rs 624,09,82,520 in all, of which Rs 20,43,46,875 from each brother; the others were B. Suryanarayana Raju, SRSR Holdings, Srinivas and Ramakrishna); para. 128, Table 20, pp. 87-88 (restraint till 14 July 2028 for the brothers; no new restraint on the other four, though the brothers, Srinivas and Ramakrishna were to remain under the restraint the Supreme Court had directed until their appeals were decided); para. 129 (simple interest at 12 per cent a year from 7 January 2009); para. 131, p. 89 (effect from a date the Supreme Court directs). Reserve Bank of India, *Handbook of Statistics on Indian Economy* (2023 average, Rs 82.60 per US dollar). No decision of the Supreme Court in these appeals (C.A. Nos. 9493/2017 and connected) has been found. Checked against the SEBI order on 15 October 2026.
-
-[71] Telangana High Court, Satyam-related orders (2022) (Telangana High Court, Crl. P. No. 13332 of 2011, order of 7 January 2022, para. 2, the petitioners' own account: three charge-sheets, joint trial as C.C. Nos. 1, 2 and 3 of 2010; W.P. No. 12595 of 2019, order of 6 June 2022, para. 3: 'The XXI ACMM-cum-Special Sessions Judge Nampally convicted the accused in the above case and sentenced them to imprisonment on 09.04.2015'); Associated Press (*Al Jazeera*) and *The Quint* on the Satyam verdict (2015) (Associated Press via *Al Jazeera*, 9 April 2015: ten convicted, seven years each); PTI, 'Satyam's Raju, 9 others get bail' (11 May 2015) (PTI, 11 May 2015: 'seven-year rigorous imprisonment sentence'). Checked against the Indian Kanoon texts on 15 October 2026.
-
-[72] Securities Appellate Tribunal, *B. Appalanarasamma v. SEBI* (2017), minority view (Jog Singh), para. 76, listing the accused named in the CBI's charge-sheets (Talluri appears there as 'T. Srinivas').
-
-[73] *Business Today*, 'B Ramalinga Raju Found Guilty' (2015) (Rs 5 crore each for Ramalinga Raju and Rama Raju; Rs 25 lakh each for the other eight); Associated Press (*Al Jazeera*) and *The Quint* on the Satyam verdict (2015) (Associated Press via *Al Jazeera*, 9 April 2015: 'The judge also fined Raju $806,000'; *The Quint*, 14 April 2015: 'a Rs 5.5-crore fine on Raju and his brother Rama Raju'); PTI, 'Satyam's Raju, 9 others get bail' (11 May 2015) (PTI, 11 May 2015: 'Rs 5.35 crore fine on Raju and Rama Raju, while others were fined Rs 25 lakh each'); *Gulf News*, 'Netflix stopped by court' (2020) (*Gulf News*, 2020: 'a fine of Rs 55 million on both the brothers'). No copy of the judgment in C.C. Nos. 1-3 of 2010 has been located online, so no figure is given as settled.
-
-[74] *One Law Street*, 'High Court returns Appeals to Sessions Court' (2015) (a legal-news report that quotes the High Court's order: the appeals were to be presented 'before the Court of Metropolitan Sessions Judge, Nampally, Hyderabad, which alone has jurisdiction to entertain the appeals on all aspects'; the Sessions Court had returned them as not maintainable on 20 April 2015). The report misdates the conviction to 2000. No copy of the High Court's order has been located. PTI, 'Satyam's Raju, 9 others get bail' (11 May 2015) (PTI, carried by *Business Standard*, 11 May 2015; the same wire ran in *Business Today* and *The Quint*, so the three are one report): M. Laxman, special judge for economic offences, suspended the 'substantive and default' sentences on personal bonds and sureties, on condition that each paid one tenth of his fine within four weeks and undertook 'to cooperate for early disposal of the appeals without seeking undue adjournments'.
-
-[75] Telangana High Court, Satyam-related orders (2022) (W.P. No. 12595 of 2019, 6 June 2022, para. 6, CBI's submission: 'The CBI filed appeal for enhancement of the sentence. The accused Nos.1 and 2 also filed appeal against the conviction', pending before the Metropolitan Sessions Judge, Nampally); *Gulf News*, 'Netflix stopped by court' (2020) (in a civil suit in 2020 Raju's counsel said the matter 'was pending in appeal'). No order deciding the appeals has been found in the Indian Kanoon database or in press reports to October 2026.
-
-[76] Income Tax Appellate Tribunal, Hyderabad, *ACIT v. B. Ramalinga Raju* (11 February 2025), para. 27, p. 36: the Revenue 'categorically stated that no such order is in existence', and this 'remains unrebutted'. The tribunal does not say whether the appeals were then pending. Checked on 15 October 2026.
-
-[77] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11, 25; Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 1 (creation on 28 January 2009 as an attached office of the Planning Commission).
-
-[78] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 8.
-
-[79] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11-12.
-
-[80] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 13.
-
-[81] Infosys, prospectus (Form 424B4, 1999), p. 55.
-
-[82] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 3.
-
-[83] UIDAI, *Aadhaar Technology & Architecture* (2014), p. 7 (message from the Director General).
-
-[84] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010) (*Forbes India*, 29 November 2010; the magazine's own account of the team, checked against the online text on 16 October 2026).
-
-[85] UIDAI, *Aadhaar Technology & Architecture* (2014), pp. 9-10 (from the editor's desk, Ashok Dalwai, Deputy Director General, Technology Centre).
-
-[86] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010).
-
-[87] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010).
-
-[88] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010).
-
-[89] Sharma, 'Aadhaar: A Testimony to Success of FOSS in India!', *Open Source For You* (2011).
-
-[90] UIDAI, *Aadhaar Technology & Architecture* (2014), p. 80.
-
-[91] Ranganna, 'Tech Guru, Srikanth Nadhamuni', *Man's World India* (2016).
-
-[92] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 198.
-
-[93] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 2; UIDAI, *Aadhaar Technology & Architecture* (2014), p. 7 (first Aadhaar letter handed over at Nandurbar on 29 September 2010).
-
-[94] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 199.
-
-[95] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 415; Sikri J., p. 94.
-
-[96] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 416 (citing the Press Information Bureau).
-
-[97] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), Executive Summary, p. v.
-
-[98] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 7 (Writ Petition (Civil) No. 494 of 2012).
-
-[99] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 2.
-
-[100] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, paras. 1-2 (lead judgment by Chandrachud J. for Khehar CJ, Agrawal J., Nazeer J. and himself; separate judgments by Chelameswar, Bobde, Sapre, Nariman and Kaul JJ.).
-
-[101] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 3, 567; Bhushan J., paras 392-393.
-
-[102] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 56.
-
-[103] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 55, 57, 60.
-
-[104] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 63.
-
-[105] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 19, para. 3.2.2, and Executive Summary, p. vi (audit period 2014-15 to 2018-19, p. 7, para. 2.1). The duplicate figure is UIDAI's own, 'As per information provided by UIDAI Tech Centre'. Against the 129.04 crore (1.29 billion) numbers generated by March 2021 (p. 14, para. 3.1.2), the share was small.
-
-[106] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 565.
-
-[107] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 555-556.
-
-[108] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 559-560.
-
-[109] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 512, 567.
-
-[110] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 154, 469.
-
-[111] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 375-376, para. 269.
-
-[112] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 376, para. 269.
-
-[113] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 105-106.
-
-[114] Securities Appellate Tribunal, *SRSR Holdings v. SEBI* (2 February 2023), para. 3; Raju, letter to the Satyam board (2009).
-
-[115] Sharma, 'When Your Boss Does You In' (2009); Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1 (Karnik's statement, a claim by the chairman of a company being sold) and Ex. 99.2.
-
-[116] Satyam Computer Services, Form 20-F FY2008, pp. 6, 24, 44.
-
-[117] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 15. The penalties in this order were set aside in 2023 (Securities Appellate Tribunal, *SRSR Holdings v. SEBI* (2 February 2023), para. 120); the tribunal's 2017 findings that it summarises were not reopened.
-
-
 # Chapter 17. The product question (1986-2024)
 
 In 1992 Rajesh Hukku, then head of Citicorp Overseas Software, the bank's in-house programming unit in India, spun the unit off from the bank as a company of its own. Fifteen years later, in an interview with Ravi Aron of the Wharton School published in March 2007, he remembered one of the Citibank chiefs asking him, at the start, a blunt question: 'Why should I start the one-thousand-and-first software company in India?'[1] His answer, as he recalled it, was that the new firm would be the first to be wholly focused on understanding its customers' business, so that no banker could say of its staff, 'These guys are great techies, but they don't understand my business.'[2]
@@ -5454,201 +2039,6 @@ Freshworks's annual report for 2024 shows what happened when the product side me
 Read beside Chapter 14, the description is pointed. An Indian-built product company was selling software designed to answer customers' and employees' questions without a person, which is much of what India's call centres and IT help desks had been paid by the hour to do. Products had not escaped the AI question. They met it from the other side, as sellers of the automation that the services firms would have to absorb. It was the services boom, and what it did to the people hired in it, that shaped the lives of most young Indian engineers, and the next chapter follows them.
 
 
-### Notes to Chapter 17. The product question (1986-2024)
-
-[1] Knowledge at Wharton, interview with Rajesh Hukku (Knowledge at Wharton interview, 23 March 2007; founder's own account; web page, unpaginated).
-
-[2] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[3] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[4] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[5] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[6] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12).
-
-[7] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12).
-
-[8] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12). No independent record of the incorporation date, such as the Registrar of Companies filing, has been located.
-
-[9] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12).
-
-[10] Tally Solutions, 'About Us' (company self-description, for the partner network and the 2.5 million businesses; consulted 2026-10-12).
-
-[11] Knowledge at Wharton, interview with Rajesh Hukku (BITS Pilani, the campus radio station and closed-circuit television system, and TCS).
-
-[12] Knowledge at Wharton, interview with Rajesh Hukku (Hukku: 'on day one we were selling professional services, we were doing consulting, and we were also trying to survive by spending very little money').
-
-[13] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[14] Knowledge at Wharton, interview with Rajesh Hukku (founder's account; the league table for 1995 is not named).
-
-[15] Knowledge at Wharton, interview with Rajesh Hukku (Hukku: so many banks there ran the program that there were not enough people who knew it).
-
-[16] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[17] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[18] Knowledge at Wharton, interview with Rajesh Hukku (bankers 'from Bank of India, from Reserve Bank of India, from smaller financial institutions'; many were 'computer savvy' rather than computer science graduates; 'You come teach us what you know about banking').
-
-[19] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[20] Knowledge at Wharton, interview with Rajesh Hukku (company claim as stated by its founder, who also put i-flex's share of the banks in several African countries at between a quarter and nearly half).
-
-[21] Knowledge at Wharton, interview with Rajesh Hukku (founder's retrospective claim; he added: 'We made a conscious decision to stick to the value-addition paradigm and the original principles.' No figure in i-flex's accounts for the period has been located to confirm it).
-
-[22] Knowledge at Wharton, interview with Rajesh Hukku (International Banking Systems league table as reported by Hukku, who also put FLEXCUBE ninth in its second year).
-
-[23] Knowledge at Wharton, interview with Rajesh Hukku (Wharton's introduction to the interview).
-
-[24] Knowledge at Wharton, interview with Rajesh Hukku (Wharton's introduction, which also gives revenue of Rs 5.5 billion, $126 million at the rate it used, in the December quarter of the year to March 2007).
-
-[25] Knowledge at Wharton, interview with Rajesh Hukku (the share price is the interviewer's statement, as is the remark that in 2003 *Time* magazine picked i-flex as one of 15 survivors of the crash; the explanation is the founder's).
-
-[26] Knowledge at Wharton, interview with Rajesh Hukku (Wharton's introduction: 42 per cent, $592 million); Oracle, press release on i-flex solutions (2005) (Oracle press release, 2 August 2005: 41 per cent, held by Citigroup Venture Capital International; no price stated; consulted 2026-10-14).
-
-[27] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[28] Knowledge at Wharton, interview with Rajesh Hukku (he listed technology deployment, consulting and specialist business process outsourcing).
-
-[29] Infosys, Form 20-F FY2002, Item 4 (Infosys 20-F for the year to March 2002).
-
-[30] Infosys, Form 20-F FY2002, Item 4 (Finacle was sold alongside an internet banking program called BankAway).
-
-[31] Infosys, Form 20-F FY2009, Item 3.D (Infosys 20-F for the year to March 2009, risk factors).
-
-[32] Infosys, Form 20-F FY2012, Item 3.D (Infosys 20-F for the year to March 2012, risk factors; 4.9 per cent in the year to March 2011 and 4.2 per cent in the year to March 2010).
-
-[33] Infosys, Form 20-F FY2009, Item 4.
-
-[34] Infosys, Form 20-F FY2012, Item 4 (company claim; the same passage gives 48,500 branches). In a reorganisation of 2011 that merged seven business units into four by client industry, 'India and Finacle TM business units continue to be organized as before' (Infosys, Form 20-F FY2012, Item 4).
-
-[35] Infosys, Form 20-F FY2009, Item 6 (directors and senior management).
-
-[36] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated; the growth figures are given without a source).
-
-[37] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
-
-[38] *Inc42*, '10 years of iSPIRT' (2023) (Suprita Anupam, '10 Years Of iSPIRT: Inside The Making Of A Product Nation', *Inc42*, 27 February 2023; web page, unpaginated; consulted 2026-10-16): 'Set up as a spinoff from the NASSCOM Product Conclave (NPC) by 30 then (NASSCOM) members'. It names Sharma and Goenka among those at the first meeting, in Bengaluru on 4 February 2013. Venkataramakrishnan, *Scroll.in* (2017) (*Scroll.in*, 23 May 2017) calls iSPIRT 'an offshoot of industry body NASSCOM's annual product conclave'. Press reports on the formation of iSPIRT (2013-2014) names Goenka and Sharma as founder members.
-
-[39] Press reports on the formation of iSPIRT (2013-2014) (quoting Business Standard).
-
-[40] Press reports on the formation of iSPIRT (2013-2014) (quoting Business Standard).
-
-[41] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
-
-[42] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated). Murthy also said it was imperative to rebrand India as 'a proactive solutions provider, instead of a reactive solutions developer'.
-
-[43] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
-
-[44] *The News Minute* on the angel-tax letter (2019), and summary of the National Policy on Software Products (Shilpa S Ranipeta, *The News Minute*, 16 January 2019; consulted 2026-10-16). The letter was signed by nearly 70 entrepreneurs; the 48 per cent figure is iSPIRT's own claim. Rs 10 crore is Rs 100 million.
-
-[45] India Stack (iSPIRT), home page and FAQ (India Stack website, FAQ; iSPIRT's self-description; consulted 2026-10-16). *Scroll.in* (Venkataramakrishnan, *Scroll.in* (2017)) describes India Stack as 'a set of software products that are explicitly aimed at building apps on top of the Aadhaar database'.
-
-[46] *Inc42*, '10 years of iSPIRT' (2023).
-
-[47] Venkataramakrishnan, *Scroll.in* (2017) (Rohan Venkataramakrishnan, *Scroll.in*, 23 May 2017; consulted 2026-10-16). Sharma wrote that 'Anonymity seemed easier than propriety' and 'I condoned tweets with uncivil comments.' The same report quotes the legal researcher Usha Ramanathan on 'a clear case of conflict of interest'; *Inc42* (*Inc42*, '10 years of iSPIRT' (2023)) also records accusations of conflicts of interest.
-
-[48] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Naandika Tripathi, 'Cover story: Sridhar Vembu's vision from the village', *Forbes India*, 3 June 2020; web page, unpaginated; consulted 2026-10-16), which says he co-founded AdventNet 'along with two of his brothers (he has three of them) and three friends'; *Mixergy*, interview with Sridhar Vembu (2010) (Andrew Warner, interview with Sridhar Vembu, *Mixergy*, 9 March 2010, transcript; founder's account), in which Vembu names a brother and Tony Thomas, a friend at Bell Labs: 'the three of us came together'.
-
-[49] Zoho Corporation, 'About us' (timeline) (Zoho Corporation, 'About us', timeline; company self-description; consulted 2026-10-16).
-
-[50] *Mixergy*, interview with Sridhar Vembu (2010) (founder's account). *Forbes India* (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)) describes AdventNet as 'a software company serving network equipment vendors'.
-
-[51] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Vembu to *Forbes India*, 2020). The sentence begins: 'When we decided to launch this company, one thing that I noted was'.
-
-[52] Zoho Corporation, 'About us' (timeline) (company timeline: ManageEngine, 2003; Zoho Writer and Zoho CRM, 2005; 'AdventNet is renamed to Zoho Corporation Pvt Ltd', 2009). *Forbes India* (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)) says the renaming reflected 'the transition from a software company serving network equipment vendors to an innovative online applications provider'.
-
-[53] *Mixergy*, interview with Sridhar Vembu (2010) (founder's account); Zoho Corporation, 'About us' (timeline) (company self-description: 'Since we have never taken money from investors, we have always been able to focus on what is best for the customer').
-
-[54] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (figures as reported by *Forbes India*, which does not say whether 2019 is the calendar or the financial year); conversion at the 2019 calendar-year average rate, Rs 70.42 (Reserve Bank of India, *Handbook of Statistics on Indian Economy*).
-
-[55] Zoho Corporation, 'About us' (timeline) (company timeline: 'We open an office in Tenkasi, India', 2011; 'Office opens in Renigunta, India', 2018). *Forbes India* (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)) says the firm bought four acres in the village of Mathalamparai about nine years before 2020. The date of 2019 sometimes given for Tenkasi is that of Vembu's own move there (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)).
-
-[56] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (*Forbes India*'s figures; Vembu's words).
-
-[57] Zoho Corporation, 'About us' (timeline) (company timeline: Zoho University 'launches as an experiment in providing an alternative to the conventional college education', 2005; 'Zoho University starts in Tenkasi, India', 2013); Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (stipend of Rs 10,000 a month; 875 of 9,300 employees 'are students from Zoho Schools'). *Forbes India* dates the school's start to 2004 and gives its later name, Zoho Schools.
-
-[58] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Vembu: '15 to 20 percent of our engineers do not have an engineering degree. They are all trained in-house.').
-
-[59] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Paramasivam to *Forbes India*, 2020; he had then been with Zoho for 15 years).
-
-[60] Freshworks, Form S-1 (2021), letter from the founder (Girish Mathrubootham).
-
-[61] Freshworks, Form S-1 (2021), letter from the founder.
-
-[62] Freshworks, Form S-1 (2021), letter from the founder.
-
-[63] Freshworks, Form S-1 (2021), prospectus summary and business sections (company figures).
-
-[64] Freshworks, Form S-1 (2021), prospectus summary.
-
-[65] Freshworks, Form S-1 (2021), Business, 'Our Culture and Employees'.
-
-[66] Freshworks, Form S-1 (2021), Risk Factors (allegations under federal and California trade-secret law and the Computer Fraud and Abuse Act; Freshworks said it believed it had 'meritorious defenses'). Zoho's headquarters in Chennai: Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020).
-
-[67] *Zoho Corporation v. Freshworks*, N.D. Cal., No. 3:20-cv-01869 (orders, 2020-2021) (US District Court, N.D. Cal., *Zoho Corporation Pvt. Ltd. v. Freshworks, Inc.*, No. 3:20-cv-01869-VC, Order Denying Motion to Dismiss, Dkt. 61, filed 27 October 2020, p. 1; consulted 2026-10-16). The order concerns the second amended complaint and Zoho's CRM, which it says 'is properly identified as a trade secret'.
-
-[68] Freshworks, 'Freshworks and Zoho Reach Settlement' (2021), and Form 10-K for FY2021 (Freshworks press release, 'Freshworks and Zoho Reach Settlement to End Litigation', San Mateo, 23 December 2021, via Nasdaq; company statement; consulted 2026-10-16): 'These actions were not taken at the direction of Freshworks, and are contrary to Freshworks' policies.' Freshworks's annual report for 2021 (Freshworks, 'Freshworks and Zoho Reach Settlement' (2021), and Form 10-K for FY2021, Item 3) says: 'In December 2021, we reached an agreement with Zoho to settle the litigation and Zoho dismissed the lawsuit.' Neither document states the terms. The same report's '$3.9 million related to a legal settlement' in 2021 does not name the other party and is not taken here to be the Zoho settlement.
-
-[69] Freshworks, prospectus (Form 424B4, 2021), cover page (28,500,000 shares at $36.00; the gross figure, $1,026 million, is the author's calculation).
-
-[70] Freshworks, Form 10-K FY2024, cover page and Item 1.
-
-[71] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[72] Tracxn and Inc42 startup funding data, as reported (2021-2025) (Tracxn data as reported by *The Week*, Nachiket Kelkar, 14 January 2025; consulted 2026-10-14). Other trackers define a start-up differently and give different totals for 2021; their series are not joined here.
-
-[73] Tracxn and Inc42 startup funding data, as reported (2021-2025) (Tracxn data as reported by *The Week*, 14 January 2025; consulted 2026-10-14). Six new 'unicorns', private firms valued at $1 billion or more, were created in 2024, against two in 2023.
-
-[74] Byju's insolvency proceedings, as reported (2024-2026) (*LiveLaw*, 22 October 2024, and *The Week*, 23 October 2024; consulted 2026-10-14). Both date the National Company Law Tribunal's admission of the cricket board's insolvency petition, over dues of about Rs 158.9 crore (Rs 1.59 billion, about $19 million at the 2024 average rate of Rs 83.67, Reserve Bank of India, *Handbook of Statistics on Indian Economy*), to 16 June 2024. An appellate tribunal later closed the proceedings after a settlement, and on 23 October 2024 the Supreme Court set that order aside. The tribunals' orders are cited here from these reports.
-
-[75] Reserve Bank of India, *Handbook of Statistics on Indian Economy* (RBI, Handbook of Statistics on Indian Economy, 2021 ed., Table 63). Accounts differ on whether UPI was launched in April or August 2016 (NPCI, UPI product statistics).
-
-[76] Reserve Bank of India, *Handbook of Statistics on Indian Economy* (RBI, Handbook of Statistics on Indian Economy, 2026 ed., Table 58); dollar conversion at the 2023-24 average rate, Rs 82.79, Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
-
-[77] All India Radio News, 'UPI Transactions Surge to Record' (2025) (All India Radio, 2 January 2025, reporting NPCI data; consulted 2026-10-14).
-
-[78] Tally Solutions, 'About Us' (company claim); Freshworks, Form S-1 (2021), prospectus summary.
-
-[79] India Stack (iSPIRT), home page and FAQ (India Stack home page timeline; iSPIRT's self-description; consulted 2026-10-16): '2016 NPCI launches Unified Payments Interface'. It credits eKYC to UIDAI (2012), eSign to the Controller of Certifying Authorities (2015) and DigiLocker to MeitY (2015).
-
-[80] *Inc42*, '10 years of iSPIRT' (2023) (*Inc42*, 2023).
-
-[81] Venkataramakrishnan, *Scroll.in* (2017) (*Scroll.in*, 23 May 2017), which names Nilekani as a mentor and two members of the UIDAI team, Pramod Varma and Sanjay Jain, among iSPIRT's members.
-
-[82] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[83] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[84] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
-
-[85] Knowledge at Wharton, interview with Rajesh Hukku; Tracxn and Inc42 startup funding data, as reported (2021-2025) (Tracxn via *The Week*; consulted 2026-10-14).
-
-[86] Tally Solutions, 'About Us' (company self-description).
-
-[87] Rajaraman, *History of Computing in India* (2012), p. 55 (Rajaraman; Simputer designed 2000 by IISc and Encore Software, Bangalore; 'not a commercial success').
-
-[88] Knowledge at Wharton, interview with Rajesh Hukku (founder's account; see note 18); Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) and Zoho Corporation, 'About us' (timeline) (Zoho University; see note 57).
-
-[89] Knowledge at Wharton, interview with Rajesh Hukku; Freshworks, prospectus (Form 424B4, 2021), cover page.
-
-[90] Freshworks, Form 10-K FY2024, Item 1A (and Item 1 for the total of about 4,400).
-
-[91] Freshworks, Form 10-K FY2024, Item 7.
-
-[92] Cognizant, Form 10-K FY2024, Item 1 (human capital).
-
-[93] Knowledge at Wharton, interview with Rajesh Hukku.
-
-[94] Freshworks, Form 10-K FY2024, Item 1A.
-
-[95] Freshworks, Form 10-K FY2024, Item 1.
-
-[96] Freshworks, Form 10-K FY2024, Item 1A.
-
-
 # Chapter 18. The pandemic boom (2020-2023)
 
 On 21 September 2022 Rishad Premji, the chairman of Wipro, spoke at the convention of the All India Management Association. 'The reality is that there are people today working for Wipro and working directly for one of our competitors and we have actually discovered 300 people in the last few months who are doing exactly that,' he said.[1] Wipro had dismissed them.[2] The practice he described, working for two employers at once, depended on something that had changed two and a half years earlier, when the industry's engineers left their offices.
@@ -5754,165 +2144,6 @@ The sentence is short, and it is easy to read too much into it. It does not say 
 What the sentence does show is narrower and, for the book's argument, sharper. Clients had read about software that writes code. They had asked their Indian suppliers to commit, in contract, to doing the same work with less effort, and the supplier bore the risk if the gains did not come. Under time-and-materials billing, a productivity gain that the client captures means fewer billable hours. Under a fixed-price contract, it means a lower price for the same result. Either way the first share of the gain goes to the client, and the firm keeps something only if it beats its own promise.
 
 The pandemic years had shown three things about the engineer factory. Its intake was set by clients' discretionary spending, not by the number of graduates: offers at one firm had risen four and a half times in a year and then fallen by nearly nine-tenths in two. Its workers, for a brief period, had the upper hand, and used it by leaving, by moonlighting and, in small numbers, by organising. And its work no longer needed a particular place. By 2024 the clients were asking whether it needed the same number of hours. For forty years the Indian services firms had grown by selling their engineers' time. Now they were being asked, in writing, to promise that the time would shrink.
-
-
-### Notes to Chapter 18. The pandemic boom (2020-2023)
-
-[1] *Business Today*, 'Wipro Fires 300 Employees' (2022).
-
-[2] *Business Today*, 'Wipro Fires 300 Employees' (2022) (dismissals and 'complete violation' as reported by *Business Today*).
-
-[3] Infosys, Form 20-F FY2020, Item 5.
-
-[4] *Business Today*, 'Wipro Fires 300 Employees' (2022); Infosys, Form 20-F FY2020, Item 5.
-
-[5] Infosys, Form 20-F FY2020, Item 5.
-
-[6] Infosys, Form 20-F FY2020, Item 5.
-
-[7] Infosys, Form 20-F FY2020, Item 5.
-
-[8] Infosys, Form 20-F FY2020, Item 5.
-
-[9] Infosys, Form 20-F FY2021, Item 6.
-
-[10] Infosys, Form 20-F FY2020, Item 3.
-
-[11] Infosys, Form 20-F FY2020, Item 3.
-
-[12] Infosys, Form 20-F FY2021, Item 5.
-
-[13] Infosys, Form 20-F FY2021, Item 5.
-
-[14] Infosys, Form 20-F FY2020, Item 3; Infosys, Form 20-F FY2021, Item 3.
-
-[15] Infosys, Form 20-F FY2021, Item 6.
-
-[16] Infosys, Form 20-F FY2021, Item 6; Infosys, Form 20-F FY2022, Item 6.
-
-[17] Infosys, Form 20-F FY2022, Item 6.
-
-[18] Infosys, Form 20-F FY2020, Items 4 and 6; Infosys, Form 20-F FY2021, Items 4 and 6. FY2019-20: 2,141,373 applications and 150,130 interviewed.
-
-[19] Infosys, Form 20-F FY2022, Items 4 and 6 (523,385 applicants interviewed).
-
-[20] Infosys, Form 20-F FY2020, Item 6; Infosys, Form 20-F FY2021, Item 6; Infosys, Form 20-F FY2023, Item 6 (242,371 in March 2020; 259,619 in 2021; 314,015 in 2022; 343,234 in 2023).
-
-[21] Wipro, 20-F FY2023, Item 6 (more than 200,000 employees in March 2021, 240,000 in 2022, 250,000 in 2023).
-
-[22] Cognizant, 10-K FY2021, Item 7; 10-K FY2022, Item 1 (about 289,500 at the end of 2020; 355,300 at the end of 2022, 258,500 of them in India).
-
-[23] Infosys, Form 20-F FY2021, Item 4; Infosys, Form 20-F FY2022, Item 4; Infosys, Form 20-F FY2023, Item 4 (14,805 local hires, 3,650 of them fresh graduates, in FY2021-22; 10,169 and 2,216 in FY2022-23).
-
-[24] Infosys, Form 20-F FY2022, Item 6 (Mexico, Britain, Germany, Australia, Singapore and Japan).
-
-[25] Cognizant, 10-K FY2021, Item 1; 10-K FY2022, Item 1.
-
-[26] Cognizant, 10-K FY2021, Item 1A.
-
-[27] Cognizant, 10-K FY2022, Item 1A.
-
-[28] Cognizant, 10-K FY2021, Item 1.
-
-[29] Cognizant, 10-K FY2021, Item 1A.
-
-[30] Wipro, 20-F FY2022, Item 5.
-
-[31] Infosys, Forms 6-K, Q4 results filings (2020-2024), Form 6-K, Ex. 99.5, transcript of the Q4 FY2020 earnings call, 20 April 2020 (accession 0001067491-20-000029): 'Attrition on a standalone basis was slightly higher at 18.2%; however, voluntary attrition reduced further to 15.1% from 15.6% last quarter'; Ex. 99.5, Q4 FY2021 call, 14 April 2021 (0001067491-21-000030): 'Voluntary attrition for IT services calculated on annualized basis increased to 15.2% as demand for talent increased.' Company statements to investors; transcripts unpaginated.
-
-[32] Infosys, Forms 6-K, Q4 results filings (2020-2024), Ex. 99.5, Q4 FY2022 call, 13 April 2022 (0001067491-22-000020): 'Voluntary LTM attrition increased to 27.7%'; Ex. 99.5, Q4 FY2023 call, 13 April 2023 (0001067491-23-000027): 'LTM voluntary attrition declined to 20.9%'; Ex. 99.4, Fact Sheet Q4 FY2024, 18 April 2024 (0001067491-24-000016), row 'Voluntary Attrition % (LTM - IT Services)': 12.6% (March 2024), 20.9% (March 2023). LTM = last twelve months. The basis changes between FY2021 (quarterly, annualised) and FY2022 (LTM). Earlier fact sheets are filed as images only. The series is in the data appendix.
-
-[33] *HR Katha* reports of TCS results (2020-2024) (*HR Katha*, 17 April 2020, 13 April 2021, 21 April 2023 and 12 April 2024); *The News Minute* and *Communications Today* on TCS results (2020, 2022) (*Communications Today*, 17 April 2020, credited to *Business Standard*, for 12.1 per cent; *The News Minute*, 11 April 2022, for 17.4 per cent 'on a trailing 12-month basis' and 592,195 employees). The figures are as reported in the press accounts of TCS's quarterly results, not taken from the company's own fact sheets (Tata Consultancy Services, fact sheets and annual reports); those for 2021, 2023 and 2024 rest on *HR Katha* alone. The 2022 and 2023 reports give the basis as the last twelve months; the 2020 and 2021 reports do not state it. TCS's measure is not Infosys's voluntary attrition, and the two series should not be compared year by year. The series is in the data appendix.
-
-[34] Cognizant, 10-K FY2021, Item 1; 10-K FY2023, Item 1.
-
-[35] Infosys, Form 20-F FY2024, Item 6.
-
-[36] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (*HR Katha*, 1 June 2022, on the demand for talent after the pandemic).
-
-[37] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (*HR Katha*, 1 June 2022); Choudhary, 'Behind the Growing (and Huge) IT CEO-Fresher Pay Gap', *Analytics India Magazine* (2022) (*Analytics India Magazine*, 16 August 2022). Both report the Moneycontrol study 'IT CEO pay shot up 835% in a decade while freshers' salary grew 45%' (moneycontrol.com, 2022), which is cited here through them. Neither report gives the study's method, such as which firms it covered or whether pay means cost to company. Figures as in fresher_pay.csv.
-
-[38] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (conversion at calendar-year average rates, Rs 53.44 per dollar in 2012 and Rs 78.60 in 2022).
-
-[39] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); OECD, Consumer Price Indices, India (deflated by the India CPI series: Rs 4.77 lakh and Rs 3.89 lakh in 2024 rupees; calculation by the author).
-
-[40] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); Choudhary, 'Behind the Growing (and Huge) IT CEO-Fresher Pay Gap', *Analytics India Magazine* (2022) (the 835 per cent rise as given by both reports; *HR Katha* gives the 2022 median as Rs 31.5 crore).
-
-[41] *Business Today*, 'Wipro Fires 300 Employees' (2022).
-
-[42] *Business Today*, 'Wipro Fires 300 Employees' (2022).
-
-[43] *Business Today*, 'Wipro Fires 300 Employees' (2022).
-
-[44] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
-
-[45] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
-
-[46] Cognizant, 10-K FY2022, Item 1A.
-
-[47] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
-
-[48] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
-
-[49] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
-
-[50] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
-
-[51] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
-
-[52] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
-
-[53] Infosys, Form 20-F FY2022, Item 6; Infosys, Form 20-F FY2023, Item 6; Infosys, Form 20-F FY2024, Items 4 and 6.
-
-[54] Infosys, Form 20-F FY2024, Item 6.
-
-[55] Wipro, 20-F FY2024, Item 6.
-
-[56] Cognizant, 10-K FY2023, Item 1.
-
-[57] Cognizant, 10-K FY2023, Item 7.
-
-[58] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
-
-[59] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024). The note adds that some provisions of the shops and establishments law, on holidays and hours of work, had also been relaxed for IT companies in Karnataka and in some other states.
-
-[60] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
-
-[61] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
-
-[62] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
-
-[63] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
-
-[64] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
-
-[65] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017); Hanna, *Exploiting Information Technology for Development* (1994), p. 105 (Nasscom's full name).
-
-[66] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
-
-[67] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
-
-[68] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
-
-[69] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024); Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017) (IT Employees Centre; 'India's Silicon Valley').
-
-[70] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (*The News Minute*, 6 September 2024: more than 2,000 graduates selected in Infosys's 2022-23 campus drive; NITES 'a Pune-based IT union').
-
-[71] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (complaints filed on 20 August 2024); Ganeshan, '"Thrown on the Road"' (2025) (offer letters on 2 and 3 September 2024, according to NITES). *The News Minute* put the number still waiting for joining dates at about 700 in early September (*The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024)), and *Deccan Herald* at about 500 by early October (Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024)).
-
-[72] Press reports on the NITES complaint against Infosys (2024-2025) (*Deccan Herald*, February 2025: Infosys's 'over 300', NITES's 700; assessments as described by the company); Ganeshan, '"Thrown on the Road"' (2025) (recruited in 2022, onboarded at Mysuru in October 2024). *The News Minute*'s report (Ganeshan, '"Thrown on the Road"' (2025)) gives its own estimate of 400; the prologue sets out all three figures.
-
-[73] Cognizant, 10-K FY2023, Item 1A.
-
-[74] Cognizant, 10-K FY2023, Items 1A and 7 ($115 million in employee separation costs and $114 million in facility exit and other costs).
-
-[75] Cognizant, 10-K FY2023, Item 1A.
-
-[76] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2020, Item 3; Infosys, Form 20-F FY2021, Item 3; Infosys, Form 20-F FY2022, Item 3; Infosys, Form 20-F FY2023, Item 3 (earlier appearances of the 'committing to higher productivity improvements' sentence).
-
-[77] Infosys, Form 20-F FY2024, Item 3.
-
-[78] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2023, Item 3 (the same risk, there following a passage on clients' Russian operations and the conflict in Eastern Europe).
 
 
 
@@ -6021,215 +2252,6 @@ The courts then stopped the fee without striking down either proclamation. On 8 
 The factory, meanwhile, had not stopped. By TCS's quarterly results as reported, about 14,000 freshers joined in the April-June quarter of 2026 and about 10,000 in July-September, and its headcount had risen for three quarters in a row, to 598,056.[102] Its chief human resources officer put the policy in five words: 'We are hiring for demand'.[103] In the long boom the firms had carried the bench as the cost of always being ready to bill. Now the largest of them was hiring only for the work in hand.
 
 
-### Notes to Chapter 19. The machines learn to code (2022-2026)
-
-[1] Infosys, Form 20-F FY2024, Item 3.D.
-
-[2] Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
-
-[3] Infosys, Form 20-F FY2026, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
-
-[4] Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15; Infosys, Form 20-F FY2026, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
-
-[5] Infosys, Form 20-F FY2026, Item 5, HTML p. 61; post-cutoff material, checked in October 2026.
-
-[6] Wipro, Form 20-F, FY2026, p. 11; post-cutoff material, checked in October 2026.
-
-[7] Wipro, Form 20-F, FY2026, p. 33; post-cutoff material, checked in October 2026.
-
-[8] Cognizant, Form 10-K 2025, p. 29; post-cutoff material, checked in October 2026.
-
-[9] Infosys, Form 20-F FY2025, Item 4, HTML p. 47; post-cutoff material, checked in October 2026.
-
-[10] Infosys, Form 20-F FY2026, Item 4, HTML p. 48; post-cutoff material, checked in October 2026.
-
-[11] Infosys, Form 20-F FY2026, Item 4, HTML p. 48; post-cutoff material, checked in October 2026.
-
-[12] Wipro, Form 20-F, FY2025, p. 33; post-cutoff material, checked in October 2026.
-
-[13] Wipro, Form 20-F, FY2026, p. 36; post-cutoff material, checked in October 2026.
-
-[14] Wipro, Form 20-F, FY2026, p. 73; post-cutoff material, checked in October 2026.
-
-[15] Cognizant, Form 10-K 2025, p. 10; post-cutoff material, checked in October 2026.
-
-[16] Cognizant, Form 10-K 2025, p. 10; post-cutoff material, checked in October 2026.
-
-[17] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
-
-[18] Infosys, Form 20-F FY2025, HTML p. 52 (Infosys: 'Over 2,75,000 of our people are trained on AI at different levels of proficiency', in Indian digit grouping); Cognizant, Form 10-K 2025, p. 10 (Cognizant: 'upskilled more than 330,000 associates on GenAI' between July 2023 and the end of 2025); Infosys, Form 20-F FY2026, HTML p. 118 (Infosys, 2026: 84 per cent of its workforce 'now AI-aware'); Press reports on TCS job cuts (2025) (Outlook Business, 30 July 2025, relaying TCS: more than 550,000 employees trained in basic AI and more than 100,000 in advanced skills); post-cutoff material, checked in October 2026.
-
-[19] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[20] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[21] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[22] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (paraphrase); post-cutoff material, checked in October 2026.
-
-[23] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024) (the 2024 projection for 2030, set out in Chapter 15); Agarwal, 'The Big Boom' (2026); post-cutoff material, checked in October 2026.
-
-[24] Infosys, Form 20-F FY2024, Item 6.D; Infosys, Form 20-F FY2025, Item 6.D; Infosys, Form 20-F FY2026, Item 6.D (offers and applications for the years to March 2024, 2025 and 2026); post-cutoff material, checked in October 2026. Applications per offer are the book's calculation.
-
-[25] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[26] *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026); post-cutoff material, checked in October 2026.
-
-[27] *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026); post-cutoff material, checked in October 2026.
-
-[28] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[29] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[30] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[31] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[32] Infosys, Form 20-F FY2024, Item 4.
-
-[33] Press reports on delayed onboarding of graduates (2022); Infosys, Form 20-F FY2024, Item 6.D.
-
-[34] Infosys, Form 20-F FY2024, Item 3.D and Item 4; Infosys, Form 20-F FY2023, Item 3.D; Infosys, Form 20-F FY2022, Item 3.D.
-
-[35] Infosys, Form 20-F FY2025, Item 4, HTML p. 47; Wipro, Form 20-F, FY2025, p. 33; post-cutoff material, checked in October 2026.
-
-[36] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[37] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
-
-[38] Sharma, '"Everyone Is So Panicked"' (2025) (the article does not give the source of the figure); post-cutoff material, checked in October 2026.
-
-[39] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
-
-[40] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
-
-[41] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
-
-[42] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026. EY's finding is cited as *Rest of World* reported it.
-
-[43] Hinduja, 'India's IT Freshers Grapple with Stagnant Pay' (2025); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); post-cutoff material, checked in October 2026.
-
-[44] Hinduja, 'India's IT Freshers Grapple with Stagnant Pay' (2025); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); post-cutoff material, checked in October 2026.
-
-[45] Infosys, Form 20-F FY2024, Item 6.D; Infosys, Form 20-F FY2025, Item 6.D; Infosys, Form 20-F FY2026, Item 6.D; post-cutoff material, checked in October 2026.
-
-[46] Wipro, Form 20-F, FY2026, p. 73; post-cutoff material, checked in October 2026. The FY2026 report restates the March 2024 figure; Wipro's FY2024 report (Wipro) gave 'more than 234,000' for that date, the figure used in Chapter 18.
-
-[47] Cognizant, Form 10-K 2025, p. 11 (2024 and 2025); Cognizant (10-K for 2023), p. 10 (2022); post-cutoff material, checked in October 2026.
-
-[48] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (net additions, direct employees, revenue and growth for the year to March 2026; Nambiar's 'non-linearity' between job growth of 2.3 per cent and revenue growth of 6.1 per cent, as paraphrased by the Press Trust of India); post-cutoff material, checked in October 2026.
-
-[49] Nasscom, Strategic Review 2025 press release (2025); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026. Nasscom had estimated in February 2025 that the industry added 126,000 people in the year to March 2025, taking its workforce to 5.8 million (Nasscom, Strategic Review 2025 press release (2025)). A year later its estimate of revenue for that year was raised from $282.6 billion to $297 billion; the report of the revision does not give the reason (PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026)).
-
-[50] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (the companies' reported figures as compiled by *Business Standard*; Tech Mahindra's headcount also fell, by 1,108); post-cutoff material, checked in October 2026. TCS's own quarterly fact sheets were not available from the company's website when checked.
-
-[51] Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025) (*Business Standard*, 27 July 2025), quoting TCS's statement; live-checked 2026-10-15; post-cutoff material. *Deccan Herald* (29 July 2025, also Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025)) printed the same statement with small differences: it adds 'Towards this, a number of reskilling and redeployment initiatives have been underway', reads 'we will also be releasing associates', and has 'infrastructure, and realigning' where *Business Standard* has 'next-gen infrastructure and realigning'. The text here follows *Business Standard*. Reuters paraphrased the same statement as a plan to 'deploy artificial intelligence at scale, and realign its workforce model' (Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025)).
-
-[52] Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025) (*Business Standard*'s figures; *Deccan Herald* gives 12,261); Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025) (Reuters: roughly 12,200 out of more than 613,000); live-checked 2026-10-15; post-cutoff material.
-
-[53] Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025) (*Deccan Herald*, 29 July 2025, paraphrasing the company); live-checked 2026-10-15; post-cutoff material.
-
-[54] Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025); post-cutoff material, checked in October 2026.
-
-[55] Press reports on TCS job cuts (2025); post-cutoff material, checked in October 2026.
-
-[56] Press reports on TCS job cuts (2025); post-cutoff material, checked in October 2026.
-
-[57] Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025); post-cutoff material, checked in October 2026.
-
-[58] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (IIDEA's statement, and its claim that experienced, better-paid staff were targeted); post-cutoff material, checked in October 2026.
-
-[59] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
-
-[60] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
-
-[61] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
-
-[62] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
-
-[63] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
-
-[64] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
-
-[65] Abraham, 'TCS Employees Allege Forced Resignations' (2025); post-cutoff material, checked in October 2026.
-
-[66] Abraham, 'TCS Employees Allege Forced Resignations' (2025); post-cutoff material, checked in October 2026.
-
-[67] Abraham, 'TCS Employees Allege Forced Resignations' (2025); post-cutoff material, checked in October 2026.
-
-[68] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (a single employee's estimate); post-cutoff material, checked in October 2026.
-
-[69] *Business Standard* and *Outlook Business* on the TCS layoffs (October 2025) (*Business Standard*, 1 October 2025: NITES's email to Chief Minister Devendra Fadnavis and TCS's statement in reply); live-checked 2026-10-15; post-cutoff material. *Outlook Business* (2 October 2025, citing NDTV Profit, also *Business Standard* and *Outlook Business* on the TCS layoffs (October 2025)) gives the same first two sentences but ends the third 'as applicable to each individual circumstance', where *Business Standard* has 'as is due to them in each of the individual circumstances'. The statement answered NITES's claims about Pune; no TCS statement addressed specifically to KITU or to the Bengaluru conciliation has been located.
-
-[70] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (KITU's claims: the dispute filed on 29 July, the charge of illegal mass retrenchment, and the argument that resignations were sought to avoid the approval the Industrial Disputes Act requires of a firm with more than 100 employees); post-cutoff material, checked in October 2026.
-
-[71] *Deccan Herald* on the unions' TCS complaint (2025) (*Deccan Herald*, 31 July 2025: 'Three days ago, a union submitted a letter. Our department is looking into it'; 'There are conditions. We cannot act in a hurry.'); live-checked 2026-10-15; post-cutoff material.
-
-[72] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (*The News Minute*, 7 August 2025: the meeting of 6 August, the participants and the adjournment to 8 September; TCS was represented by a general manager and an assistant manager in human resources, and KITU also by its secretary, Sooraj Nidiyanga); post-cutoff material, checked in October 2026. No report of the outcome of the conciliation, no failure-of-conciliation report, no reference to a labour court and no finding by the Karnataka Labour Department has been located in the press or in published court records as of 15 October 2026. Summaries of reports in *Deshabhimani* mention later rounds, but the reports themselves could not be retrieved and are not relied on here.
-
-[73] *Deccan Herald* on the unions' TCS complaint (2025) (*Deccan Herald* with PTI, 12 October 2025; the parenthesis is as printed, after an opening ellipsis, and the 6,000 figure its paraphrase of what Kunnumal 'hinted'; the headcount figures are from TCS's fact sheet for the quarter as reported, the paper noting that TCS's stock-exchange filing on the results omitted headcount and attrition); live-checked 2026-10-15; post-cutoff material.
-
-[74] *Deccan Herald* on the unions' TCS complaint (2025) (joint statement of KITU, the Association of IT Employees and the Union of IT and ITES Employees, as reported by *Deccan Herald*, 12 October 2025); live-checked 2026-10-15; post-cutoff material.
-
-[75] AICTE, AI model curricula and 2025 announcements (Careers360, 23 December 2024); the figures for colleges and students are AICTE's own.
-
-[76] AICTE, AI model curricula and 2025 announcements (PTI via Careers360, 6 June 2025). Sitharam also noted that AICTE had introduced a B.Tech degree in AI and data science in 2017. No AICTE circular or revised model curriculum giving effect to the announcement had been located when checked in October 2026.
-
-[77] Sil, 'Sarvam and the Sovereign AI Dream' (2026); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-
-[78] Sil, 'Sarvam and the Sovereign AI Dream' (2026); post-cutoff material, checked in October 2026.
-
-[79] Sil, 'Sarvam and the Sovereign AI Dream' (2026); tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025); post-cutoff material, checked in October 2026.
-
-[80] tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025).
-
-[81] *Business Today*, 'India Selects Sarvam to Build Sovereign AI Model' (2025).
-
-[82] Sil, 'Sarvam and the Sovereign AI Dream' (2026); post-cutoff material, checked in October 2026. The government's own release on what Sarvam was contracted to build has not been located, so the difference between the 120 billion parameters announced in 2025 and the 105 billion released in 2026 is left unexplained.
-
-[83] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (the magazine's assessment, based partly on the company's own evaluations); post-cutoff material, checked in October 2026.
-
-[84] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (as reported); post-cutoff material, checked in October 2026.
-
-[85] GitHub, *Octoverse 2025* (*The Register*'s report of GitHub's *Octoverse* 2025 figures: India to add more than 35.6 million developers by 2030, reaching 57.5 million or more, against 54.7 million projected for the United States; 80 per cent of new users began using Copilot in their first week, which GitHub called 'part of the default developer experience'). These are a company's figures about its own platform; post-cutoff material, checked in October 2026.
-
-[86] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[87] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (company figures); post-cutoff material, checked in October 2026.
-
-[88] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
-
-[89] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
-
-[90] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (paraphrase); post-cutoff material, checked in October 2026.
-
-[91] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026. The Motilal Oswal and Kotak Securities reports are cited as *Forbes India* reported them.
-
-[92] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[93] Proclamation 10973 (2025), p. 46027 (Proclamation 10973, 'Restriction on Entry of Certain Nonimmigrant Workers', signed 19 September 2025). The proclamation also cited a rise in the share of H-1B workers in IT from 32 per cent in the US fiscal year 2003 to more than 65 per cent on average in the previous five years, a '36 percent discount' for H-1B entry-level positions, unemployment rates of 6.1 and 7.5 per cent among recent graduates in computer science and computer engineering (p. 46027), and an unnamed 2017 study of the effect of foreign workers on American computer scientists' wages and employment (p. 46028); post-cutoff material, checked in October 2026.
-
-[94] Proclamation 10973 (2025), p. 46028 (from 12:01 a.m. Eastern Daylight Time on 21 September 2025, for twelve months, and for entries after that date only); p. 46029 (new rules on wages ordered); post-cutoff material, checked in October 2026.
-
-[95] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 6 (4,573 approvals; 70 per cent fewer than in 2015 and 37 per cent fewer than in 2024); p. 5 (TCS: 846 approvals in 2025, against 1,452 in 2024); post-cutoff material, checked in October 2026.
-
-[96] Proclamation 11069 (2026), pp. 60497-60498 (Proclamation 11069, 18 September 2026: restriction extended to 21 September 2027; the $100,000 payment made for 'over 700 petitions'; a new rule weighting the H-1B lottery towards higher-paid workers for the 2027 season; the 92 per cent figure on p. 60498, where the firms are not named and the years compared are not stated in that sentence; the next sentence compares the 2025 and 2027 application seasons on a different measure); post-cutoff material, checked in October 2026.
-
-[97] *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 1 (*State of California v. Mullin*, Civ. No. 25-13829-LTS, D. Mass., Memorandum and Order, Doc. 106, 8 June 2026: twenty states sued federal departments and officials 'for their role in implementing the Proclamation'); p. 26 (tax; separation of powers, Count IV); pp. 32, 33, 36 (Administrative Procedure Act: no notice and comment, excess of statutory authority, arbitrary and capricious); p. 42 ('The Policy implementing the Proclamation is declared unlawful and is VACATED in its entirety'); *California v. Mullin*, D. Mass., Judgment (8 June 2026), pp. 1-2 (Judgment, Doc. 107: ten agency documents, among them memoranda of 20 September 2025, question-and-answer pages, a fee schedule and the payment website, vacated 'insofar as they impose a $100,000 payment obligation on H-1B petitions'); checked against the court record on 15 October 2026; post-cutoff material. Proclamation 10973 itself was not vacated; an early summary by the law firm Clark Hill (Law-firm summaries of the H-1B fee litigation (2026), 9 June 2026) which said that it was is mistaken on that point.
-
-[98] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 2 (*Global Nurse Force v. Trump*, No. 25-cv-08454-HSG, N.D. Cal., Order, Dkt. 130, 30 September 2026, citing *California v. Mullin*, 183 F.4th 42, 46-52 (1st Cir. 2026), stay pending appeal denied); checked against the court record on 15 October 2026; post-cutoff material.
-
-[99] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 2 (citing *Chamber of Commerce v. DHS*, 815 F. Supp. 3d 73, 79 (D.D.C. 2025), 'currently on appeal' in the D.C. Circuit); checked against the court record on 15 October 2026; post-cutoff material.
-
-[100] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 33-34 (the judge's opening words, that the case was 'not about whether the challenged Proclamation is good or bad'; the Agency Policies vacated and remanded; enforcement of policies under Proclamations 10973 and 11069 barred 'until notice-and-comment rulemaking under the APA and regulatory flexibility analyses' are carried out; after the Massachusetts ruling 'the $100,000 fee is no longer in effect'); merits at pp. 26-30; Ninth Circuit appeal no. 26-6667 (Dkt. 138, 9 October 2026); checked against the court record on 15 October 2026; post-cutoff material.
-
-[101] Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026: the proposed rule); post-cutoff material, checked in October 2026.
-
-[102] Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026); Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026); post-cutoff material, checked in October 2026.
-
-[103] Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026); post-cutoff material, checked in October 2026.
-
-
 # Epilogue. India in 2035
 
 Rishabh Mishra's course at the Indian Institute of Information Technology, Design and Manufacturing in Jabalpur was due to end in May 2026. He had joined in 2022 to study computer science, write code and, in the words of the *Rest of World* reporter who told his story, 'one day make it to Silicon Valley'. By December 2025, according to the article, fewer than a quarter of his 400 classmates had job offers. 'It is really bad out there,' he said.[1] Earlier that year, at the other end of the same pipeline, the trainee whom the prologue called Gayatri had been let go from Infosys's training campus in Mysuru, four months after a joining date she had waited nearly two years for. 'They wasted two and a half years of my career,' she said.[2] Between them they stand at the two ends of the book's present: a graduate who cannot get in, and a recruit who got in and was sent home.
@@ -6293,135 +2315,6 @@ Several of these signposts are numbers that India does not collect well. AICTE's
 The book began with a joining date that kept moving. For Gayatri the date came after nearly two years, and the job lasted four months. She told the reporter it had been her dream job.[62] For Rishabh Mishra and his classmates in Jabalpur, the reporting ends before any date. Some of them were thinking of further study instead. Mishra was doubtful: 'after one year, if you return to the job market, your degree is even more irrelevant'.[63]
 
 His sentence is about education as much as about jobs. For half a century the engineering degree in India was a ticket to a particular kind of work: billable hours, learned first on a company training campus and then sold to a client by the month. The colleges, the entrance examinations, the coaching towns and the company campuses were built around that ticket. If the book's judgement is right, the ticket will still buy work in 2035, but less often at the bottom, more often from a client's own centre, and on terms set by whoever keeps the hour the machine saves. The engineer factory was built on purpose, by the state and the companies and millions of families, in answer to the questions of its time. The question for the next ten years is what a joining date means when the factory's product is no longer hours.
-
-
-### Notes to Epilogue. India in 2035
-
-[1] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
-
-[2] Ganeshan, '"Thrown on the Road"' (2025).
-
-[3] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF pp. 1, 5; post-cutoff material, checked in October 2026.
-
-[4] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF p. 6; post-cutoff material, checked in October 2026.
-
-[5] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF p. 11, printed p. 12; post-cutoff material, checked in October 2026.
-
-[6] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF p. 7; post-cutoff material, checked in October 2026.
-
-[7] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 14. The report's only mention of 2035 is a proposed vision statement for its talent mission: 'To position India as the global epicentre of AI talent by 2035'. That is a goal, not an estimate; no forecast of Indian software employment for 2035 has been located. The report is also inconsistent about its upside: 'by 2030, we can add 2 million more new jobs' on one page (PDF p. 11), up to 4 million by 2031 in the foreword of Debjani Ghosh, a NITI Distinguished Fellow (PDF p. 5); post-cutoff material, checked in October 2026.
-
-[8] Rajaraman, *History of Computing in India* (2012), pp. 18, 28.
-
-[9] Rajaraman, *History of Computing in India* (2012), p. 32.
-
-[10] Singh, *Budget 1991-92* speech (1991), p. 20.
-
-[11] Rajaraman, *History of Computing in India* (2012), p. 40 (Rajaraman's account of the years 1978-84, in which he was a participant).
-
-[12] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
-
-[13] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
-
-[14] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 1.
-
-[15] Avanti Fellows, 'Technical Seats' (2026); post-cutoff material, checked in October 2026.
-
-[16] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
-
-[17] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
-
-[18] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 14-15.
-
-[19] Infosys, Form 20-F FY2008, Item 3.D.
-
-[20] Infosys, Form 20-F FY2024, Item 3.D (filed June 2024); Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15 (filed 1 July 2025); Infosys, Form 20-F FY2026, Item 3.D, HTML p. 15 (filed 15 June 2026); post-cutoff material, checked in October 2026.
-
-[21] Infosys, Form 20-F FY2026, Item 5, HTML p. 61; Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[22] Wipro, Form 20-F, FY2026, p. 33 (Wipro); Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026) (Sudeep Kunnumal, *Business Standard*, 8 October 2026); post-cutoff material, checked in October 2026.
-
-[23] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (Nasscom's estimates for the year to March 2026: revenue $315 billion, up 6.1 per cent; 5.95 million direct employees, jobs up 2.3 per cent); post-cutoff material, checked in October 2026.
-
-[24] Infosys, Form F-1 (1999), pp. 32, 44 (1999); Infosys, Form 20-F FY2002, p. 6 (2002).
-
-[25] Freshworks, Form 10-K FY2024, Item 1 (Freddy AI Agent); Item 1 also gives about 83 per cent of employees in India at the end of 2024.
-
-[26] Infosys, Form 20-F FY2025, Item 3.D; Infosys, Form 20-F FY2026, Item 3.D (productivity commitments); Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (C. Vijayakumar's rough estimate that a $100 million deal 'would be much less today'; the Motilal Oswal Financial Services report of 4 May 2026, as reported by *Forbes India*); post-cutoff material, checked in October 2026.
-
-[27] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (company figures for AI revenue, as reported by *Forbes India*; Krithivasan on TCS's earnings call); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (Nasscom's AI revenue estimate); post-cutoff material, checked in October 2026.
-
-[28] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (Gaurav Vasu of UnearthInsight, in *Business Standard*); post-cutoff material, checked in October 2026.
-
-[29] Infosys, Form 20-F FY2024, Item 4 ('a code assistant' for 'tasks like coding, testing, and documentation').
-
-[30] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 8; post-cutoff material, checked in October 2026.
-
-[31] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 7 (a junior QA engineer in Pune named Rekha and a first-line support agent in Chennai named Aman; the report gives no surnames and no sign that they are real people); post-cutoff material, checked in October 2026.
-
-[32] Hinduja, 'India's IT Freshers Grapple with Stagnant Pay' (2025) (Neeti Sharma of TeamLease Digital: Rs 2-2.5 lakh a year in 2014, Rs 3-3.5 lakh in 2025); Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (Krithivasan, in *Business Standard*'s paraphrase); post-cutoff material, checked in October 2026.
-
-[33] Infosys, Form 20-F FY2022, Item 6 (222,500 offers, year to March 2022); Infosys, Form 20-F FY2026, Item 6.D (87,286, year to March 2026); post-cutoff material, checked in October 2026.
-
-[34] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
-
-[35] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 7, 14.
-
-[36] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
-
-[37] Rajaraman, *History of Computing in India* (2012), p. 38.
-
-[38] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (HCLTech's Vijayakumar; TCS revenue down 0.5 per cent and Wipro's 0.32 per cent in US dollars in the year to March 2026; Kotak Securities, as reported by *Forbes India*); post-cutoff material, checked in October 2026.
-
-[39] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024); Agarwal, 'The Big Boom' (2026) (reporting the Zinnov-Nasscom FY26 report); post-cutoff material, checked in October 2026.
-
-[40] Avanti Fellows, 'Technical Seats' (2026) (Avanti Fellows' analysis of AICTE data: 17.05 lakh approved seats in 2014-15, 12.53 lakh in 2021-22, a vacancy rate of 34.1 per cent); post-cutoff material, checked in October 2026.
-
-[41] Infosys, Form 20-F FY2024; Infosys, Form 20-F FY2025, Item 6.D; Infosys, Form 20-F FY2026, Item 6.D; Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026); Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
-
-[42] Press reports on the NITES complaint against Infosys (2024-2025); Ganeshan, '"Thrown on the Road"' (2025); Infosys, Form 20-F FY2024, Item 3.D.
-
-[43] Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025); post-cutoff material, checked in October 2026.
-
-[44] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 13; post-cutoff material, checked in October 2026.
-
-[45] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 13; Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (Vijayakumar); post-cutoff material, checked in October 2026.
-
-[46] AICTE, AI model curricula and 2025 announcements.
-
-[47] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
-
-[48] Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
-
-[49] Government of Karnataka, *Karnataka GCC Policy 2024-2029*, section 3.3 'Targets' (policy text, copy hosted at ssfglobal.in, consulted 2026-10-14).
-
-[50] Nasscom, Strategic Review 2025 press release (2025) (note to editors); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
-
-[51] Union Budget 2025-26 speech (2025) (budget speech, para. 91).
-
-[52] Proclamation 10973 (2025), p. 46027; Proclamation 11069 (2026), p. 60498; *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 42; *California v. Mullin*, D. Mass., Judgment (8 June 2026); *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 34; checked against the court record on 15 October 2026; post-cutoff material.
-
-[53] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 5 (Table 1); post-cutoff material, checked in October 2026.
-
-[54] Sil, 'Sarvam and the Sovereign AI Dream' (2026); *Business Today*, 'India Selects Sarvam to Build Sovereign AI Model' (2025); tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025); post-cutoff material, checked in October 2026.
-
-[55] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
-
-[56] Sil, 'Sarvam and the Sovereign AI Dream' (2026); post-cutoff material, checked in October 2026.
-
-[57] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed pp. 9-10; post-cutoff material, checked in October 2026.
-
-[58] GitHub, *Octoverse 2025*; post-cutoff material, checked in October 2026.
-
-[59] Avanti Fellows, 'Technical Seats' (2026); post-cutoff material, checked in October 2026.
-
-[60] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024); Agarwal, 'The Big Boom' (2026); post-cutoff material, checked in October 2026.
-
-[61] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 13; Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
-
-[62] Ganeshan, '"Thrown on the Road"' (2025).
-
-[63] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
 
 
 
@@ -7347,6 +3240,4116 @@ Full file: `book/research/data/h1b_country.csv`.
 | Top seven Indian-based companies (NFAP grouping) | | | 4,573 (70% below FY2015) |
 
 Full file: `book/research/data/h1b_employer.csv`.
+
+
+# Notes
+
+## Prologue. The joining date (2026)
+
+[1] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter). The report is Balakrishna Ganeshan's for *The News Minute*, republished by *Newslaundry*. Gayatri is the reporter's pseudonym, not her real name, and everything known about her comes from this one report.
+
+[2] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[3] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[4] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[5] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[6] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[7] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter). A *Deccan Herald* headline gave the deadline as 6 pm: Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated).
+
+[8] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[9] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[10] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[11] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[12] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[13] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[14] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[15] Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (online, unpaginated).
+
+[16] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[17] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[18] Press reports on delayed onboarding of graduates (2022) (Business Today, 5 October 2022, online, unpaginated).
+
+[19] Press reports on delayed onboarding of graduates (2022) (Business Today, 5 October 2022, online, unpaginated; the graduates in this reporting are anonymous).
+
+[20] Press reports on the NITES complaint against Infosys (2024-2025) (HR Katha, 13 June 2024, online, unpaginated; union's figure); *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) and Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (online, unpaginated; NITES as 'Pune-based').
+
+[21] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (online, unpaginated).
+
+[22] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[23] Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024) (online, unpaginated).
+
+[24] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter), which gives the joining date as 7 October; a trainee quoted by *Republic Business* gave 21 October, and there may have been two batches: Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
+
+[25] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
+
+[26] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter); Tripathi, 'Why Infosys "Forcibly" Laid Off a Batch of Recruits' (2025) (*Outlook Business*, online, unpaginated; reports the same changes, with 200 hours of material).
+
+[27] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[28] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter). The report gives the count in its own voice, apparently drawn from the trainees, for the batch that joined on 7 October.
+
+[29] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter); Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated).
+
+[30] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated); *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; relaying Moneycontrol).
+
+[31] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated); *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; relaying Moneycontrol).
+
+[32] Tripathi, 'Why Infosys "Forcibly" Laid Off a Batch of Recruits' (2025) (online, unpaginated; *Outlook Business* cites Moneycontrol for the termination rates).
+
+[33] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[34] Tripathi, 'Why Infosys "Forcibly" Laid Off a Batch of Recruits' (2025) (online, unpaginated); Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated); Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; pseudonyms as given by the reporter).
+
+[35] *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; *Business Today* relaying Moneycontrol's count). *Republic Business* put the 18 April figure at 370: Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
+
+[36] Press reports on the NITES complaint against Infosys (2024-2025) (Deccan Herald, 14 February 2025, online, unpaginated).
+
+[37] *Business Today*, 'Infosys Layoffs: 195 More Trainees Fired' (2025) (online, unpaginated; relaying Moneycontrol). No written order of the Karnataka department has been located.
+
+[38] Rajput, 'Hired, Trained, Terminated' (2025) (online, unpaginated).
+
+[39] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (PTI wire report of Nasscom's figures, online, unpaginated; post-cutoff material, checked in October 2026.); Rajaraman, *History of Computing in India* (2012), p. 75 (Nasscom's full name, in the chronology).
+
+[40] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (PTI wire report of Nasscom's figures, online, unpaginated; post-cutoff material, checked in October 2026.).
+
+[41] *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.). Krithivasan told the Press Trust of India: 'We have made 25,000 offers for freshers in FY27. Clarity on demand will lead to more hiring.' *Business Standard* framed the 25,000 as the year's target against a usual figure of about 40,000: Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.). *Business Today* reported it as the offers made so far, with more to depend on demand, which is closer to his words: *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026). Freshers joined: about 14,000 in the first quarter of the year and 10,000 in the second: Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.); Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026) (online, unpaginated; post-cutoff material, checked in October 2026.; the paper's 'June 30, 2026' headcount date is an error, see Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026)).
+
+[42] Ganeshan, '"Thrown on the Road"' (2025) (online article, unpaginated; 'The 2022 lull'); Press reports on delayed onboarding of graduates (2022) (Business Today, 5 October 2022, online, unpaginated).
+
+[43] Infosys, Form 20-F FY2024 (Infosys Form 20-F for fiscal 2024, Item 3.D risk factors, filed 24 June 2024); Infosys, Form 20-F FY2022 and Infosys, Form 20-F FY2023 (Forms 20-F for fiscal 2022 and 2023: AI and generative AI mentioned, AI code generation not mentioned; full texts searched 2026-10-14).
+
+[44] Rajaraman, *History of Computing in India* (2012), p. 7.
+
+
+## Chapter 1. The statistician's machines (1931-1966)
+
+[1] Narasimhan, 'On the System and Engineering Design' (1960), p. 48 (tubes and power; the machine also held 1,700 germanium diodes and about 12,500 resistors); Narasimhan, 'On the System and Engineering Design' (1960), p. 47 (work since 1955; no suitably air-conditioned room).
+
+[2] Narasimhan, 'On the System and Engineering Design' (1960), p. 47.
+
+[3] Narasimhan, 'On the System and Engineering Design' (1960), p. 47; Narasimhan, 'Men, Machines and Ideas' (1999), p. 448 agrees on February 1960; TIFR Archives, 'India's First Digital Computer' likewise.
+
+[4] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
+
+[5] Narasimhan, 'Men, Machines and Ideas' (1999), p. 447.
+
+[6] *Scientific Policy Resolution* (1958), Resolution No. 131/CF/57, 4 March 1958, para. 5 and list of aims (text at nstmis-dst.org/SPResolution.aspx, consulted 2026-10-13); also quoted in Rajaraman, *History of Computing in India* (2012), p. 15.
+
+[7] Rajaraman, *History of Computing in India* (2012), p. 18.
+
+[8] Rajaraman, *History of Computing in India* (2012), p. 15; Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
+
+[9] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
+
+[10] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022), quoting the first general report of the National Sample Survey (1953).
+
+[11] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
+
+[12] Menon, '"Fancy Calculating Machine"' (2018), abstract; Rajaraman, *History of Computing in India* (2012), p. 13.
+
+[13] Menon, 'Chasing the Machine' (2018); Menon, '"Fancy Calculating Machine"' (2018) (SIGCIS Mahoney Prize citation, 2019).
+
+[14] Menon, 'Chasing the Machine' (2018).
+
+[15] Menon, 'Chasing the Machine' (2018); Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) calls it 'India's first electrical analogue computing machine'.
+
+[16] Menon, 'Chasing the Machine' (2018).
+
+[17] Menon, 'Chasing the Machine' (2018).
+
+[18] Menon, 'Chasing the Machine' (2018), which quotes the 1953 dispatch.
+
+[19] Menon, 'Chasing the Machine' (2018), which quotes Mahalanobis's words; Menon's original source not identified, so paraphrased here.
+
+[20] Menon, '"Fancy Calculating Machine"' (2018), nn. 46-69 (letters to Pant of 12 April, 23 and 27 June, and 7 and 17 July 1954, sent from Geneva, London, Prague and Moscow; Pitambar Pant Papers, Nehru Memorial Museum and Library).
+
+[21] Menon, 'Chasing the Machine' (2018).
+
+[22] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022).
+
+[23] Rajaraman, *History of Computing in India* (2012), p. 15, drawing on the memoir of Mohi Mukherjee, one of the engineers involved (Mukherjee, 'The First Computer in India').
+
+[24] Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022), quoting Rajaraman in Gopalakrishnan, Dayasindhu and Narayanan, *Against All Odds* (2022).
+
+[25] Rajaraman, *History of Computing in India* (2012), p. 15.
+
+[26] Menon, 'Chasing the Machine' (2018).
+
+[27] Rajaraman, *History of Computing in India* (2012), pp. 15-16, following Mukherjee's memoir, gives July 1955 and has the machine working in August 1955. Menon, working from archival sources, writes that it arrived in two crates in early 1956 (Menon, 'Chasing the Machine' (2018)).
+
+[28] Rajaraman, *History of Computing in India* (2012), p. 16.
+
+[29] Rajaraman, *History of Computing in India* (2012), p. 16.
+
+[30] Menon, 'Chasing the Machine' (2018); Rajaraman, *History of Computing in India* (2012), p. 16.
+
+[31] Rajaraman, *History of Computing in India* (2012), p. 7.
+
+[32] Rajaraman, *History of Computing in India* (2012), p. 16.
+
+[33] Rajaraman, *History of Computing in India* (2012), p. 16; Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) names the United Nations Technical Assistance Administration.
+
+[34] Rajaraman, *History of Computing in India* (2012), p. 16 (Russian engineers); Menon, 'Chasing the Machine' (2018) and Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) for the number eight.
+
+[35] Rajaraman, *History of Computing in India* (2012), p. 16.
+
+[36] Menon, 'Chasing the Machine' (2018), quoting the *Times of India*; date and page of the original not identified.
+
+[37] Rajaraman, *History of Computing in India* (2012), p. 16.
+
+[38] Rajaraman, *History of Computing in India* (2012), p. 16; Menon, '"Fancy Calculating Machine"' (2018), n. 92.
+
+[39] Menon, 'Chasing the Machine' (2018).
+
+[40] Menon, 'Chasing the Machine' (2018), which also records his loss of a radio-engineering job in Chicago over his politics and his move to Prague in 1948. Menon describes his disillusionment with communism; Nadler's autobiography, as Menon cites it, names the Soviet suppression of the Hungarian uprising in 1956 as the final straw.
+
+[41] Menon, '"Fancy Calculating Machine"' (2018), n. 27.
+
+[42] Rajaraman, *History of Computing in India* (2012), p. 15.
+
+[43] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
+
+[44] Narasimhan, 'Men, Machines and Ideas' (1999), p. 447.
+
+[45] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
+
+[46] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448.
+
+[47] Narasimhan, 'On the System and Engineering Design' (1960), p. 47 (completed September 1956). Narasimhan's 1999 memoir gives October or November 1956 (Narasimhan, 'Men, Machines and Ideas' (1999), pp. 448-449); the date here follows the paper he wrote in 1960.
+
+[48] Narasimhan, 'On the System and Engineering Design' (1960), p. 47.
+
+[49] Narasimhan, 'On the System and Engineering Design' (1960), p. 47 (stored program; parallel, binary and asynchronous, with single-address instructions; ferrite-core memory of 1,024 words); Narasimhan, 'On the System and Engineering Design' (1960), pp. 47-48 (40-bit words; punched paper tape for input, printed or punched output); Narasimhan, 'On the System and Engineering Design' (1960), p. 48 (apart from two bias supplies, no circuit used a transistor); Narasimhan, 'Men, Machines and Ideas' (1999), p. 449, table (addition in 45 microseconds, multiplication in about 500); TIFR Archives, 'India's First Digital Computer' (memory later doubled to 2,048 words).
+
+[50] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022) (*Against All Odds*), quoting P.V.S. Rao; on Rao's membership of the group, Rajaraman, *History of Computing in India* (2012), p. 17 and ref. 25. Rao's own account was probably first published as Rao, 'TIFRAC, India's First Computer' (2008).
+
+[51] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[52] Narasimhan, 'Men, Machines and Ideas' (1999), p. 448; TIFR Archives, 'India's First Digital Computer'; Rajaraman, *History of Computing in India* (2012), p. 16. TIFR's archive and Rajaraman expand the name as 'TIFR Automatic Calculator'; Narasimhan, writing in 1999, gave it as 'TIFR Automatic Computer' (TIFR Archives, 'India's First Digital Computer'; Rajaraman, *History of Computing in India* (2012), p. 16; Narasimhan, 'Men, Machines and Ideas' (1999), p. 447).
+
+[53] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449; TIFR Archives, 'India's First Digital Computer'.
+
+[54] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[55] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+
+[56] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[57] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[58] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 449-450.
+
+[59] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[60] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+
+[61] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450 (1961-1964); Rajaraman, *History of Computing in India* (2012), p. 17 gives 1961 to 1963.
+
+[62] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+
+[63] Rajaraman, *History of Computing in India* (2012), p. 17.
+
+[64] Rajaraman, *History of Computing in India* (2012), p. 17; Menon, '"Fancy Calculating Machine"' (2018), n. 124.
+
+[65] Rajaraman, *History of Computing in India* (2012), p. 17 ('mid 1964'); Narasimhan, 'Men, Machines and Ideas' (1999), p. 450 (mid-June 1964; National Computation Centre from October 1964; maintained by TIFR staff); Menon, '"Fancy Calculating Machine"' (2018), n. 124 gives May 1964. Control Data assisted with installation and early maintenance; later maintenance was done in-house by TIFR (Rajaraman, *History of Computing in India* (2012), p. 17).
+
+[66] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022).
+
+[67] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 449-450.
+
+[68] Rajaraman, *History of Computing in India* (2012), pp. 16-17. Start: 1960 (Rajaraman, *History of Computing in India* (2012)), 1961 (Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022)), 1962 (Menon, '"Fancy Calculating Machine"' (2018), n. 122). Completion year: Rajaraman, *History of Computing in India* (2012) and Menon, '"Fancy Calculating Machine"' (2018), n. 122 (1966); Gopalakrishnan, Dayasindhu and Narayanan, 'How Eastern India Saw the First Computers' (2022) gives 1965-66.
+
+[69] Menon, 'Chasing the Machine' (2018).
+
+[70] Rajaraman, *History of Computing in India* (2012), p. 3 (Bhabha Committee, 1963); p. 21 (after the 1962 border war with China). Chapter 3 tells the committee's story.
+
+[71] Menon, 'Chasing the Machine' (2018) for Rs 23 lakh; Menon, '"Fancy Calculating Machine"' (2018), n. 129 for $462,000, the opening (*Times of India*, 24 September 1965) and operating terms (open to outside users on a no-profit, no-loss basis, one shift a day until 1968).
+
+[72] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[73] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description); Dizikes, 'The Tech Revolution That Wasn't' (2026) (MIT News, May 2026; also for Banerjee's post, 'associate professor of science, technology, and society', and for his description of the argument as 'very much an external constraint story'); Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026) (Angela Saini, *Los Angeles Review of Books*, 5 August 2026; the 'nearly absolute' phrase is quoted there from the book, no page given); Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026) (Tracie Farrell, *International Journal of Asian Studies*); Menon, 'India's Pursuit of Tech Self-Reliance' (2026) (Nikhil Menon, *Issues in Science and Technology* 42, no. 4, Summer 2026, pp. 98-100). The book's argument is given here as these accounts summarise it. Among the constraints they name are limits on the flow of American designs, a foreign-exchange crisis in 1958 that made larger memories unaffordable, and rescue loans led by the World Bank that were conditional on opening markets to Western capital. Post-cutoff material: Banerjee, *Computing in the Age of Decolonization* (2026) and Dizikes, 'The Tech Revolution That Wasn't' (2026) live-checked 2026-10-13, the reviews 2026-10-15.
+
+[74] Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), pp. 2-3 (the 'peers' phrase is cited there to p. 153 of the book). Reviewer's report only; post-cutoff material, checked in October 2026.
+
+
+## Chapter 2. Kanpur, 1963 (1946-1978)
+
+[1] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783 and p. 792 n. 15; Fay, 'Report from Kanpur' (1966), p. 11. Bassett (Bassett, 'Aligning India in the Cold War Era' (2009), p. 783) gives a DC-7. Harry Huskey, who was waiting for the machine, remembered the aircraft as a chartered DC-8, and recalled that it reached Delhi without a manifest, so that a customs officer sent it on to the military airfield at Kanpur (Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 41: Oral History of Harry Huskey, interviewed by William Aspray, 7 February 2006). The two accounts cannot be reconciled on the aircraft.
+
+[2] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
+
+[3] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
+
+[4] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+
+[5] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42.
+
+[6] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42 (60-cycle and 50-cycle power, telegrams, converter from Germany, 'in about three weeks we had the machine up and running').
+
+[7] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
+
+[8] Rajaraman, *History of Computing in India* (2012), p. 17; Bassett, 'Aligning India in the Cold War Era' (2009), pp. 783, 792, and p. 794 n. 23 (definition of a compiler). Rajaraman dates the installation to August 1963. The crate arrived in July (Bassett, 'Aligning India in the Cold War Era' (2009), p. 783), and Huskey recalled the machine running 'in about three weeks' (Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42): the two dates describe two moments, the arrival and the first running.
+
+[9] Bassett, 'Aligning India in the Cold War Era' (2009), p. 783.
+
+[10] Computer History Museum, 'Oral History of Harry Huskey' (2006), p. 42.
+
+[11] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
+
+[12] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
+
+[13] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787; *Interim Report of the Sarker Committee* (1946).
+
+[14] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
+
+[15] Bassett, 'Aligning India in the Cold War Era' (2009), p. 787.
+
+[16] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797. Bassett calls the Madras curriculum in some ways the antithesis of Kanpur's; the analogue machine had been built by Bell Labs.
+
+[17] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796.
+
+[18] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 787, 796-798.
+
+[19] Bassett, 'Aligning India in the Cold War Era' (2009), p. 788.
+
+[20] Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
+
+[21] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
+
+[22] Bassett, 'Aligning India in the Cold War Era' (2009), p. 789.
+
+[23] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790 (Bassett calls it an epiphany).
+
+[24] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+
+[25] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+
+[26] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
+
+[27] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+
+[28] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+
+[29] Fay, 'Report from Kanpur' (1966), p. 11.
+
+[30] Bhushan, 'Vignettes of History' (2014), Part I.
+
+[31] Bhushan, 'Vignettes of History' (2014), Part I; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
+
+[32] Bhushan, 'Vignettes of History' (2014), Part II.
+
+[33] Bhushan, 'Vignettes of History' (2014), Part III.
+
+[34] Bhushan, 'Vignettes of History' (2014), Parts I and III. No record has been located of when the first woman was admitted to Kanpur, or to its computing courses.
+
+[35] Fay, 'Report from Kanpur' (1966), p. 13.
+
+[36] Fay, 'Report from Kanpur' (1966), p. 11.
+
+[37] Fay, 'Report from Kanpur' (1966), p. 15.
+
+[38] Bhushan, 'Vignettes of History' (2014), Part I.
+
+[39] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790.
+
+[40] Bassett, 'Aligning India in the Cold War Era' (2009), p. 790 n. 12; Fay, 'Report from Kanpur' (1966), p. 11. The nine were MIT, Caltech, the Carnegie Institute of Technology, Case, Princeton, the University of California at Berkeley, Michigan, Ohio State and Purdue.
+
+[41] Fay, 'Report from Kanpur' (1966), p. 11. The agent was Educational Services Incorporated.
+
+[42] Fay, 'Report from Kanpur' (1966), p. 16.
+
+[43] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797.
+
+[44] Fay, 'Report from Kanpur' (1966), pp. 11-12.
+
+[45] Fay, 'Report from Kanpur' (1966), p. 12.
+
+[46] Fay, 'Report from Kanpur' (1966), p. 13.
+
+[47] Fay, 'Report from Kanpur' (1966), p. 13 (the article appeared in June 1966, p. 11, so 'last September' is September 1965); Rajaraman, *History of Computing in India* (2012), p. 81 (the 1965 war with Pakistan).
+
+[48] Fay, 'Report from Kanpur' (1966), p. 13.
+
+[49] Fay, 'Report from Kanpur' (1966), p. 16.
+
+[50] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795 and n. 25.
+
+[51] Fay, 'Report from Kanpur' (1966), p. 16.
+
+[52] Fay, 'Report from Kanpur' (1966), p. 13; Bassett, 'Aligning India in the Cold War Era' (2009), p. 786.
+
+[53] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
+
+[54] Fay, 'Report from Kanpur' (1966), p. 14.
+
+[55] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792. Kesavan also held a master's degree from Illinois; Mahabala and Viswanathan both had doctorates from Saskatchewan.
+
+[56] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+
+[57] Sethi, 'Our Experiences on the 1620' (2021).
+
+[58] Sethi, 'Our Experiences on the 1620' (2021).
+
+[59] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (same issue of *The Spark*, A. Shukla, 'The IBM 1620'); Rajaraman, *History of Computing in India* (2012), p. 18; Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+
+[60] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793 n. 18.
+
+[61] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+
+[62] Rajaraman, *History of Computing in India* (2012), p. 18.
+
+[63] Bassett, 'Aligning India in the Cold War Era' (2009), p. 795.
+
+[64] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793 (plans for a master's concentration in computer science in place by 1965); Rajaraman, *History of Computing in India* (2012), p. 70 (Rajaraman's chronology dates the M.Tech programme in computers to 1966); IIT Kanpur, obituary of V. Rajaraman (2025), post-cutoff material, checked in October 2026. (IIT Kanpur's account of Rajaraman's career dates it to 1965 and calls it the first time computer science was offered as an academic discipline in India).
+
+[65] Bassett, 'Aligning India in the Cold War Era' (2009), p. 793.
+
+[66] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 793-794 and n. 20.
+
+[67] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799. The others were the University of Roorkee, the University of Bombay and the Physical Research Laboratory in Ahmedabad.
+
+[68] Rajaraman, *History of Computing in India* (2012), pp. 17-18.
+
+[69] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+
+[70] Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021); Rajaraman, *History of Computing in India* (2012), p. 18.
+
+[71] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 799-800.
+
+[72] Rajaraman, *History of Computing in India* (2012), p. 18.
+
+[73] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 and n. 41.
+
+[74] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799.
+
+[75] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5; Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[76] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+
+[77] Bassett, 'Aligning India in the Cold War Era' (2009), p. 792 n. 15.
+
+[78] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+
+[79] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 n. 21.
+
+[80] Rajaraman, *History of Computing in India* (2012), p. 18.
+
+[81] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794 and n. 21.
+
+[82] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+
+[83] Bassett, 'Aligning India in the Cold War Era' (2009), p. 794.
+
+[84] Bassett, 'Aligning India in the Cold War Era' (2009), p. 797 and n. 32. KIAP ended during what Bassett describes as the worst years of relations between India and the United States. The 7044 was replaced in 1979 by a Digital Equipment Corporation DEC-10.
+
+[85] Bassett, 'Aligning India in the Cold War Era' (2009), p. 796. The Soviet technicians arrived in July 1967 and repaired the damage done in storage; the machine was the only one of its kind in India.
+
+[86] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 797-798; Gopalakrishnan and Narayanan, *Computers in India* (1975), p. 25, as quoted in Bassett, 'Aligning India in the Cold War Era' (2009), p. 798 n. 33.
+
+[87] Bassett, 'Aligning India in the Cold War Era' (2009), p. 799. Bassett adds that the computer, imported and labour-saving, was 'a problematic technology in a country that had a surplus of labor, prized self-sufficiency, and put little stock in international trade' (Bassett, 'Aligning India in the Cold War Era' (2009), p. 798). The government's inquiry into automation is the subject of Chapter 3.
+
+[88] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[89] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[90] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
+
+[91] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802.
+
+[92] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 802-803.
+
+[93] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 49.
+
+[94] Fay, 'Report from Kanpur' (1966), p. 11.
+
+[95] Bhushan, 'Vignettes of History' (2014), Part III.
+
+[96] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 803-804 n. 50 (the list was obtained by Bassett).
+
+[97] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803 and n. 50, citing Sukhatme, *The Real Brain Drain* (1994), pp. 17-18.
+
+[98] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803. Bassett expects the Kanpur figure was similar, and notes that whatever an IIT's foreign patron, those who left went overwhelmingly to America (Bassett, 'Aligning India in the Cold War Era' (2009), p. 807).
+
+[99] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
+
+[100] Bassett, 'Aligning India in the Cold War Era' (2009), p. 805.
+
+[101] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806. The thirty-eight were eleven from IIT Madras, ten from IIT Kanpur, five from IIT Delhi and four from IIT Bombay, with the rest from other Indian colleges.
+
+[102] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 805-806; Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[103] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[104] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[105] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806.
+
+[106] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), p. 4 (Oral History of Arjun Malhotra, recorded 15 November 2018; he left school in December 1964, p. 4).
+
+[107] Jayshankar, 'Interview with Dr Rajaraman', *Vox Populi* (2018) (Rajaraman's interview with *Vox Populi*, an IIT Kanpur student magazine, 7 June 2018, updated 15 May 2021; consulted 2026-10-15); Rajaraman, *History of Computing in India* (2012), p. 34; Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 and n. 53. Rajaraman's own history also gives rank 40 for the last student admitted (Rajaraman, *History of Computing in India* (2012), p. 34). Bassett, citing an interview with Rajaraman, gives rank 44, so that close to half of the top forty students in India had chosen the course (Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 and n. 53). All three accounts rest on memory, recorded decades later. No copy of the institute's annual report for 1978-79, which would settle the figure, has been located.
+
+[108] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[109] Bassett, 'Aligning India in the Cold War Era' (2009), p. 806 n. 53.
+
+[110] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+
+[111] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+
+[112] Bassett, 'Aligning India in the Cold War Era' (2009), p. 807.
+
+[113] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[114] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801.
+
+[115] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[116] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+
+[117] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801.
+
+[118] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 7-8.
+
+[119] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 8-9 (Oral History of N.R. Narayana Murthy, Part 1, recorded 13 May 2018; founder's recollection). Krishnayya was installing a Hewlett-Packard computer bought with Ford Foundation money (Bassett, 'Aligning India in the Cold War Era' (2009), p. 801).
+
+[120] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801. After a brief spell in France, Murthy worked for Krishnayya again, at a research institute modelled on the RAND Corporation, before joining Patni. The founding of Infosys is told in Chapter 6.
+
+[121] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802 (Bassett's summary of the Kanpur, Patni and Kohli connections).
+
+[122] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801 n. 44.
+
+[123] Bassett, 'Aligning India in the Cold War Era' (2009), p. 798.
+
+[124] Rajaraman, *History of Computing in India* (2012), p. 3.
+
+
+## Chapter 3. Self-reliance and its limits (1962-1977)
+
+[1] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 3, 5.
+
+[2] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5.
+
+[3] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
+
+[4] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 5.
+
+[5] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 5-6.
+
+[6] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 6.
+
+[7] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 6.
+
+[8] Rajaraman, *History of Computing in India* (2012), pp. 15, 18.
+
+[9] Rajaraman, *History of Computing in India* (2012), p. 18.
+
+[10] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
+
+[11] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
+
+[12] Rajaraman, *History of Computing in India* (2012), pp. 18-19.
+
+[13] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
+
+[14] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33.
+
+[15] Rajaraman, *History of Computing in India* (2012), p. 19.
+
+[16] Rajaraman, *History of Computing in India* (2012), p. 19.
+
+[17] Rajaraman, *History of Computing in India* (2012), p. 19; Penn World Table 11.0, exchange rate series (1970 annual average, Rs 7.50 per dollar). Rajaraman converts the rental to $190,000 'at the prevailing exchange rate' (Rajaraman, *History of Computing in India* (2012), p. 19), which roughly matches the rate before the rupee was devalued in 1966 (Rajaraman, *History of Computing in India* (2012), p. 70; Penn World Table 11.0, exchange rate series: 1965, Rs 4.76 per dollar).
+
+[18] Rajaraman, *History of Computing in India* (2012), p. 70.
+
+[19] Rajaraman, *History of Computing in India* (2012), p. 19.
+
+[20] Rajaraman, *History of Computing in India* (2012), p. 19.
+
+[21] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 34.
+
+[22] Rajaraman, *History of Computing in India* (2012), p. 21.
+
+[23] Rajaraman, *History of Computing in India* (2012), p. 21.
+
+[24] Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022) (Kris Gopalakrishnan, N. Dayasindhu and Krishnan Narayanan; web extract, unpaginated).
+
+[25] Rajaraman, *History of Computing in India* (2012), p. 21.
+
+[26] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450. Narasimhan's earlier work on TIFRAC is described in Chapter 1.
+
+[27] Rajaraman, *History of Computing in India* (2012), p. 21.
+
+[28] Rajaraman, *History of Computing in India* (2012), p. 24.
+
+[29] Rajaraman, *History of Computing in India* (2012), p. 21.
+
+[30] Rajaraman, *History of Computing in India* (2012), pp. 21-22; Bassett, 'Aligning India in the Cold War Era' (2009), p. 792.
+
+[31] Rajaraman, *History of Computing in India* (2012), p. 22.
+
+[32] Rajaraman, *History of Computing in India* (2012), p. 22.
+
+[33] Rajaraman, *History of Computing in India* (2012), pp. 24, 70; Gopalakrishnan, Dayasindhu and Narayanan, 'When India Made Its First Computer' (2022).
+
+[34] Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+
+[35] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[36] Rajaraman, *History of Computing in India* (2012), p. 22.
+
+[37] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[38] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[39] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[40] Rajaraman, *History of Computing in India* (2012), p. 24. A DoE panel on minicomputers, chaired by P.V.S. Rao of TIFR, reported in 1973 that minicomputers could be made in India without foreign collaboration and projected demand for about 1,400 of them between 1974 and 1979 (Rajaraman, *History of Computing in India* (2012), pp. 24, 71). The policy itself, announced in 1978, is described in Chapter 5.
+
+[41] Rajaraman, *History of Computing in India* (2012), p. 27.
+
+[42] Rajaraman, *History of Computing in India* (2012), pp. 25, 70.
+
+[43] Rajaraman, *History of Computing in India* (2012), p. 25.
+
+[44] Rajaraman, *History of Computing in India* (2012), p. 25.
+
+[45] Rajaraman, *History of Computing in India* (2012), p. 25.
+
+[46] Rajaraman, *History of Computing in India* (2012), p. 25; Federal Reserve, G.5A Foreign Exchange Rates (1975 annual average, Rs 8.41 per dollar).
+
+[47] Rajaraman, *History of Computing in India* (2012), pp. 25-26. ECIL's 98 sales were 21 TDC-12s, 32 TDC-312s, 35 TDC-316s and 10 Micro 78s; a TDC-12 typically cost Rs 600,000 and a TDC-312 Rs 1 million (Rajaraman, *History of Computing in India* (2012), p. 25). ECIL's share of the installed base in 1974 (11 per cent) is given in Chapter 2 (Bassett, 'Aligning India in the Cold War Era' (2009), p. 800).
+
+[48] Rajaraman, *History of Computing in India* (2012), p. 26. The work at TIFR was led by P.V.S. Rao. ECIL machines also logged data for atomic energy, monitored satellite launches, tested gas turbines and controlled the cutting of billets in steel mills, all places where export controls made imports difficult; the DoE gave ECIL grants and loans of Rs 37.44 million (Rajaraman, *History of Computing in India* (2012), p. 26).
+
+[49] Rajaraman, *History of Computing in India* (2012), p. 25.
+
+[50] Rajaraman, *History of Computing in India* (2012), p. 26.
+
+[51] Rajaraman, *History of Computing in India* (2012), p. 26. No private Indian company was then allowed to make computers (Rajaraman, *History of Computing in India* (2012), p. 27). What ECIL's engineers were paid is not recorded in the published histories.
+
+[52] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 1-2.
+
+[53] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2.
+
+[54] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 2; pp. 62-63. The OCR text of the committee's report garbles the year of LIC's decision; elsewhere the committee says that until 1965 computers had aroused little opposition, and that serious opposition developed 'since 1965' after a big public-sector undertaking decided to install a computer in one of its offices without consulting its workers. The Lok Sabha record dates the decision to 1964 and the first installation to November 1965 (*Lok Sabha Debates*, 24 November 1966, col. 5287). A short biographical note on Ajoy Dasgupta, a leader of the insurance employees, dates the insurance workers' 'struggles against computerisation' earlier, to 1959-61, and says that 'the computers were installed step by step and the agitation died down' (Indian Labour Archives, 'Ajoy Dasgupta', p. 2). The two dates may describe two waves of protest, one against earlier office machinery and one against the computer itself; the record does not settle which.
+
+[55] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-3. Bassett records that Indian unions called computers 'job eaters' (Bassett, 'Aligning India in the Cold War Era' (2009), p. 799; see Chapter 2).
+
+[56] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 3.
+
+[57] *Lok Sabha Debates*, 24 November 1966, cols. 5286-88 (Lok Sabha Debates, Third Series, 24 November 1966, calling-attention statement on the proposed strike by LIC employees; read in the printed record via the archive.org mirror of the Parliament Digital Library, 2026-10-15). The quotation is at cols. 5287-88; the strike, called by the All-India Insurance Employees' Association for 25 November, is at col. 5286; the comparison with 'the 1500 or so new jobs created in the L.I.C. every year' and the assurance that none of the employees whose jobs became redundant would be retrenched are at col. 5288.
+
+[58] *Lok Sabha Debates*, 23 March 1967, cols. 675-76 (Lok Sabha Debates, Fourth Series, 23 March 1967, oral question *40, 'Computers in LIC'). Pant gave the Bombay system's purchase price as about Rs 42 lakh (Rs 4.2 million), excluding import charges and sales tax, paid for under a 'blocked rupee' arrangement; a second computer, from International Computers and Tabulators of Britain, was contracted for Calcutta. His answer to the question how many employees had lost their jobs was 'None'.
+
+[59] *Lok Sabha Debates*, 23 March 1967, col. 678. The question was put by Bal Raj Madhok.
+
+[60] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 3-4.
+
+[61] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
+
+[62] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 4.
+
+[63] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 24-25.
+
+[64] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 25.
+
+[65] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
+
+[66] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 30.
+
+[67] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 29.
+
+[68] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 37.
+
+[69] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 40.
+
+[70] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52, 55.
+
+[71] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 56.
+
+[72] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 52-53.
+
+[73] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 53, 160.
+
+[74] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 54.
+
+[75] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 63-64.
+
+[76] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 65.
+
+[77] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 7, 89. Venkataraman resigned on 22 March 1971 and Dandekar, director of the Gokhale Institute of Economics and Politics in Poona, became chairman on 24 July 1971 (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 7); Rajaraman therefore calls it the Dandekar Committee and notes that it was set up under Venkataraman (Rajaraman, *History of Computing in India* (2012), p. 22). The members included G. Ramanujam and Satish Loomba, the industrialists Naval H. Tata, B.D. Somani and Babubhai M. Chinai, the economist V.M. Dandekar and V.R. Rao of the Computer Centre in Delhi. Its witnesses included LIC's management, the State Bank of India, the railways, IBM, ICL, the Computer Society of India, the main union federations and three representatives of the All India Insurance Employees' Association (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 136-140).
+
+[78] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 35. Since planning and installing a computer took about two years and full use two or three more, the committee thought most installations were still in their early phases (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 36-37).
+
+[79] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 75.
+
+[80] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 67.
+
+[81] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 67-68.
+
+[82] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 69.
+
+[83] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 70.
+
+[84] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 70-72.
+
+[85] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 73-74.
+
+[86] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 79-80.
+
+[87] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 81-82.
+
+[88] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 83-85. Their arithmetic: if half of India's 445 companies with paid-up capital of Rs 10 million or more installed computers (129 more than the 94 already in place), and each new computer affected about 16 employees, some 2,064 people would be affected over a decade or more.
+
+[89] Rajaraman, *History of Computing in India* (2012), pp. 22-23. No record of how far the committee's recommendations were applied in practice has been located.
+
+[90] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[91] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[92] Rajaraman, *History of Computing in India* (2012), p. 19 (IBM); p. 26 (ECIL); Rajaraman, *History of Computing in India* (2012), p. 18 (Kanpur, three times a year), Rajaraman and Joshi, 'Professor Harry Huskey: Planting a Tree' (2021) (four times a year); see Chapter 2.
+
+[93] Narasimhan, 'Men, Machines and Ideas' (1999), pp. 450-451; Rajaraman, *History of Computing in India* (2012), p. 27. The founding date differs between the accounts. Rajaraman dates the centre to 1972, with Rs 2.85 million from the DoE and $2 million from UNDP (Rajaraman, *History of Computing in India* (2012), pp. 27, 71). Narasimhan says a UNDP mission in May 1973 recommended placing it at TIFR, which had run the National Computation Centre on its CDC 3600 since 1964; the centre began working informally in late 1974 and was formally launched in 1975, when a DEC 1077 system was installed (Narasimhan, 'Men, Machines and Ideas' (1999), p. 450). At full strength it had a research staff of about 30 (Narasimhan, 'Men, Machines and Ideas' (1999), p. 451). Narasimhan's account does not give the year of the first evening course.
+
+[94] Narasimhan, 'Men, Machines and Ideas' (1999), p. 451.
+
+[95] Rajaraman, *History of Computing in India* (2012), p. 27 (Rs 31.72 million from the DoE and $4.4 million from UNDP).
+
+[96] Rajaraman, *History of Computing in India* (2012), pp. 28, 71.
+
+[97] Rajaraman, *History of Computing in India* (2012), p. 28 (at a cost of Rs 53 million); Narasimhan, 'Men, Machines and Ideas' (1999), p. 450.
+
+[98] Rajaraman, *History of Computing in India* (2012), p. 27.
+
+[99] Rajaraman, *History of Computing in India* (2012), p. 28.
+
+[100] Rajaraman, *History of Computing in India* (2012), p. 28. Chapter 4 tells the story.
+
+[101] Rajaraman, *History of Computing in India* (2012), p. 59.
+
+[102] Narasimhan, 'Men, Machines and Ideas' (1999), p. 449.
+
+[103] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description); Dizikes, 'The Tech Revolution That Wasn't' (2026) (MIT News report, May 2026); Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026); Saini, 'Why Didn't India Build Its Own Silicon Valley?' (2026); Menon, 'India's Pursuit of Tech Self-Reliance' (2026), pp. 98-100 (Menon, review in *Issues in Science and Technology* 42, no. 4, Summer 2026). The summary follows the publisher's description and the reviews, not the book itself. Menon's fuller sentence is his own: 'India locked itself into cheap, skilled, backend service provision: reliance, not self-reliance.' Post-cutoff material, checked against the live pages 2026-10-13 and 2026-10-15.
+
+[104] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 2-4, 63.
+
+[105] Rajaraman, *History of Computing in India* (2012), pp. 27-28.
+
+[106] Rajaraman, *History of Computing in India* (2012), p. 82.
+
+[107] *Lok Sabha Debates*, 23 March 1967, col. 678.
+
+[108] Rajaraman, *History of Computing in India* (2012), p. 24. The policy is described in Chapter 5.
+
+[109] Rajaraman, *History of Computing in India* (2012), p. 24.
+
+[110] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), pp. 136-139.
+
+
+## Chapter 4. Tata's experiment (1968-1978)
+
+[1] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4.
+
+[2] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4. No text of the 1975 address has been located. The wording here is Kohli's own quotation of it in a speech of 2008-09 (Kohli, *Towards Inclusive Information Technology Revolution in India* (2009)); later writers' versions differ. Dinesh Sharma retells the speech in his obituary of Kohli, 'F.C. Kohli and the Eureka Moment of India's Software Industry', though the 'Eureka moment' of his title is TCS's breakthrough with Burroughs in 1974, not the address (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)); a Tata group tribute of 2024 quotes yet another wording (Tata Group, 'The IT Revolutionary' (2024)).
+
+[3] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[4] Rajaraman, *History of Computing in India* (2012), p. 23.
+
+[5] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+
+[6] *The Economist*, 'Ram Drive' (2008), para. 1 ('Ram drive', *The Economist*, 21 August 2008, course-page mirror); para. 6 (chief executive in 1996).
+
+[7] *The Economist*, 'Ram Drive' (2008), para. 3. The paragraph says 'the computer'; the preceding paragraph concerns the Burroughs machine TCS bought in 1974.
+
+[8] *The Economist*, 'Ram Drive' (2008), para. 5.
+
+[9] *The Economist*, 'Ram Drive' (2008), paras 4-5.
+
+[10] Sharma, 'When Patni Experienced the Eureka Moment' (2011) (Sharma). The living-room test rests on Sharma's account alone; a *Business Standard* profile of 2007 confirms only that the Patnis began from their apartment in 1972 (*Business Standard*, 'The Original IT Man' (2007)).
+
+[11] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 7 (Nilekani, Computer History Museum oral history; title page dated 8 January 2019; CHM reference X9234.2020). He joined Patni in January 1979, and part of his job was teaching the customers who had bought the machine.
+
+[12] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Bassett, 'Aligning India in the Cold War Era' (2009), p. 800; Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024); Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4; Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145. The founding is dated differently. Sharma writes that the unit was established in 1967 as the Tata Computer Centre, to handle the data processing of all the Tata companies (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)). Bassett says the group 'established a computing enterprise in 1967', which by 1969 was called Tata Consultancy Services (Bassett, 'Aligning India in the Cold War Era' (2009), p. 800). The Tata group's own histories give 1968 for the company, though one dates the group's shared computer centre to 1966 (Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024)). Kohli said in 2009: 'TCS was set up in 1968 to partake in the new technology' (Kohli, *Towards Inclusive Information Technology Revolution in India* (2009)). The Committee on Automation's list of computers in India as of August 1971 has two Bombay entries for 'Tata Computer Centre Consultancy Services': an IBM 1401 installed in September 1967 and an ICL 1903 installed in 1971 (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145). On this reading both dates are right about different things.
+
+[13] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+
+[14] Tata Group, 'The IT Revolutionary' (2024).
+
+[15] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024).
+
+[16] Venkatraman, 'India's IT Guy' (2013).
+
+[17] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 29.
+
+[18] Rajaraman, *History of Computing in India* (2012), pp. 18-19. IBM's rental business is described in Chapter 3.
+
+[19] Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 2-3.
+
+[20] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3.
+
+[21] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3.
+
+[22] Bassett, 'Aligning India in the Cold War Era' (2009), p. 791.
+
+[23] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801 (Kanpur; see Chapter 2); Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 3 (Kohli dates Tata Electric's digital computers for system control and load dispatching to 1968); Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3 (in 2020 he gave 1969).
+
+[24] Bassett, 'Aligning India in the Cold War Era' (2009), p. 801 n. 43.
+
+[25] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 3.
+
+[26] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Venkatraman, 'India's IT Guy' (2013); Bassett, 'Aligning India in the Cold War Era' (2009), p. 800. All sources agree on 1969; Sharma says he succeeded Kanodia (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)).
+
+[27] Venkatraman, 'India's IT Guy' (2013). The profile does not name the director, and no other source records the 1974 succession.
+
+[28] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 (Bassett: Kohli led TCS for decades); Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 3 (eighteen years at Tata Electric and more than thirty at TCS, as he put it in 2009); Computer History Museum, 'Oral History of FC Kohli' (2020), p. 5. Rajaraman has S. Ramadorai succeeding Kohli as chief executive in 1996 (Rajaraman, *History of Computing in India* (2012), p. 28).
+
+[29] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145; Venkatraman, 'India's IT Guy' (2013); Rajaraman, *History of Computing in India* (2012), p. 19. Rajaraman says the company's first computer was an IBM 1401 (Rajaraman, *History of Computing in India* (2012), p. 19). The *Technology Review* profile, drawing on Kohli, says its first mainframe was an ICL 1903, supplemented by two leased IBM machines (Venkatraman, 'India's IT Guy' (2013)). The Committee on Automation's list settles the order: the 1401 from September 1967, the ICL from 1971 (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972)). The accounts agree if the IBMs were rented and the ICL was the first machine the company bought.
+
+[30] Venkatraman, 'India's IT Guy' (2013). The profile does not name the insurer, and no other source identifies it; the Committee on Automation's 1971 list does not say where the Tata centre's ICL came from (Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), App. IX, p. 145).
+
+[31] Rajaraman, *History of Computing in India* (2012), pp. 22-23. The licensing system is described in Chapter 3.
+
+[32] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+
+[33] Venkatraman, 'India's IT Guy' (2013) (the quotation is Kohli's, as the profile reports it).
+
+[34] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 5.
+
+[35] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 4.
+
+[36] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Tata Group, 'The IT Revolutionary' (2024). In the same interview Kohli corrected the interviewer's dates more than once (Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 2, 5).
+
+[37] Sharma, 'F.C. Kohli and the Eureka Moment' (2020). Rests on one source.
+
+[38] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 3-4. The firm was called Softronics; Murthy closed it in less than a year. Chapter 6 tells how he went on to Patni and Infosys.
+
+[39] Computer History Museum, 'Oral History of FC Kohli' (2020), pp. 4-5 (Kohli: built up while he was in the United States; not a legal partnership); Sharma, 'F.C. Kohli and the Eureka Moment' (2020) (Sharma: Kohli decided to work with IBM's closest rival).
+
+[40] Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy'; *The Economist*, 'Ram Drive' (2008), para. 4 (Burroughs sold its machines in India through TCS). The Tata group dates the partnership to 1973 (Tata Group, TCS timeline and 'Five Decades of Transformation' (2021)); the *Technology Review* profile places the first contract in 1974 (Venkatraman, 'India's IT Guy' (2013)).
+
+[41] Venkatraman, 'India's IT Guy' (2013).
+
+[42] Sharma, 'F.C. Kohli and the Eureka Moment' (2020); Rajaraman, *History of Computing in India* (2012), p. 28.
+
+[43] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021). Sharma credits a group of young engineers with the filter that made ICL software work on the Burroughs platform (Sharma, 'F.C. Kohli and the Eureka Moment' (2020)); Rajaraman says TCS imported a Burroughs B6700 and that Burroughs outsourced many conversion jobs to TCS (Rajaraman, *History of Computing in India* (2012), p. 28). The versions may describe a sequence, conversion first, then application packages, then systems software; no contract has been located to settle it.
+
+[44] Sharma, 'F.C. Kohli and the Eureka Moment' (2020).
+
+[45] Rajaraman, *History of Computing in India* (2012), p. 28 (the manufacturing company, which failed and closed after four years); Sharma, 'F.C. Kohli and the Eureka Moment' (2020) (peripherals and Tata Burroughs Limited). Whether Rajaraman's manufacturing company and Sharma's peripherals venture were the same is not clear.
+
+[46] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+
+[47] Rajaraman, *History of Computing in India* (2012), p. 28.
+
+[48] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+
+[49] Tata Group, 'The IT Revolutionary' (2024).
+
+[50] Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy' (the online journal has no page numbers).
+
+[51] Aspray, 'The Role of Policy' (2010), same section; Rajaraman, *History of Computing in India* (2012), p. 29. Body shopping is described in Chapter 6.
+
+[52] No contract, rate card or first-hand account showing how TCS priced its work in the 1970s has been located.
+
+[53] Ramadorai, *The TCS Story ... and Beyond* (2011), as summarised in a published review (*Deccan Herald*, 29 October 2011).
+
+[54] Bassett, 'Aligning India in the Cold War Era' (2009), p. 802 n. 45.
+
+[55] Sharma, 'When Patni Experienced the Eureka Moment' (2011).
+
+[56] Sharma, 'When Patni Experienced the Eureka Moment' (2011) (two dozen); *Business Standard*, 'The Original IT Man' (2007) (*Business Standard*, 2007: the Poona office was started by Poonam Patni with twenty people).
+
+[57] Sharma, 'When Patni Experienced the Eureka Moment' (2011); *Business Standard*, 'The Original IT Man' (2007); Bassett, 'Aligning India in the Cold War Era' (2009), p. 801. Sharma dates the firm to 1976 (Sharma, 'When Patni Experienced the Eureka Moment' (2011)); the *Business Standard* profile gives 1978 (*Business Standard*, 'The Original IT Man' (2007)). Murthy's recollection that the export business had begun by 1977 (Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 14-15) fits 1976 better, though it does not show when the company was constituted. Bassett calls the firm Patni Data Systems and describes it as one of the first Indian firms to get computing work from American companies (Bassett, 'Aligning India in the Cold War Era' (2009), p. 801).
+
+[58] Sharma, 'When Patni Experienced the Eureka Moment' (2011) (August 1977); Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), pp. 14-15 (Murthy, Computer History Museum oral history, 2018).
+
+[59] Sharma, 'When Patni Experienced the Eureka Moment' (2011); Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 7 (Nilekani, January 1979); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5; Bassett, 'Aligning India in the Cold War Era' (2009), p. 801. The founding of Infosys is told in Chapter 6.
+
+[60] Tata Group, 'The IT Revolutionary' (2024); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
+
+[61] Rajaraman, *History of Computing in India* (2012), pp. 18-19, 26-27. These training routes are described in Chapter 3.
+
+[62] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4.
+
+[63] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 2.
+
+[64] Kohli, *Towards Inclusive Information Technology Revolution in India* (2009), PDF p. 4; Tata Group, 'The IT Revolutionary' (2024).
+
+[65] Computer History Museum, 'Oral History of FC Kohli' (2020), p. 7.
+
+[66] Rajaraman, *History of Computing in India* (2012), pp. 23, 28; Aspray, 'The Role of Policy' (2010). Aspray's finding that most imported hardware went to domestic use (see 'Twice the value' below) is a reminder that the rule was not a clean success.
+
+[67] Bassett, 'Aligning India in the Cold War Era' (2009), pp. 801-802. Bassett notes that no IT industry grew up in Kanpur itself; its graduates found work in firms such as TCS (Bassett, 'Aligning India in the Cold War Era' (2009), pp. 800-801).
+
+[68] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Sharma, 'When Patni Experienced the Eureka Moment' (2011); Rajaraman, *History of Computing in India* (2012), p. 19. Patni's Data Conversion was exporting data-entry work from 1972 (Sharma, 'When Patni Experienced the Eureka Moment' (2011)).
+
+[69] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021); Venkatraman, 'India's IT Guy' (2013); Sharma, 'When Patni Experienced the Eureka Moment' (2011). The Texas Instruments claim is examined in Chapter 8.
+
+[70] Rajaraman, *History of Computing in India* (2012), pp. 21-22, 28; Aspray, 'The Role of Policy' (2010). The date of the rule differs between the sources. Rajaraman writes that the DoE 'allowed import of computers exclusively meant for software export. The first policy paper on this was published in 1974' (Rajaraman, *History of Computing in India* (2012), p. 28). William Aspray dates a Software Export Scheme to a 1972 bill sponsored by the DoE that eased hardware imports for companies that would use them to produce software for export (Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy'). No primary text of either has been located; the two dates may describe an announcement and a formal policy.
+
+[71] Venkatraman, 'India's IT Guy' (2013) (the profile rests on Kohli's own account).
+
+[72] *The Economist*, 'Ram Drive' (2008), para. 2. The magazine states the condition in the same terms: 'The government required TCS to earn twice as much from exports as it spent on its imported machines' (para. 4). Its 1974 date dates TCS's own licence, not the general rule.
+
+[73] Venkatraman, 'India's IT Guy' (2013). Neither account makes clear whether the duty counted towards the sum to be earned back; no copy of the import licence has been located. The figures in the next paragraph are this book's arithmetic on the profile's price.
+
+[74] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), paras 1 and 9 (*Computerwoche*, April 1978; paragraphs numbered in the online text; translated from the German, 'dürfte... rd. 10 Millionen indische Rupien erreicht haben'); Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1977 (Federal Reserve G.5A, Rs 8.7683), at the year's average rate. Rajaraman judges India's software exports insignificant in 1978 (Rajaraman, *History of Computing in India* (2012), p. 29).
+
+[75] Aspray, 'The Role of Policy' (2010), section 'Trade, industrial regulation, and foreign investment policy' (*The Rutherford Journal* 3, 2010). Aspray adds that TCS and Tata Infotech held 63 per cent of the market. Richard Heeks also estimated gross software exports at $4 million in 1980 (Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2; see Chapter 6).
+
+[76] Aspray, 'The Role of Policy' (2010), same section.
+
+[77] Tata Group, TCS timeline and 'Five Decades of Transformation' (2021).
+
+[78] Bansal, 'Take A Techie Like That!', *Outlook*, para. 2 (the reviewer's summary, not Ramadorai's words).
+
+[79] Rajaraman, *History of Computing in India* (2012), pp. 24, 29; Bassett, 'Aligning India in the Cold War Era' (2009), p. 800.
+
+[80] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+[81] *The Economist*, 'Ram Drive' (2008), para. 6.
+
+
+## Chapter 5. The year IBM left (1973-1984)
+
+[1] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[2] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[3] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019). Fernandes's recollection, given to Sharma in an interview in 2006, nearly thirty years after the event, is the only account of what was said. Whether the de Gaulle exchange happened as he told it cannot be checked: it is a politician's recollection of an episode that brought him credit. Sharma's text adds '(to dilute their equity)' inside the quotation; that part is paraphrased here.
+
+[4] *Dataquest*, '1976-1985: The Big Blue Impact' (2006); Sharma, 'Rise, Fall and Rise of IBM in India' (2011). The date of 1 June 1978 is from Dataquest's later chronology (*Dataquest*, '1976-1985: The Big Blue Impact' (2006)); a contemporary report (*Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 1) confirms that IBM was winding up its Indian activities in 1978.
+
+[5] Ministry of Labour and Rehabilitation, *Report of the Committee on Automation* (1972), p. 33 (para. 2.54).
+
+[6] Rajaraman, *History of Computing in India* (2012), pp. 18-19.
+
+[7] Rajaraman, *History of Computing in India* (2012), p. 19.
+
+[8] Bassett, 'Aligning India in the Cold War Era' (2009), p. 800 (the 1974 survey; see Chapter 2); Sharma, 'Rise, Fall and Rise of IBM in India' (2011) (Sharma, 2011, on the 80 per cent share).
+
+[9] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[10] Sharma, 'Rise, Fall and Rise of IBM in India' (2011).
+
+[11] Rajaraman, *History of Computing in India* (2012), p. 29; Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[12] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[13] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[14] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019). No copy of the committee's report has been located; its finding is quoted as Sharma gives it.
+
+[15] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019). IBM's own reply at the time, as reported in April 1978, was that it had offered to replace its 1400 series in 1970 and again in 1972 and that the government had taken up neither plan (*Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 2).
+
+[16] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+[17] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[18] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+[19] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[20] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[21] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[22] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[23] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[24] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[25] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[26] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[27] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[28] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[29] Panchal, 'Economic Milestone: Exit of the MNCs (1977)' (2014).
+
+[30] Rajaraman, *History of Computing in India* (2012), p. 29; *Dataquest*, '1976-1985: The Big Blue Impact' (2006) (Dataquest's 2006 retrospective says much the same: that IBM left because it could not agree to the FERA rules).
+
+[31] Sharma, 'Rise, Fall and Rise of IBM in India' (2011).
+
+[32] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 2 (paragraphs numbered in the online text; translated from the German).
+
+[33] Aron, 'HCL's Shiv Nadar' (2006).
+
+[34] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019) (Coca-Cola's formula). Nadar's source-code rule rests on his 2006 interview alone (Aron, 'HCL's Shiv Nadar' (2006)).
+
+[35] Banerjee, *Computing in the Age of Decolonization* (2026) (publisher's description, not the book); Dizikes, 'The Tech Revolution That Wasn't' (2026). Post-cutoff material, checked in October 2026. Farrell, review of Banerjee, *Computing in the Age of Decolonization* (2026), p. 3 (Tracie Farrell's review; the reviewer's summary, not Banerjee's words; post-cutoff material, checked against the live source in October 2026). The review gives 1977, the year of the Fernandes meeting; the contemporary record places the closure itself in 1978 (*Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978); *Dataquest*, '1976-1985: The Big Blue Impact' (2006)).
+
+[36] Sharma, 'George Fernandes and the Infamous IBM Exit' (2019).
+
+[37] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 1 (translated from the German).
+
+[38] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+[39] Rajaraman, *History of Computing in India* (2012), pp. 29-30.
+
+[40] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[41] Rajaraman, *History of Computing in India* (2012), p. 28.
+
+[42] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
+
+[43] Rajaraman, *History of Computing in India* (2012), p. 30 (spare parts); *Dataquest*, '1976-1985: The Big Blue Impact' (2006) (Dataquest: CMC took over 'maintenance of 800 IBM installations'); Rajaraman, *History of Computing in India* (2012), p. 29 ('over 150' installations); *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), para. 5 ('der 150 IBM-1400', translated from the German). Dataquest's 800 is far above Rajaraman's 'over 150'. The contemporary *Computerwoche* figure of 150 IBM 1400-series machines that would need replacing suggests that Rajaraman's figure counts those computers. Dataquest's larger number may count every piece of IBM equipment, including older punched-card machines, but it does not explain its count.
+
+[44] *Computerwoche*, 'ICL und Ostblockrechner stoßen in eine Lücke' (1978), paras 1 and 3 (translated from the German).
+
+[45] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[46] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
+
+[47] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018). The Deccan Chronicle's background paragraphs closely follow Sharma's 2011 article (Sharma, 'Rise, Fall and Rise of IBM in India' (2011)), so it is not a fully independent witness. The employee numbers in these accounts cannot be reconciled.
+
+[48] *Deccan Chronicle*, 'Indian Ex-IBMers Reunite' (2018) (Kamlaksha Rama Naik; in the paper's paraphrase, the former staff still shared a strong bond and affection for IBM); Rajaraman, *History of Computing in India* (2012), p. 40 (ORG Systems among the makers under the post-1978 policy).
+
+[49] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+[50] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[51] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[52] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[53] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1978 (Federal Reserve G.5A), at the year's average rate.
+
+[54] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[55] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[56] Rajaraman, *History of Computing in India* (2012), pp. 39-40.
+
+[57] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[58] Aron, 'HCL's Shiv Nadar' (2006).
+
+[59] Aron, 'HCL's Shiv Nadar' (2006).
+
+[60] Aron, 'HCL's Shiv Nadar' (2006).
+
+[61] Aron, 'HCL's Shiv Nadar' (2006) (the founders' own savings; HCL's capital of Rs 2 million, a quarter from the Uttar Pradesh government); Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate; Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 9-10, 13 (Malhotra, recorded 15 November 2018; a founder's recollection: the Rs 175,000, the Bombay office, Microcomp named after the programmable calculator the founders had designed at DCM, and the 49 per cent). Dataquest's chronology (*Dataquest*, '1976-1985: The Big Blue Impact' (2006)) says Nadar started Microcomp with six friends and Rs 175,000 and that it was renamed Hindustan Computers. Malhotra's account shows instead that Microcomp was the founders' first firm and HCL's largest shareholder.
+
+[62] Aron, 'HCL's Shiv Nadar' (2006).
+
+[63] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1976 (Federal Reserve G.5A), at the year's average rate.
+
+[64] Aron, 'HCL's Shiv Nadar' (2006).
+
+[65] Aron, 'HCL's Shiv Nadar' (2006).
+
+[66] Aron, 'HCL's Shiv Nadar' (2006).
+
+[67] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 13-14 (Malhotra, Computer History Museum oral history, 2018).
+
+[68] Aron, 'HCL's Shiv Nadar' (2006).
+
+[69] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[70] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[71] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1979 (Federal Reserve G.5A), at the year's average rate.
+
+[72] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[73] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[74] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[75] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[76] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[77] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[78] Federal Reserve, G.5A Foreign Exchange Rates, annual average rupees per US dollar for 1981 (Federal Reserve G.5A), at the year's average rate.
+
+[79] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[80] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[81] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[82] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[83] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[84] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[85] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[86] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[87] Rajaraman, *History of Computing in India* (2012), pp. 36, 40.
+
+[88] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[89] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[90] Rajaraman, *History of Computing in India* (2012), pp. 40, 66 (ref. 73). No count has been located of how many Unix or C programmers the hardware firms trained, and no study has been found that follows individual engineers from these firms into the export trade. HCL's Genesis database (Aron, 'HCL's Shiv Nadar' (2006)) is a founder's example, not a census.
+
+[91] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), p. 16.
+
+[92] Rajaraman, *History of Computing in India* (2012), p. 26.
+
+[93] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[94] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[95] Rajaraman, *History of Computing in India* (2012), p. 34 (Kanpur's degree, 1978, and the other IITs following); pp. 34-35 (the 1980 Panel on Computer Manpower Development under Rajaraman; the MCA), 42 (NIIT).
+
+[96] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5 (the transcript prints this answer under the label 'Brock:', but its content, 'we founded Infosys in 1981', shows it is Murthy's). Chapter 9 gives his fuller account of the licence.
+
+[97] Rajaraman, *History of Computing in India* (2012), p. 35.
+
+[98] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (Table 1). Richard Heeks estimated India's gross software export earnings at $4 million in 1980 and $25 million in 1984 (gross foreign-exchange earnings, calendar years; net earnings estimated at about 40% of gross).
+
+[99] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[100] Rajaraman, *History of Computing in India* (2012), pp. 30-31.
+
+[101] Rajaraman, *History of Computing in India* (2012), p. 31. Locally made DCM computers served as terminals at the venues, connected to a Hewlett-Packard server, and engineers of the National Informatics Centre wrote the whole software system in six months; the Games brought N. Seshagiri, the centre's director general, close to Rajiv Gandhi. Chapter 8 tells the story.
+
+[102] *Dataquest*, '1976-1985: The Big Blue Impact' (2006) (Dataquest's chronology gives the date).
+
+[103] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[104] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[105] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[106] Rajaraman, *History of Computing in India* (2012), p. 40.
+
+[107] Rajaraman, *History of Computing in India* (2012), p. 41.
+
+[108] Rajaraman, *History of Computing in India* (2012), p. 41. The Bhabha Committee's report is discussed in Chapter 3.
+
+[109] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[110] Rajaraman, *History of Computing in India* (2012), p. 28.
+
+[111] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[112] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (gross export earnings, FY1990-91). Other series give different figures; Chapter 9 and the data appendix compare them.
+
+[113] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+
+## Chapter 6. Body shopping (1978-1991)
+
+[1] Chatterjee, 'Invasion of the "Body Shoppers"' (1995); Rajaraman, *History of Computing in India* (2012), p. 40 (HCL's full name).
+
+[2] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[3] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[4] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[5] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[6] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[7] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[8] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[9] Rajaraman, *History of Computing in India* (2012), p. 29 (Rajaraman's definition); Aspray, 'The Role of Policy' (2010) (Aspray, paraphrased).
+
+[10] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+
+[11] Upadhya, 'A New Transnational Capitalist Class?' (2004), p. 5141 (Upadhya 2004: the software industry as a whole 'was established mainly on the basis of labour contract services, a system known as "body shopping"'); Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 21 (Upadhya and Vasavi 2006, who use the term for the lowest end of the trade in the 2000s: agencies in India that recruited engineers and placed them with clients abroad, 'taking a large cut of their salaries as their fee', paying a basic allowance while an engineer was between assignments ('on the bench') and the contracted rate only for time actually worked). The 1980s sources use the word in Heeks's wider sense, for onsite programming of any kind.
+
+[12] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[13] Aspray, 'The Role of Policy' (2010).
+
+[14] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[15] Pratap Chatterjee of *Multinational Monitor* wrote in 1995 that 'The first "body shoppers" arrived in Silicon Valley in 1987', citing no source (Chatterjee, 'Invasion of the "Body Shoppers"' (1995)). Sharma puts TCS and Patni staff at customer sites in the 1970s (Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009)), and Aspray dates TCS's first programmers in the United States, sent to install systems software for Burroughs customers (Chapter 4), to 1974 (Aspray, 'The Role of Policy' (2010)). Chatterjee's date and the earlier ones can both be true only if he meant Silicon Valley alone, which he does not say. Nandan Nilekani, who joined Patni in January 1979 and left in July 1981, recalled that Patni 'did a lot of work for clients in the U.S.', and that he spent almost a year at Data General, living in Cambridge, Massachusetts, and taking the bus to its offices in Westborough to work on the company's own software (Computer History Museum, 'Oral History of Nandan Nilekani' (2020), pp. 7-8; title page dated 8 January 2019; CHM reference X9234.2020). Upadhya and Vasavi, citing Balaji Parthasarathy, call bodyshopping 'the primary form of outsourcing in the 1980s' (Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 10, n. 12, citing Parthasarathy 2005, p. 208). None of these sources names a first contract.
+
+[16] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12. In Heeks's account the industry began around Nariman Point in the late 1970s, spread north to SEEPZ, and kept Bombay as its centre until at least the mid-1980s. Chapter 10 follows the later move to Bangalore.
+
+[17] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+
+[18] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[19] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+
+[20] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
+
+[21] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 5, 9 (Murthy, who remembered the wait for a telephone as about seven years, and the Reserve Bank rule on travel); Computer History Museum, 'Oral History of Nandan Nilekani' (2020), p. 8 (Nilekani remembered a two-year wait); Rajaraman, *History of Computing in India* (2012), p. 33 (Rajaraman gives over two years for 1982).
+
+[22] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[23] Rajaraman, *History of Computing in India* (2012), p. 29.
+
+[24] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
+
+[25] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+
+[26] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[27] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+
+[28] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[29] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 60.
+
+[30] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009), n. 61.
+
+[31] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[32] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[33] Hanna, *Exploiting Information Technology for Development* (1994), p. 32. The table does not state its year; it is probably FY1991-92, so the rupee figures are not converted.
+
+[34] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[35] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 11.
+
+[36] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 4-5.
+
+[37] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 14.
+
+[38] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 5.
+
+[39] Infosys, Form F-1 (1999), p. 7.
+
+[40] Infosys, Form F-1 (1999), pp. 40, 54.
+
+[41] Computer History Museum, 'Oral History of N. R. Narayana Murthy', Part 1 (2018), p. 15.
+
+[42] *Business Standard*, 'Took Risk When I Gave Narayana Rs 10,000' (2024).
+
+[43] Federal Reserve, G.5A Foreign Exchange Rates.
+
+[44] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 6.
+
+[45] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[46] Infosys, Form F-1 (1999), p. 55.
+
+[47] Computer History Museum, 'Oral History of Nandan Nilekani' (2020), pp. 9-10.
+
+[48] Infosys, Form F-1 (1999), p. 45.
+
+[49] Hanna, *Exploiting Information Technology for Development* (1994), p. 32.
+
+[50] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 7.
+
+[51] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[52] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[53] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+
+[54] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[55] Computer History Museum, 'Oral History of Arjun Malhotra' (2018), pp. 20-21, 23.
+
+[56] Hanna, *Exploiting Information Technology for Development* (1994), p. 31; Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7; Chatterjee, 'Invasion of the "Body Shoppers"' (1995). One scholar describes the trade differently. AnnaLee Saxenian wrote in 2001 that in body-shopping contracts 'the amount of software code is specified in advance and revenue is earned per line of code' (Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10). She cited no source for that sentence, and it disagrees with the direct evidence of the World Bank and Heeks cited above.
+
+[57] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 3.
+
+[58] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 3-4.
+
+[59] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 14-15.
+
+[60] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
+
+[61] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+
+[62] Infosys, Form F-1 (1999), p. 30.
+
+[63] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[64] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[65] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[66] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009) (Citibank set up the SEEPZ unit in 1984 with capital spending of Rs 2 crore, Rs 20 million or about $1.8 million at the 1984 average rate, Federal Reserve, G.5A Foreign Exchange Rates; a senior vice-president, Paul Glaser, hoped it could write much of the $250 million of software the bank bought each year; COSL was inaugurated on 28 October 1985 and by the year to March 1990 was the third-largest software exporter, behind TCS and Tata Unisys; its MicroBanker branch-banking software was priced at $120,000 for ten terminals and $200,000 for twenty); Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13 (TI). Heeks also credits TI with strengthening Bangalore's reputation for software (Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13).
+
+[67] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
+
+[68] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 19, citing Basant and Rani 2004, p. 5318.
+
+[69] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 7-8. Heeks adds the managers' own taste for quick returns, and puts the threshold for offshore work at about $100,000 a project.
+
+[70] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+
+[71] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[72] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7. Heeks cites a 1985 comparative study of men and women in software from SNDT Women's University in Bombay (Jayanthi and Madhavan 1985); no copy of it has been located. No count of women working onsite in the 1980s has been located.
+
+[73] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 9.
+
+[74] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[75] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[76] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[77] Chatterjee, 'Invasion of the "Body Shoppers"' (1995). The report names the programmer, a private individual; she is not named here. Her own words are not recorded. The article, published in 1995, does not date the case, which may fall in the early 1990s rather than the 1980s. The claims about the lawsuits are the firm's lawyer's, as reported.
+
+[78] Chatterjee, 'Invasion of the "Body Shoppers"' (1995). No figure for an Indian programmer's salary in the 1980s has been located.
+
+[79] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[80] Chatterjee, 'Invasion of the "Body Shoppers"' (1995).
+
+[81] Infosys, Form F-1 (1999), p. 42.
+
+[82] Hanna, *Exploiting Information Technology for Development* (1994), pp. 74, 98.
+
+[83] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+
+[84] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2. The same series gives $25.3 million for 1984 and $54.1 million for 1987. Other series for these years differ; Chapter 9 and the data appendix compare them.
+
+[85] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
+
+[86] Hanna, *Exploiting Information Technology for Development* (1994), p. 31.
+
+[87] Infosys, Form F-1 (1999), pp. 54-55.
+
+[88] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[89] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+
+[90] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+
+[91] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 15-16.
+
+[92] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 8, 14.
+
+[93] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
+
+[94] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+
+[95] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+
+[96] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 14.
+
+[97] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 7.
+
+[98] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[99] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 8.
+
+[100] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+
+
+## Chapter 7. The training economy (1980-1995)
+
+[1] Saha, 'How Byju's Exploited the Indian "Rat Race" Mentality' (2023); live-checked 2026-10-13.
+
+[2] Saha, 'How Byju's Exploited the Indian "Rat Race" Mentality' (2023); live-checked 2026-10-13. Saha's account is the only one of Bansal's beginnings used here.
+
+[3] Saha, 'How Byju's Exploited the Indian "Rat Race" Mentality' (2023); live-checked 2026-10-13.
+
+[4] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[5] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[6] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[7] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[8] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[9] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[10] Rajaraman, *History of Computing in India* (2012), p. 35.
+
+[11] Rajaraman, *History of Computing in India* (2012), pp. 35, 66.
+
+[12] Rajaraman, *History of Computing in India* (2012), p. 35.
+
+[13] Rajaraman, *History of Computing in India* (2012), p. 56. No copy of the 1980 panel's report has been located, and no series of MCA admissions for the 1980s.
+
+[14] Rajaraman, *History of Computing in India* (2012), p. 34.
+
+[15] Rajaraman, *History of Computing in India* (2012), p. 34; Hanna, *Exploiting Information Technology for Development* (1994), p. 74.
+
+[16] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
+
+[17] Manuel, 'India's Engineering Education Story' (2015); live-checked 2026-10-13.
+
+[18] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17.
+
+[19] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17; Manuel, 'India's Engineering Education Story' (2015); live-checked 2026-10-13. The national series is not broken down by state, so it cannot show how much of the surge came from the four states the NUEPA paper names.
+
+[20] Ministry of Human Resource Development, *National Policy on Education 1986: Programme of Action 1992*, p. 77; MoSPI, 'Number of Recognised Educational Institutions', Table 1.17. The government's own figure for seats is uncertain. The Programme of Action that accompanied the education policy, published in 1992, said there were 'over 200' recognised technical institutions at degree level with an annual admission capacity of 40,000, yet the official series already counted 289 engineering colleges in 1990-91 and 300 in 1992-93. The Programme's numbers match the mid-1980s count better and probably repeat older data. No reliable series of engineering admissions by year and state for this period has been located.
+
+[21] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[22] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
+
+[23] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+
+[24] Rajaraman, *History of Computing in India* (2012), p. 42; Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48; NIIT University, 'Founders' (Thadani as co-founder).
+
+[25] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48. Pawar was speaking some forty years after the founding.
+
+[26] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
+
+[27] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
+
+[28] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
+
+[29] Rajguru, 'Taking Computer Education to the Masses' (2022), p. 48.
+
+[30] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[31] Rajguru, 'Taking Computer Education to the Masses' (2022), pp. 48-49. No copy of the *Far Eastern Economic Review* article has been located. *Dataquest* dates the comparison to November 2000 and gives it as 'McDonald's of Software Business' (Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13).
+
+[32] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
+
+[33] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
+
+[34] Mahalingam, 'Why Aptech Is a Good Bet' (2014); live-checked 2026-10-13.
+
+[35] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[36] Hanna, *Exploiting Information Technology for Development* (1994), p. 51; Reserve Bank of India, *Handbook of Statistics on Indian Economy*, 1993 calendar-year average rate (Rs 31.45 per US dollar); Hanna does not state the survey year.
+
+[37] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+
+[38] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+
+[39] Hanna, *Exploiting Information Technology for Development* (1994), p. 71.
+
+[40] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
+
+[41] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
+
+[42] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+
+[43] Hanna, *Exploiting Information Technology for Development* (1994), p. 72.
+
+[44] Hanna, *Exploiting Information Technology for Development* (1994), pp. 72, 52.
+
+[45] Hanna, *Exploiting Information Technology for Development* (1994), p. 73.
+
+[46] *Mohini Jain v. State of Karnataka* (1992), p. 664.
+
+[47] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, 1991 calendar-year average rate (Rs 22.69 per US dollar).
+
+[48] *Mohini Jain v. State of Karnataka* (1992), p. 664.
+
+[49] *Mohini Jain v. State of Karnataka* (1992), p. 664.
+
+[50] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 623-24.
+
+[51] *Mohini Jain v. State of Karnataka* (1992), p. 663.
+
+[52] *Maharashtra Educational Institutions (Prohibition of Capitation Fee) Act, 1987*.
+
+[53] *Maharashtra Educational Institutions (Prohibition of Capitation Fee) Act, 1987*.
+
+[54] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 686, 633.
+
+[55] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 673.
+
+[56] *Maharashtra Educational Institutions (Prohibition of Capitation Fee) Act, 1987*.
+
+[57] Ministry of Human Resource Development, *National Policy on Education 1986: Programme of Action 1992*, p. 77.
+
+[58] *All India Council for Technical Education Act, 1987*, s. 10.
+
+[59] *All India Council for Technical Education Act, 1987*, ss. 2(g), 2(h). Section 2(g) defines technical education as 'programmes of education, research and training in engineering, technology, architecture, town planning, management, pharmacy and applied art and crafts', with any other field the central government adds by notification. How such courses were treated in practice is not recorded; the reading of the statute is supported by Hanna (Hanna, *Exploiting Information Technology for Development* (1994), p. 51).
+
+[60] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+
+[61] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17; *All India Council for Technical Education Act, 1987*.
+
+[62] Ministry of Human Resource Development, *National Policy on Education 1986: Programme of Action 1992*, pp. 77-78.
+
+[63] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 673.
+
+[64] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 639; Reserve Bank of India, *Handbook of Statistics on Indian Economy*, 1991 calendar-year average rate (Rs 22.69 per US dollar).
+
+[65] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 691. No contemporary figure for capitation payments in engineering has been located.
+
+[66] *Mohini Jain v. State of Karnataka* (1992), pp. 663-64.
+
+[67] *Mohini Jain v. State of Karnataka* (1992), pp. 664-65.
+
+[68] *Mohini Jain v. State of Karnataka* (1992), p. 670.
+
+[69] *Mohini Jain v. State of Karnataka* (1992), p. 672.
+
+[70] *Mohini Jain v. State of Karnataka* (1992), p. 673.
+
+[71] *Mohini Jain v. State of Karnataka* (1992), pp. 669, 680-81.
+
+[72] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 636.
+
+[73] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 636.
+
+[74] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 636.
+
+[75] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 636-37.
+
+[76] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 691.
+
+[77] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 691.
+
+[78] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 692. The judgment does not spell out which half it meant by 'free students'.
+
+[79] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 623-24.
+
+[80] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), headnote, p. 597.
+
+[81] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), headnote, p. 599.
+
+[82] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 673.
+
+[83] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 654-55.
+
+[84] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), headnote, p. 594.
+
+[85] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 682.
+
+[86] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 683-84.
+
+[87] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), pp. 684-85.
+
+[88] *T.M.A. Pai Foundation v. State of Karnataka* (2002), paras. 45, 56-57.
+
+[89] *Mohini Jain v. State of Karnataka* (1992), pp. 663-64.
+
+[90] *Unni Krishnan, J.P. v. State of Andhra Pradesh* (1993), p. 692.
+
+[91] *Mohini Jain v. State of Karnataka* (1992), p. 664.
+
+[92] Hanna, *Exploiting Information Technology for Development* (1994), pp. 51, 71.
+
+[93] Hanna, *Exploiting Information Technology for Development* (1994), p. 51.
+
+[94] Narayan, 'The Men Behind NIIT' (2002); live-checked 2026-10-13.
+
+
+## Chapter 8. Satellite and permit (1984-1991)
+
+[1] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[2] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[3] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[4] Roye, 'Revolution on a Bullock Cart' (2013); Rajaraman, *History of Computing in India* (2012), p. 33. Roye wrote in 2013, nearly three decades after the event.
+
+[5] Sona Group, 'Satellite Dish for India's First IT Company Arrived on a Bullock Cart' (company self-description).
+
+[6] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[7] Rajaraman, *History of Computing in India* (2012), pp. 33, 36.
+
+[8] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[9] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[10] Rajaraman, *History of Computing in India* (2012), p. 31.
+
+[11] Rajaraman, *History of Computing in India* (2012), pp. 29, 37.
+
+[12] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
+
+[13] Rajaraman, *History of Computing in India* (2012), pp. 31-32, 40 (any firm could now build 32-bit machines, the limits on numbers were removed, and populated circuit boards could be imported; the manufacture of superminicomputers and mainframes stayed reserved for the Electronics Corporation of India, and imported computers had to be maintained by CMC or by their users, not by their makers); Rajaraman, *History of Computing in India* (2012), p. 32 (software as an industry, the duty cut and onsite work counted as exports). Chapter 5 tells the policy's effect on the manufacturers.
+
+[14] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[15] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[16] Hanna, *Exploiting Information Technology for Development* (1994), p. 106.
+
+[17] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[18] Rajaraman, *History of Computing in India* (2012), pp. 32-33.
+
+[19] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+
+[20] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[21] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[22] Rajaraman, *History of Computing in India* (2012), pp. 34-36.
+
+[23] Rajaraman, *History of Computing in India* (2012), pp. 33, 42.
+
+[24] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[25] Hanna, *Exploiting Information Technology for Development* (1994), p. 98.
+
+[26] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
+
+[27] Texas Instruments, 'TI Celebrates 20 Years in India' (2005) (TI's milestone list, published for its twentieth anniversary in 2005: began operating in India in 1985); Rajaraman, *History of Computing in India* (2012), p. 36 (negotiation of the link, 1985); Roye, 'Revolution on a Bullock Cart' (2013) (the dish, 1985); Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13 (TI's arrival and the start of its operations, 1986). A primary record of the earth station's licence would settle the date.
+
+[28] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
+
+[29] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009). Chapter 6 gives COSL's later standing among the exporters. Indian firms had also done some work for foreign clients from India since the 1970s (Chapter 4).
+
+[30] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[31] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
+
+[32] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[33] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13.
+
+[34] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[35] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[36] Rajaraman, *History of Computing in India* (2012), p. 33.
+
+[37] Rajaraman, *History of Computing in India* (2012), p. 33.
+
+[38] Rajaraman, *History of Computing in India* (2012), p. 33.
+
+[39] Rajaraman, *History of Computing in India* (2012), p. 33.
+
+[40] Software Technology Parks of India, 'Background' (agency self-description).
+
+[41] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[42] Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
+
+[43] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6. Chapter 6 gives his fuller figures.
+
+[44] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[45] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[46] *Dataquest*, '1976-1985: The Big Blue Impact' (2006).
+
+[47] Indian Labour Archives, 'Suresh Dhopeshwarkar'. The union's name is garbled in the scanned note, and the terms of the agreement are not given.
+
+[48] Rajaraman, *History of Computing in India* (2012), pp. 31, 39.
+
+[49] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[50] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[51] Comptroller and Auditor General, Report No. 11 of 2007 (Railways), para 1.3, p. 4 (the full sentence: 'The pilot project of PRS was launched on 15 November 1985, over Northern Railway with the installation of the Integrated Multiple Train Passenger Reservation System (IMPRESS)', developed by the railways with CMC at New Delhi). Rajaraman, *History of Computing in India* (2012), p. 38 (the project began in 1984; the New Delhi system was working by 1986). The two fit: the pilot ran at New Delhi from late 1985, and the system was in service there by 1986. *Dataquest*, 'Happy Journey!' (2009), and PIB backgrounder (2026): *Dataquest* (2009) says the pilot covered 'a few popular trains' and that the whole New Delhi reservation system was computerised in May 1987; the Press Information Bureau's backgrounder of 6 August 2026 says the reservation system was 'Introduced in 1986' and gives no day or month (post-cutoff material, checked against the live source on 15 October 2026). A Lok Sabha answer of 8 May 1985 on CMC's turnkey system for Northern Railway (Lok Sabha, written answer, 8 May 1985) bears on the contract; no copy of its text has been located.
+
+[52] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[53] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[54] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[55] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[56] Rajaraman, *History of Computing in India* (2012), p. 38. No independent confirmation of the claim has been found.
+
+[57] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[58] Rajaraman, *History of Computing in India* (2012), p. 39.
+
+[59] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[60] Rajaraman, *History of Computing in India* (2012), p. 36.
+
+[61] Rajaraman, *History of Computing in India* (2012), p. 37.
+
+[62] Rajaraman, *History of Computing in India* (2012), p. 37.
+
+[63] Rajaraman, *History of Computing in India* (2012), p. 37.
+
+[64] Churchill, 'Monsoon Hunters' (1987).
+
+[65] Rajya Sabha written answer, 12 November 1987, and Lok Sabha written answer, 12 May 1993, a parliamentary answer of 1993, is reported to record the import of a Cray X-MP/14 in October 1988 for the centre. No copy of the answer has been located; the model and the date rest on that report.
+
+[66] Rajaraman, *History of Computing in India* (2012), p. 37.
+
+[67] Rajaraman, *History of Computing in India* (2012), p. 37; Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
+
+[68] Rajaraman, *History of Computing in India* (2012), pp. 37-38.
+
+[69] *The Better India*, 'Who Made India's First Supercomputer?' (2017) (Sanchari Pal, 13 January 2017). Low reliability; cited only as an example of the popular version.
+
+[70] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[71] Rajaraman, *History of Computing in India* (2012), p. 37.
+
+[72] Rajaraman, *History of Computing in India* (2012), p. 35 (funding: $1.5 million from the UNDP and Rs 340 million from the DoE).
+
+[73] Rajaraman, *History of Computing in India* (2012), p. 36 (funding: $5.2 million from the UNDP and Rs 140 million from the DoE; the five institutions were IISc, IIT Madras, the Indian Statistical Institute, the Tata Institute of Fundamental Research and NCST; 'A large number of scientists' went abroad).
+
+[74] Rajaraman, *History of Computing in India* (2012), pp. 38-39 (funding: $6 million over four years from the UNDP, with Rs 41 million from the government).
+
+[75] Rajaraman, *History of Computing in India* (2012), p. 39.
+
+[76] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[77] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19. Chapter 7 tells the growth of the colleges.
+
+[78] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[79] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[80] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[81] Rajaraman, *History of Computing in India* (2012), p. 42.
+
+[82] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[83] Rajaraman, *History of Computing in India* (2012), p. 39.
+
+[84] Hanna, *Exploiting Information Technology for Development* (1994), p. 106.
+
+[85] Rajaraman, *History of Computing in India* (2012), p. 39.
+
+[86] Rajaraman, *History of Computing in India* (2012), p. 39.
+
+[87] Hanna, *Exploiting Information Technology for Development* (1994), p. 97. Rajaraman (Rajaraman, *History of Computing in India* (2012), p. 39) names Bangalore as the first park; by the Bank's dates Pune preceded it by two months.
+
+[88] Software Technology Parks of India, 'Background' (agency self-description). The agency says three parks, at Pune, Bangalore and Bhubaneswar, were set up as autonomous societies in 1990.
+
+[89] Hanna, *Exploiting Information Technology for Development* (1994), p. 97.
+
+[90] Rajaraman, *History of Computing in India* (2012), p. 41.
+
+[91] Hanna, *Exploiting Information Technology for Development* (1994), p. 100 (the table also gives $52 million for FY1987-88). Other series give slightly different figures; the data appendix compares them.
+
+[92] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2. Chapter 6 gives Heeks's estimate of net earnings.
+
+[93] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[94] Rajaraman, *History of Computing in India* (2012), pp. 29, 31, 33.
+
+[95] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[96] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[97] Sharma, 'The Long Revolution' (YaleGlobal excerpt, c. 2009).
+
+[98] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[99] Rajaraman, *History of Computing in India* (2012), pp. 33, 36, 39, 42; Hanna, *Exploiting Information Technology for Development* (1994), p. 28.
+
+[100] Rajaraman, *History of Computing in India* (2012), p. 30.
+
+[101] Rajaraman, *History of Computing in India* (2012), p. 43.
+
+[102] Rajaraman, *History of Computing in India* (2012), p. 43.
+
+
+## Chapter 9. 1991 (1990-1997)
+
+[1] Singh, *Budget 1991-92* speech (1991), p. 1; Rajaraman, *History of Computing in India* (2012), p. 43.
+
+[2] Singh, *Budget 1991-92* speech (1991), p. 1.
+
+[3] Singh, *Budget 1991-92* speech (1991), p. 1.
+
+[4] Singh, *Budget 1991-92* speech (1991), p. 2.
+
+[5] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 1991 (Rs 22.69 per US dollar); conversion by the author.
+
+[6] Singh, *Budget 1991-92* speech (1991), p. 20.
+
+[7] Singh, *Budget 1991-92* speech (1991), p. 31.
+
+[8] Rajaraman, *History of Computing in India* (2012), pp. 44, 48.
+
+[9] Singh, *Budget 1991-92* speech (1991), p. 2.
+
+[10] Rajaraman, *History of Computing in India* (2012), p. 43.
+
+[11] Singh, *Budget 1991-92* speech (1991), p. 4.
+
+[12] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rates: Rs 17.50 per US dollar (1990), Rs 25.92 (1992).
+
+[13] Singh, *Budget 1991-92* speech (1991), p. 4.
+
+[14] Singh, *Budget 1991-92* speech (1991), p. 6.
+
+[15] Singh, *Budget 1991-92* speech (1991), p. 20.
+
+[16] Software Technology Parks of India, 'Background' (agency self-description); Hanna, *Exploiting Information Technology for Development* (1994), p. 97.
+
+[17] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
+
+[18] Hanna, *Exploiting Information Technology for Development* (1994), p. 96.
+
+[19] Rajaraman, *History of Computing in India* (2012), p. 48.
+
+[20] Rajaraman, *History of Computing in India* (2012), p. 44.
+
+[21] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
+
+[22] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
+
+[23] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9.
+
+[24] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 9-10.
+
+[25] Rajaraman, *History of Computing in India* (2012), p. 44.
+
+[26] Rajaraman, *History of Computing in India* (2012), p. 44.
+
+[27] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[28] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[29] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[30] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[31] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17; Reserve Bank of India, *Handbook of Statistics on Indian Economy*, converted at the 1991 calendar-year average rate (Rs 22.69 per US dollar).
+
+[32] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[33] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[34] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[35] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[36] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[37] *OfficeChai*, 'This Infosys Job Advertisement from 1991' (2017).
+
+[38] Infosys, Form F-1 (1999), p. 50.
+
+[39] Infosys, Form F-1 (1999), p. 42.
+
+[40] Rajaraman, *History of Computing in India* (2012), p. 43 (160,000 software engineers by about 1997); Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 6 (Nasscom's figures as Khanna and Morales report them: about 160,000 software professionals in 1996 and about 340,000 in 2000).
+
+[41] Infosys, Form F-1 (1999), p. 40.
+
+[42] Rajaraman, *History of Computing in India* (2012), p. 45.
+
+[43] Infosys, Form F-1 (1999), p. 42.
+
+[44] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 n. 5, quoting Subramanian (1992); the 1992 study is cited here through Khanna and Morales.
+
+[45] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 17-18.
+
+[46] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
+
+[47] Infosys, Form F-1 (1999), pp. 36, 40.
+
+[48] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
+
+[49] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 19.
+
+[50] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 19-20.
+
+[51] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 20.
+
+[52] Infosys, Form F-1 (1999), p. 14.
+
+[53] Infosys, Form F-1 (1999), p. 33. Murthy's 'about 25 percent' (Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 19) and the filing's 21.5 per cent, which is for the year to March 1996, probably refer to different periods.
+
+[54] Infosys, Form F-1 (1999), p. 33.
+
+[55] Infosys, Form F-1 (1999), p. 44.
+
+[56] Infosys, Form F-1 (1999), p. 44.
+
+[57] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
+
+[58] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6.
+
+[59] AnnaLee Saxenian, citing a study by Balaji Parthasarathy, gives onsite production as 90 per cent of exports in 1990 and 58 per cent in 1998 (Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10), and 61 per cent for 1995 in an earlier report (Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66 n. 24). Heeks measured development effort rather than revenue and found the same pattern for 1988 (Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6). The series start in different years and measure revenue, exports or effort, which is why they differ by a few points.
+
+[60] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), pp. 7-8.
+
+[61] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 9.
+
+[62] Rajaraman, *History of Computing in India* (2012), pp. 44-45.
+
+[63] Rajaraman, *History of Computing in India* (2012), p. 45.
+
+[64] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 16-17.
+
+[65] Infosys, Form F-1 (1999), p. 45.
+
+[66] Infosys, Form F-1 (1999), p. 50.
+
+[67] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 6; Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
+
+[68] Rajaraman, *History of Computing in India* (2012), p. 45 (ISO 9001 and the five levels of the Software Engineering Institute's Capability Maturity Model); Infosys, Form F-1 (1999), p. 46.
+
+[69] Rajaraman, *History of Computing in India* (2012), p. 48 (Bhatnagar's series as reproduced by Rajaraman: $128 million in 1990-91, $164 million in 1991-92, $330 million in 1993-94, $734 million in 1995-96, $1,759 million in 1997-98); Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2 (Heeks, from his own research and Dataquest: $131.2 million, $173.9 million, $480.9 million in 1994-95, $1,650 million in 1997-98). Heeks's series shows growth of 29 to 51 per cent a year in the late 1980s and 24 to 33 per cent in 1990-93.
+
+[70] Rajaraman, *History of Computing in India* (2012), p. 43.
+
+[71] Infosys, Form F-1 (1999), pp. 15, 33.
+
+[72] Rajaraman, *History of Computing in India* (2012), pp. 46-47.
+
+[73] Rajaraman, *History of Computing in India* (2012), p. 47; Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 n. 3.
+
+[74] Rajaraman, *History of Computing in India* (2012), pp. 47-48.
+
+[75] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 11.
+
+[76] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
+
+[77] Rajaraman, *History of Computing in India* (2012), p. 47.
+
+[78] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 9; Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2; Rajaraman, *History of Computing in India* (2012), p. 48.
+
+[79] Singh, *Budget 1991-92* speech (1991), p. 20; Hanna, *Exploiting Information Technology for Development* (1994), p. 97.
+
+[80] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 15.
+
+[81] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[82] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+
+## Chapter 10. Bangalore (1947-2010)
+
+[1] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[2] Roye, 'Revolution on a Bullock Cart' (2013). The scene rests on Roye's own memory, written about forty years after the event. The bullock-cart arrival at Sona Towers opens Chapter 8.
+
+[3] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17. The advertisement, published on 26 November 1991, is described in Chapter 9.
+
+[4] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7 n. 10. The rule is discussed below, in 'The parks and the bargain'.
+
+[5] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
+
+[6] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
+
+[7] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11.
+
+[8] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 1.
+
+[9] Energy and Wetlands Research Group, IISc, 'Demography and Economy' (live-checked 2026-10-13). These are the research group's figures as published on its website, not the census tables themselves.
+
+[10] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[11] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[12] IISc, 'IISc's Role in Helping Wipro Launch Its Minicomputers' (2019).
+
+[13] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
+
+[14] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
+
+[15] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
+
+[16] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
+
+[17] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 10.
+
+[18] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11. Murthy gives no year for the move to Bangalore, and no primary record of the date has been located.
+
+[19] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14 n. 27.
+
+[20] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 12-13.
+
+[21] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
+
+[22] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
+
+[23] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
+
+[24] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13.
+
+[25] Roye, 'Revolution on a Bullock Cart' (2013); Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 24. Murali's list begins with a liberalised economy, friendly state policies, a skilled English-speaking workforce and the public-sector giants. Murthy's earlier account of why Infosys itself moved to Bangalore does not mention the weather (Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11). Heeks's interviews and Murthy's account of the move both put engineers first; the climate was a real and perceived amenity that made the city easier to sell to engineers and managers.
+
+[26] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 7.
+
+[27] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13. The sources date the link to 1985 or 1986; Chapter 8 tells how it was negotiated and weighs the dates.
+
+[28] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 6.
+
+[29] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 6.
+
+[30] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11. The employer is anonymous and speaks through two layers of citation, so the words are evidence of what managers said rather than of what the work was. A second passage on the same page, quoted in Chapter 15, has the chief executive of an offshore development centre claiming parity with his company's headquarters in Silicon Valley; Saxenian's footnotes trace both passages to the same interview of July 1996, so they may be one man.
+
+[31] Rajaraman, *History of Computing in India* (2012), p. 48.
+
+[32] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11 n. 21.
+
+[33] Rajaraman, *History of Computing in India* (2012), p. 48.
+
+[34] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
+
+[35] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 12.
+
+[36] Hanna, *Exploiting Information Technology for Development* (1994), p. 97. The origins of the scheme are told in Chapter 8.
+
+[37] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 6-7.
+
+[38] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7 n. 10.
+
+[39] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7 n. 10.
+
+[40] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 7.
+
+[41] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10. Chapter 9 sets out and compares the series for the onsite share.
+
+[42] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10 n. 19.
+
+[43] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 9 (citing the Karnataka Development Report 2007); dollar figures converted at the calendar-year average rates for 1991 (Rs 22.69) and 2003 (Rs 46.58) from Reserve Bank of India, *Handbook of Statistics on Indian Economy*; the source does not say whether its years are calendar or fiscal.
+
+[44] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 9.
+
+[45] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 9.
+
+[46] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12. Other counts of the workforce differ; Chapter 9 compares them.
+
+[47] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 13.
+
+[48] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 13.
+
+[49] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+
+[50] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
+
+[51] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+
+[52] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12. Chapter 13 takes up the visa.
+
+[53] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10.
+
+[54] Roye, 'Revolution on a Bullock Cart' (2013). Roye gives no source for the figure.
+
+[55] *Business Today*, 'A Cyber View' (1998).
+
+[56] *Business Today*, 'A Cyber View' (1998).
+
+[57] *Business Today*, 'A Cyber View' (1998).
+
+[58] *Business Today*, 'A Cyber View' (1998). The Microsoft decision is given as the magazine reported it; Microsoft's own announcement has not been located.
+
+[59] *Business Today*, 'A Cyber View' (1998).
+
+[60] *Business Today*, 'A Cyber View' (1998).
+
+[61] *Business Today*, 'A Cyber View' (1998).
+
+[62] *Business Today*, 'A Cyber View' (1998).
+
+[63] *Business Today*, 'A Cyber View' (1998).
+
+[64] *Business Today*, 'A Cyber View' (1998).
+
+[65] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 13.
+
+[66] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14.
+
+[67] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20.
+
+[68] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 2.
+
+[69] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 20-21.
+
+[70] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 16.
+
+[71] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20.
+
+[72] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20.
+
+[73] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 24.
+
+[74] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 23-24.
+
+[75] Rajaraman, *History of Computing in India* (2012), p. 55; Roye, 'Revolution on a Bullock Cart' (2013).
+
+[76] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 23.
+
+[77] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 13; Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 10-11.
+
+[78] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 2, 12, 19.
+
+[79] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), pp. 10-11.
+
+[80] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 20; RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 8, 26. Two urban histories bear most directly on this reading: Janaki Nair's history of twentieth-century Bangalore (Nair, *The Promise of the Metropolis* (2005)) and James Heitzman's study of the city's planning in the IT era (Heitzman, *Network City* (2004)). Neither is drawn on here, and no ethnography of Bangalore's software workers is used in this chapter, so the professionals' own account of their city is absent from it.
+
+[81] RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 3, 17. The paper, published by Oxford University's Contemporary South Asian Studies Programme, is undated but was released around 2011.
+
+[82] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 1.
+
+[83] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 8.
+
+[84] RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 8-9.
+
+[85] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 12.
+
+[86] RoyChowdhury, 'Livelihood and Income' (c. 2011), pp. 24-25.
+
+[87] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 25.
+
+[88] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 26.
+
+[89] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 26.
+
+[90] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[91] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[92] Roye, 'Revolution on a Bullock Cart' (2013).
+
+[93] Roye, 'Revolution on a Bullock Cart' (2013).
+
+
+## Chapter 11. Y2K and Nasdaq (1995-2002)
+
+[1] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[2] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[3] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[4] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[5] *Business Today*, 'Infosys: Wealth & Values' (2001); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2000 (Rs 44.94 per US dollar); conversions by the author.
+
+[6] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[7] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[8] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[9] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), pp. 19-20. As Murthy recalled it in 2020, a cut for GE would have meant cuts for every other client, and less money for pay, tools and training.
+
+[10] Infosys, Form F-1 (1999), p. 5.
+
+[11] Infosys, Form F-1 (1999), p. 10.
+
+[12] Infosys, Form 20-F FY2002, p. 5; Infosys, Form F-1 (1999), p. 6.
+
+[13] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 16.
+
+[14] Infosys, Form F-1 (1999), p. 8.
+
+[15] Infosys, Form F-1 (1999), p. 27.
+
+[16] Infosys, Form F-1 (1999), p. 5.
+
+[17] Infosys, Form F-1 (1999), p. 12.
+
+[18] Rajaraman, *History of Computing in India* (2012), p. 45.
+
+[19] Rajaraman, *History of Computing in India* (2012), pp. 45-46.
+
+[20] Motorola, Global Software Group media kit, Motorola GSG media kit (company self-description); Liu, 'Quick Win Strategy in CMMI Transition', Motorola (2005), slide 4 (a timeline slide the group showed at a conference of the American National Defense Industrial Association in 2005, which also places 'CMM 5: India' in 1993; slide image checked, the India Level 5 marker drops from the 1993 column); Rajaraman, *History of Computing in India* (2012), p. 45 (Rajaraman repeats the claim without a separate source).
+
+[21] Babu, 'The Quality Bug', *Business Today* (2003), para. 4: 'Motorola India Electronics was the first company in India to get a SEI CMM certification in 1994'; the level is not given. Motorola's own material and the magazine differ on the year as well as the claim, and no record from the Software Engineering Institute itself has been located.
+
+[22] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11. The two counts may cover different months or count organisations differently.
+
+[23] Rajaraman, *History of Computing in India* (2012), p. 52.
+
+[24] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
+
+[25] Babu, 'The Quality Bug', *Business Today* (2003), para. 1.
+
+[26] Babu, 'The Quality Bug', *Business Today* (2003), para. 7.
+
+[27] Infosys, Form F-1 (1999), p. 6.
+
+[28] Rajaraman, *History of Computing in India* (2012), p. 46.
+
+[29] Infosys, Form F-1 (1999), p. 45.
+
+[30] Infosys, Form F-1 (1999), p. 6.
+
+[31] Infosys, Form F-1 (1999), p. 45.
+
+[32] Infosys, Form 20-F FY2002, p. 4.
+
+[33] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 10 (Parthasarathy's series, 58 per cent at clients' sites in 1998); Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5 (56 per cent on site in 2000).
+
+[34] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+
+[35] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+
+[36] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[37] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[38] Rajaraman, *History of Computing in India* (2012), p. 46.
+
+[39] Infosys, Form F-1 (1999), pp. 32-33.
+
+[40] Infosys, Form F-1 (1999), p. 15.
+
+[41] Rajaraman, *History of Computing in India* (2012), p. 46. Rajaraman took the figure from an earlier history.
+
+[42] Infosys, Form F-1 (1999), p. 15.
+
+[43] Infosys, Form F-1 (1999), p. 15.
+
+[44] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
+
+[45] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
+
+[46] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
+
+[47] *Computergram* (1999), 'Indian Software Firms Fear Post-Y2K Profit Slump', 14 June 1999.
+
+[48] Rajaraman, *History of Computing in India* (2012), p. 47.
+
+[49] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+
+[50] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 1999 (Rs 43.05 per US dollar); conversion by the author.
+
+[51] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+
+[52] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+
+[53] Rajaraman, *History of Computing in India* (2012), p. 48.
+
+[54] Rajaraman, *History of Computing in India* (2012), p. 46.
+
+[55] Computer History Museum, 'Oral History of Natarajan Chandrasekaran' (2020), PDF pp. 1, 8 (interviewer's introduction for the dates; Chandrasekaran's recollection, 2020).
+
+[56] Rajaraman, *History of Computing in India* (2012), p. 46.
+
+[57] Mukherjee, 'The Rs 1,800 Cr Hoax?' (2000).
+
+[58] Infosys, Form 20-F FY2002, p. 16 (year to March 2002: about 193,640 applications, about 6,730 interviewed, about 1,710 offers and about 1,550 accepted; recruiting focused 'on the top 20% of students from engineering departments of Indian schools'); Infosys, Form F-1 (1999), p. 6 (year to March 1998: about 70,870 applications and about 1,300 acceptances); *Business Today*, 'Infosys: Wealth & Values' (2001) (*Business Today*: 183,966 applications in 1999, 259,820 in 2000 up to 1 December, and 2,991 people hired from April to September 2000). Ratios calculated by the author.
+
+[59] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17 (the 1991 advertisement, for engineers of any discipline, with training promised); Infosys, Form F-1 (1999), p. 6.
+
+[60] Infosys, Form F-1 (1999), p. 6.
+
+[61] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[62] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[63] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[64] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[65] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
+
+[66] Infosys, prospectus (Form 424B4, 1999), cover page (dated 10 March 1999; filed 11 March 1999).
+
+[67] Infosys, prospectus (Form 424B4, 1999), cover page: the equivalent price on the Mumbai exchange on 10 March 1999 was $37.18 per ADS, at Rs 42.50 to the dollar.
+
+[68] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 18.
+
+[69] *Computergram* (1999), 'Indian Software Exports Booming', 30 June 1999.
+
+[70] Satyam Infoway, Form 20-F FY2002, p. 55. The filing appears to give the $4.50 on the basis it uses for its price history, which is stated after a four-for-one split of the ADSs in January 2000.
+
+[71] Satyam Infoway, Form 20-F FY2002, p. 15.
+
+[72] Satyam Infoway, Form 20-F FY2002, p. 10.
+
+[73] Infosys, Form F-1 (1999), p. 28.
+
+[74] Infosys, Form F-1 (1999), p. 28.
+
+[75] Rajaraman, *History of Computing in India* (2012), p. 50.
+
+[76] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2000 (Rs 44.94 per US dollar); conversion by the author.
+
+[77] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[78] *Business Today*, 'Infosys: Wealth & Values' (2001).
+
+[79] Computer History Museum, 'Oral History of N.R. Narayana Murthy, Part 2' (2020), p. 24.
+
+[80] Satyam Infoway, Form 20-F FY2002, p. 18 (prices after the January 2000 split).
+
+[81] Satyam Infoway, Form 20-F FY2002, p. 55.
+
+[82] Satyam Infoway, Form 20-F FY2002, p. 13.
+
+[83] Satyam Infoway, Form 20-F FY2002, p. 15.
+
+[84] Infosys, Form 20-F FY2002, p. 5.
+
+[85] Infosys, Form 20-F FY2002, p. 11.
+
+[86] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts ($6,341 million in FY2000-01, $7,556 million in FY2001-02), RBI Handbook edition id 10663.
+
+[87] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+
+[88] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+
+[89] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+
+[90] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, financial-year average rate for FY2001-02 (Rs 47.69 per US dollar); conversion by the author.
+
+[91] Infosys, Form F-1 (1999), pp. 32, 44.
+
+[92] Infosys, Form F-1 (1999), p. 15.
+
+[93] Infosys, Form F-1 (1999), p. 10.
+
+[94] Infosys, Form 20-F FY2002, p. 6.
+
+[95] Rajaraman, *History of Computing in India* (2012), p. 45.
+
+[96] Infosys Consultants, recruitment advertisement, *Times of India*, 26 November 1991, p. 17.
+
+[97] Infosys, Form 20-F FY2002, p. 16.
+
+
+## Chapter 12. The engineer factory (1998-2012)
+
+[1] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132; dollar figure at the 2004 calendar-year average rate of Rs 45.32 per dollar, Reserve Bank of India, *Handbook of Statistics on Indian Economy*; the interview year is not stated, 2003-05.
+
+[2] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 124-126, 132.
+
+[3] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132.
+
+[4] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19 (Table 1.17).
+
+[5] MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19 (Table 1.17).
+
+[6] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[7] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 45 (majority opinion of B.N. Kirpal CJI).
+
+[8] *T.M.A. Pai Foundation v. State of Karnataka* (2002), paras. 56-57; see also para. 69.
+
+[9] *T.M.A. Pai Foundation v. State of Karnataka* (2002), para. 68.
+
+[10] Rajaraman, *History of Computing in India* (2012), p. 51.
+
+[11] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[12] Rajaraman, *History of Computing in India* (2012), p. 12.
+
+[13] Rajaraman, *History of Computing in India* (2012), p. 51.
+
+[14] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 14 n. 27. Saxenian reported an estimate that 60 per cent of India's computer science graduates came from Andhra Pradesh, Karnataka and Tamil Nadu; see Chapter 10.
+
+[15] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), pp. 189-190.
+
+[16] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13). The Avanti Fellows series of approved places begins in 2012-13.
+
+[17] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
+
+[18] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 3.
+
+[19] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), pp. 1-2.
+
+[20] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5.
+
+[21] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 6.
+
+[22] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
+
+[23] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
+
+[24] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[25] Rajaraman, *History of Computing in India* (2012), p. 12.
+
+[26] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+
+[27] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 5; Aspiring Minds, *National Employability Report: Engineers*, p. 7; MoSPI, 'Number of Recognised Educational Institutions', Table 1.17, p. 19.
+
+[28] Avanti Fellows, 'Technical Seats' (2026) (secondary analysis of AICTE and AISHE data; consulted 2026-10-12; post-cutoff material, analysis dated August 2026; live-checked 2026-10-13).
+
+[29] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[30] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[31] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 8.
+
+[32] Infosys, Form F-1 (1999), p. 6.
+
+[33] Infosys, Form 20-F FY2008, Item 4.
+
+[34] Infosys, Form 20-F FY2005, Item 4; Infosys, Form 20-F FY2008, Item 4. The filings count all 'offers of employment' without separating new graduates from experienced recruits, so the growth in fresher hiring alone cannot be read from them. Offers are the steadier measure. The number of applications behaves oddly: the year to March 2005 shows about 1,348,800, more than the 885,000 of three years later, even though offers more than tripled in between. Both filings use 'screened' in one place and 'received' in another for the same figure, so the change of wording does not explain the fall.
+
+[35] Infosys, Form 20-F FY2002; Infosys, Form 20-F FY2005, Item 6.D; Infosys, Form 20-F FY2008, Items 3 and 6.D; Infosys, Form 20-F FY2012, Items 3 and 6.D.
+
+[36] Computer History Museum, 'Oral History of Natarajan Chandrasekaran' (2020), PDF p. 5 (recollection in 2020; the transcript spells IIT as 'ITT').
+
+[37] Rajaraman, *History of Computing in India* (2012), p. 56.
+
+[38] Raja Simhan, 'It's a Real Slowdown at Campuses' (2002).
+
+[39] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 4, 57 (Bangalore fieldwork January 2004 to June 2005, p. 4; printed page numbers, PDF page minus 10).
+
+[40] Infosys, Form 20-F FY2004, Items 4 and 6.D.
+
+[41] *Business Today*, 'Infosys: Wealth & Values' (2001) (article by R. Sukumar).
+
+[42] Infosys, Form 20-F FY2002, Items 4 and 6.D.
+
+[43] Infosys, Form 20-F FY2005, Item 4.
+
+[44] Infosys, Form 20-F FY2005, Item 5.
+
+[45] Infosys, Form 20-F FY2008, Items 4 and 6.D.
+
+[46] Infosys, Form 20-F FY2012, Item 4.
+
+[47] Infosys, Form 20-F FY2012, Item 5.
+
+[48] Infosys, Form 20-F FY2012, Item 5. No published account by a trainee at Mysore in this period has been located, and the company's press releases on the campus's opening have not been found.
+
+[49] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2012, Item 4.
+
+[50] Infosys, Form F-1 (1999), p. 45. Chapter 11 describes the pyramid in more detail.
+
+[51] Infosys, Form 20-F FY2005, Item 5; Infosys, Form 20-F FY2008, Item 5.
+
+[52] Infosys, Form 20-F FY2012, Items 3 and 5.
+
+[53] Infosys, Form 20-F FY2008, Items 3 and 5.
+
+[54] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 85.
+
+[55] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 85.
+
+[56] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 86.
+
+[57] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 87.
+
+[58] Infosys, Form 20-F FY2005, Item 3; Infosys, Form 20-F FY2008, Item 3; Infosys, Form 20-F FY2012, Item 3.
+
+[59] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
+
+[60] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
+
+[61] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+
+[62] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 127.
+
+[63] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+
+[64] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125; dollar figure at the 2004 calendar-year average rate of Rs 45.32 per dollar, Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
+
+[65] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125-126 and n. 9.
+
+[66] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 141.
+
+[67] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 4, 37.
+
+[68] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
+
+[69] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 127-128.
+
+[70] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
+
+[71] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 130.
+
+[72] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 133.
+
+[73] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 134.
+
+[74] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 134, 142.
+
+[75] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
+
+[76] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 132.
+
+[77] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
+
+[78] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 170.
+
+[79] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143; Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 171.
+
+[80] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
+
+[81] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 142.
+
+[82] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
+
+[83] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 142-143.
+
+[84] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143 n. 13.
+
+[85] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 143.
+
+[86] Baruah and Wankhar, 'The social gaps in India's IT workforce', NCAER (2025); Bairwa and Sofi, *International Journal of Social Economics* (2025). These national estimates of the caste composition of IT employment, drawn from labour-force survey data, could not be verified against their underlying figures and are not used.
+
+[87] Upadhya, 'Employment, Exclusion and \Merit\" in the Indian IT Industry' (2007)", p. 1864; the report gives the same survey as 71 per cent upper castes, 'about half' Brahmins, Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 38.
+
+[88] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 36.
+
+[89] Aspiring Minds, *National Employability Report: Engineers*, pp. 7-8.
+
+[90] Aspiring Minds, *National Employability Report: Engineers*, p. 8.
+
+[91] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 125, 137.
+
+[92] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125 n. 8.
+
+[93] Society of Women Engineers, 'India Tertiary Education' (2025) (citing the AICTE enrolment dashboard).
+
+[94] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+
+[95] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+
+[96] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138.
+
+[97] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 138 n. 12.
+
+[98] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 139.
+
+[99] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
+
+[100] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 130-131.
+
+[101] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 131.
+
+[102] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
+
+[103] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
+
+[104] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 140.
+
+[105] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 140-141.
+
+[106] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9. The McKinsey Global Institute study is cited as the Duke team quoted it; the study itself is not drawn on directly.
+
+[107] Aspiring Minds, *National Employability Report: Engineers*, p. 9.
+
+[108] Aspiring Minds, *National Employability Report: Engineers*, p. 7.
+
+[109] Aspiring Minds, *National Employability Report: Engineers*, p. 12.
+
+[110] Aspiring Minds, *National Employability Report: Engineers*, p. 13.
+
+[111] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 125.
+
+[112] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (Moneycontrol study as relayed by *HR Katha*, 1 June 2022; the report gives no details of the study's method). Chapter 18 uses the same figure.
+
+[113] OECD, Consumer Price Indices, India (India CPI, calendar-year average; 2004 and 2012 values multiplied by 3.659 and 1.948 to give 2024 rupees; the 2003-05 ICS figure is treated as 2004).
+
+[114] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
+
+[115] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 189.
+
+[116] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 137.
+
+[117] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 131-132.
+
+[118] Upadhya, 'Employment, Exclusion and \Merit\" in the Indian IT Industry' (2007)", p. 1865; Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), pp. 35-36.
+
+[119] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), pp. 3-4.
+
+[120] Gereffi and Wadhwa, *Framing the Engineering Outsourcing Debate* (2005), p. 9.
+
+
+## Chapter 13. H-1B (1990-2015)
+
+[1] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 29 (paragraph count of the online text, newsletter boxes excluded).
+
+[2] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 27, 30 (paragraph count of the online text, newsletter boxes excluded).
+
+[3] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 27, 30 (paragraph count of the online text, newsletter boxes excluded).
+
+[4] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 32, 34-35 (paragraph count of the online text, newsletter boxes excluded).
+
+[5] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 1, 3-5 (paragraph count of the online text, newsletter boxes excluded). The article names the owner and his firm. He was a private individual, and he is not named here. The account of his business is Rozen's reporting and his own statements, as the text labels them; the article cites no documents for it.
+
+[6] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 7 (paragraph count of the online text, newsletter boxes excluded).
+
+[7] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 13 (paragraph count of the online text, newsletter boxes excluded).
+
+[8] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 57 (paragraph count of the online text, newsletter boxes excluded).
+
+[9] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 26 (paragraph count of the online text, newsletter boxes excluded). He refused, Rozen wrote, when told he would not control what appeared in print.
+
+[10] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 75-76 (paragraph count of the online text, newsletter boxes excluded).
+
+[11] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), para. 44 (paragraph count of the online text, newsletter boxes excluded).
+
+[12] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
+
+[13] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
+
+[14] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
+
+[15] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
+
+[16] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
+
+[17] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Temporary Foreign Professional (H-1B) Workers'.
+
+[18] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 23 (Appendix Table 1; NFAP, a pro-immigration policy group, compiling DHS data). Consulted 2026-10-12; post-cutoff material (published November 2025); live-checked 2026-10-13.
+
+[19] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
+
+[20] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
+
+[21] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
+
+[22] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
+
+[23] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Trends in H-1B Entries'.
+
+[24] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Summary'.
+
+[25] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Introduction'.
+
+[26] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Trends in H-1B Entries'.
+
+[27] Rozen, 'Invasion of the Bodyshoppers', *Dallas Observer* (1998), paras 69, 71 (paragraph count of the online text, newsletter boxes excluded).
+
+[28] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Temporary Foreign Professional (H-1B) Workers'.
+
+[29] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 23 (Appendix Table 1; NFAP, a pro-immigration policy group, compiling DHS data). Consulted 2026-10-12; post-cutoff material (published November 2025); live-checked 2026-10-13.
+
+[30] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Summary'.
+
+[31] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Recent H-1B Capped Petitions'.
+
+[32] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
+
+[33] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 12.
+
+[34] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
+
+[35] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS RL30498, 2007 version), section 'Characteristics of Recent H-1B Nonimmigrants'.
+
+[36] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), pp. 1, 11 and p. 1 n. 2.
+
+[37] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54. Approvals in 2013: Infosys 6,298; Tata Consultancy Services 6,258; Cognizant 5,186; Accenture 3,346; Wipro 2,644; HCL Technologies 1,766; IBM's Indian subsidiary 1,624; Mahindra Satyam 1,589; Larsen & Toubro Infotech 1,580; Deloitte 1,491; iGate, which had absorbed Patni, 1,157.
+
+[38] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+
+[39] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54.
+
+[40] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1, p. 54. Khanna and Morales give no matching totals of initial and continuing petitions for 2012 and 2013, so whether these firms took most of all H-1B approvals in those years cannot be tested from their table.
+
+[41] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 2.
+
+[42] Congressional Research Service, 'The H-1B Visa for Specialty Occupation Workers' (CRS IF12912, 2025), p. 1.
+
+[43] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 3, p. 54.
+
+[44] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 13.
+
+[45] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 3 n. 3.
+
+[46] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 43-44.
+
+[47] Bassett, 'Aligning India in the Cold War Era' (2009), p. 803.
+
+[48] Choudhury, Ganguli and Gaulé, 'Top Talent, Elite Colleges, and Migration' (2023), abstract.
+
+[49] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8 n. 9 (the 2004 allowance) and p. 12.
+
+[50] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 8.
+
+[51] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 2, p. 54.
+
+[52] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[53] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[54] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+
+[55] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[56] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[57] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[58] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 1.
+
+[59] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+
+[60] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 11.
+
+[61] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 2.
+
+[62] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43.
+
+[63] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 43 and n. 17, citing Patrick J. McDonnel and Julie Pitta, ''Brain Gain' or Threat to US Jobs?', *Los Angeles Times*, 15 July 1996. Saxenian's note spells the first name 'Prahbat'; the text uses 'Prabhat'. His occupation is not given.
+
+[64] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45.
+
+[65] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 44-45.
+
+[66] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45.
+
+[67] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45 and n. 19, citing Julie Winokur, 'A Network for Sharing Success', *San Jose Mercury News*, 21 March 1994. Saxenian's main text gives the sentence to 'another local entrepreneur who subsequently organized the first meeting of TiE'; her note attributes it to Suhas Patil.
+
+[68] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 45.
+
+[69] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 46.
+
+[70] TiE, 'The Founding of TiE' (TiE's own history; organisation self-description).
+
+[71] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 46.
+
+[72] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 44-46.
+
+[73] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 44.
+
+[74] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 23.
+
+[75] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 24.
+
+[76] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 7-8, 23; Wadhwa et al., *America's New Immigrant Entrepreneurs* (2007), pp. 5, 31. Saxenian's count used a Dun & Bradstreet database of 11,443 technology firms founded in Silicon Valley between 1980 and 1998, and treated as Indian-run those whose chief executives had Indian surnames (p. 7). It missed founders who had handed the chief executive's job to someone else, which her interviews suggested was common because venture capital 'has often been tied to the requirement that non-Asian senior executives be hired' (pp. 8, 23). The 15.5 per cent figure is from Wadhwa, Saxenian and colleagues (2007): the share of Silicon Valley start-ups of 1995-2005 with an Indian immigrant among the key founders, a different measure.
+
+[77] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 62.
+
+[78] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 62-63.
+
+[79] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
+
+[80] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64 n. 19.
+
+[81] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
+
+[82] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 64.
+
+[83] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
+
+[84] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 65.
+
+[85] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 65-66.
+
+[86] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66.
+
+[87] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 66 n. 24. Other estimates of the on-site share, which measure it differently, are compared in Chapter 9.
+
+[88] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67.
+
+[89] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 67.
+
+[90] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
+
+[91] Saxenian, 'From Brain Drain to Brain Circulation' (2005), pp. 3, 6.
+
+[92] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 6.
+
+[93] Saxenian, 'From Brain Drain to Brain Circulation' (2005), p. 17.
+
+[94] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
+
+[95] Fuller and Narasimhan, 'From Landlords to Software Engineers' (2008), p. 190.
+
+[96] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 126.
+
+[97] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 128-129.
+
+[98] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 129.
+
+[99] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), pp. 129-130.
+
+[100] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
+
+[101] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
+
+[102] Fuller and Narasimhan, 'Information Technology Professionals and the New-Rich Middle Class' (2007), p. 146.
+
+[103] Settlement Agreement between the United States and Infosys (2013), para. IV.A.
+
+[104] Settlement Agreement between the United States and Infosys (2013), para. II.D.
+
+[105] Settlement Agreement between the United States and Infosys (2013), para. II.E.2.
+
+[106] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.a.
+
+[107] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.b.
+
+[108] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.c.
+
+[109] Settlement Agreement between the United States and Infosys (2013), para. II.E.3.d.
+
+[110] Settlement Agreement between the United States and Infosys (2013), para. II.G.
+
+[111] Settlement Agreement between the United States and Infosys (2013), para. II.I.
+
+[112] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[113] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[114] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[115] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[116] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[117] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 1.
+
+[118] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[119] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[120] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+[121] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2. Perrero's account was written testimony to a Senate Judiciary Committee hearing on high-skilled immigration on 25 February 2016. He named neither the contractor that supplied the replacements nor their nationality, and neither is supplied here.
+
+[122] Perrero, written testimony to the Senate Judiciary Committee (2016), p. 2.
+
+
+## Chapter 14. Backlash and scale (2002-2011)
+
+[1] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
+
+[2] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
+
+[3] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[4] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[5] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[6] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[7] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[8] Dobbs, *Exporting America* (2004) (bibliographic entry).
+
+[9] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[10] Pink, 'The New Face of the Silicon Age', *Wired* (2004), online text, paragraphs 8, 9, 12 and 41 (Hexaware's location, para. 12; its rank among exporters, para. 41). Journalist's account in contemporary press; *Wired*'s framing is favourable to outsourcing.
+
+[11] Pink, 'The New Face of the Silicon Age', *Wired* (2004), online text, paragraph 16.
+
+[12] *Government Executive*, reports on federal offshoring restrictions (2004).
+
+[13] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), introductory note.
+
+[14] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
+
+[15] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
+
+[16] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'A Controversy Reconsidered'.
+
+[17] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'The Three Industrial Revolutions'.
+
+[18] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+
+[19] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+
+[20] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+
+[21] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'. The 'currently visible tip' remark is made of a 2003 Berkeley study; Blinder set his own estimate against it, against a McKinsey study (both put 11 per cent of American jobs at risk) and against Forrester Research's prediction that 3.3 million American service jobs would move offshore by 2015.
+
+[22] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'; Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'Is Forewarned Forearmed?'.
+
+[23] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'Imperfect Vision' (India 'is learning to exploit its already strong comparative advantage in English').
+
+[24] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+
+[25] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1). All of Roy's story in this section is his own account.
+
+[26] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[27] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[28] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[29] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[30] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[31] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1). The dates of this history are disputed. The *Knowledge at Wharton* introduction places Roy's work at American Express in the mid-1980s (Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview)). Rajaraman says that American Express was the first organisation to start BPO work in India, in 1994, followed by GE Capital International Services (GECIS) in 1997 (Rajaraman, *History of Computing in India* (2012), p. 53). Other accounts date GECIS to October 1996 and credit its founding both to Roy and to Pramod Bhasin, who headed it (William Davidson Institute, 'IT-Enabled Services (C): GE Capital International Services' (2003); the case study is cited from its catalogue summary, since no full copy has been located). The accounts can be partly reconciled, since Roy's mid-1980s findings concern the cost of the existing Indian card operation, not a dedicated export centre, but who founded GECIS, and when, remains open.
+
+[32] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[33] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[34] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[35] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[36] Rajaraman, *History of Computing in India* (2012), p. 53.
+
+[37] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability. The names it gives cannot be checked, and the first names it uses are not repeated here.
+
+[38] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[39] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[40] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[41] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[42] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2006 (Rs 45.31 per US dollar), conversions by the author. Anonymous activist account; low reliability.
+
+[43] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[44] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[45] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[46] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[47] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[48] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007); Reserve Bank of India, *Handbook of Statistics on Indian Economy*, calendar-year average rate for 2006 (Rs 45.31 per US dollar), conversions by the author. Anonymous activist account; low reliability.
+
+[49] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[50] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[51] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[52] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[53] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[54] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[55] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 129. Printed page numbers (PDF page minus 10). Anonymous HR officer and respondent reported by the researchers; fieldwork November 2003 to March 2006, 34 BPO workers interviewed (p. 4).
+
+[56] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 130.
+
+[57] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 153. Anonymous respondent quoted by the researchers.
+
+[58] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 263. Anonymous agent quoted by the researchers; 18 agents in Bangalore and Mumbai (p. 255).
+
+[59] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 264. Anonymous agent quoted by the researchers.
+
+[60] Noronha and D'Cruz, 'Reconciling Dichotomous Demands' (2007), p. 270. Anonymous agent quoted by the researchers.
+
+[61] Taylor et al., 'Domestic Labour' (2010), pre-publication manuscript, sections 'Indian domestic BPO and call centres' (Avendus 2008 starting salaries; Nasscom-Everest 2008, 81 per cent of domestic employment in telecoms) and 'Methods and sources' (618 questionnaires, April to June 2008, members of UNITES). Pre-publication manuscript without page numbers.
+
+[62] Taylor et al., 'Domestic Labour' (2010), pre-publication manuscript, section 'Targets and the labour process'. Anonymous team leader quoted by the researchers. Pre-publication manuscript without page numbers.
+
+[63] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 10; D'Cruz and Noronha, 'Hope to Despair' (2013), p. 480.
+
+[64] D'Cruz and Noronha, 'Hope to Despair' (2013), p. 481.
+
+[65] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 12 (survey April to July 2007 in Bangalore, Chennai, Hyderabad, Kochi, Mumbai and New Delhi; 45 interviews, p. 13).
+
+[66] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 17. Anonymous agent quoted by the researchers.
+
+[67] D'Cruz and Noronha, 'Hope to Despair' (2013), pp. 474 and 481.
+
+[68] Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability.
+
+[69] Taylor et al., 'Indian Call Centres and Business Process Outsourcing' (2009), accepted manuscript, accepted manuscript, p. 16.
+
+[70] Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), para. 14, p. 12. The High Court records that she worked for 'Hewlett Packard (HP) BPO' (Karnataka High Court, Crl. A. No. 245/2011 (31 May 2016), para. 7, p. 5).
+
+[71] Karnataka High Court, Crl. A. No. 245/2011 (31 May 2016), paras. 1-3 and 126, pp. 3-4 and 74-75; Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), paras. 2, 15 and 17, pp. 1-2, 13 and 15. Fast Track (Sessions) Court-XI, Bengaluru, S.C. No. 523/2006, judgment of 6 October 2010: convicted under sections 366, 376 and 302 of the Indian Penal Code; for the murder, rigorous imprisonment for the rest of his life without release. Karnataka High Court, 31 May 2016 (H. Billappa and K.N. Phaneendra JJ.): conviction and sentence confirmed; his appeal and the State's appeal for the death penalty both dismissed. Supreme Court, 28 March 2023 (Abhay S. Oka and Rajesh Bindal JJ.): notice had been issued on sentence only; the trial court could not have directed that he never be released; sentence modified to imprisonment for life, with release only after thirty years of actual sentence, the appeal being partly allowed. By an order of 6 December 2023 the sentences for the other offences run concurrently (Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), M.A. No. 1752 of 2023).
+
+[72] Supreme Court of India, Criminal Appeal No. 942 of 2023 (28 March 2023), para. 15, p. 13.
+
+[73] Upadhya and Vasavi, *Work, Culture, and Sociality in the Indian IT Industry* (2006), p. 153. Anonymous informant quoted by the researchers.
+
+[74] Russell, review of Patel, *Working the Night Shift* (2010), p. 524. Reviewer's account of Patel, *Working the Night Shift* (Stanford University Press, 2010); Patel's book is cited here from the review.
+
+[75] Nasscom, *Strategic Review* and fact sheets, slides 2 and 9; Infosys, prospectus (Form 424B4, 1999), p. 42. Nasscom self-description (industry lobby group). Nasscom added seven to eight million indirect jobs by a multiplier of its own. On its estimates industry revenue rose from about $21.6bn in FY2003-04 to about $64bn in FY2007-08, exports being 62-66 per cent (slides 8, 10), and net additions to employment ran at 234,000 in FY2004-05, 328,000 in FY2005-06 and an estimated 375,000 in FY2007-08 (slide 18). Slide 2 describes Nasscom as having more than 1,200 members, including 250 global companies, which together accounted for over 90 per cent of exports. Other counts of employment for FY2007-08 are lower; Chapter 9 and the data appendix compare them.
+
+[76] Reserve Bank of India, *Handbook of Statistics on Indian Economy*, balance-of-payments software services receipts, RBI Handbook edition ids 10663 (FY2002-03; $40.3bn in FY2007-08) and 15930 (FY2010-11). The bank's separate annual survey of software and IT services exporters, which covered 760 companies in 2010-11, put exports that year at about $47.6bn, up from $38.7bn the year before (Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, 'Highlights' and Table 1). The two series measure different things and should not be added or compared directly, and neither is wholly independent of the lobby: the bank noted in its survey for 2007-08 that it compiled the balance-of-payments software figures using Nasscom's data as a controlling total (Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, box 'Comparison of survey results with NASSCOM and Softex data').
+
+[77] Rajaraman, *History of Computing in India* (2012), p. 80.
+
+[78] Rajaraman, *History of Computing in India* (2012), pp. 52, 49. Industry claims relayed by Rajaraman. He adds (p. 49) that ten Indian IT companies were listed on foreign stock exchanges, with more than 400 delivery centres outside India. The Capability Maturity Model is described in Chapter 11.
+
+[79] Nasscom, *Strategic Review* and fact sheets, slide 14. Nasscom self-description (industry lobby group). The caption also says that smaller 'Tier 2/3 cities' were emerging. The printed percentages add up to slightly more than 100.
+
+[80] Nasscom, *Strategic Review* and fact sheets, slide 12. Nasscom self-description (industry lobby group).
+
+[81] Nasscom, *Strategic Review* and fact sheets, slide 17. Nasscom self-description (industry lobby group).
+
+[82] Nasscom, *Strategic Review* and fact sheets, slide 18. Nasscom self-description (industry lobby group).
+
+[83] Nasscom, *Strategic Review* and fact sheets, slide 19. Nasscom self-description (industry lobby group).
+
+[84] Nasscom, *Strategic Review* and fact sheets, slide 21. Nasscom self-description (industry lobby group).
+
+[85] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
+
+[86] Nasscom, *Strategic Review* and fact sheets, National Skills Registry slides. Nasscom self-description (industry lobby group).
+
+[87] Infosys, Form 20-F FY2004, Item 4.
+
+[88] Infosys, Form 20-F FY2004, Item 8; Infosys, Form 20-F FY2009, Item 4.
+
+[89] Infosys, Form 20-F FY2009, Items 4 and 6.D.
+
+[90] Infosys, Form 20-F FY2009, Item 3.
+
+[91] Infosys, Form 20-F FY2009, Item 3.
+
+[92] Infosys, Form 20-F FY2009, Item 3.
+
+[93] Infosys, Form 20-F FY2009, Item 3.
+
+[94] Infosys, Form 20-F FY2008, Item 4; Infosys, Form 20-F FY2009, Item 4. Over FY2008-09 Infosys received about 488,700 applications, tested about 77,600 applicants and interviewed about 46,600 before making its 16,900 offers; the 46,300 offers of FY2007-08 are from Infosys, Form 20-F FY2008. Chapter 12 follows the recruiting funnel.
+
+[95] Infosys, Form 20-F FY2009, Item 3 (attrition 11.1% for fiscal 2009, 13.4% for fiscal 2008, excluding Infosys BPO and other subsidiaries).
+
+[96] Infosys, Form 20-F FY2009, Items 4 and 6.D (about 12,400 net additions in fiscal 2009; headcount); Infosys, Form 20-F FY2010, Item 3.
+
+[97] Infosys, Form 20-F FY2010, Item 5; Infosys, Form 6-K for the quarter ended 31 December 2009 (management's discussion of the nine months ended 31 December 2009). The annual filing dates the increase 'with effect from October 2010', which cannot be right for a rise paid within the year to March 2010; the quarterly report for the three months to December 2009 shows that the annual rise, normally made in April, had been postponed to October 2009. Utilisation including trainees averaged 67.5 per cent for FY2009-10 (Infosys, Form 20-F FY2010, Item 3). No press account of graduates whose joining dates were deferred in 2009 has been located.
+
+[98] Infosys, Form 20-F FY2009, Item 3.
+
+[99] Infosys, Form 20-F FY2009, Item 3.
+
+[100] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2010, Item 3.
+
+[101] Infosys, Form 20-F FY2004, Item 3.
+
+[102] Infosys, Form 20-F FY2012, Items 4 and 5.
+
+[103] Infosys, Form 20-F FY2009, Item 3.
+
+[104] Infosys, Form 20-F FY2009, Item 3.
+
+[105] Infosys, Form 20-F FY2009, Item 3.
+
+[106] Rajaraman, *History of Computing in India* (2012), p. 79.
+
+[107] Rajaraman, *History of Computing in India* (2012), pp. 49, 53.
+
+[108] Infosys, Form 20-F FY2010, Item 5.
+
+[109] Infosys, Form 20-F FY2009, Item 3; Infosys, Form 20-F FY2012, Item 3.
+
+[110] Infosys, Form 20-F FY2012, Item 3.
+
+[111] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview). Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[112] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights' and Table on type of service; Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, survey for 2007-08 (74.6% offsite).
+
+[113] Reserve Bank of India, *Survey on Computer Software and Information Technology Services Exports*, RBI Bulletin, October 2012, survey for 2010-11, 'Highlights'.
+
+[114] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview); Anonymous, 'Working Life, Interviews and Leaflets in Delhi's Call Centre Cluster' (2007). Anonymous activist account; low reliability. Self-account (Knowledge at Wharton interview, 4 June 2003, part 1).
+
+[115] Nasscom, *Strategic Review* and fact sheets, slide 10. Nasscom self-description (industry lobby group).
+
+[116] Rajaraman, *History of Computing in India* (2012), pp. 53-54 (Texas Instruments, 1985).
+
+[117] Blinder, 'Offshoring: The Next Industrial Revolution?' (2006), 'This Time It's Personal'.
+
+
+## Chapter 15. The other employers (1985-2024)
+
+[1] Microsoft, press releases on its India development centre (1998-1999).
+
+[2] Microsoft, press releases on its India development centre (1998-1999).
+
+[3] Microsoft, press releases on its India development centre (1998-1999).
+
+[4] Microsoft, press releases on its India development centre (1998-1999).
+
+[5] Microsoft, press releases on its India development centre (1998-1999).
+
+[6] Microsoft, press releases on its India development centre (1998-1999).
+
+[7] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024).
+
+[8] Texas Instruments, 'TI Celebrates 20 Years in India' (2005) (company milestone list, 2005); Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 6 (government rules; Chapter 8 gives the full account).
+
+[9] Texas Instruments, 'TI Celebrates 20 Years in India' (2005). Milestones in the company's list: mixed-signal design centre 1989; application-specific products from 1990; hard-disk-drive signal-processing cores 1995; third-generation mobile and wireless network chipsets 2000; seven-acre Bangalore design facility 2004.
+
+[10] Texas Instruments, 'TI Celebrates 20 Years in India' (2005). The same source says several chips then being designed in India used 65- and 90-nanometre processes, which TI called the most advanced in the industry (company claim).
+
+[11] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), pp. 62-63. Basu's story is told more fully in Chapter 13.
+
+[12] Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63.
+
+[13] Motorola, Global Software Group media kit.
+
+[14] Rajaraman, *History of Computing in India* (2012), p. 48 (Oracle, Bangalore, 1994); *Computerworld*, 'Oracle Chooses India for Key Overseas Site'; *Managing Innovation from the Land of Ideas and Talent* (2009); Intel, press release (2000), and AP, 'Intel to Invest $1 Billion in India' (2005). The SAP and Intel primary texts were not consulted, so the text says 'are reported'.
+
+[15] Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview).
+
+[16] Rajaraman, *History of Computing in India* (2012), p. 53. Chapter 14 follows the back-office captives and sets out the other datings of GE Capital International Services (October 1996).
+
+[17] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
+
+[18] Saxenian, 'Bangalore: The Silicon Valley of Asia?' (2001), p. 11.
+
+[19] Cognizant, IPO prospectus (Form 424B4, 1998), p. 5.
+
+[20] Cognizant, IPO prospectus (Form 424B4, 1998), p. 5.
+
+[21] Cognizant, IPO prospectus (Form 424B4, 1998), p. 43.
+
+[22] Cognizant, IPO prospectus (Form 424B4, 1998), p. 43.
+
+[23] Cognizant, IPO prospectus (Form 424B4, 1998), p. 41.
+
+[24] Cognizant, IPO prospectus (Form 424B4, 1998), p. 8.
+
+[25] Cognizant, IPO prospectus (Form 424B4, 1998), p. 42.
+
+[26] Cognizant, IPO prospectus (Form 424B4, 1998), p. 4.
+
+[27] Cognizant, IPO prospectus (Form 424B4, 1998), p. 8.
+
+[28] Cognizant, IPO prospectus (Form 424B4, 1998), p. 41.
+
+[29] Cognizant, IPO prospectus (Form 424B4, 1998), p. 42.
+
+[30] Cognizant, Form 10-K FY2002, p. 8.
+
+[31] Cognizant, Form 10-K FY2002, p. 16.
+
+[32] Cognizant, Form 10-K FY2007, pp. 4, 13.
+
+[33] Cognizant, Form 10-K FY2012, p. 15.
+
+[34] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), Table 1 (p. 54).
+
+[35] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 14.
+
+[36] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
+
+[37] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
+
+[38] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
+
+[39] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
+
+[40] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004).
+
+[41] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007) (IDG News, 29 January 2007).
+
+[42] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
+
+[43] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
+
+[44] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
+
+[45] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
+
+[46] *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006). IBM's 1978 exit is told in Chapter 5.
+
+[47] *EE Times*, report of Zinnov data on R&D centres (2008) (EE Times, 17 March 2008). Zinnov's clients include the multinational centres it counts. The other centres were in Pune, the Delhi area, Hyderabad and Chennai, far behind Bangalore; the largest groups worked on telecommunications and networking, semiconductors and chip-design tools, and consumer electronics. The figures are given from the paper's summary.
+
+[48] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 15.
+
+[49] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 15.
+
+[50] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
+
+[51] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
+
+[52] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
+
+[53] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 55 (table assembled from a Nasscom-Hewitt pay survey; industry-wide, in US dollars). The same table gives about $14,820 for a team leader and $63,125 for the head of a large development unit.
+
+[54] Rajaraman, *History of Computing in India* (2012), p. 53.
+
+[55] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 28, citing Cairncross (2006) for the third-tier shares. The authors add that the All India Council for Technical Education (AICTE), the regulator of technical colleges, had removed about 22,722 seats at 300 engineering colleges that lacked faculty, courses and infrastructure.
+
+[56] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 29 (manager interviewed by the authors during their 2004-07 fieldwork; firm not named).
+
+[57] Infosys, Form 20-F FY2009, Item 3 (risk factors). The same section warns that hiring by technology companies, especially in India, and worldwide competition for skilled professionals might cause a shortage of qualified staff where it hired.
+
+[58] AP, 'Google Founders on Hiring Trip to India' (2004), and IIT Kanpur seminar listing (2004); Texas Instruments, 'TI Celebrates 20 Years in India' (2005); *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006).
+
+[59] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
+
+[60] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 14.
+
+[61] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 19.
+
+[62] Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008), p. 21.
+
+[63] The only pay figures in Kuruvilla and Ranganathan, 'Economic Development Strategies' (2008) (p. 55) are industry-wide medians and do not separate employer types.
+
+[64] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
+
+[65] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
+
+[66] EPAM Systems, 10-K FY2021, p. 5.
+
+[67] EPAM Systems, 10-K FY2021, p. 5.
+
+[68] EPAM Systems, 10-K FY2024, p. 5.
+
+[69] EPAM Systems, 10-K FY2024, p. 30.
+
+[70] EPAM Systems, 10-K FY2024, p. 33.
+
+[71] EPAM Systems, 10-K FY2024, p. 5.
+
+[72] EPAM Systems, 10-K FY2024, p. 5.
+
+[73] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007).
+
+[74] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007) (Green and Rueda, Accenture); EPAM Systems (EPAM 10-Ks). Neither source gives the graduate output or wages of Poland, Ukraine or Romania, so Rueda's point about scale and cost cannot be tested from them.
+
+[75] Amazon India, 'Owned and Loving It' (2019).
+
+[76] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024).
+
+[77] Nasscom and Zinnov, *India GCC Landscape Report* (2024) (Zinnov report page).
+
+[78] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024).
+
+[79] Agarwal, 'The Big Boom' (2026). Post-cutoff material, checked in October 2026.
+
+[80] Nasscom, Strategic Review 2025 press release (2025).
+
+[81] Nasscom and Zinnov, *India GCC Landscape Report* (2024).
+
+[82] Nasscom and Zinnov, *India GCC Landscape Report* (2024).
+
+[83] Nasscom and Zinnov, *India GCC Landscape Report* (2024); Government of Karnataka, *Karnataka GCC Policy 2024-2029* (ICAI summary confirms the 2024-29 policy; the targets are Zinnov's summary).
+
+[84] Union Budget 2025-26 speech (2025), para. 91.
+
+[85] Texas Instruments, 'TI Celebrates 20 Years in India' (2005); Saxenian, *Silicon Valley's New Immigrant Entrepreneurs* (1999), p. 63; Knowledge at Wharton, 'The Little Start-Up That Could' (Raman Roy interview); *EE Times*, report of Zinnov data on R&D centres (2008).
+
+[86] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024); Nasscom and Zinnov, *India GCC Landscape Report* (2024).
+
+[87] Cognizant, Form 10-K FY2024, p. 10.
+
+[88] Cognizant, Form 10-K FY2024, p. 10; Cognizant, IPO prospectus (Form 424B4, 1998), p. 42.
+
+[89] *InfoWorld*, 'Accenture: More Staff in India than US by August' (2007); *InformationWeek*, 'IBM Head Count in India Tops 50,000' (2006); EPAM Systems, 10-K FY2024, p. 5.
+
+[90] Cognizant, Form 10-K FY2024, p. 9.
+
+[91] Cognizant, Form 10-K FY2024, pp. 15-16.
+
+[92] Cognizant, IPO prospectus (Form 424B4, 1998), p. 5; Cognizant, Form 10-K FY2024, pp. 13, 15-16.
+
+
+## Chapter 16. Fraud and foundation (2008-2018)
+
+[1] Raju, letter to the Satyam board (2009).
+
+[2] Raju, letter to the Satyam board (2009); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (calendar-year 2008 average, Rs 43.50 per US dollar).
+
+[3] Raju, letter to the Satyam board (2009); Satyam Computer Services, 6-K of 7 January 2009; 6-K of 9 January 2009, Ex. 99.3 (NYSE: SAY).
+
+[4] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
+
+[5] Satyam Computer Services, Form 20-F FY2008, p. 19.
+
+[6] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11, 13; Infosys, prospectus (Form 424B4, 1999), p. 55.
+
+[7] Satyam Computer Services, Form 20-F FY2008, p. 6.
+
+[8] Satyam Computer Services, Form 20-F FY2008, p. 19.
+
+[9] Satyam Computer Services, Form 20-F FY2008, p. 19.
+
+[10] Satyam Computer Services, Form 20-F FY2008, p. 32.
+
+[11] Satyam Computer Services, Form 20-F FY2008, p. 24.
+
+[12] Satyam Computer Services, Form 20-F FY2008, p. 44.
+
+[13] Satyam Computer Services, Form 20-F FY2008, p. 32.
+
+[14] Satyam Computer Services, Form 20-F FY2008, p. 48.
+
+[15] Raju, letter to the Satyam board (2009).
+
+[16] Raju, letter to the Satyam board (2009). Press reproductions of the letter differ from the SEC copy in small ways; the chapter quotes the SEC copy throughout.
+
+[17] Raju, letter to the Satyam board (2009).
+
+[18] Raju, letter to the Satyam board (2009).
+
+[19] Raju, letter to the Satyam board (2009).
+
+[20] Raju, letter to the Satyam board (2009).
+
+[21] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
+
+[22] Raju, letter to the Satyam board (2009).
+
+[23] Raju, letter to the Satyam board (2009).
+
+[24] SEBI, final order in the matter of Satyam Computer Services (2014-2018), pp. 1-2, 14.
+
+[25] Raju, letter to the Satyam board (2009).
+
+[26] Raju, letter to the Satyam board (2009).
+
+[27] Satyam Computer Services, 6-K of 7 January 2009, Ex. 99.3.
+
+[28] Satyam Computer Services, 6-K of 7 January 2009, Ex. 99.1.
+
+[29] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.1.
+
+[30] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.2.
+
+[31] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
+
+[32] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
+
+[33] Satyam Computer Services, 6-K of 9 January 2009, Ex. 99.4.
+
+[34] SEC, press release 2011-82 (2011).
+
+[35] Sharma, 'When Your Boss Does You In' (2009).
+
+[36] Sharma, 'When Your Boss Does You In' (2009).
+
+[37] Sharma, 'When Your Boss Does You In' (2009).
+
+[38] Sharma, 'When Your Boss Does You In' (2009).
+
+[39] Sharma, 'When Your Boss Does You In' (2009).
+
+[40] Sharma, 'When Your Boss Does You In' (2009).
+
+[41] Sharma, 'When Your Boss Does You In' (2009).
+
+[42] Sharma, 'When Your Boss Does You In' (2009).
+
+[43] Sharma, 'When Your Boss Does You In' (2009).
+
+[44] Sharma, 'When Your Boss Does You In' (2009).
+
+[45] Sharma, 'When Your Boss Does You In' (2009).
+
+[46] Sharma, 'Operation Satyam' (2009) (factual news note only; the article is a declared composite and nothing in it is quoted or attributed to a person).
+
+[47] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2. The figure is not directly comparable with the 53,000 in Raju's letter, which was a group figure from before the departures began, and the filings do not say how many had left.
+
+[48] Sharma, 'When Your Boss Does You In' (2009); Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
+
+[49] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
+
+[50] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2.
+
+[51] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
+
+[52] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
+
+[53] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1.
+
+[54] Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.2.
+
+[55] Satyam Computer Services, Form 20-F FY2008, p. 2 (exhibit list, Ex. 15.1).
+
+[56] SEC, press release 2011-82 (2011).
+
+[57] SEC, press release 2011-82 (2011).
+
+[58] SEC, press release 2011-82 (2011).
+
+[59] SEC, press release 2011-82 (2011).
+
+[60] SEC, press release 2011-82 (2011).
+
+[61] SEC, press release 2011-82 (2011).
+
+[62] Securities Appellate Tribunal, *Price Waterhouse & Co. v. SEBI* (9 September 2019), para. 2 (summary of the SEBI order of 10 January 2018); para. 5 (Gopalakrishnan the engagement partner for 2000-07, Talluri for 2007-08); para. 133 ('nine long years' from the show-cause notices of 2009).
+
+[63] Securities Appellate Tribunal, *Price Waterhouse & Co. v. SEBI* (9 September 2019), paras. 51, 136, 139-140.
+
+[64] *LiveLaw*, 'SC Issues Notice On SEBI's Challenge' (2019) (*LiveLaw*, 22 November 2019; bench of Arun Mishra and Indira Banerjee JJ.). No later order of the Supreme Court has been found.
+
+[65] SEBI, final order in the matter of Satyam Computer Services (2014-2018), pp. 1-2.
+
+[66] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 1.
+
+[67] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 2.
+
+[68] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 15.
+
+[69] Securities Appellate Tribunal, *SRSR Holdings v. SEBI* (2 February 2023), paras. 1-2, 120 (Appeals 1-5 and 53 of 2019; the appellants were SRSR Holdings, B. Suryanarayana Raju, B. Rama Raju, B. Ramalinga Raju, V. Srinivas and G. Ramakrishna). The findings on the merits, upheld by the tribunal in 2017, were not reopened. V.S. Prabhakara Gupta was not a party to these appeals, and no later order on him has been located.
+
+[70] SEBI, order in the matter of Satyam Computer Services (30 November 2023), para. 8, p. 5 (the appeals of G. Ramakrishna, V. Srinivas and the two brothers 'pending as on date'); para. 127, Table 19, p. 87 (Rs 624,09,82,520 in all, of which Rs 20,43,46,875 from each brother; the others were B. Suryanarayana Raju, SRSR Holdings, Srinivas and Ramakrishna); para. 128, Table 20, pp. 87-88 (restraint till 14 July 2028 for the brothers; no new restraint on the other four, though the brothers, Srinivas and Ramakrishna were to remain under the restraint the Supreme Court had directed until their appeals were decided); para. 129 (simple interest at 12 per cent a year from 7 January 2009); para. 131, p. 89 (effect from a date the Supreme Court directs). Reserve Bank of India, *Handbook of Statistics on Indian Economy* (2023 average, Rs 82.60 per US dollar). No decision of the Supreme Court in these appeals (C.A. Nos. 9493/2017 and connected) has been found. Checked against the SEBI order on 15 October 2026.
+
+[71] Telangana High Court, Satyam-related orders (2022) (Telangana High Court, Crl. P. No. 13332 of 2011, order of 7 January 2022, para. 2, the petitioners' own account: three charge-sheets, joint trial as C.C. Nos. 1, 2 and 3 of 2010; W.P. No. 12595 of 2019, order of 6 June 2022, para. 3: 'The XXI ACMM-cum-Special Sessions Judge Nampally convicted the accused in the above case and sentenced them to imprisonment on 09.04.2015'); Associated Press (*Al Jazeera*) and *The Quint* on the Satyam verdict (2015) (Associated Press via *Al Jazeera*, 9 April 2015: ten convicted, seven years each); PTI, 'Satyam's Raju, 9 others get bail' (11 May 2015) (PTI, 11 May 2015: 'seven-year rigorous imprisonment sentence'). Checked against the Indian Kanoon texts on 15 October 2026.
+
+[72] Securities Appellate Tribunal, *B. Appalanarasamma v. SEBI* (2017), minority view (Jog Singh), para. 76, listing the accused named in the CBI's charge-sheets (Talluri appears there as 'T. Srinivas').
+
+[73] *Business Today*, 'B Ramalinga Raju Found Guilty' (2015) (Rs 5 crore each for Ramalinga Raju and Rama Raju; Rs 25 lakh each for the other eight); Associated Press (*Al Jazeera*) and *The Quint* on the Satyam verdict (2015) (Associated Press via *Al Jazeera*, 9 April 2015: 'The judge also fined Raju $806,000'; *The Quint*, 14 April 2015: 'a Rs 5.5-crore fine on Raju and his brother Rama Raju'); PTI, 'Satyam's Raju, 9 others get bail' (11 May 2015) (PTI, 11 May 2015: 'Rs 5.35 crore fine on Raju and Rama Raju, while others were fined Rs 25 lakh each'); *Gulf News*, 'Netflix stopped by court' (2020) (*Gulf News*, 2020: 'a fine of Rs 55 million on both the brothers'). No copy of the judgment in C.C. Nos. 1-3 of 2010 has been located online, so no figure is given as settled.
+
+[74] *One Law Street*, 'High Court returns Appeals to Sessions Court' (2015) (a legal-news report that quotes the High Court's order: the appeals were to be presented 'before the Court of Metropolitan Sessions Judge, Nampally, Hyderabad, which alone has jurisdiction to entertain the appeals on all aspects'; the Sessions Court had returned them as not maintainable on 20 April 2015). The report misdates the conviction to 2000. No copy of the High Court's order has been located. PTI, 'Satyam's Raju, 9 others get bail' (11 May 2015) (PTI, carried by *Business Standard*, 11 May 2015; the same wire ran in *Business Today* and *The Quint*, so the three are one report): M. Laxman, special judge for economic offences, suspended the 'substantive and default' sentences on personal bonds and sureties, on condition that each paid one tenth of his fine within four weeks and undertook 'to cooperate for early disposal of the appeals without seeking undue adjournments'.
+
+[75] Telangana High Court, Satyam-related orders (2022) (W.P. No. 12595 of 2019, 6 June 2022, para. 6, CBI's submission: 'The CBI filed appeal for enhancement of the sentence. The accused Nos.1 and 2 also filed appeal against the conviction', pending before the Metropolitan Sessions Judge, Nampally); *Gulf News*, 'Netflix stopped by court' (2020) (in a civil suit in 2020 Raju's counsel said the matter 'was pending in appeal'). No order deciding the appeals has been found in the Indian Kanoon database or in press reports to October 2026.
+
+[76] Income Tax Appellate Tribunal, Hyderabad, *ACIT v. B. Ramalinga Raju* (11 February 2025), para. 27, p. 36: the Revenue 'categorically stated that no such order is in existence', and this 'remains unrebutted'. The tribunal does not say whether the appeals were then pending. Checked on 15 October 2026.
+
+[77] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11, 25; Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 1 (creation on 28 January 2009 as an attached office of the Planning Commission).
+
+[78] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 8.
+
+[79] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 11-12.
+
+[80] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 13.
+
+[81] Infosys, prospectus (Form 424B4, 1999), p. 55.
+
+[82] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 3.
+
+[83] UIDAI, *Aadhaar Technology & Architecture* (2014), p. 7 (message from the Director General).
+
+[84] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010) (*Forbes India*, 29 November 2010; the magazine's own account of the team, checked against the online text on 16 October 2026).
+
+[85] UIDAI, *Aadhaar Technology & Architecture* (2014), pp. 9-10 (from the editor's desk, Ashok Dalwai, Deputy Director General, Technology Centre).
+
+[86] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010).
+
+[87] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010).
+
+[88] Jayashankar and Ramnath, 'UIDAI: Inside the World's Largest Data Management Project', *Forbes India* (2010).
+
+[89] Sharma, 'Aadhaar: A Testimony to Success of FOSS in India!', *Open Source For You* (2011).
+
+[90] UIDAI, *Aadhaar Technology & Architecture* (2014), p. 80.
+
+[91] Ranganna, 'Tech Guru, Srikanth Nadhamuni', *Man's World India* (2016).
+
+[92] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 198.
+
+[93] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 2; UIDAI, *Aadhaar Technology & Architecture* (2014), p. 7 (first Aadhaar letter handed over at Nandurbar on 29 September 2010).
+
+[94] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 199.
+
+[95] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 415; Sikri J., p. 94.
+
+[96] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 416 (citing the Press Information Bureau).
+
+[97] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), Executive Summary, p. v.
+
+[98] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 7 (Writ Petition (Civil) No. 494 of 2012).
+
+[99] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, para. 2.
+
+[100] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2017), order of the Court, paras. 1-2 (lead judgment by Chandrachud J. for Khehar CJ, Agrawal J., Nazeer J. and himself; separate judgments by Chelameswar, Bobde, Sapre, Nariman and Kaul JJ.).
+
+[101] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 3, 567; Bhushan J., paras 392-393.
+
+[102] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 56.
+
+[103] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 55, 57, 60.
+
+[104] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 63.
+
+[105] Comptroller and Auditor General, *Performance Audit on Functioning of UIDAI*, Report No. 24 (2021), p. 19, para. 3.2.2, and Executive Summary, p. vi (audit period 2014-15 to 2018-19, p. 7, para. 2.1). The duplicate figure is UIDAI's own, 'As per information provided by UIDAI Tech Centre'. Against the 129.04 crore (1.29 billion) numbers generated by March 2021 (p. 14, para. 3.1.2), the share was small.
+
+[106] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., p. 565.
+
+[107] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 555-556.
+
+[108] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 559-560.
+
+[109] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 512, 567.
+
+[110] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 154, 469.
+
+[111] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., pp. 375-376, para. 269.
+
+[112] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Chandrachud J., p. 376, para. 269.
+
+[113] *Justice K.S. Puttaswamy (Retd.) v. Union of India* (2018), Sikri J., pp. 105-106.
+
+[114] Securities Appellate Tribunal, *SRSR Holdings v. SEBI* (2 February 2023), para. 3; Raju, letter to the Satyam board (2009).
+
+[115] Sharma, 'When Your Boss Does You In' (2009); Satyam Computer Services, 6-K of 13 April 2009, Ex. 99.1 (Karnik's statement, a claim by the chairman of a company being sold) and Ex. 99.2.
+
+[116] Satyam Computer Services, Form 20-F FY2008, pp. 6, 24, 44.
+
+[117] SEBI, final order in the matter of Satyam Computer Services (2014-2018), p. 15. The penalties in this order were set aside in 2023 (Securities Appellate Tribunal, *SRSR Holdings v. SEBI* (2 February 2023), para. 120); the tribunal's 2017 findings that it summarises were not reopened.
+
+
+## Chapter 17. The product question (1986-2024)
+
+[1] Knowledge at Wharton, interview with Rajesh Hukku (Knowledge at Wharton interview, 23 March 2007; founder's own account; web page, unpaginated).
+
+[2] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[3] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[4] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[5] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[6] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12).
+
+[7] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12).
+
+[8] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12). No independent record of the incorporation date, such as the Registrar of Companies filing, has been located.
+
+[9] Tally Solutions, 'About Us' (Tally Solutions 'About us' page; company self-description; consulted 2026-10-12).
+
+[10] Tally Solutions, 'About Us' (company self-description, for the partner network and the 2.5 million businesses; consulted 2026-10-12).
+
+[11] Knowledge at Wharton, interview with Rajesh Hukku (BITS Pilani, the campus radio station and closed-circuit television system, and TCS).
+
+[12] Knowledge at Wharton, interview with Rajesh Hukku (Hukku: 'on day one we were selling professional services, we were doing consulting, and we were also trying to survive by spending very little money').
+
+[13] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[14] Knowledge at Wharton, interview with Rajesh Hukku (founder's account; the league table for 1995 is not named).
+
+[15] Knowledge at Wharton, interview with Rajesh Hukku (Hukku: so many banks there ran the program that there were not enough people who knew it).
+
+[16] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[17] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[18] Knowledge at Wharton, interview with Rajesh Hukku (bankers 'from Bank of India, from Reserve Bank of India, from smaller financial institutions'; many were 'computer savvy' rather than computer science graduates; 'You come teach us what you know about banking').
+
+[19] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[20] Knowledge at Wharton, interview with Rajesh Hukku (company claim as stated by its founder, who also put i-flex's share of the banks in several African countries at between a quarter and nearly half).
+
+[21] Knowledge at Wharton, interview with Rajesh Hukku (founder's retrospective claim; he added: 'We made a conscious decision to stick to the value-addition paradigm and the original principles.' No figure in i-flex's accounts for the period has been located to confirm it).
+
+[22] Knowledge at Wharton, interview with Rajesh Hukku (International Banking Systems league table as reported by Hukku, who also put FLEXCUBE ninth in its second year).
+
+[23] Knowledge at Wharton, interview with Rajesh Hukku (Wharton's introduction to the interview).
+
+[24] Knowledge at Wharton, interview with Rajesh Hukku (Wharton's introduction, which also gives revenue of Rs 5.5 billion, $126 million at the rate it used, in the December quarter of the year to March 2007).
+
+[25] Knowledge at Wharton, interview with Rajesh Hukku (the share price is the interviewer's statement, as is the remark that in 2003 *Time* magazine picked i-flex as one of 15 survivors of the crash; the explanation is the founder's).
+
+[26] Knowledge at Wharton, interview with Rajesh Hukku (Wharton's introduction: 42 per cent, $592 million); Oracle, press release on i-flex solutions (2005) (Oracle press release, 2 August 2005: 41 per cent, held by Citigroup Venture Capital International; no price stated; consulted 2026-10-14).
+
+[27] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[28] Knowledge at Wharton, interview with Rajesh Hukku (he listed technology deployment, consulting and specialist business process outsourcing).
+
+[29] Infosys, Form 20-F FY2002, Item 4 (Infosys 20-F for the year to March 2002).
+
+[30] Infosys, Form 20-F FY2002, Item 4 (Finacle was sold alongside an internet banking program called BankAway).
+
+[31] Infosys, Form 20-F FY2009, Item 3.D (Infosys 20-F for the year to March 2009, risk factors).
+
+[32] Infosys, Form 20-F FY2012, Item 3.D (Infosys 20-F for the year to March 2012, risk factors; 4.9 per cent in the year to March 2011 and 4.2 per cent in the year to March 2010).
+
+[33] Infosys, Form 20-F FY2009, Item 4.
+
+[34] Infosys, Form 20-F FY2012, Item 4 (company claim; the same passage gives 48,500 branches). In a reorganisation of 2011 that merged seven business units into four by client industry, 'India and Finacle TM business units continue to be organized as before' (Infosys, Form 20-F FY2012, Item 4).
+
+[35] Infosys, Form 20-F FY2009, Item 6 (directors and senior management).
+
+[36] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated; the growth figures are given without a source).
+
+[37] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
+
+[38] *Inc42*, '10 years of iSPIRT' (2023) (Suprita Anupam, '10 Years Of iSPIRT: Inside The Making Of A Product Nation', *Inc42*, 27 February 2023; web page, unpaginated; consulted 2026-10-16): 'Set up as a spinoff from the NASSCOM Product Conclave (NPC) by 30 then (NASSCOM) members'. It names Sharma and Goenka among those at the first meeting, in Bengaluru on 4 February 2013. Venkataramakrishnan, *Scroll.in* (2017) (*Scroll.in*, 23 May 2017) calls iSPIRT 'an offshoot of industry body NASSCOM's annual product conclave'. Press reports on the formation of iSPIRT (2013-2014) names Goenka and Sharma as founder members.
+
+[39] Press reports on the formation of iSPIRT (2013-2014) (quoting Business Standard).
+
+[40] Press reports on the formation of iSPIRT (2013-2014) (quoting Business Standard).
+
+[41] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
+
+[42] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated). Murthy also said it was imperative to rebrand India as 'a proactive solutions provider, instead of a reactive solutions developer'.
+
+[43] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
+
+[44] *The News Minute* on the angel-tax letter (2019), and summary of the National Policy on Software Products (Shilpa S Ranipeta, *The News Minute*, 16 January 2019; consulted 2026-10-16). The letter was signed by nearly 70 entrepreneurs; the 48 per cent figure is iSPIRT's own claim. Rs 10 crore is Rs 100 million.
+
+[45] India Stack (iSPIRT), home page and FAQ (India Stack website, FAQ; iSPIRT's self-description; consulted 2026-10-16). *Scroll.in* (Venkataramakrishnan, *Scroll.in* (2017)) describes India Stack as 'a set of software products that are explicitly aimed at building apps on top of the Aadhaar database'.
+
+[46] *Inc42*, '10 years of iSPIRT' (2023).
+
+[47] Venkataramakrishnan, *Scroll.in* (2017) (Rohan Venkataramakrishnan, *Scroll.in*, 23 May 2017; consulted 2026-10-16). Sharma wrote that 'Anonymity seemed easier than propriety' and 'I condoned tweets with uncivil comments.' The same report quotes the legal researcher Usha Ramanathan on 'a clear case of conflict of interest'; *Inc42* (*Inc42*, '10 years of iSPIRT' (2023)) also records accusations of conflicts of interest.
+
+[48] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Naandika Tripathi, 'Cover story: Sridhar Vembu's vision from the village', *Forbes India*, 3 June 2020; web page, unpaginated; consulted 2026-10-16), which says he co-founded AdventNet 'along with two of his brothers (he has three of them) and three friends'; *Mixergy*, interview with Sridhar Vembu (2010) (Andrew Warner, interview with Sridhar Vembu, *Mixergy*, 9 March 2010, transcript; founder's account), in which Vembu names a brother and Tony Thomas, a friend at Bell Labs: 'the three of us came together'.
+
+[49] Zoho Corporation, 'About us' (timeline) (Zoho Corporation, 'About us', timeline; company self-description; consulted 2026-10-16).
+
+[50] *Mixergy*, interview with Sridhar Vembu (2010) (founder's account). *Forbes India* (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)) describes AdventNet as 'a software company serving network equipment vendors'.
+
+[51] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Vembu to *Forbes India*, 2020). The sentence begins: 'When we decided to launch this company, one thing that I noted was'.
+
+[52] Zoho Corporation, 'About us' (timeline) (company timeline: ManageEngine, 2003; Zoho Writer and Zoho CRM, 2005; 'AdventNet is renamed to Zoho Corporation Pvt Ltd', 2009). *Forbes India* (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)) says the renaming reflected 'the transition from a software company serving network equipment vendors to an innovative online applications provider'.
+
+[53] *Mixergy*, interview with Sridhar Vembu (2010) (founder's account); Zoho Corporation, 'About us' (timeline) (company self-description: 'Since we have never taken money from investors, we have always been able to focus on what is best for the customer').
+
+[54] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (figures as reported by *Forbes India*, which does not say whether 2019 is the calendar or the financial year); conversion at the 2019 calendar-year average rate, Rs 70.42 (Reserve Bank of India, *Handbook of Statistics on Indian Economy*).
+
+[55] Zoho Corporation, 'About us' (timeline) (company timeline: 'We open an office in Tenkasi, India', 2011; 'Office opens in Renigunta, India', 2018). *Forbes India* (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)) says the firm bought four acres in the village of Mathalamparai about nine years before 2020. The date of 2019 sometimes given for Tenkasi is that of Vembu's own move there (Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020)).
+
+[56] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (*Forbes India*'s figures; Vembu's words).
+
+[57] Zoho Corporation, 'About us' (timeline) (company timeline: Zoho University 'launches as an experiment in providing an alternative to the conventional college education', 2005; 'Zoho University starts in Tenkasi, India', 2013); Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (stipend of Rs 10,000 a month; 875 of 9,300 employees 'are students from Zoho Schools'). *Forbes India* dates the school's start to 2004 and gives its later name, Zoho Schools.
+
+[58] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Vembu: '15 to 20 percent of our engineers do not have an engineering degree. They are all trained in-house.').
+
+[59] Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) (Paramasivam to *Forbes India*, 2020; he had then been with Zoho for 15 years).
+
+[60] Freshworks, Form S-1 (2021), letter from the founder (Girish Mathrubootham).
+
+[61] Freshworks, Form S-1 (2021), letter from the founder.
+
+[62] Freshworks, Form S-1 (2021), letter from the founder.
+
+[63] Freshworks, Form S-1 (2021), prospectus summary and business sections (company figures).
+
+[64] Freshworks, Form S-1 (2021), prospectus summary.
+
+[65] Freshworks, Form S-1 (2021), Business, 'Our Culture and Employees'.
+
+[66] Freshworks, Form S-1 (2021), Risk Factors (allegations under federal and California trade-secret law and the Computer Fraud and Abuse Act; Freshworks said it believed it had 'meritorious defenses'). Zoho's headquarters in Chennai: Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020).
+
+[67] *Zoho Corporation v. Freshworks*, N.D. Cal., No. 3:20-cv-01869 (orders, 2020-2021) (US District Court, N.D. Cal., *Zoho Corporation Pvt. Ltd. v. Freshworks, Inc.*, No. 3:20-cv-01869-VC, Order Denying Motion to Dismiss, Dkt. 61, filed 27 October 2020, p. 1; consulted 2026-10-16). The order concerns the second amended complaint and Zoho's CRM, which it says 'is properly identified as a trade secret'.
+
+[68] Freshworks, 'Freshworks and Zoho Reach Settlement' (2021), and Form 10-K for FY2021 (Freshworks press release, 'Freshworks and Zoho Reach Settlement to End Litigation', San Mateo, 23 December 2021, via Nasdaq; company statement; consulted 2026-10-16): 'These actions were not taken at the direction of Freshworks, and are contrary to Freshworks' policies.' Freshworks's annual report for 2021 (Freshworks, 'Freshworks and Zoho Reach Settlement' (2021), and Form 10-K for FY2021, Item 3) says: 'In December 2021, we reached an agreement with Zoho to settle the litigation and Zoho dismissed the lawsuit.' Neither document states the terms. The same report's '$3.9 million related to a legal settlement' in 2021 does not name the other party and is not taken here to be the Zoho settlement.
+
+[69] Freshworks, prospectus (Form 424B4, 2021), cover page (28,500,000 shares at $36.00; the gross figure, $1,026 million, is the author's calculation).
+
+[70] Freshworks, Form 10-K FY2024, cover page and Item 1.
+
+[71] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[72] Tracxn and Inc42 startup funding data, as reported (2021-2025) (Tracxn data as reported by *The Week*, Nachiket Kelkar, 14 January 2025; consulted 2026-10-14). Other trackers define a start-up differently and give different totals for 2021; their series are not joined here.
+
+[73] Tracxn and Inc42 startup funding data, as reported (2021-2025) (Tracxn data as reported by *The Week*, 14 January 2025; consulted 2026-10-14). Six new 'unicorns', private firms valued at $1 billion or more, were created in 2024, against two in 2023.
+
+[74] Byju's insolvency proceedings, as reported (2024-2026) (*LiveLaw*, 22 October 2024, and *The Week*, 23 October 2024; consulted 2026-10-14). Both date the National Company Law Tribunal's admission of the cricket board's insolvency petition, over dues of about Rs 158.9 crore (Rs 1.59 billion, about $19 million at the 2024 average rate of Rs 83.67, Reserve Bank of India, *Handbook of Statistics on Indian Economy*), to 16 June 2024. An appellate tribunal later closed the proceedings after a settlement, and on 23 October 2024 the Supreme Court set that order aside. The tribunals' orders are cited here from these reports.
+
+[75] Reserve Bank of India, *Handbook of Statistics on Indian Economy* (RBI, Handbook of Statistics on Indian Economy, 2021 ed., Table 63). Accounts differ on whether UPI was launched in April or August 2016 (NPCI, UPI product statistics).
+
+[76] Reserve Bank of India, *Handbook of Statistics on Indian Economy* (RBI, Handbook of Statistics on Indian Economy, 2026 ed., Table 58); dollar conversion at the 2023-24 average rate, Rs 82.79, Reserve Bank of India, *Handbook of Statistics on Indian Economy*.
+
+[77] All India Radio News, 'UPI Transactions Surge to Record' (2025) (All India Radio, 2 January 2025, reporting NPCI data; consulted 2026-10-14).
+
+[78] Tally Solutions, 'About Us' (company claim); Freshworks, Form S-1 (2021), prospectus summary.
+
+[79] India Stack (iSPIRT), home page and FAQ (India Stack home page timeline; iSPIRT's self-description; consulted 2026-10-16): '2016 NPCI launches Unified Payments Interface'. It credits eKYC to UIDAI (2012), eSign to the Controller of Certifying Authorities (2015) and DigiLocker to MeitY (2015).
+
+[80] *Inc42*, '10 years of iSPIRT' (2023) (*Inc42*, 2023).
+
+[81] Venkataramakrishnan, *Scroll.in* (2017) (*Scroll.in*, 23 May 2017), which names Nilekani as a mentor and two members of the UIDAI team, Pramod Varma and Sanjay Jain, among iSPIRT's members.
+
+[82] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[83] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[84] Press reports on the formation of iSPIRT (2013-2014) (Knowledge at Wharton, 14 March 2013; web page, unpaginated).
+
+[85] Knowledge at Wharton, interview with Rajesh Hukku; Tracxn and Inc42 startup funding data, as reported (2021-2025) (Tracxn via *The Week*; consulted 2026-10-14).
+
+[86] Tally Solutions, 'About Us' (company self-description).
+
+[87] Rajaraman, *History of Computing in India* (2012), p. 55 (Rajaraman; Simputer designed 2000 by IISc and Encore Software, Bangalore; 'not a commercial success').
+
+[88] Knowledge at Wharton, interview with Rajesh Hukku (founder's account; see note 18); Tripathi, 'Sridhar Vembu's vision from the village', *Forbes India* (2020) and Zoho Corporation, 'About us' (timeline) (Zoho University; see note 57).
+
+[89] Knowledge at Wharton, interview with Rajesh Hukku; Freshworks, prospectus (Form 424B4, 2021), cover page.
+
+[90] Freshworks, Form 10-K FY2024, Item 1A (and Item 1 for the total of about 4,400).
+
+[91] Freshworks, Form 10-K FY2024, Item 7.
+
+[92] Cognizant, Form 10-K FY2024, Item 1 (human capital).
+
+[93] Knowledge at Wharton, interview with Rajesh Hukku.
+
+[94] Freshworks, Form 10-K FY2024, Item 1A.
+
+[95] Freshworks, Form 10-K FY2024, Item 1.
+
+[96] Freshworks, Form 10-K FY2024, Item 1A.
+
+
+## Chapter 18. The pandemic boom (2020-2023)
+
+[1] *Business Today*, 'Wipro Fires 300 Employees' (2022).
+
+[2] *Business Today*, 'Wipro Fires 300 Employees' (2022) (dismissals and 'complete violation' as reported by *Business Today*).
+
+[3] Infosys, Form 20-F FY2020, Item 5.
+
+[4] *Business Today*, 'Wipro Fires 300 Employees' (2022); Infosys, Form 20-F FY2020, Item 5.
+
+[5] Infosys, Form 20-F FY2020, Item 5.
+
+[6] Infosys, Form 20-F FY2020, Item 5.
+
+[7] Infosys, Form 20-F FY2020, Item 5.
+
+[8] Infosys, Form 20-F FY2020, Item 5.
+
+[9] Infosys, Form 20-F FY2021, Item 6.
+
+[10] Infosys, Form 20-F FY2020, Item 3.
+
+[11] Infosys, Form 20-F FY2020, Item 3.
+
+[12] Infosys, Form 20-F FY2021, Item 5.
+
+[13] Infosys, Form 20-F FY2021, Item 5.
+
+[14] Infosys, Form 20-F FY2020, Item 3; Infosys, Form 20-F FY2021, Item 3.
+
+[15] Infosys, Form 20-F FY2021, Item 6.
+
+[16] Infosys, Form 20-F FY2021, Item 6; Infosys, Form 20-F FY2022, Item 6.
+
+[17] Infosys, Form 20-F FY2022, Item 6.
+
+[18] Infosys, Form 20-F FY2020, Items 4 and 6; Infosys, Form 20-F FY2021, Items 4 and 6. FY2019-20: 2,141,373 applications and 150,130 interviewed.
+
+[19] Infosys, Form 20-F FY2022, Items 4 and 6 (523,385 applicants interviewed).
+
+[20] Infosys, Form 20-F FY2020, Item 6; Infosys, Form 20-F FY2021, Item 6; Infosys, Form 20-F FY2023, Item 6 (242,371 in March 2020; 259,619 in 2021; 314,015 in 2022; 343,234 in 2023).
+
+[21] Wipro, 20-F FY2023, Item 6 (more than 200,000 employees in March 2021, 240,000 in 2022, 250,000 in 2023).
+
+[22] Cognizant, 10-K FY2021, Item 7; 10-K FY2022, Item 1 (about 289,500 at the end of 2020; 355,300 at the end of 2022, 258,500 of them in India).
+
+[23] Infosys, Form 20-F FY2021, Item 4; Infosys, Form 20-F FY2022, Item 4; Infosys, Form 20-F FY2023, Item 4 (14,805 local hires, 3,650 of them fresh graduates, in FY2021-22; 10,169 and 2,216 in FY2022-23).
+
+[24] Infosys, Form 20-F FY2022, Item 6 (Mexico, Britain, Germany, Australia, Singapore and Japan).
+
+[25] Cognizant, 10-K FY2021, Item 1; 10-K FY2022, Item 1.
+
+[26] Cognizant, 10-K FY2021, Item 1A.
+
+[27] Cognizant, 10-K FY2022, Item 1A.
+
+[28] Cognizant, 10-K FY2021, Item 1.
+
+[29] Cognizant, 10-K FY2021, Item 1A.
+
+[30] Wipro, 20-F FY2022, Item 5.
+
+[31] Infosys, Forms 6-K, Q4 results filings (2020-2024), Form 6-K, Ex. 99.5, transcript of the Q4 FY2020 earnings call, 20 April 2020 (accession 0001067491-20-000029): 'Attrition on a standalone basis was slightly higher at 18.2%; however, voluntary attrition reduced further to 15.1% from 15.6% last quarter'; Ex. 99.5, Q4 FY2021 call, 14 April 2021 (0001067491-21-000030): 'Voluntary attrition for IT services calculated on annualized basis increased to 15.2% as demand for talent increased.' Company statements to investors; transcripts unpaginated.
+
+[32] Infosys, Forms 6-K, Q4 results filings (2020-2024), Ex. 99.5, Q4 FY2022 call, 13 April 2022 (0001067491-22-000020): 'Voluntary LTM attrition increased to 27.7%'; Ex. 99.5, Q4 FY2023 call, 13 April 2023 (0001067491-23-000027): 'LTM voluntary attrition declined to 20.9%'; Ex. 99.4, Fact Sheet Q4 FY2024, 18 April 2024 (0001067491-24-000016), row 'Voluntary Attrition % (LTM - IT Services)': 12.6% (March 2024), 20.9% (March 2023). LTM = last twelve months. The basis changes between FY2021 (quarterly, annualised) and FY2022 (LTM). Earlier fact sheets are filed as images only. The series is in the data appendix.
+
+[33] *HR Katha* reports of TCS results (2020-2024) (*HR Katha*, 17 April 2020, 13 April 2021, 21 April 2023 and 12 April 2024); *The News Minute* and *Communications Today* on TCS results (2020, 2022) (*Communications Today*, 17 April 2020, credited to *Business Standard*, for 12.1 per cent; *The News Minute*, 11 April 2022, for 17.4 per cent 'on a trailing 12-month basis' and 592,195 employees). The figures are as reported in the press accounts of TCS's quarterly results, not taken from the company's own fact sheets (Tata Consultancy Services, fact sheets and annual reports); those for 2021, 2023 and 2024 rest on *HR Katha* alone. The 2022 and 2023 reports give the basis as the last twelve months; the 2020 and 2021 reports do not state it. TCS's measure is not Infosys's voluntary attrition, and the two series should not be compared year by year. The series is in the data appendix.
+
+[34] Cognizant, 10-K FY2021, Item 1; 10-K FY2023, Item 1.
+
+[35] Infosys, Form 20-F FY2024, Item 6.
+
+[36] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (*HR Katha*, 1 June 2022, on the demand for talent after the pandemic).
+
+[37] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022) (*HR Katha*, 1 June 2022); Choudhary, 'Behind the Growing (and Huge) IT CEO-Fresher Pay Gap', *Analytics India Magazine* (2022) (*Analytics India Magazine*, 16 August 2022). Both report the Moneycontrol study 'IT CEO pay shot up 835% in a decade while freshers' salary grew 45%' (moneycontrol.com, 2022), which is cited here through them. Neither report gives the study's method, such as which firms it covered or whether pay means cost to company. Figures as in fresher_pay.csv.
+
+[38] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (conversion at calendar-year average rates, Rs 53.44 per dollar in 2012 and Rs 78.60 in 2022).
+
+[39] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); OECD, Consumer Price Indices, India (deflated by the India CPI series: Rs 4.77 lakh and Rs 3.89 lakh in 2024 rupees; calculation by the author).
+
+[40] *HR Katha*, 'IT-Sector CEOs' Median Annual Salaries' (2022); Choudhary, 'Behind the Growing (and Huge) IT CEO-Fresher Pay Gap', *Analytics India Magazine* (2022) (the 835 per cent rise as given by both reports; *HR Katha* gives the 2022 median as Rs 31.5 crore).
+
+[41] *Business Today*, 'Wipro Fires 300 Employees' (2022).
+
+[42] *Business Today*, 'Wipro Fires 300 Employees' (2022).
+
+[43] *Business Today*, 'Wipro Fires 300 Employees' (2022).
+
+[44] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
+
+[45] Infosys, Form 20-F FY2023, Item 3; Infosys, Form 20-F FY2024, Item 3.
+
+[46] Cognizant, 10-K FY2022, Item 1A.
+
+[47] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+
+[48] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+
+[49] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+
+[50] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+
+[51] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+
+[52] Press reports on delayed onboarding of graduates (2022) (A. Chaturvedi, *Business Today*, 5 October 2022; speakers anonymous in the original).
+
+[53] Infosys, Form 20-F FY2022, Item 6; Infosys, Form 20-F FY2023, Item 6; Infosys, Form 20-F FY2024, Items 4 and 6.
+
+[54] Infosys, Form 20-F FY2024, Item 6.
+
+[55] Wipro, 20-F FY2024, Item 6.
+
+[56] Cognizant, 10-K FY2023, Item 1.
+
+[57] Cognizant, 10-K FY2023, Item 7.
+
+[58] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+
+[59] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024). The note adds that some provisions of the shops and establishments law, on holidays and hours of work, had also been relaxed for IT companies in Karnataka and in some other states.
+
+[60] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+
+[61] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+
+[62] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+
+[63] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+
+[64] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+
+[65] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017); Hanna, *Exploiting Information Technology for Development* (1994), p. 105 (Nasscom's full name).
+
+[66] Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017).
+
+[67] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+
+[68] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024).
+
+[69] Mondaq and *The News Minute*, reports on the Karnataka IT union (2017-2024); Das, 'Nearly 200 IT Employees Gather to Form a Trade Union' (2017) (IT Employees Centre; 'India's Silicon Valley').
+
+[70] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (*The News Minute*, 6 September 2024: more than 2,000 graduates selected in Infosys's 2022-23 campus drive; NITES 'a Pune-based IT union').
+
+[71] *The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024) (complaints filed on 20 August 2024); Ganeshan, '"Thrown on the Road"' (2025) (offer letters on 2 and 3 September 2024, according to NITES). *The News Minute* put the number still waiting for joining dates at about 700 in early September (*The News Minute*, 'Infosys to Face Govt Probe over Delayed Recruitment' (2024)), and *Deccan Herald* at about 500 by early October (Choudhary, 'IT Professionals' Union Accuses Karnataka Govt of Bias' (2024)).
+
+[72] Press reports on the NITES complaint against Infosys (2024-2025) (*Deccan Herald*, February 2025: Infosys's 'over 300', NITES's 700; assessments as described by the company); Ganeshan, '"Thrown on the Road"' (2025) (recruited in 2022, onboarded at Mysuru in October 2024). *The News Minute*'s report (Ganeshan, '"Thrown on the Road"' (2025)) gives its own estimate of 400; the prologue sets out all three figures.
+
+[73] Cognizant, 10-K FY2023, Item 1A.
+
+[74] Cognizant, 10-K FY2023, Items 1A and 7 ($115 million in employee separation costs and $114 million in facility exit and other costs).
+
+[75] Cognizant, 10-K FY2023, Item 1A.
+
+[76] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2020, Item 3; Infosys, Form 20-F FY2021, Item 3; Infosys, Form 20-F FY2022, Item 3; Infosys, Form 20-F FY2023, Item 3 (earlier appearances of the 'committing to higher productivity improvements' sentence).
+
+[77] Infosys, Form 20-F FY2024, Item 3.
+
+[78] Infosys, Form 20-F FY2024, Item 3; Infosys, Form 20-F FY2023, Item 3 (the same risk, there following a passage on clients' Russian operations and the conflict in Eastern Europe).
+
+
+## Chapter 19. The machines learn to code (2022-2026)
+
+[1] Infosys, Form 20-F FY2024, Item 3.D.
+
+[2] Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
+
+[3] Infosys, Form 20-F FY2026, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
+
+[4] Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15; Infosys, Form 20-F FY2026, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
+
+[5] Infosys, Form 20-F FY2026, Item 5, HTML p. 61; post-cutoff material, checked in October 2026.
+
+[6] Wipro, Form 20-F, FY2026, p. 11; post-cutoff material, checked in October 2026.
+
+[7] Wipro, Form 20-F, FY2026, p. 33; post-cutoff material, checked in October 2026.
+
+[8] Cognizant, Form 10-K 2025, p. 29; post-cutoff material, checked in October 2026.
+
+[9] Infosys, Form 20-F FY2025, Item 4, HTML p. 47; post-cutoff material, checked in October 2026.
+
+[10] Infosys, Form 20-F FY2026, Item 4, HTML p. 48; post-cutoff material, checked in October 2026.
+
+[11] Infosys, Form 20-F FY2026, Item 4, HTML p. 48; post-cutoff material, checked in October 2026.
+
+[12] Wipro, Form 20-F, FY2025, p. 33; post-cutoff material, checked in October 2026.
+
+[13] Wipro, Form 20-F, FY2026, p. 36; post-cutoff material, checked in October 2026.
+
+[14] Wipro, Form 20-F, FY2026, p. 73; post-cutoff material, checked in October 2026.
+
+[15] Cognizant, Form 10-K 2025, p. 10; post-cutoff material, checked in October 2026.
+
+[16] Cognizant, Form 10-K 2025, p. 10; post-cutoff material, checked in October 2026.
+
+[17] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
+
+[18] Infosys, Form 20-F FY2025, HTML p. 52 (Infosys: 'Over 2,75,000 of our people are trained on AI at different levels of proficiency', in Indian digit grouping); Cognizant, Form 10-K 2025, p. 10 (Cognizant: 'upskilled more than 330,000 associates on GenAI' between July 2023 and the end of 2025); Infosys, Form 20-F FY2026, HTML p. 118 (Infosys, 2026: 84 per cent of its workforce 'now AI-aware'); Press reports on TCS job cuts (2025) (Outlook Business, 30 July 2025, relaying TCS: more than 550,000 employees trained in basic AI and more than 100,000 in advanced skills); post-cutoff material, checked in October 2026.
+
+[19] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[20] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[21] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[22] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (paraphrase); post-cutoff material, checked in October 2026.
+
+[23] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024) (the 2024 projection for 2030, set out in Chapter 15); Agarwal, 'The Big Boom' (2026); post-cutoff material, checked in October 2026.
+
+[24] Infosys, Form 20-F FY2024, Item 6.D; Infosys, Form 20-F FY2025, Item 6.D; Infosys, Form 20-F FY2026, Item 6.D (offers and applications for the years to March 2024, 2025 and 2026); post-cutoff material, checked in October 2026. Applications per offer are the book's calculation.
+
+[25] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[26] *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026); post-cutoff material, checked in October 2026.
+
+[27] *Business Today*, 'TCS Fresher Hiring Hits 25,000 in FY27' (2026); post-cutoff material, checked in October 2026.
+
+[28] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[29] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[30] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[31] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[32] Infosys, Form 20-F FY2024, Item 4.
+
+[33] Press reports on delayed onboarding of graduates (2022); Infosys, Form 20-F FY2024, Item 6.D.
+
+[34] Infosys, Form 20-F FY2024, Item 3.D and Item 4; Infosys, Form 20-F FY2023, Item 3.D; Infosys, Form 20-F FY2022, Item 3.D.
+
+[35] Infosys, Form 20-F FY2025, Item 4, HTML p. 47; Wipro, Form 20-F, FY2025, p. 33; post-cutoff material, checked in October 2026.
+
+[36] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[37] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
+
+[38] Sharma, '"Everyone Is So Panicked"' (2025) (the article does not give the source of the figure); post-cutoff material, checked in October 2026.
+
+[39] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
+
+[40] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
+
+[41] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
+
+[42] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026. EY's finding is cited as *Rest of World* reported it.
+
+[43] Hinduja, 'India's IT Freshers Grapple with Stagnant Pay' (2025); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); post-cutoff material, checked in October 2026.
+
+[44] Hinduja, 'India's IT Freshers Grapple with Stagnant Pay' (2025); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); post-cutoff material, checked in October 2026.
+
+[45] Infosys, Form 20-F FY2024, Item 6.D; Infosys, Form 20-F FY2025, Item 6.D; Infosys, Form 20-F FY2026, Item 6.D; post-cutoff material, checked in October 2026.
+
+[46] Wipro, Form 20-F, FY2026, p. 73; post-cutoff material, checked in October 2026. The FY2026 report restates the March 2024 figure; Wipro's FY2024 report (Wipro) gave 'more than 234,000' for that date, the figure used in Chapter 18.
+
+[47] Cognizant, Form 10-K 2025, p. 11 (2024 and 2025); Cognizant (10-K for 2023), p. 10 (2022); post-cutoff material, checked in October 2026.
+
+[48] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (net additions, direct employees, revenue and growth for the year to March 2026; Nambiar's 'non-linearity' between job growth of 2.3 per cent and revenue growth of 6.1 per cent, as paraphrased by the Press Trust of India); post-cutoff material, checked in October 2026.
+
+[49] Nasscom, Strategic Review 2025 press release (2025); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026. Nasscom had estimated in February 2025 that the industry added 126,000 people in the year to March 2025, taking its workforce to 5.8 million (Nasscom, Strategic Review 2025 press release (2025)). A year later its estimate of revenue for that year was raised from $282.6 billion to $297 billion; the report of the revision does not give the reason (PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026)).
+
+[50] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (the companies' reported figures as compiled by *Business Standard*; Tech Mahindra's headcount also fell, by 1,108); post-cutoff material, checked in October 2026. TCS's own quarterly fact sheets were not available from the company's website when checked.
+
+[51] Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025) (*Business Standard*, 27 July 2025), quoting TCS's statement; live-checked 2026-10-15; post-cutoff material. *Deccan Herald* (29 July 2025, also Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025)) printed the same statement with small differences: it adds 'Towards this, a number of reskilling and redeployment initiatives have been underway', reads 'we will also be releasing associates', and has 'infrastructure, and realigning' where *Business Standard* has 'next-gen infrastructure and realigning'. The text here follows *Business Standard*. Reuters paraphrased the same statement as a plan to 'deploy artificial intelligence at scale, and realign its workforce model' (Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025)).
+
+[52] Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025) (*Business Standard*'s figures; *Deccan Herald* gives 12,261); Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025) (Reuters: roughly 12,200 out of more than 613,000); live-checked 2026-10-15; post-cutoff material.
+
+[53] Shinde and Das, 'TCS to lay off 2% of its workforce', *Business Standard* (2025) (*Deccan Herald*, 29 July 2025, paraphrasing the company); live-checked 2026-10-15; post-cutoff material.
+
+[54] Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025); post-cutoff material, checked in October 2026.
+
+[55] Press reports on TCS job cuts (2025); post-cutoff material, checked in October 2026.
+
+[56] Press reports on TCS job cuts (2025); post-cutoff material, checked in October 2026.
+
+[57] Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025); post-cutoff material, checked in October 2026.
+
+[58] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (IIDEA's statement, and its claim that experienced, better-paid staff were targeted); post-cutoff material, checked in October 2026.
+
+[59] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
+
+[60] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
+
+[61] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
+
+[62] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
+
+[63] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
+
+[64] Reddy, 'Forced Resignations, Unfair Bench Policy' (2025); post-cutoff material, checked in October 2026.
+
+[65] Abraham, 'TCS Employees Allege Forced Resignations' (2025); post-cutoff material, checked in October 2026.
+
+[66] Abraham, 'TCS Employees Allege Forced Resignations' (2025); post-cutoff material, checked in October 2026.
+
+[67] Abraham, 'TCS Employees Allege Forced Resignations' (2025); post-cutoff material, checked in October 2026.
+
+[68] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (a single employee's estimate); post-cutoff material, checked in October 2026.
+
+[69] *Business Standard* and *Outlook Business* on the TCS layoffs (October 2025) (*Business Standard*, 1 October 2025: NITES's email to Chief Minister Devendra Fadnavis and TCS's statement in reply); live-checked 2026-10-15; post-cutoff material. *Outlook Business* (2 October 2025, citing NDTV Profit, also *Business Standard* and *Outlook Business* on the TCS layoffs (October 2025)) gives the same first two sentences but ends the third 'as applicable to each individual circumstance', where *Business Standard* has 'as is due to them in each of the individual circumstances'. The statement answered NITES's claims about Pune; no TCS statement addressed specifically to KITU or to the Bengaluru conciliation has been located.
+
+[70] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (KITU's claims: the dispute filed on 29 July, the charge of illegal mass retrenchment, and the argument that resignations were sought to avoid the approval the Industrial Disputes Act requires of a firm with more than 100 employees); post-cutoff material, checked in October 2026.
+
+[71] *Deccan Herald* on the unions' TCS complaint (2025) (*Deccan Herald*, 31 July 2025: 'Three days ago, a union submitted a letter. Our department is looking into it'; 'There are conditions. We cannot act in a hurry.'); live-checked 2026-10-15; post-cutoff material.
+
+[72] Abraham, 'TCS Employees Allege Forced Resignations' (2025) (*The News Minute*, 7 August 2025: the meeting of 6 August, the participants and the adjournment to 8 September; TCS was represented by a general manager and an assistant manager in human resources, and KITU also by its secretary, Sooraj Nidiyanga); post-cutoff material, checked in October 2026. No report of the outcome of the conciliation, no failure-of-conciliation report, no reference to a labour court and no finding by the Karnataka Labour Department has been located in the press or in published court records as of 15 October 2026. Summaries of reports in *Deshabhimani* mention later rounds, but the reports themselves could not be retrieved and are not relied on here.
+
+[73] *Deccan Herald* on the unions' TCS complaint (2025) (*Deccan Herald* with PTI, 12 October 2025; the parenthesis is as printed, after an opening ellipsis, and the 6,000 figure its paraphrase of what Kunnumal 'hinted'; the headcount figures are from TCS's fact sheet for the quarter as reported, the paper noting that TCS's stock-exchange filing on the results omitted headcount and attrition); live-checked 2026-10-15; post-cutoff material.
+
+[74] *Deccan Herald* on the unions' TCS complaint (2025) (joint statement of KITU, the Association of IT Employees and the Union of IT and ITES Employees, as reported by *Deccan Herald*, 12 October 2025); live-checked 2026-10-15; post-cutoff material.
+
+[75] AICTE, AI model curricula and 2025 announcements (Careers360, 23 December 2024); the figures for colleges and students are AICTE's own.
+
+[76] AICTE, AI model curricula and 2025 announcements (PTI via Careers360, 6 June 2025). Sitharam also noted that AICTE had introduced a B.Tech degree in AI and data science in 2017. No AICTE circular or revised model curriculum giving effect to the announcement had been located when checked in October 2026.
+
+[77] Sil, 'Sarvam and the Sovereign AI Dream' (2026); Reserve Bank of India, *Handbook of Statistics on Indian Economy* (exchange rate at the financial year's average, RBI series); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+
+[78] Sil, 'Sarvam and the Sovereign AI Dream' (2026); post-cutoff material, checked in October 2026.
+
+[79] Sil, 'Sarvam and the Sovereign AI Dream' (2026); tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025); post-cutoff material, checked in October 2026.
+
+[80] tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025).
+
+[81] *Business Today*, 'India Selects Sarvam to Build Sovereign AI Model' (2025).
+
+[82] Sil, 'Sarvam and the Sovereign AI Dream' (2026); post-cutoff material, checked in October 2026. The government's own release on what Sarvam was contracted to build has not been located, so the difference between the 120 billion parameters announced in 2025 and the 105 billion released in 2026 is left unexplained.
+
+[83] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (the magazine's assessment, based partly on the company's own evaluations); post-cutoff material, checked in October 2026.
+
+[84] Sil, 'Sarvam and the Sovereign AI Dream' (2026) (as reported); post-cutoff material, checked in October 2026.
+
+[85] GitHub, *Octoverse 2025* (*The Register*'s report of GitHub's *Octoverse* 2025 figures: India to add more than 35.6 million developers by 2030, reaching 57.5 million or more, against 54.7 million projected for the United States; 80 per cent of new users began using Copilot in their first week, which GitHub called 'part of the default developer experience'). These are a company's figures about its own platform; post-cutoff material, checked in October 2026.
+
+[86] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[87] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (company figures); post-cutoff material, checked in October 2026.
+
+[88] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
+
+[89] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026); post-cutoff material, checked in October 2026.
+
+[90] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (paraphrase); post-cutoff material, checked in October 2026.
+
+[91] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026. The Motilal Oswal and Kotak Securities reports are cited as *Forbes India* reported them.
+
+[92] Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[93] Proclamation 10973 (2025), p. 46027 (Proclamation 10973, 'Restriction on Entry of Certain Nonimmigrant Workers', signed 19 September 2025). The proclamation also cited a rise in the share of H-1B workers in IT from 32 per cent in the US fiscal year 2003 to more than 65 per cent on average in the previous five years, a '36 percent discount' for H-1B entry-level positions, unemployment rates of 6.1 and 7.5 per cent among recent graduates in computer science and computer engineering (p. 46027), and an unnamed 2017 study of the effect of foreign workers on American computer scientists' wages and employment (p. 46028); post-cutoff material, checked in October 2026.
+
+[94] Proclamation 10973 (2025), p. 46028 (from 12:01 a.m. Eastern Daylight Time on 21 September 2025, for twelve months, and for entries after that date only); p. 46029 (new rules on wages ordered); post-cutoff material, checked in October 2026.
+
+[95] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 6 (4,573 approvals; 70 per cent fewer than in 2015 and 37 per cent fewer than in 2024); p. 5 (TCS: 846 approvals in 2025, against 1,452 in 2024); post-cutoff material, checked in October 2026.
+
+[96] Proclamation 11069 (2026), pp. 60497-60498 (Proclamation 11069, 18 September 2026: restriction extended to 21 September 2027; the $100,000 payment made for 'over 700 petitions'; a new rule weighting the H-1B lottery towards higher-paid workers for the 2027 season; the 92 per cent figure on p. 60498, where the firms are not named and the years compared are not stated in that sentence; the next sentence compares the 2025 and 2027 application seasons on a different measure); post-cutoff material, checked in October 2026.
+
+[97] *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 1 (*State of California v. Mullin*, Civ. No. 25-13829-LTS, D. Mass., Memorandum and Order, Doc. 106, 8 June 2026: twenty states sued federal departments and officials 'for their role in implementing the Proclamation'); p. 26 (tax; separation of powers, Count IV); pp. 32, 33, 36 (Administrative Procedure Act: no notice and comment, excess of statutory authority, arbitrary and capricious); p. 42 ('The Policy implementing the Proclamation is declared unlawful and is VACATED in its entirety'); *California v. Mullin*, D. Mass., Judgment (8 June 2026), pp. 1-2 (Judgment, Doc. 107: ten agency documents, among them memoranda of 20 September 2025, question-and-answer pages, a fee schedule and the payment website, vacated 'insofar as they impose a $100,000 payment obligation on H-1B petitions'); checked against the court record on 15 October 2026; post-cutoff material. Proclamation 10973 itself was not vacated; an early summary by the law firm Clark Hill (Law-firm summaries of the H-1B fee litigation (2026), 9 June 2026) which said that it was is mistaken on that point.
+
+[98] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 2 (*Global Nurse Force v. Trump*, No. 25-cv-08454-HSG, N.D. Cal., Order, Dkt. 130, 30 September 2026, citing *California v. Mullin*, 183 F.4th 42, 46-52 (1st Cir. 2026), stay pending appeal denied); checked against the court record on 15 October 2026; post-cutoff material.
+
+[99] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), p. 2 (citing *Chamber of Commerce v. DHS*, 815 F. Supp. 3d 73, 79 (D.D.C. 2025), 'currently on appeal' in the D.C. Circuit); checked against the court record on 15 October 2026; post-cutoff material.
+
+[100] *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 33-34 (the judge's opening words, that the case was 'not about whether the challenged Proclamation is good or bad'; the Agency Policies vacated and remanded; enforcement of policies under Proclamations 10973 and 11069 barred 'until notice-and-comment rulemaking under the APA and regulatory flexibility analyses' are carried out; after the Massachusetts ruling 'the $100,000 fee is no longer in effect'); merits at pp. 26-30; Ninth Circuit appeal no. 26-6667 (Dkt. 138, 9 October 2026); checked against the court record on 15 October 2026; post-cutoff material.
+
+[101] Law-firm summaries of the H-1B fee litigation (2026) (DiRaimondo & Schroeder, 5 October 2026: the proposed rule); post-cutoff material, checked in October 2026.
+
+[102] Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026); Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026); post-cutoff material, checked in October 2026.
+
+[103] Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026); post-cutoff material, checked in October 2026.
+
+
+## Epilogue. India in 2035
+
+[1] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
+
+[2] Ganeshan, '"Thrown on the Road"' (2025).
+
+[3] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF pp. 1, 5; post-cutoff material, checked in October 2026.
+
+[4] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF p. 6; post-cutoff material, checked in October 2026.
+
+[5] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF p. 11, printed p. 12; post-cutoff material, checked in October 2026.
+
+[6] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), PDF p. 7; post-cutoff material, checked in October 2026.
+
+[7] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 14. The report's only mention of 2035 is a proposed vision statement for its talent mission: 'To position India as the global epicentre of AI talent by 2035'. That is a goal, not an estimate; no forecast of Indian software employment for 2035 has been located. The report is also inconsistent about its upside: 'by 2030, we can add 2 million more new jobs' on one page (PDF p. 11), up to 4 million by 2031 in the foreword of Debjani Ghosh, a NITI Distinguished Fellow (PDF p. 5); post-cutoff material, checked in October 2026.
+
+[8] Rajaraman, *History of Computing in India* (2012), pp. 18, 28.
+
+[9] Rajaraman, *History of Computing in India* (2012), p. 32.
+
+[10] Singh, *Budget 1991-92* speech (1991), p. 20.
+
+[11] Rajaraman, *History of Computing in India* (2012), p. 40 (Rajaraman's account of the years 1978-84, in which he was a participant).
+
+[12] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[13] Hanna, *Exploiting Information Technology for Development* (1994), p. 50.
+
+[14] RoyChowdhury, 'Livelihood and Income' (c. 2011), p. 1.
+
+[15] Avanti Fellows, 'Technical Seats' (2026); post-cutoff material, checked in October 2026.
+
+[16] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), abstract.
+
+[17] Khanna and Morales, 'The IT Boom and Other Unintended Consequences' (2016), p. 5.
+
+[18] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 14-15.
+
+[19] Infosys, Form 20-F FY2008, Item 3.D.
+
+[20] Infosys, Form 20-F FY2024, Item 3.D (filed June 2024); Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15 (filed 1 July 2025); Infosys, Form 20-F FY2026, Item 3.D, HTML p. 15 (filed 15 June 2026); post-cutoff material, checked in October 2026.
+
+[21] Infosys, Form 20-F FY2026, Item 5, HTML p. 61; Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[22] Wipro, Form 20-F, FY2026, p. 33 (Wipro); Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026) (Sudeep Kunnumal, *Business Standard*, 8 October 2026); post-cutoff material, checked in October 2026.
+
+[23] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (Nasscom's estimates for the year to March 2026: revenue $315 billion, up 6.1 per cent; 5.95 million direct employees, jobs up 2.3 per cent); post-cutoff material, checked in October 2026.
+
+[24] Infosys, Form F-1 (1999), pp. 32, 44 (1999); Infosys, Form 20-F FY2002, p. 6 (2002).
+
+[25] Freshworks, Form 10-K FY2024, Item 1 (Freddy AI Agent); Item 1 also gives about 83 per cent of employees in India at the end of 2024.
+
+[26] Infosys, Form 20-F FY2025, Item 3.D; Infosys, Form 20-F FY2026, Item 3.D (productivity commitments); Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (C. Vijayakumar's rough estimate that a $100 million deal 'would be much less today'; the Motilal Oswal Financial Services report of 4 May 2026, as reported by *Forbes India*); post-cutoff material, checked in October 2026.
+
+[27] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (company figures for AI revenue, as reported by *Forbes India*; Krithivasan on TCS's earnings call); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026) (Nasscom's AI revenue estimate); post-cutoff material, checked in October 2026.
+
+[28] Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (Gaurav Vasu of UnearthInsight, in *Business Standard*); post-cutoff material, checked in October 2026.
+
+[29] Infosys, Form 20-F FY2024, Item 4 ('a code assistant' for 'tasks like coding, testing, and documentation').
+
+[30] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 8; post-cutoff material, checked in October 2026.
+
+[31] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 7 (a junior QA engineer in Pune named Rekha and a first-line support agent in Chennai named Aman; the report gives no surnames and no sign that they are real people); post-cutoff material, checked in October 2026.
+
+[32] Hinduja, 'India's IT Freshers Grapple with Stagnant Pay' (2025) (Neeti Sharma of TeamLease Digital: Rs 2-2.5 lakh a year in 2014, Rs 3-3.5 lakh in 2025); Das, 'Top 5 IT Cos' Net Hiring Down for FY26' (2026) (Krithivasan, in *Business Standard*'s paraphrase); post-cutoff material, checked in October 2026.
+
+[33] Infosys, Form 20-F FY2022, Item 6 (222,500 offers, year to March 2022); Infosys, Form 20-F FY2026, Item 6.D (87,286, year to March 2026); post-cutoff material, checked in October 2026.
+
+[34] Hanna, *Exploiting Information Technology for Development* (1994), p. 33.
+
+[35] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), pp. 7, 14.
+
+[36] Heeks, 'The Uneven Profile of Indian Software Exports' (1998), p. 2.
+
+[37] Rajaraman, *History of Computing in India* (2012), p. 38.
+
+[38] Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (HCLTech's Vijayakumar; TCS revenue down 0.5 per cent and Wipro's 0.32 per cent in US dollars in the year to March 2026; Kotak Securities, as reported by *Forbes India*); post-cutoff material, checked in October 2026.
+
+[39] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024); Agarwal, 'The Big Boom' (2026) (reporting the Zinnov-Nasscom FY26 report); post-cutoff material, checked in October 2026.
+
+[40] Avanti Fellows, 'Technical Seats' (2026) (Avanti Fellows' analysis of AICTE data: 17.05 lakh approved seats in 2014-15, 12.53 lakh in 2021-22, a vacancy rate of 34.1 per cent); post-cutoff material, checked in October 2026.
+
+[41] Infosys, Form 20-F FY2024; Infosys, Form 20-F FY2025, Item 6.D; Infosys, Form 20-F FY2026, Item 6.D; Shinde, 'TCS Onboards 10,000 Freshers in Q2 FY27' (2026); Thapliyal, 'TCS Adds 4,258 Employees in Q2' (2026); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
+
+[42] Press reports on the NITES complaint against Infosys (2024-2025); Ganeshan, '"Thrown on the Road"' (2025); Infosys, Form 20-F FY2024, Item 3.D.
+
+[43] Bose and Dutta, 'India's New IT Playbook Begins with Layoffs' (2025); post-cutoff material, checked in October 2026.
+
+[44] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 13; post-cutoff material, checked in October 2026.
+
+[45] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 13; Ganguly, 'Indian IT Braces for AI-Deflation' (2026) (Vijayakumar); post-cutoff material, checked in October 2026.
+
+[46] AICTE, AI model curricula and 2025 announcements.
+
+[47] Texas Instruments, 'TI Celebrates 20 Years in India' (2005).
+
+[48] Infosys, Form 20-F FY2025, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
+
+[49] Government of Karnataka, *Karnataka GCC Policy 2024-2029*, section 3.3 'Targets' (policy text, copy hosted at ssfglobal.in, consulted 2026-10-14).
+
+[50] Nasscom, Strategic Review 2025 press release (2025) (note to editors); PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
+
+[51] Union Budget 2025-26 speech (2025) (budget speech, para. 91).
+
+[52] Proclamation 10973 (2025), p. 46027; Proclamation 11069 (2026), p. 60498; *California v. Mullin*, D. Mass., Memorandum and Order (8 June 2026), p. 42; *California v. Mullin*, D. Mass., Judgment (8 June 2026); *Global Nurse Force v. Trump*, N.D. Cal., Order (30 September 2026), pp. 2, 34; checked against the court record on 15 October 2026; post-cutoff material.
+
+[53] NFAP, 'H-1B Petitions and Denial Rates in FY 2025' (2025), p. 5 (Table 1); post-cutoff material, checked in October 2026.
+
+[54] Sil, 'Sarvam and the Sovereign AI Dream' (2026); *Business Today*, 'India Selects Sarvam to Build Sovereign AI Model' (2025); tele.net, 'IndiaAI Mission Selects Three New Start-Ups' (2025); post-cutoff material, checked in October 2026.
+
+[55] PTI, 'India FY26 Tech Revenues Seen 6.1 Pc Up' (2026); post-cutoff material, checked in October 2026.
+
+[56] Sil, 'Sarvam and the Sovereign AI Dream' (2026); post-cutoff material, checked in October 2026.
+
+[57] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed pp. 9-10; post-cutoff material, checked in October 2026.
+
+[58] GitHub, *Octoverse 2025*; post-cutoff material, checked in October 2026.
+
+[59] Avanti Fellows, 'Technical Seats' (2026); post-cutoff material, checked in October 2026.
+
+[60] Suresh, 'India's Global Centre Market to Grow to $105 Billion by 2030' (2024); Agarwal, 'The Big Boom' (2026); post-cutoff material, checked in October 2026.
+
+[61] NITI Aayog, *Roadmap for Job Creation in the AI Economy* (2025), printed p. 13; Ganguly, 'Indian IT Braces for AI-Deflation' (2026); post-cutoff material, checked in October 2026.
+
+[62] Ganeshan, '"Thrown on the Road"' (2025).
+
+[63] Sharma, '"Everyone Is So Panicked"' (2025); post-cutoff material, checked in October 2026.
+
 
 
 # Bibliography
