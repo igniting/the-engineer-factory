@@ -1,6 +1,6 @@
 # Timeline
 
-This timeline lists 161 dated events that the chapters describe, from the founding of the Indian Statistical Institute in 1931 to the autumn of 2026. Each entry gives the date as the chapters state it, a short description, the chapters in which the event appears, and the source IDs from the book's source register, where full references are given. Where the sources disagree on a date, the entry follows the chapter and notes the other date. Indian fiscal years run from April to March and are written FY1997-98. Figures from Nasscom, the industry's lobby group, from Zinnov, a consultancy that sells to global capability centres, and from companies about themselves are labelled as theirs.
+This timeline lists 162 dated events that the chapters describe, from the founding of the Indian Statistical Institute in 1931 to the autumn of 2026. Each entry gives the date as the chapters state it, a short description, the chapters in which the event appears, and the source IDs from the book's source register, where full references are given. Where the sources disagree on a date, the entry follows the chapter and notes the other date. Indian fiscal years run from April to March and are written FY1997-98. Figures from Nasscom, the industry's lobby group, from Zinnov, a consultancy that sells to global capability centres, and from companies about themselves are labelled as theirs.
 
 | Date | Event (Chapter) | Sources |
 |---|---|---|
@@ -45,7 +45,7 @@ This timeline lists 161 dated events that the chapters describe, from the foundi
 | 1974 | First policy paper on importing computers for software export (Chs. 3, 4; Epilogue) | S0001 |
 | 1975-01 | Kohli's Computer Society of India address at Ahmedabad (Ch. 4) | S0231 |
 | 1976 | Computer Maintenance Corporation (CMC) created by the DoE (Chs. 3, 5) | S0066 |
-| 1976-08 | Hindustan Computers Ltd (HCL) founded by Shiv Nadar and colleagues (Ch. 5) | S0081 |
+| 1976-08 | Hindustan Computers Ltd (HCL) founded by Shiv Nadar and colleagues; the founders' calculator firm Microcomp held 49 per cent (Ch. 5) | S0081, S0358 |
 | 1977-03 | Janata government takes office (Chs. 3, 5) | S0056 |
 | 1978 | IIT Kanpur starts India's first undergraduate degree in computer science, with 20 seats; over 100,000 sit the IIT entrance exam for about 1,500 places (Chs. 2, 5, 7) | S0001 |
 | 1978 | Minicomputer policy opens computer manufacture to private Indian firms (Chs. 3, 4, 5, 8) | S0001 |
@@ -63,6 +63,7 @@ This timeline lists 161 dated events that the chapters describe, from the foundi
 | 1985 | Texas Instruments begins operating a software design centre in Bangalore (Chs. 4, 6, 7, 8, 10, 14, 15; Epilogue) | S0061 |
 | 1985 | TI's satellite equipment delivered by bullock cart to Sona Towers, Bangalore (Chs. 8, 10) | S0249, S0250 |
 | 1985-10-28 | Citicorp Overseas Software Ltd (COSL) inaugurated at SEEPZ, Bombay (Chs. 6, 8) | S0240 |
+| 1985-11-15 | Pilot computerised passenger reservation system (IMPRESS) launched at New Delhi (Ch. 8) | S0396 |
 | 1986 | VSNL set up for overseas communications (Ch. 8) | S0001 |
 | 1986 | Computerised railway reservation opens at the New Delhi booking office with 50 counters; staff numbers rise (Ch. 8; Epilogue) | S0001 |
 | 1986-12 | Policy on Computer Software Export: duty-free imports against a 250 per cent export obligation; satellite export allowed (Chs. 6, 8; Epilogue) | S0241, S0001 |
@@ -126,19 +127,23 @@ This timeline lists 161 dated events that the chapters describe, from the foundi
 | 2014-15 | Approved undergraduate engineering intake peaks at about 1.7 million (Ch. 12; Epilogue) | S0267 |
 | 2015-01-31 | Disney IT staff in Orlando leave after training their replacements (Ch. 13) | S0269 |
 | 2015-04-09 | CBI special court in Hyderabad convicts Raju and others in the Satyam case (Ch. 16) | S0123, S0124 |
+| 2015-05-11 | Sentences of the ten convicted in the Satyam case suspended and bail granted pending appeal (Ch. 16) | S0406 |
 | 2016 | Unified Payments Interface (UPI) launched (April or August disputed) (Ch. 17) | S0129, S0148 |
 | 2017-08-20 | KITU founded at a meeting of about 200 IT workers in Bengaluru (Ch. 18) | S0294 |
 | 2017-08-24 | Nine-judge Supreme Court bench holds privacy a fundamental right (Puttaswamy) (Ch. 16) | S0127 |
 | 2018-09-26 | Supreme Court upholds the Aadhaar Act but strikes down private use, bank and mobile linking and data retention beyond six months (Ch. 16) | S0127 |
+| 2019-09-09 | Securities Appellate Tribunal quashes SEBI's bans on Price Waterhouse and two partners, upholding disgorgement (Ch. 16) | S0404 |
 | 2020-03-20 | Infosys has enabled 93 per cent of employees to work remotely (Ch. 18) | S0287 |
 | 2021 | Indian start-up funding peaks (about $37 billion on Tracxn's implied count; other vendors higher) (Ch. 17) | S0147 |
 | FY2021-22 | Infosys makes 222,500 job offers (48,029 the year before) (Ch. 18) | S0289, S0288 |
 | 2021-09-22 | Freshworks lists on Nasdaq at $36 a share (Ch. 17) | S0174 |
+| 2021-12 | Zoho's trade-secrets suit against Freshworks settled and dismissed; terms undisclosed (Ch. 17) | S0411, S0412 |
 | 2021-12-31 | EPAM's largest delivery centres are in Ukraine, Belarus and Russia; India has 4,349 (Ch. 15) | S0170 |
 | 2022-08 | Rishad Premji calls moonlighting 'cheating' (Ch. 18) | S0131 |
 | 2022-10 | Business Today reports delayed joining dates for campus recruits at Accenture and other firms (Prologue; Ch. 18) | S0134 |
 | 2023 | Cognizant's NextGen restructuring costs $229 million; voluntary attrition falls to 13.8 per cent (Ch. 18) | S0293 |
 | FY2023-24 | Infosys offers fall to 26,975; headcount falls to 317,240 (Prologue; Chs. 18, 19; Epilogue) | S0291 |
+| 2023-02-02 | Securities Appellate Tribunal sets aside SEBI's 2018 Satyam orders for those who appealed (Ch. 16) | S0402 |
 | 2024-03 | IndiaAI Mission launched with an outlay of about Rs 10,372 crore (Ch. 19; Epilogue) | S0186 |
 | 2024 | Karnataka adopts a GCC policy for 2024-29 (Ch. 15; Epilogue) | S0204 |
 | 2024-06 | NITES says more than 10,000 graduates await joining dates at five IT firms (union estimate) (Prologue) | S0133 |

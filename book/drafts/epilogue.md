@@ -30,7 +30,7 @@ The third part follows from the second. The hours a client is most willing to st
 
 The machines have been forecast to take this work before, and the forecast was wrong for thirty years. In 1994 the World Bank's study of the Indian industry warned that 'Demand for these skills is likely to be eroded by tools that automate many of these tasks', and added that 'a long-term decline in demand for routine or low-level programmers has been forecasted'.[34] In 1998 Heeks named 'automation from new technology' among the risks to the trade and saw a trap in it: clients sent work offshore only when it was tightly specified, and such projects were 'more amenable to automated software tools'.[35] Instead exports kept growing fast, and by 2026 Nasscom counted 5.95 million direct employees.[36][23] The warnings were wrong because demand absorbed the productivity. Each tool that made an engineer faster made software cheaper, cheaper software found new buyers, and a firm that sold hours could use the saving to win more work. The book's one documented case of the pattern in India is small but exact. When the railway booking office in New Delhi was computerised in 1986, Rajaraman records, there was 'no reduction of staff; in fact there was an increase as more counters were operated with more clerks working simultaneously'.[37] On the book's reading, the machine raised each clerk's output and demand that the queues had held down absorbed it.
 
-For that to happen again, three things would have to be true. Demand for software at the new, lower price would have to grow faster than the hours needed for each piece of it fall. The saving would have to stay with someone who reinvests it in hiring, as the fixed-price firms of the Y2K years did, rather than being taken by the client in advance. And the new work would have to reach the firms and the graduates the factory was built to supply. On the evidence of 2026 the first is uncertain: the industry still grew, but HCLTech said winning the same revenue took 'at least 25-30 percent more effort', TCS's and Wipro's revenue fell in dollar terms, and one broker expected growth to stay 'range-bound at 3 percent'.[38] The second points the other way, for as long as the clients keep the saving. The third is partly true: Indian engineers were still being hired in large numbers, but increasingly by the captive centres, which by the year to March 2026 employed about 2.36 million people by an industry count, and the graduates still had to get past a narrower bottom rung.[39] The book's reading is that demand may again absorb much of the productivity, and that Indian engineers may again be employed in large numbers, but not through the bargain that built the factory. Heeks's trap has closed on the hourly vendor, and most tightly at the bottom rung.
+For that to happen again, three things would have to be true. Demand for software at the new, lower price would have to grow faster than the hours needed for each piece of it fall. The saving would have to stay with someone who reinvests it in hiring, rather than being taken by the client in advance. And the new work would have to reach the firms and the graduates the factory was built to supply. On the evidence of 2026 the first is uncertain: the industry still grew, but HCLTech said winning the same revenue took 'at least 25-30 percent more effort', TCS's and Wipro's revenue fell in dollar terms, and one broker expected growth to stay 'range-bound at 3 percent'.[38] The second points the other way, for as long as the clients keep the saving. The third is partly true: Indian engineers were still being hired in large numbers, but increasingly by the captive centres, which by the year to March 2026 employed about 2.36 million people by an industry count, and the graduates still had to get past a narrower bottom rung.[39] The book's reading is that demand may again absorb much of the productivity, and that Indian engineers may again be employed in large numbers, but not through the bargain that built the factory. Heeks's trap has closed on the hourly vendor, and most tightly at the bottom rung.
 
 ## Four things to watch
 
@@ -64,13 +64,13 @@ His sentence is about education as much as about jobs. For half a century the en
 
 ## Notes
 
-[1] S0305; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[1] S0305; post-cutoff material, checked in October 2026.
 [2] S0311.
-[3] S0316, PDF pp. 1, 5; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[4] S0316, PDF p. 6; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[5] S0316, PDF p. 11, printed p. 12; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[6] S0316, PDF p. 7; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[7] S0316, printed p. 14. The report's only mention of 2035 is a proposed vision statement for its talent mission: 'To position India as the global epicentre of AI talent by 2035'. That is a goal, not an estimate; no forecast of Indian software employment for 2035 has been located. The report is also inconsistent about its upside: 'by 2030, we can add 2 million more new jobs' on one page (PDF p. 11), up to 4 million by 2031 in the foreword of Debjani Ghosh, a NITI Distinguished Fellow (PDF p. 5); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[3] S0316, PDF pp. 1, 5; post-cutoff material, checked in October 2026.
+[4] S0316, PDF p. 6; post-cutoff material, checked in October 2026.
+[5] S0316, PDF p. 11, printed p. 12; post-cutoff material, checked in October 2026.
+[6] S0316, PDF p. 7; post-cutoff material, checked in October 2026.
+[7] S0316, printed p. 14. The report's only mention of 2035 is a proposed vision statement for its talent mission: 'To position India as the global epicentre of AI talent by 2035'. That is a goal, not an estimate; no forecast of Indian software employment for 2035 has been located. The report is also inconsistent about its upside: 'by 2030, we can add 2 million more new jobs' on one page (PDF p. 11), up to 4 million by 2031 in the foreword of Debjani Ghosh, a NITI Distinguished Fellow (PDF p. 5); post-cutoff material, checked in October 2026.
 [8] S0001, pp. 18, 28.
 [9] S0001, p. 32.
 [10] S0088, p. 20.
@@ -78,55 +78,55 @@ His sentence is about education as much as about jobs. For half a century the en
 [12] S0085, p. 2.
 [13] S0241, p. 50.
 [14] S0257, p. 1.
-[15] S0267; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[15] S0267; post-cutoff material, checked in October 2026.
 [16] S0254, abstract.
 [17] S0254, p. 5.
 [18] S0085, pp. 14-15.
 [19] S0265, Item 3.D.
-[20] S0291, Item 3.D (filed June 2024); S0296, Item 3.D, HTML p. 15 (filed 1 July 2025); S0297, Item 3.D, HTML p. 15 (filed 15 June 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[21] S0297, Item 5, HTML p. 61; S0142; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[22] S0298, FY2026, p. 33 (Wipro); S0138 (Sudeep Kunnumal, *Business Standard*, 8 October 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[23] S0306 (Nasscom's estimates for the year to March 2026: revenue $315 billion, up 6.1 per cent; 5.95 million direct employees, jobs up 2.3 per cent); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[20] S0291, Item 3.D (filed June 2024); S0296, Item 3.D, HTML p. 15 (filed 1 July 2025); S0297, Item 3.D, HTML p. 15 (filed 15 June 2026); post-cutoff material, checked in October 2026.
+[21] S0297, Item 5, HTML p. 61; S0142; post-cutoff material, checked in October 2026.
+[22] S0298, FY2026, p. 33 (Wipro); S0138 (Sudeep Kunnumal, *Business Standard*, 8 October 2026); post-cutoff material, checked in October 2026.
+[23] S0306 (Nasscom's estimates for the year to March 2026: revenue $315 billion, up 6.1 per cent; 5.95 million direct employees, jobs up 2.3 per cent); post-cutoff material, checked in October 2026.
 [24] S0089, pp. 32, 44 (1999); S0260, p. 6 (2002).
 [25] S0285, Item 1 (Freddy AI Agent); Item 1 also gives about 83 per cent of employees in India at the end of 2024.
-[26] S0296, Item 3.D; S0297, Item 3.D (productivity commitments); S0142 (C. Vijayakumar's rough estimate that a $100 million deal 'would be much less today'; the Motilal Oswal Financial Services report of 4 May 2026, as reported by *Forbes India*); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[27] S0142 (company figures for AI revenue, as reported by *Forbes India*; Krithivasan on TCS's earnings call); S0306 (Nasscom's AI revenue estimate); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[28] S0139 (Gaurav Vasu of UnearthInsight, in *Business Standard*); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[26] S0296, Item 3.D; S0297, Item 3.D (productivity commitments); S0142 (C. Vijayakumar's rough estimate that a $100 million deal 'would be much less today'; the Motilal Oswal Financial Services report of 4 May 2026, as reported by *Forbes India*); post-cutoff material, checked in October 2026.
+[27] S0142 (company figures for AI revenue, as reported by *Forbes India*; Krithivasan on TCS's earnings call); S0306 (Nasscom's AI revenue estimate); post-cutoff material, checked in October 2026.
+[28] S0139 (Gaurav Vasu of UnearthInsight, in *Business Standard*); post-cutoff material, checked in October 2026.
 [29] S0291, Item 4 ('a code assistant' for 'tasks like coding, testing, and documentation').
-[30] S0316, printed p. 8; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[31] S0316, printed p. 7 (a junior QA engineer in Pune named Rekha and a first-line support agent in Chennai named Aman; the report gives no surnames and no sign that they are real people); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[32] S0332 (Neeti Sharma of TeamLease Digital: Rs 2-2.5 lakh a year in 2014, Rs 3-3.5 lakh in 2025); S0139 (Krithivasan, in *Business Standard*'s paraphrase); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[33] S0289, Item 6 (222,500 offers, year to March 2022); S0297, Item 6.D (87,286, year to March 2026); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[30] S0316, printed p. 8; post-cutoff material, checked in October 2026.
+[31] S0316, printed p. 7 (a junior QA engineer in Pune named Rekha and a first-line support agent in Chennai named Aman; the report gives no surnames and no sign that they are real people); post-cutoff material, checked in October 2026.
+[32] S0332 (Neeti Sharma of TeamLease Digital: Rs 2-2.5 lakh a year in 2014, Rs 3-3.5 lakh in 2025); S0139 (Krithivasan, in *Business Standard*'s paraphrase); post-cutoff material, checked in October 2026.
+[33] S0289, Item 6 (222,500 offers, year to March 2022); S0297, Item 6.D (87,286, year to March 2026); post-cutoff material, checked in October 2026.
 [34] S0241, p. 33.
 [35] S0085, pp. 7, 14.
 [36] S0085, p. 2.
 [37] S0001, p. 38.
-[38] S0142 (HCLTech's Vijayakumar; TCS revenue down 0.5 per cent and Wipro's 0.32 per cent in US dollars in the year to March 2026; Kotak Securities, as reported by *Forbes India*); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[39] S0317; S0318 (reporting the Zinnov-Nasscom FY26 report); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[40] S0267 (Avanti Fellows' analysis of AICTE data: 17.05 lakh approved seats in 2014-15, 12.53 lakh in 2021-22, a vacancy rate of 34.1 per cent); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[41] S0291; S0296, Item 6.D; S0297, Item 6.D; S0138; S0310; S0306; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[38] S0142 (HCLTech's Vijayakumar; TCS revenue down 0.5 per cent and Wipro's 0.32 per cent in US dollars in the year to March 2026; Kotak Securities, as reported by *Forbes India*); post-cutoff material, checked in October 2026.
+[39] S0317; S0318 (reporting the Zinnov-Nasscom FY26 report); post-cutoff material, checked in October 2026.
+[40] S0267 (Avanti Fellows' analysis of AICTE data: 17.05 lakh approved seats in 2014-15, 12.53 lakh in 2021-22, a vacancy rate of 34.1 per cent); post-cutoff material, checked in October 2026.
+[41] S0291; S0296, Item 6.D; S0297, Item 6.D; S0138; S0310; S0306; post-cutoff material, checked in October 2026.
 [42] S0133; S0311; S0291, Item 3.D.
-[43] S0301; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[44] S0316, printed p. 13; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[45] S0316, printed p. 13; S0142 (Vijayakumar); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[43] S0301; post-cutoff material, checked in October 2026.
+[44] S0316, printed p. 13; post-cutoff material, checked in October 2026.
+[45] S0316, printed p. 13; S0142 (Vijayakumar); post-cutoff material, checked in October 2026.
 [46] S0145.
 [47] S0061.
-[48] S0296, Item 3.D, HTML p. 15; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[48] S0296, Item 3.D, HTML p. 15; post-cutoff material, checked in October 2026.
 [49] S0204, section 3.3 'Targets' (policy text, copy hosted at ssfglobal.in, consulted 2026-10-14).
-[50] S0140 (note to editors); S0306; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[50] S0140 (note to editors); S0306; post-cutoff material, checked in October 2026.
 [51] S0205 (budget speech, para. 91).
 [52] S0136, p. 46027; S0300, p. 60498; S0375, p. 42; S0376; S0377, pp. 2, 34; checked against the court record on 15 October 2026; post-cutoff material.
-[53] S0338, p. 5 (Table 1); consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[54] S0187; S0307; S0308; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[55] S0306; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[56] S0187; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[57] S0316, printed pp. 9-10; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[58] S0146; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[59] S0267; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[60] S0317; S0318; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
-[61] S0316, printed p. 13; S0142; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[53] S0338, p. 5 (Table 1); post-cutoff material, checked in October 2026.
+[54] S0187; S0307; S0308; post-cutoff material, checked in October 2026.
+[55] S0306; post-cutoff material, checked in October 2026.
+[56] S0187; post-cutoff material, checked in October 2026.
+[57] S0316, printed pp. 9-10; post-cutoff material, checked in October 2026.
+[58] S0146; post-cutoff material, checked in October 2026.
+[59] S0267; post-cutoff material, checked in October 2026.
+[60] S0317; S0318; post-cutoff material, checked in October 2026.
+[61] S0316, printed p. 13; S0142; post-cutoff material, checked in October 2026.
 [62] S0311.
-[63] S0305; consulted 2026-10-12; post-cutoff material; live-checked 2026-10-14.
+[63] S0305; post-cutoff material, checked in October 2026.
 
 ---
 

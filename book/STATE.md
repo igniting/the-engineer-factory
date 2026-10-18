@@ -2,12 +2,12 @@
 
 **Read this first every session.** Then read `plan/instructions.md` (the brief) and `plan/style.md`. Do the task under "Next task". After each task: update this file, commit, push, report in three lines.
 
-- **Current phase:** Complete (v2 published: Phase 8 source integration)
-- **Last updated:** 2026-10-15 (session 9)
-- **Book status:** Complete; body c. 114,650 words
+- **Current phase:** Complete (v3 published: Phase 9 publisher's edit)
+- **Last updated:** 2026-10-18 (session 9)
+- **Book status:** Complete; body c. 95,800 words (after the publisher's edit)
 
 ## Next task
-**Book complete (v2).** Phase 8 (2026-10-15) added 38 openly available sources (S0346-S0383; S0033, S0035, S0128 upgraded; see `research/acquisitions/` and `plan/wanted-sources.md`) and integrated them into the prologue-free chapters 1-7, 11-14, 16, 18, 19 and the epilogue, each with a log in `verify/chNN-integration.md`. Settled: (u) Microcomp not renamed HCL; (aaa) H-1B fee orders. Optional next: (1) a copy-edit pass; (2) charts on the site; (3) the Wired 2004 piece (S0357) for Ch. 14; Nilekani on Sona Towers (S0360 p. 10) for Ch. 8; (4) books still unread (Sharma, Ramadorai, Banerjee, Xiang). Rebuild after any change: `python3 book/final/scripts/build_notes.py`, `python3 book/final/scripts/build_site.py`, pandoc docx/epub from `book/final/manuscript.md`, then build_site again. Note overrides are keyed by note number: re-check `note_overrides.csv` after any renumbering.
+**Book complete (v3).** Phase 9 (2026-10-15 to 18) answered the publisher's critique (`verify/publisher-critique.md`; per-chapter instructions in the scratchpad critique_detail.md, logs `verify/chNN-r9.md`, independent checks `verify/chNN-v9.md`): legal fixes (Satyam status to 2025, PwC 2019, SEBI 2023; Zoho v Freshworks settled 2021; 2005 Bangalore victim not named, D14; private individuals anonymised in Ch. 6 and 13; TCS HR names removed; customs-seal anecdote cut); unfinished checks closed (Lok Sabha 1966/67 read; Aspray confirmed; railway pilot 15 Nov 1985); bargain stated in the prologue; Part I compressed; research-log talk moved to notes (D13); cross-references cut from 261 to about 70; Ch. 19 rebuilt with a dated coda; epilogue commits to an argued judgement; body cut from c. 114,650 to c. 95,800 words. 36 new sources (S0384-S0419). Open: author of record (author decision); Banerjee 2026, Sharma, Ramadorai books unread (reviewers only); TCS fact sheets; Satyam judgment text; parliamentary answers of 1977, 1985, 1987, 1993. Rebuild after any change: `build_notes.py`, `build_index.py`, `build_site.py`, pandoc docx/epub from `final/manuscript.md`, `build_site.py` again; deploy `docs/` to gh-pages.
 
 
 ## Author decisions (2026-10-14)

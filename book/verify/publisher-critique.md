@@ -38,7 +38,7 @@ None of this means starting again. Ch. 2, 6, 9, 11 and 15 are close to publishab
   - Every named person's current appeal status must be re-checked and stated with a date ("convicted at first instance; appeal pending as of ...").
   - The second-hand B. Rama Raju email ("warning of sacking or demotion") should be dropped, or tied squarely to *Business Today*.
 - **Living private individuals shown unflatteringly on a single source.**
-  - Mali Subbiah, the Plano body-shop owner (Ch. 13, *Dallas Observer* 1998).
+  - [the owner, not named], the Plano body-shop owner (Ch. 13, *Dallas Observer* 1998).
   - [the programmer, not named], sued by TCS (Ch. 6).
   - Two named TCS HR managers in the 2025 retrenchment dispute (Ch. 19). Remove these names.
   - Ramadorai threading customs-seal wires back before inspection (Ch. 4, *The Economist*).
@@ -149,7 +149,7 @@ Each recurrence is short. Read in sequence, the chapters feel like overlapping d
 | 10 | Structural | K.S. Garden; Murthy's Pune flat | End on a line, not a list of gaps; bring the 1.5x wage-bill rule forward; rely less on Saxenian | 600-800 |
 | 11 | Line edit | The 6.20 am bus; "Hours and outcomes" | Shorten the CMM dispute and the Nasdaq split arithmetic | 500-700 |
 | 12 | Line edit | Raghu and his father; Sarojini and Parvati; the caste handling | Move the sidebar; end on "The design succeeded" | 700-900 |
-| 13 | Structural | Plano; Perrero's "I choose the money over America" | Open on the workers, not TiE; legal review of Subbiah; cut the cap history | 600-800 |
+| 13 | Structural | Plano; Perrero's "I choose the money over America" | Open on the workers, not TiE; legal review of [the owner]; cut the cap history | 600-800 |
 | 14 | Structural | "The night shift"; Raman Roy | Replace the stage-direction opening; read the Murthy case record; end on Blinder | 600-800 |
 | 15 | Line edit | Cognizant's arc; "The circle closes"; the GCC handoff | Find one engineer's voice from inside a captive centre | c. 600 |
 | 16 | Structural | Satyam's collapse | Update appeal status (legal); rebuild Aadhaar with its builders or fold it into Ch. 17 | c. 1,500 |

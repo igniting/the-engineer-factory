@@ -1,39 +1,44 @@
-prologue  markers  56  notes  56  OK
-ch01      markers 107  notes 107  OK
-ch02      markers 155  notes 155  OK
-ch03      markers 134  notes 134  OK
-ch04      markers 101  notes 101  OK
-ch05      markers 128  notes 128  OK
-ch06      markers 118  notes 118  OK
-ch07      markers 101  notes 101  OK
-ch08      markers 109  notes 109  OK
-ch09      markers  90  notes  90  OK
-ch10      markers 102  notes 102  OK
-ch11      markers 103  notes 103  OK
-ch12      markers 126  notes 126  OK
-ch13      markers 135  notes 135  OK
-ch14      markers 129  notes 129  OK
-ch15      markers  94  notes  94  OK
-ch16      markers 135  notes 135  OK
-ch17      markers  92  notes  92  OK
-ch18      markers  87  notes  87  OK
-ch19      markers 140  notes 140  OK
-epilogue  markers  61  notes  61  OK
+prologue  markers  44  notes  44  OK
+ch01      markers  74  notes  74  OK
+ch02      markers 124  notes 124  OK
+ch03      markers 110  notes 110  OK
+ch04      markers  81  notes  81  OK
+ch05      markers 113  notes 113  OK
+ch06      markers 100  notes 100  OK
+ch07      markers  94  notes  94  OK
+ch08      markers 102  notes 102  OK
+ch09      markers  82  notes  82  OK
+ch10      markers  93  notes  93  OK
+ch11      markers  97  notes  97  OK
+ch12      markers 120  notes 120  OK
+ch13      markers 122  notes 122  OK
+ch14      markers 117  notes 117  OK
+ch15      markers  92  notes  92  OK
+ch16      markers 117  notes 117  OK
+ch17      markers  96  notes  96  OK
+ch18      markers  78  notes  78  OK
+ch19      markers 103  notes 103  OK
+epilogue  markers  63  notes  63  OK
 
-Total markers 2303, total converted notes 2303
-Distinct S-IDs cited: 243 (P 126, D 6, S 111)
-Bibliography entries: 243; duplicates: none
+Total markers 2022, total converted notes 2022
+Distinct S-IDs cited: 277 (P 139, D 6, S 132)
+Bibliography entries: 277; duplicates: none
 IDs in notes missing from bibliography: none
 Unknown IDs (not in register): none
 Withdrawn IDs cited: none
 IDs without curated short form (parser fallback): none
-Note overrides applied: 25; stale overrides: none
+Note overrides applied: 5; stale overrides: none
 Raw S-IDs left in converted notes: none
-Notes with possible internal remarks: 6
-  ch01 [94] S0364 (the phrase is quoted there from the book, no page given). Reviewer's report only; post-cutoff material, checked against the live page in October 2026.
-  ch01 [101] S0363, pp. 2-3 (the 'peers' phrase is cited there to p. 153 of the book). Reviewer's report only; post-cutoff material, checked in October 2026.
-  ch03 [17] S0364 (inner phrase quoted from the book, no page given); S0363, p. 2. Reviewers' reports only; post-cutoff material, checked in October 2026.
-  ch04 [98] S0368, para. 2 (the reviewer's summary, not Ramadorai's words).
-  ch05 [38] S0363, p. 3 (the reviewer's summary, not Banerjee's words). Post-cutoff material; checked against the live source in October 2026.
-  ch14 [75] S0354, p. 524. Reviewer's account of Patel, *Working the Night Shift* (Stanford University Press, 2010); Patel's book not seen.
+Notes with possible internal remarks: 11
+  ch01 [74] S0363, pp. 2-3 (the 'peers' phrase is cited there to p. 153 of the book). Reviewer's report only; post-cutoff material, checked in October 2026.
+  ch03 [58] S0019, cols. 675-76 (Lok Sabha Debates, Fourth Series, 23 March 1967, oral question *40, 'Computers in LIC'). Pant gave the Bombay system's purchase price as about Rs 42 lakh (Rs 4.2 million), excluding import charges and sales tax, paid for under a 'blocked rupee' arrangement; a second computer, from International Computers and Tabulators of Britain, was contracted for Calcutta. His answer to the question how many employees had lost their jobs was 'None'.
+  ch04 [78] S0368, para. 2 (the reviewer's summary, not Ramadorai's words).
+  ch05 [35] S0221 (publisher's description, not the book); S0222. Post-cutoff material, checked in October 2026. S0363, p. 3 (Tracie Farrell's review; the reviewer's summary, not Banerjee's words; post-cutoff material, checked against the live source in October 2026). The review gives 1977, the year of the Fernandes meeting; the contemporary record places the closure itself in 1978 (S0361; S0237).
+  ch14 [31] S0206. Self-account (Knowledge at Wharton interview, 4 June 2003, part 1). The dates of this history are disputed. The *Knowledge at Wharton* introduction places Roy's work at American Express in the mid-1980s (S0206). Rajaraman says that American Express was the first organisation to start BPO work in India, in 1994, followed by GE Capital International Services (GECIS) in 1997 (S0001, p. 53). Other accounts date GECIS to October 1996 and credit its founding both to Roy and to Pramod Bhasin, who headed it (S0110; the case study is cited from its catalogue summary, since no full copy has been located). The accounts can be partly reconciled, since Roy's mid-1980s findings concern the cost of the existing Indian card operation, not a dedicated export centre, but who founded GECIS, and when, remains open.
+  ch14 [74] S0354, p. 524. Reviewer's account of Patel, *Working the Night Shift* (Stanford University Press, 2010); Patel's book is cited here from the review.
+  ch17 [21] S0176 (founder's retrospective claim; he added: 'We made a conscious decision to stick to the value-addition paradigm and the original principles.' No figure in i-flex's accounts for the period has been located to confirm it).
+  ch18 [37] S0331 (*HR Katha*, 1 June 2022); S0386 (*Analytics India Magazine*, 16 August 2022). Both report the Moneycontrol study 'IT CEO pay shot up 835% in a decade while freshers' salary grew 45%' (moneycontrol.com, 2022), which is cited here through them. Neither report gives the study's method, such as which firms it covered or whether pay means cost to company. Figures as in fresher_pay.csv.
+  ch19 [70] S0303 (KITU's claims: the dispute filed on 29 July, the charge of illegal mass retrenchment, and the argument that resignations were sought to avoid the approval the Industrial Disputes Act requires of a firm with more than 100 employees); post-cutoff material, checked in October 2026.
+  ch19 [72] S0303 (*The News Minute*, 7 August 2025: the meeting of 6 August, the participants and the adjournment to 8 September; TCS was represented by a general manager and an assistant manager in human resources, and KITU also by its secretary, Sooraj Nidiyanga); post-cutoff material, checked in October 2026. No report of the outcome of the conciliation, no failure-of-conciliation report, no reference to a labour court and no finding by the Karnataka Labour Department has been located in the press or in published court records as of 15 October 2026. Summaries of reports in *Deshabhimani* mention later rounds, but the reports themselves could not be retrieved and are not relied on here.
+  ch19 [85] S0146 (*The Register*'s report of GitHub's *Octoverse* 2025 figures: India to add more than 35.6 million developers by 2030, reaching 57.5 million or more, against 54.7 million projected for the United States; 80 per cent of new users began using Copilot in their first week, which GitHub called 'part of the default developer experience'). These are a company's figures about its own platform; post-cutoff material, checked in October 2026.
 Bibliography lines with possible internal text: 0
