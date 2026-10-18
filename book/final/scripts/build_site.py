@@ -5,6 +5,7 @@ Usage: python3 book/final/scripts/build_site.py  (run from the repository root)
 Outputs:
   book/final/manuscript.md   one Markdown file: front matter, chapters with notes, back matter
   docs/                      static HTML site (GitHub Pages), one page per part of the book
+                             (the EPUB and PDF are built by build_downloads.py and copied here)
 Requires pandoc on PATH. Drafting notes are never published.
 """
 import os, re, subprocess, html, shutil
@@ -147,11 +148,11 @@ def main():
              f'<p>A narrative history of how India built a software profession, and what AI coding tools now do to it. '
              f'Every source is listed in the notes and bibliography; the research files, data and checking logs are in '
              f'<a href="https://github.com/igniting/the-engineer-factory">the repository</a>.</p>'
-             f'<p>Download: <a href="the-engineer-factory.epub">EPUB</a> · <a href="the-engineer-factory.docx">Word</a></p>'
+             f'<p>Download: <a href="the-engineer-factory.epub">EPUB</a> (e-readers) · <a href="the-engineer-factory.pdf">PDF</a> (print layout)</p>'
              f'<h2>Contents</h2><ul class="toc">' + ''.join(items) + '</ul>')
     with open(os.path.join(DOCS, 'index.html'), 'w') as f:
         f.write(page('Contents', inner, None, ('about.html', 'About this book')))
-    for ext in ('epub', 'docx'):
+    for ext in ('epub', 'pdf'):
         src = os.path.join(F, 'the-engineer-factory.' + ext)
         if os.path.exists(src):
             shutil.copy(src, DOCS)
