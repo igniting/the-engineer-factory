@@ -62,26 +62,44 @@ def anchor_notes(notes, name):
 
 
 def md2html(md):
-    r = subprocess.run(['pandoc', '-f', 'markdown-smart', '-t', 'html5', '--wrap=none'],
+    # smart typography would turn '--' (only found inside URLs) into a dash; keep it literal
+    md = '\n'.join(l if re.match(r'^\s*(\|.*|-{3,})\s*$', l) else l.replace('--', '-\\-') for l in md.split('\n'))
+    r = subprocess.run(['pandoc', '-f', 'markdown+smart', '-t', 'html5', '--wrap=none'],
                        input=md.encode('utf-8'), capture_output=True, check=True)
     return r.stdout.decode('utf-8')
 
 
 CSS = """
-:root{--bg:#fbfaf7;--fg:#1d1d1b;--muted:#6b6b66;--accent:#8a3b12;--rule:#e2dfd6}
-@media (prefers-color-scheme:dark){:root{--bg:#161614;--fg:#e9e6df;--muted:#a19e95;--accent:#e0915f;--rule:#34332f}}
+@font-face{font-family:"CMU Serif";font-style:normal;font-weight:400;src:url(fonts/cmu-serif-500-roman.woff2) format("woff2")}
+@font-face{font-family:"CMU Serif";font-style:italic;font-weight:400;src:url(fonts/cmu-serif-500-italic.woff2) format("woff2")}
+@font-face{font-family:"CMU Serif";font-style:normal;font-weight:700;src:url(fonts/cmu-serif-700-roman.woff2) format("woff2")}
+@font-face{font-family:"CMU Serif";font-style:italic;font-weight:700;src:url(fonts/cmu-serif-700-italic.woff2) format("woff2")}
+:root{--bg:#fffffe;--fg:#111;--muted:#555;--accent:#7a1f1f;--rule:#d8d6d0}
+@media (prefers-color-scheme:dark){:root{--bg:#1a1a18;--fg:#e8e6e0;--muted:#a8a59c;--accent:#e39b8f;--rule:#3a3935}}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.65 Georgia,'Iowan Old Style','Times New Roman',serif}
-main{max-width:42rem;margin:0 auto;padding:2rem 1rem 4rem}
-header.site{border-bottom:1px solid var(--rule);padding:.8rem 1rem;font:15px/1.4 system-ui,sans-serif}
-header.site a{color:var(--fg);text-decoration:none;font-weight:600}
-nav.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;padding-top:1rem;border-top:1px solid var(--rule);font:15px/1.4 system-ui,sans-serif}
-a{color:var(--accent)}h1{font-size:1.9rem;line-height:1.25;margin:1rem 0 1.5rem}h2{font-size:1.3rem;margin-top:2.2rem}
-sup a{text-decoration:none;font-size:.75em}.notes{font-size:.9rem}.notes h2{font-size:1.05rem;margin-top:2rem}.notes h2 a{color:var(--fg);text-decoration:none}
-.notes p{margin:.35rem 0}table{border-collapse:collapse;width:100%;font-size:.85rem;display:block;overflow-x:auto}
-td,th{border-bottom:1px solid var(--rule);padding:.3rem .5rem;text-align:left;vertical-align:top}
-.toc li{margin:.3rem 0}.part{font:600 .85rem/1.4 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-top:1.5rem}
-.subtitle{font-size:1.2rem;color:var(--muted);margin-top:-1rem}
+body{margin:0;background:var(--bg);color:var(--fg);font:19px/1.55 "CMU Serif","Latin Modern Roman","Computer Modern",Georgia,serif;font-kerning:normal;text-rendering:optimizeLegibility}
+main{max-width:36rem;margin:0 auto;padding:2.5rem 1rem 4rem}
+header.site{border-bottom:1px solid var(--rule);padding:.7rem 1rem;font-variant:small-caps;letter-spacing:.06em;text-align:center}
+header.site a{color:var(--fg);text-decoration:none}
+p{margin:0;text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+p+p{text-indent:1.5em}
+h1+p,h2+p,h3+p,blockquote+p,table+p,ul+p{text-indent:0}
+h1{font-size:1.75rem;font-weight:normal;line-height:1.25;text-align:center;margin:2rem 0 2.5rem}
+h2{font-size:1.15rem;font-weight:bold;margin:2.2rem 0 .8rem}
+h3{font-size:1rem;font-weight:bold;font-style:italic;margin:1.6rem 0 .6rem}
+a{color:var(--accent)}
+sup{font-size:.68em;line-height:0}sup a{text-decoration:none}
+nav.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;padding-top:1rem;border-top:1px solid var(--rule);font-size:.9rem}
+nav.pager a{text-decoration:none}
+.notes{font-size:.85rem}.notes p{text-indent:0;text-align:left;margin:.3rem 0;hyphens:manual}
+.notes h2{font-size:1rem;margin-top:2rem}.notes h2 a{color:var(--fg);text-decoration:none}
+table{border-collapse:collapse;width:100%;font-size:.8rem;display:block;overflow-x:auto;margin:1rem 0;border-top:1.5px solid var(--fg);border-bottom:1.5px solid var(--fg)}
+th{border-bottom:.8px solid var(--fg)}td,th{padding:.25rem .5rem;text-align:left;vertical-align:top}
+ul,ol{padding-left:1.4rem}li{margin:.2rem 0}
+.toc{list-style:none;padding-left:0}.toc li{margin:.35rem 0}.toc a{color:var(--fg);text-decoration:none}
+.part{font-variant:small-caps;letter-spacing:.06em;color:var(--muted);margin-top:1.8rem;text-align:left}
+@media (max-width:600px){body{font-size:17px}p{text-align:left}}
+.subtitle{font-size:1.1rem;font-style:italic;text-align:center;color:var(--muted);margin:-1.5rem 0 2rem}
 """
 
 
